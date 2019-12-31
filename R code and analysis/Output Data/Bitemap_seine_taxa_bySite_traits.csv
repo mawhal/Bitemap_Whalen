@@ -1,0 +1,492 @@
+"Country","Site.Name","Contact.Email","sciname","totalfish","family","FeedingType","Trophic.group","Water.column","Diel.Activity","Habitat"
+"Australia (NSW)","Smiths_Lake_NSW","a.poore@unsw.edu.au","Acanthopagrus australis",72,"Sparidae","hunting macrofauna (predator)","Benthic invertivore","Demersal","Day","rock"
+"Australia (NSW)","Smiths_Lake_NSW","a.poore@unsw.edu.au","Aldrichetta forsteri",1,"Mugilidae","grazing on aquatic plants",NA,NA,NA,NA
+"Australia (NSW)","Smiths_Lake_NSW","a.poore@unsw.edu.au","Ambassis sp.",1189,"Ambassidae",NA,NA,NA,NA,NA
+"Australia (NSW)","Smiths_Lake_NSW","a.poore@unsw.edu.au","Arenigobius bifrenatus",32,"Gobiidae",NA,NA,NA,NA,NA
+"Australia (NSW)","Smiths_Lake_NSW","a.poore@unsw.edu.au","Atherinosoma microstoma",68,"Atherinidae",NA,NA,NA,NA,NA
+"Australia (NSW)","Smiths_Lake_NSW","a.poore@unsw.edu.au","Centropogon australis",53,"Tetrarogidae",NA,"Benthic invertivore","benthic","Day","rock"
+"Australia (NSW)","Smiths_Lake_NSW","a.poore@unsw.edu.au","Favonigobius exquisitus",201,"Gobiidae",NA,NA,NA,NA,NA
+"Australia (NSW)","Smiths_Lake_NSW","a.poore@unsw.edu.au","Gerres subfasciatus",63,"Gerreidae",NA,"Benthic invertivore","pelagic site attached","Night","sand"
+"Australia (NSW)","Smiths_Lake_NSW","a.poore@unsw.edu.au","Helotes sexlineatus",6,"Terapontidae","browsing on substrate",NA,NA,NA,NA
+"Australia (NSW)","Smiths_Lake_NSW","a.poore@unsw.edu.au","Hyporhamphus australis",5,"Hemiramphidae","grazing on aquatic plants",NA,NA,NA,NA
+"Australia (NSW)","Smiths_Lake_NSW","a.poore@unsw.edu.au","Liza argentea",3,"Mugilidae","grazing on aquatic plants",NA,NA,NA,NA
+"Australia (NSW)","Smiths_Lake_NSW","a.poore@unsw.edu.au","Philypnodon grandiceps",2,"Eleotridae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Australia (NSW)","Smiths_Lake_NSW","a.poore@unsw.edu.au","Sillago ciliata",4,"Sillaginidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Australia (NSW)","Smiths_Lake_NSW","a.poore@unsw.edu.au","Tetractenos glaber",38,"Tetraodontidae",NA,NA,NA,NA,NA
+"Australia (NSW2)","Urunga Lagoon 1","brendan.kelaher@scu.edu.au","Acanthopagrus australis",15,"Sparidae","hunting macrofauna (predator)","Benthic invertivore","Demersal","Day","rock"
+"Australia (NSW2)","Urunga Lagoon 1","brendan.kelaher@scu.edu.au","Ambassis jacksoniensis",718,"Ambassidae",NA,"Planktivore","pelagic site attached","Night","sand"
+"Australia (NSW2)","Urunga Lagoon 1","brendan.kelaher@scu.edu.au","Arothron hispidus",5,"Tetraodontidae","variable",NA,NA,NA,NA
+"Australia (NSW2)","Urunga Lagoon 1","brendan.kelaher@scu.edu.au","Aulostomus chinensis",1,"Aulostomidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Australia (NSW2)","Urunga Lagoon 1","brendan.kelaher@scu.edu.au","Centropogon australis",3,"Tetrarogidae",NA,"Benthic invertivore","benthic","Day","rock"
+"Australia (NSW2)","Urunga Lagoon 1","brendan.kelaher@scu.edu.au","Gerres subfasciatus",64,"Gerreidae",NA,"Benthic invertivore","pelagic site attached","Night","sand"
+"Australia (NSW2)","Urunga Lagoon 1","brendan.kelaher@scu.edu.au","Girella tricuspidata",5,"Kyphosidae","grazing on aquatic plants",NA,NA,NA,NA
+"Australia (NSW2)","Urunga Lagoon 1","brendan.kelaher@scu.edu.au","Gobiidae sp.",41,"Gobiidae",NA,NA,NA,NA,NA
+"Australia (NSW2)","Urunga Lagoon 1","brendan.kelaher@scu.edu.au","Hyporhamphus regularis",1,"Hemiramphidae","grazing on aquatic plants",NA,NA,NA,NA
+"Australia (NSW2)","Urunga Lagoon 1","brendan.kelaher@scu.edu.au","Liza argentea",48,"Mugilidae","grazing on aquatic plants",NA,NA,NA,NA
+"Australia (NSW2)","Urunga Lagoon 1","brendan.kelaher@scu.edu.au","Meuschenia trachylepis",3,"Monacanthidae",NA,NA,NA,NA,NA
+"Australia (NSW2)","Urunga Lagoon 1","brendan.kelaher@scu.edu.au","Monodactylus argenteus",10,"Monodactylidae","variable",NA,NA,NA,NA
+"Australia (NSW2)","Urunga Lagoon 1","brendan.kelaher@scu.edu.au","Palaemon sp.",1363,NA,NA,NA,NA,NA,NA
+"Australia (NSW2)","Urunga Lagoon 1","brendan.kelaher@scu.edu.au","Pelates sexlineatus",42,"Terapontidae",NA,NA,NA,NA,NA
+"Australia (NSW2)","Urunga Lagoon 1","brendan.kelaher@scu.edu.au","Pseudomugil signifer",2,"Pseudomugilidae",NA,NA,NA,NA,NA
+"Australia (NSW2)","Urunga Lagoon 1","brendan.kelaher@scu.edu.au","Saurida nebulosa",1,"Synodontidae","hunting macrofauna (predator)","Higher carnivore","benthic","Day","coral"
+"Australia (NSW2)","Urunga Lagoon 1","brendan.kelaher@scu.edu.au","Sillago sp.",1,"Sillaginidae",NA,NA,NA,NA,NA
+"Australia (NSW2)","Urunga Lagoon 1","brendan.kelaher@scu.edu.au","Tetractenos hamiltoni",2,"Tetraodontidae",NA,NA,NA,NA,NA
+"Australia (NSW2)","Urunga Lagoon 2","brendan.kelaher@scu.edu.au","Gerres subfasciatus",43,"Gerreidae",NA,"Benthic invertivore","pelagic site attached","Night","sand"
+"Australia (NSW2)","Urunga Lagoon 2","brendan.kelaher@scu.edu.au","Gobiidae sp.",18,"Gobiidae",NA,NA,NA,NA,NA
+"Australia (NSW2)","Urunga Lagoon 2","brendan.kelaher@scu.edu.au","Liza argentea",1,"Mugilidae","grazing on aquatic plants",NA,NA,NA,NA
+"Australia (NSW2)","Urunga Lagoon 2","brendan.kelaher@scu.edu.au","Palaemon sp.",6,NA,NA,NA,NA,NA,NA
+"Australia (NSW2)","Urunga Lagoon 2","brendan.kelaher@scu.edu.au","Pseudorhombus arsius",1,"Paralichthyidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Australia (NSW2)","Urunga Lagoon 2","brendan.kelaher@scu.edu.au","Sillago sp.",16,"Sillaginidae",NA,NA,NA,NA,NA
+"Australia (QLD)","Bowen","paul.york@jcu.edu.au","Atherinomorus endrachtensis",26,"Atherinidae","selective plankton feeding",NA,NA,NA,NA
+"Australia (QLD)","Bowen","paul.york@jcu.edu.au","Epinephelus sp.",1,"Serranidae",NA,NA,NA,NA,NA
+"Australia (QLD)","Bowen","paul.york@jcu.edu.au","Gerres oyena",290,"Gerreidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Australia (QLD)","Bowen","paul.york@jcu.edu.au","Gobiidae sp.",40,"Gobiidae",NA,NA,NA,NA,NA
+"Australia (QLD)","Bowen","paul.york@jcu.edu.au","Lethrinus genivittatus",33,"Lethrinidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Australia (QLD)","Bowen","paul.york@jcu.edu.au","Lutjanus russellii",56,"Lutjanidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Australia (QLD)","Bowen","paul.york@jcu.edu.au","Pelates quadrilineatus",147,"Terapontidae","hunting macrofauna (predator)","Benthic invertivore","Demersal","Day","sand"
+"Australia (QLD)","Bowen","paul.york@jcu.edu.au","Platycephalidae sp.",1,"Platycephalidae",NA,NA,NA,NA,NA
+"Australia (QLD)","Bowen","paul.york@jcu.edu.au","Siganus canaliculatus",25,"Siganidae","grazing on aquatic plants",NA,NA,NA,NA
+"Australia (QLD)","Bowen","paul.york@jcu.edu.au","Siganus lineatus",346,"Siganidae","grazing on aquatic plants","Browsing herbivore","Demersal","Day","coral"
+"Australia (QLD)","Bowen","paul.york@jcu.edu.au","Sillago maculata",51,"Sillaginidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Australia (QLD)","Bowen","paul.york@jcu.edu.au","Sphyraena obtusata",1,"Sphyraenidae","hunting macrofauna (predator)","Higher carnivore","pelagic non-site attached","Day","coral"
+"Australia (QLD)","Bowen","paul.york@jcu.edu.au","Syngnathus sp.",1,"Syngnathidae",NA,NA,NA,NA,NA
+"Australia (QLD)","Bowen","paul.york@jcu.edu.au","Torquigener sp.",3,"Tetraodontidae",NA,NA,NA,NA,NA
+"Australia (QLD)","Bowen","paul.york@jcu.edu.au","Upeneus tragula",3,"Mullidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Australia (QLD2)","Hervey Bay","chender1@usc.edu.au","Ambassis marianus",40,"Ambassidae",NA,NA,NA,NA,NA
+"Australia (QLD2)","Hervey Bay","chender1@usc.edu.au","Arripis georgianus",6,"Arripidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Australia (QLD2)","Hervey Bay","chender1@usc.edu.au","Gerres subfasciatus",14,"Gerreidae",NA,"Benthic invertivore","pelagic site attached","Night","sand"
+"Australia (QLD2)","Hervey Bay","chender1@usc.edu.au","Gobius sp.",69,"Gobiidae",NA,NA,NA,NA,NA
+"Australia (QLD2)","Hervey Bay","chender1@usc.edu.au","Pelates sexlineatus",3,"Terapontidae",NA,NA,NA,NA,NA
+"Australia (QLD2)","Hervey Bay","chender1@usc.edu.au","Platycephalus fuscus",1,"Platycephalidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Australia (QLD2)","Hervey Bay","chender1@usc.edu.au","Sillago maculata",1,"Sillaginidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Australia (QLD2)","Hervey Bay","chender1@usc.edu.au","Tetractenos hamiltoni",27,"Tetraodontidae",NA,NA,NA,NA,NA
+"Australia (QLD2)","Noosa river","chender1@usc.edu.au","Ambassis marianus",1260,"Ambassidae",NA,NA,NA,NA,NA
+"Australia (QLD2)","Noosa river","chender1@usc.edu.au","Epinephelus coioides",1,"Serranidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Australia (QLD2)","Noosa river","chender1@usc.edu.au","Gerres subfasciatus",15,"Gerreidae",NA,"Benthic invertivore","pelagic site attached","Night","sand"
+"Australia (QLD2)","Noosa river","chender1@usc.edu.au","Gobius sp.",340,"Gobiidae",NA,NA,NA,NA,NA
+"Australia (QLD2)","Noosa river","chender1@usc.edu.au","Hemiramphus robustus",1,NA,NA,NA,NA,NA,NA
+"Australia (QLD2)","Noosa river","chender1@usc.edu.au","Monacanthus chinensis",8,"Monacanthidae","grazing on aquatic plants",NA,NA,NA,NA
+"Australia (QLD2)","Noosa river","chender1@usc.edu.au","Monodactylus argenteus",2,"Monodactylidae","variable",NA,NA,NA,NA
+"Australia (QLD2)","Noosa river","chender1@usc.edu.au","Mugil cephalus",2,"Mugilidae","variable",NA,NA,NA,NA
+"Australia (QLD2)","Noosa river","chender1@usc.edu.au","Pelates sexlineatus",34,"Terapontidae",NA,NA,NA,NA,NA
+"Australia (QLD2)","Noosa river","chender1@usc.edu.au","Petroscirtes variabilis",3,"Blenniidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Australia (QLD2)","Noosa river","chender1@usc.edu.au","Scylla serrata",2,NA,NA,NA,NA,NA,NA
+"Australia (QLD2)","Noosa river","chender1@usc.edu.au","Siganus fuscescens",13,"Siganidae","grazing on aquatic plants",NA,NA,NA,NA
+"Australia (QLD2)","Noosa river","chender1@usc.edu.au","Sillago maculata",7,"Sillaginidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Australia (QLD2)","Noosa river","chender1@usc.edu.au","Sphyraena obtusata",1,"Sphyraenidae","hunting macrofauna (predator)","Higher carnivore","pelagic non-site attached","Day","coral"
+"Australia (QLD2)","Noosa river","chender1@usc.edu.au","Syngnathus sp.",1,"Syngnathidae",NA,NA,NA,NA,NA
+"Australia (QLD2)","Noosa river","chender1@usc.edu.au","Tetractenos hamiltoni",2,"Tetraodontidae",NA,NA,NA,NA,NA
+"Australia (QLD3)","Moreton_Bay","r.connolly@griffith.edu.au","Arrhamphus sclerolepis",2,"Hemiramphidae",NA,NA,NA,NA,NA
+"Australia (QLD3)","Moreton_Bay","r.connolly@griffith.edu.au","Atherinomorus vaigiensis",176,"Atherinidae","variable",NA,NA,NA,NA
+"Australia (QLD3)","Moreton_Bay","r.connolly@griffith.edu.au","Centropogon australis",5,"Tetrarogidae",NA,"Benthic invertivore","benthic","Day","rock"
+"Australia (QLD3)","Moreton_Bay","r.connolly@griffith.edu.au","Fistularia commersonii",1,"Fistulariidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Australia (QLD3)","Moreton_Bay","r.connolly@griffith.edu.au","Gerres subfasciatus",2,"Gerreidae",NA,"Benthic invertivore","pelagic site attached","Night","sand"
+"Australia (QLD3)","Moreton_Bay","r.connolly@griffith.edu.au","Gobiidae sp.",48,"Gobiidae",NA,NA,NA,NA,NA
+"Australia (QLD3)","Moreton_Bay","r.connolly@griffith.edu.au","Helotes sexlineatus",72,"Terapontidae","browsing on substrate",NA,NA,NA,NA
+"Australia (QLD3)","Moreton_Bay","r.connolly@griffith.edu.au","Hippichthys penicillus",1,"Syngnathidae",NA,NA,NA,NA,NA
+"Australia (QLD3)","Moreton_Bay","r.connolly@griffith.edu.au","Hippocampus procerus",1,"Carabidae",NA,NA,NA,NA,NA
+"Australia (QLD3)","Moreton_Bay","r.connolly@griffith.edu.au","Hippocampus whitei",2,"Syngnathidae",NA,"Benthic invertivore","benthic","Day","rock"
+"Australia (QLD3)","Moreton_Bay","r.connolly@griffith.edu.au","Hyporhamphus regularis",2,"Hemiramphidae","grazing on aquatic plants",NA,NA,NA,NA
+"Australia (QLD3)","Moreton_Bay","r.connolly@griffith.edu.au","Lethrinus laticaudis",1,"Lethrinidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Australia (QLD3)","Moreton_Bay","r.connolly@griffith.edu.au","Monacanthus chinensis",48,"Monacanthidae","grazing on aquatic plants",NA,NA,NA,NA
+"Australia (QLD3)","Moreton_Bay","r.connolly@griffith.edu.au","Palaemon serrifer",25,NA,NA,NA,NA,NA,NA
+"Australia (QLD3)","Moreton_Bay","r.connolly@griffith.edu.au","Penaeus esculentus",8,NA,NA,NA,NA,NA,NA
+"Australia (QLD3)","Moreton_Bay","r.connolly@griffith.edu.au","Petroscirtes lupus",5,"Blenniidae",NA,NA,NA,NA,NA
+"Australia (QLD3)","Moreton_Bay","r.connolly@griffith.edu.au","Platycephalus fuscus",1,"Platycephalidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Australia (QLD3)","Moreton_Bay","r.connolly@griffith.edu.au","Pseudolabrus guentheri",6,"Labridae","hunting macrofauna (predator)","Benthic invertivore","Demersal","Day","rock"
+"Australia (QLD3)","Moreton_Bay","r.connolly@griffith.edu.au","Pseudorhombus arsius",1,"Paralichthyidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Australia (QLD3)","Moreton_Bay","r.connolly@griffith.edu.au","Repomucenus macdonaldi",2,NA,NA,NA,NA,NA,NA
+"Australia (QLD3)","Moreton_Bay","r.connolly@griffith.edu.au","Scarus ghobban",1,"Labridae","browsing on substrate","Scraping herbivore","Demersal","Day","coral"
+"Australia (QLD3)","Moreton_Bay","r.connolly@griffith.edu.au","Sepia plangon",1,NA,NA,NA,NA,NA,NA
+"Australia (QLD3)","Moreton_Bay","r.connolly@griffith.edu.au","Sepioteuthis lessoniana",6,NA,NA,NA,NA,NA,NA
+"Australia (QLD3)","Moreton_Bay","r.connolly@griffith.edu.au","Siganus fuscescens",4,"Siganidae","grazing on aquatic plants",NA,NA,NA,NA
+"Australia (QLD3)","Moreton_Bay","r.connolly@griffith.edu.au","Sillago maculata",30,"Sillaginidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Australia (QLD3)","Moreton_Bay","r.connolly@griffith.edu.au","Sphyraena obtusata",5,"Sphyraenidae","hunting macrofauna (predator)","Higher carnivore","pelagic non-site attached","Day","coral"
+"Australia (QLD3)","Moreton_Bay","r.connolly@griffith.edu.au","Upeneus tragula",2,"Mullidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Australia (QLD3)","Moreton_Bay","r.connolly@griffith.edu.au","Urocampus carinirostris",1,"Syngnathidae",NA,NA,NA,NA,NA
+"Australia (VIC)","Edwards Point","hjanes@deakin.edu.au","Acanthaluteres spilomelanurus",4,"Monacanthidae",NA,"Omnivore","Demersal","Day","sand"
+"Australia (VIC)","Edwards Point","hjanes@deakin.edu.au","Atherinosoma microstoma",5,"Atherinidae",NA,NA,NA,NA,NA
+"Australia (VIC)","Edwards Point","hjanes@deakin.edu.au","Carcinus maenas",31,NA,NA,NA,NA,NA,NA
+"Australia (VIC)","Edwards Point","hjanes@deakin.edu.au","Girella zebra",5,"Kyphosidae","grazing on aquatic plants","Browsing herbivore","Demersal","Day","rock"
+"Australia (VIC)","Edwards Point","hjanes@deakin.edu.au","Gymnapistes marmoratus",3,"Tetrarogidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Australia (VIC)","Edwards Point","hjanes@deakin.edu.au","Heteroclinus perspicillatus",18,"Clinidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Australia (VIC)","Edwards Point","hjanes@deakin.edu.au","Nesogobius maccullochi",25,"Gobiidae",NA,NA,NA,NA,NA
+"Australia (VIC)","Edwards Point","hjanes@deakin.edu.au","Rhombosolea tapirina",3,"Rhombosoleidae",NA,NA,NA,NA,NA
+"Australia (VIC)","Edwards Point","hjanes@deakin.edu.au","Sepioteuthis australis",2,NA,NA,NA,NA,NA,NA
+"Australia (VIC)","Edwards Point","hjanes@deakin.edu.au","Stigmatopora argus",5,"Syngnathidae",NA,NA,NA,NA,NA
+"Australia (VIC)","Edwards Point","hjanes@deakin.edu.au","Tetractenos glaber",63,"Tetraodontidae",NA,NA,NA,NA,NA
+"Australia (VIC)","Indented Head","hjanes@deakin.edu.au","Acanthaluteres spilomelanurus",3,"Monacanthidae",NA,"Omnivore","Demersal","Day","sand"
+"Australia (VIC)","Indented Head","hjanes@deakin.edu.au","Atherinosoma microstoma",15,"Atherinidae",NA,NA,NA,NA,NA
+"Australia (VIC)","Indented Head","hjanes@deakin.edu.au","Carcinus maenas",3,NA,NA,NA,NA,NA,NA
+"Australia (VIC)","Indented Head","hjanes@deakin.edu.au","Girella zebra",5,"Kyphosidae","grazing on aquatic plants","Browsing herbivore","Demersal","Day","rock"
+"Australia (VIC)","Indented Head","hjanes@deakin.edu.au","Gymnapistes marmoratus",9,"Tetrarogidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Australia (VIC)","Indented Head","hjanes@deakin.edu.au","Heteroclinus perspicillatus",13,"Clinidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Australia (VIC)","Indented Head","hjanes@deakin.edu.au","Nesogobius maccullochi",18,"Gobiidae",NA,NA,NA,NA,NA
+"Australia (VIC)","Indented Head","hjanes@deakin.edu.au","Platycephalus aurimaculatus",1,"Platycephalidae",NA,NA,NA,NA,NA
+"Australia (VIC)","Indented Head","hjanes@deakin.edu.au","Tetractenos glaber",93,"Tetraodontidae",NA,NA,NA,NA,NA
+"Australia (VIC)","St. Leonards","hjanes@deakin.edu.au","Acanthaluteres spilomelanurus",2,"Monacanthidae",NA,"Omnivore","Demersal","Day","sand"
+"Australia (VIC)","St. Leonards","hjanes@deakin.edu.au","Carcinus maenas",8,NA,NA,NA,NA,NA,NA
+"Australia (VIC)","St. Leonards","hjanes@deakin.edu.au","Girella zebra",4,"Kyphosidae","grazing on aquatic plants","Browsing herbivore","Demersal","Day","rock"
+"Australia (VIC)","St. Leonards","hjanes@deakin.edu.au","Heteroclinus perspicillatus",6,"Clinidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Australia (VIC)","St. Leonards","hjanes@deakin.edu.au","Nesogobius maccullochi",8,"Gobiidae",NA,NA,NA,NA,NA
+"Australia (VIC)","St. Leonards","hjanes@deakin.edu.au","Platycephalus aurimaculatus",1,"Platycephalidae",NA,NA,NA,NA,NA
+"Australia (VIC)","St. Leonards","hjanes@deakin.edu.au","Rhombosolea tapirina",1,"Rhombosoleidae",NA,NA,NA,NA,NA
+"Australia (VIC)","St. Leonards","hjanes@deakin.edu.au","Sepioteuthis australis",1,NA,NA,NA,NA,NA,NA
+"Australia (VIC)","St. Leonards","hjanes@deakin.edu.au","Tetractenos glaber",113,"Tetraodontidae",NA,NA,NA,NA,NA
+"Brazil","Praia do Barreiro","guca@usp.br","Albula vulpes",2,"Albulidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Brazil","Praia do Barreiro","guca@usp.br","Atherinella brasiliensis",2,"Atherinopsidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Brazil","Praia do Barreiro","guca@usp.br","Callinectes danae",1,NA,NA,NA,NA,NA,NA
+"Brazil","Praia do Barreiro","guca@usp.br","Callinectes ornatus",5,NA,NA,NA,NA,NA,NA
+"Brazil","Praia do Barreiro","guca@usp.br","Caranx latus",1,"Carangidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Brazil","Praia do Barreiro","guca@usp.br","Eucinostomus argenteus",4,"Gerreidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Brazil","Praia do Barreiro","guca@usp.br","Harengula clupeola",77,"Clupeidae","selective plankton feeding",NA,NA,NA,NA
+"Brazil","Praia do Barreiro","guca@usp.br","Oligoplites saliens",1,"Carangidae",NA,NA,NA,NA,NA
+"Brazil","Praia do Barreiro","guca@usp.br","Sardinella brasiliensis",3,"Clupeidae","selective plankton feeding",NA,NA,NA,NA
+"Brazil","Praia do Barreiro","guca@usp.br","Synodus myops",2,"Synodontidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Brazil","Praia do Engenho","guca@usp.br","Albula vulpes",9,"Albulidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Brazil","Praia do Engenho","guca@usp.br","Atherinella brasiliensis",2,"Atherinopsidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Brazil","Praia do Engenho","guca@usp.br","Callinectes ornatus",14,NA,NA,NA,NA,NA,NA
+"Brazil","Praia do Engenho","guca@usp.br","Caranx latus",3,"Carangidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Brazil","Praia do Engenho","guca@usp.br","Etropus longimanus",2,"Paralichthyidae",NA,NA,NA,NA,NA
+"Brazil","Praia do Engenho","guca@usp.br","Eucinostomus argenteus",57,"Gerreidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Brazil","Praia do Engenho","guca@usp.br","Harengula clupeola",6,"Clupeidae","selective plankton feeding",NA,NA,NA,NA
+"Brazil","Praia do Engenho","guca@usp.br","Prionotus punctatus",2,"Triglidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Brazil","Praia do Engenho","guca@usp.br","Sardinella brasiliensis",17,"Clupeidae","selective plankton feeding",NA,NA,NA,NA
+"Canada (BC)","Choked Pocket","midoli.bresch@hakai.org","Apodichthys flavidus",10,"Pholidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Canada (BC)","Choked Pocket","midoli.bresch@hakai.org","Artedius lateralis",2,"Cottidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Canada (BC)","Choked Pocket","midoli.bresch@hakai.org","Aulorhynchus flavidus",4,"Aulorhynchidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Canada (BC)","Choked Pocket","midoli.bresch@hakai.org","Citharichthys sordidus",31,"Paralichthyidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Canada (BC)","Choked Pocket","midoli.bresch@hakai.org","Cottoidea sp.",1,NA,NA,NA,NA,NA,NA
+"Canada (BC)","Choked Pocket","midoli.bresch@hakai.org","Cymatogaster aggregata",27,"Embiotocidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Canada (BC)","Choked Pocket","midoli.bresch@hakai.org","Embiotoca lateralis",2,"Embiotocidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Canada (BC)","Choked Pocket","midoli.bresch@hakai.org","Enophrys bison",4,"Cottidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Canada (BC)","Choked Pocket","midoli.bresch@hakai.org","Hemilepidotus hemilepidotus",1,"Cottidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Canada (BC)","Choked Pocket","midoli.bresch@hakai.org","Hexagrammos decagrammus",2,"Hexagrammidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Canada (BC)","Choked Pocket","midoli.bresch@hakai.org","Hexagrammos lagocephalus",3,"Hexagrammidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Canada (BC)","Choked Pocket","midoli.bresch@hakai.org","Liparis sp.",2,"Liparidae",NA,NA,NA,NA,NA
+"Canada (BC)","Choked Pocket","midoli.bresch@hakai.org","Oligocottus maculosus",5,"Cottidae",NA,NA,NA,NA,NA
+"Canada (BC)","Choked Pocket","midoli.bresch@hakai.org","Parophrys vetulus",7,"Pleuronectidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Canada (BC)","Choked Pocket","midoli.bresch@hakai.org","Scorpaenichthys marmoratus",1,"Cottidae","variable",NA,NA,NA,NA
+"Canada (BC)","Choked Pocket","midoli.bresch@hakai.org","Sebastes caurinus",3,"Sebastidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Canada (BC)","Choked Pocket","midoli.bresch@hakai.org","Sebastes spp.",302,"Sebastidae",NA,NA,NA,NA,NA
+"Canada (BC)","Choked Pocket","midoli.bresch@hakai.org","Syngnathus leptorhynchus",2,"Syngnathidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Canada (BC)","Choked Pocket","midoli.bresch@hakai.org","Xiphister atropurpureus",1,"Stichaeidae","variable",NA,NA,NA,NA
+"Canada (BC)","Choked Sandspit","midoli.bresch@hakai.org","Ammodytes hexapterus",2,"Ammodytidae","selective plankton feeding",NA,NA,NA,NA
+"Canada (BC)","Choked Sandspit","midoli.bresch@hakai.org","Citharichthys sordidus",2,"Paralichthyidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Canada (BC)","Choked Sandspit","midoli.bresch@hakai.org","Psettichthys melanostictus",18,"Pleuronectidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Canada (QC)","QC_Baie St-Ludger","mathieu.cusson@uqac.ca","Ammodytes americanus",3,"Ammodytidae","selective plankton feeding",NA,NA,NA,NA
+"Canada (QC)","QC_Baie St-Ludger","mathieu.cusson@uqac.ca","Cancer irroratus",286,NA,NA,NA,NA,NA,NA
+"Canada (QC)","QC_Baie St-Ludger","mathieu.cusson@uqac.ca","Clupea harengus",1,"Clupeidae","selective plankton feeding",NA,NA,NA,NA
+"Canada (QC)","QC_Baie St-Ludger","mathieu.cusson@uqac.ca","Crab n/a",1,NA,NA,NA,NA,NA,NA
+"Canada (QC)","QC_Baie St-Ludger","mathieu.cusson@uqac.ca","Crangon septemspinosa",65,NA,NA,NA,NA,NA,NA
+"Canada (QC)","QC_Baie St-Ludger","mathieu.cusson@uqac.ca","Culaea inconstans",15,"Gasterosteidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Canada (QC)","QC_Baie St-Ludger","mathieu.cusson@uqac.ca","Gasterosteus aculeatus",132,"Gasterosteidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Canada (QC)","QC_Baie St-Ludger","mathieu.cusson@uqac.ca","Gasterosteus wheatlandi",123,"Gasterosteidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Canada (QC)","QC_Baie St-Ludger","mathieu.cusson@uqac.ca","Mallotus villosus",167,"Salangidae","selective plankton feeding",NA,NA,NA,NA
+"Canada (QC)","QC_Baie St-Ludger","mathieu.cusson@uqac.ca","Pungitius pungitius",1,"Gasterosteidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Chile","Puerto Aldea (Chile)","thiel@ucn.cl","Cancer coronatus",2,NA,NA,NA,NA,NA,NA
+"Chile","Puerto Aldea (Chile)","thiel@ucn.cl","Cheilodactylus variegatus",2,"Cheilodactylidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Chile","Puerto Aldea (Chile)","thiel@ucn.cl","Engraulis ringens",3,"Engraulidae","filtering plankton",NA,NA,NA,NA
+"Chile","Puerto Aldea (Chile)","thiel@ucn.cl","Ethmidium maculatum",1453,"Clupeidae","filtering plankton",NA,NA,NA,NA
+"Chile","Puerto Aldea (Chile)","thiel@ucn.cl","Hypsoblennius sordidus",1,"Blenniidae","variable",NA,NA,NA,NA
+"Chile","Puerto Aldea (Chile)","thiel@ucn.cl","Isacia conceptionis",1,"Haemulidae",NA,NA,NA,NA,NA
+"Chile","Puerto Aldea (Chile)","thiel@ucn.cl","Menticirrhus ophicephalus",1,"Channidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Chile","Puerto Aldea (Chile)","thiel@ucn.cl","Odontesthes sp.",2,"Atherinopsidae",NA,NA,NA,NA,NA
+"Chile","Puerto Aldea (Chile)","thiel@ucn.cl","Ovalipes trimaculatus",1,NA,NA,NA,NA,NA,NA
+"Chile","Puerto Aldea (Chile)","thiel@ucn.cl","Pagurus perlatus",20,NA,NA,NA,NA,NA,NA
+"Chile","Puerto Aldea (Chile)","thiel@ucn.cl","Paralichthys microps",3,NA,NA,NA,NA,NA,NA
+"Chile","Puerto Aldea (Chile)","thiel@ucn.cl","Paralichthys sp.",6,"Paralichthyidae",NA,NA,NA,NA,NA
+"Chile","Puerto Aldea (Chile)","thiel@ucn.cl","Romaleon polyodon",41,NA,NA,NA,NA,NA,NA
+"Chile","Puerto Aldea (Chile)","thiel@ucn.cl","Scartichthys viridis",30,"Blenniidae","grazing on aquatic plants",NA,NA,NA,NA
+"Chile","Puerto Aldea (Chile)","thiel@ucn.cl","Taliepus dentatus",41,NA,NA,NA,NA,NA,NA
+"Croatia","CR-B-SvetiDuh","ckrusche@unizd.hr","Atherina hepsetus",1,"Atherinidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Croatia","CR-B-SvetiDuh","claudia@claudiakruschel.com","Atherina hepsetus",365,"Atherinidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Croatia","CR-B-SvetiDuh","claudia@claudiakruschel.com","Dicentrarchus labrax",2,"Moronidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Croatia","CR-B-SvetiDuh","claudia@claudiakruschel.com","Gobius geniporus",4,"Gobiidae",NA,NA,NA,NA,NA
+"Croatia","CR-B-SvetiDuh","claudia@claudiakruschel.com","Gobius niger",52,"Gobiidae","selective plankton feeding",NA,NA,NA,NA
+"Croatia","CR-B-SvetiDuh","claudia@claudiakruschel.com","Mugil cephalus",12,"Mugilidae","variable",NA,NA,NA,NA
+"Croatia","CR-B-SvetiDuh","claudia@claudiakruschel.com","Mullus barbatus",10,"Mullidae",NA,NA,NA,NA,NA
+"Croatia","CR-B-SvetiDuh","claudia@claudiakruschel.com","noID bellyfish",1,NA,NA,NA,NA,NA,NA
+"Croatia","CR-B-SvetiDuh","claudia@claudiakruschel.com","Palaemon elegans",57,NA,NA,NA,NA,NA,NA
+"Croatia","CR-B-SvetiDuh","claudia@claudiakruschel.com","Pomatoschistus marmoratus",190,"Gobiidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Croatia","CR-B-SvetiDuh","claudia@claudiakruschel.com","Processa macrophthalma",12,NA,NA,NA,NA,NA,NA
+"Croatia","CR-B-SvetiDuh","claudia@claudiakruschel.com","Salaria pavo",24,"Blenniidae","variable",NA,NA,NA,NA
+"Croatia","CR-B-SvetiDuh","claudia@claudiakruschel.com","Solea solea",1,"Soleidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Croatia","CR-B-SvetiDuh","claudia@claudiakruschel.com","Symphodus ocellatus",93,"Labridae","variable",NA,NA,NA,NA
+"Croatia","CR-B-SvetiDuh","claudia@claudiakruschel.com","Syngnathus typhle",5,"Syngnathidae","selective plankton feeding",NA,NA,NA,NA
+"Croatia","CR-B-SvetiDuh","claudia@claudiakruschel.com","unknown unknown",17,NA,NA,NA,NA,NA,NA
+"Croatia","CR-B-SvetiDuh","claudia@claudiakruschel.com","Zosterisessor ophiocephalus",113,"Gobiidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"France","Bouzigues","francesca.rossi@cnrs.fr","Atherina boyeri",19,"Atherinidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"France","Bouzigues","francesca.rossi@cnrs.fr","Diplodus sargus",1,"Sparidae",NA,NA,NA,NA,NA
+"France","Bouzigues","francesca.rossi@cnrs.fr","Liza aurata",17,"Mugilidae","variable",NA,NA,NA,NA
+"France","Bouzigues","francesca.rossi@cnrs.fr","Liza sp.",1,"Mugilidae",NA,NA,NA,NA,NA
+"France","Bouzigues","francesca.rossi@cnrs.fr","Palaemon spp",36,NA,NA,NA,NA,NA,NA
+"France","Bouzigues","francesca.rossi@cnrs.fr","Pomatoschistus marmoratus",15,"Gobiidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"France","Bouzigues","francesca.rossi@cnrs.fr","Salaria pavo",16,"Blenniidae","variable",NA,NA,NA,NA
+"France","Bouzigues","francesca.rossi@cnrs.fr","Sepia officinalis",1,NA,NA,NA,NA,NA,NA
+"France","Bouzigues","francesca.rossi@cnrs.fr","Sparus sp.",4,"Sparidae",NA,NA,NA,NA,NA
+"France","Bouzigues","francesca.rossi@cnrs.fr","Symphodus tinca",8,"Labridae","hunting macrofauna (predator)",NA,NA,NA,NA
+"France","Bouzigues","francesca.rossi@cnrs.fr","Syngnathus abaster",3,"Syngnathidae","selective plankton feeding",NA,NA,NA,NA
+"France","Bouzigues","francesca.rossi@cnrs.fr","Syngnathus sp.",3,"Syngnathidae",NA,NA,NA,NA,NA
+"France","Bouzigues","francesca.rossi@cnrs.fr","Syngnathus typhle",8,"Syngnathidae","selective plankton feeding",NA,NA,NA,NA
+"Korea","Koje-Korea","sormyo@pusan.ac.kr, klee@pusan.ac.kr","Acanthogobius flavimanus",5,"Gobiidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Korea","Koje-Korea","sormyo@pusan.ac.kr, klee@pusan.ac.kr","Acropoma japonicum",97,"Acropomatidae",NA,NA,NA,NA,NA
+"Korea","Koje-Korea","sormyo@pusan.ac.kr, klee@pusan.ac.kr","Arothron stellatus",1,"Tetraodontidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Korea","Koje-Korea","sormyo@pusan.ac.kr, klee@pusan.ac.kr","Chelidonichthys kumu",2,"Triglidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Korea","Koje-Korea","sormyo@pusan.ac.kr, klee@pusan.ac.kr","Ditrema temminckii",69,"Embiotocidae",NA,NA,NA,NA,NA
+"Korea","Koje-Korea","sormyo@pusan.ac.kr, klee@pusan.ac.kr","Favonigobius gymnauchen",122,"Gobiidae",NA,NA,NA,NA,NA
+"Korea","Koje-Korea","sormyo@pusan.ac.kr, klee@pusan.ac.kr","Hexagrammos agrammus",1,"Hexagrammidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Korea","Koje-Korea","sormyo@pusan.ac.kr, klee@pusan.ac.kr","Hexagrammos otakii",4,"Hexagrammidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Korea","Koje-Korea","sormyo@pusan.ac.kr, klee@pusan.ac.kr","Konosirus punctatus",4,"Clupeidae","selective plankton feeding",NA,NA,NA,NA
+"Korea","Koje-Korea","sormyo@pusan.ac.kr, klee@pusan.ac.kr","Lactoria cornuta",2,"Ostraciidae","hunting macrofauna (predator)","Benthic invertivore","Demersal","Day","rock"
+"Korea","Koje-Korea","sormyo@pusan.ac.kr, klee@pusan.ac.kr","Lateolabrax japonicus",116,"Lateolabracidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Korea","Koje-Korea","sormyo@pusan.ac.kr, klee@pusan.ac.kr","Parajulis poecilopterus",1,NA,NA,NA,NA,NA,NA
+"Korea","Koje-Korea","sormyo@pusan.ac.kr, klee@pusan.ac.kr","Pholis fangi",7,"Pholidae",NA,NA,NA,NA,NA
+"Korea","Koje-Korea","sormyo@pusan.ac.kr, klee@pusan.ac.kr","Porocottus leptosomus",1,"Cottidae",NA,NA,NA,NA,NA
+"Korea","Koje-Korea","sormyo@pusan.ac.kr, klee@pusan.ac.kr","Pseudoblennius cottoides",7,"Cottidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Korea","Koje-Korea","sormyo@pusan.ac.kr, klee@pusan.ac.kr","Pterogobius elapoides",5,"Gobiidae",NA,NA,NA,NA,NA
+"Korea","Koje-Korea","sormyo@pusan.ac.kr, klee@pusan.ac.kr","Repomucenus lunatus",3,"Callionymidae",NA,NA,NA,NA,NA
+"Korea","Koje-Korea","sormyo@pusan.ac.kr, klee@pusan.ac.kr","Rudarius ercodes",19,"Monacanthidae",NA,NA,NA,NA,NA
+"Korea","Koje-Korea","sormyo@pusan.ac.kr, klee@pusan.ac.kr","Sebastes pachycephalus",1,"Sebastidae",NA,NA,NA,NA,NA
+"Korea","Koje-Korea","sormyo@pusan.ac.kr, klee@pusan.ac.kr","Sebastiscus marmoratus",4,"Sebastidae",NA,NA,NA,NA,NA
+"Korea","Koje-Korea","sormyo@pusan.ac.kr, klee@pusan.ac.kr","Sillago sp.",3,"Sillaginidae",NA,NA,NA,NA,NA
+"Korea","Koje-Korea","sormyo@pusan.ac.kr, klee@pusan.ac.kr","Takifugu niphobles",47,"Tetraodontidae",NA,NA,NA,NA,NA
+"Mexico (BN)","Punta Banda Estuary","clarahereu@hotmail.com","Anchoa delicatissima",1,"Engraulidae",NA,NA,NA,NA,NA
+"Mexico (BN)","Punta Banda Estuary","clarahereu@hotmail.com","Callinectes arcuatus",3,NA,NA,NA,NA,NA,NA
+"Mexico (BN)","Punta Banda Estuary","clarahereu@hotmail.com","Farfantepenaeus californiensis",1,NA,NA,NA,NA,NA,NA
+"Mexico (BN)","Punta Banda Estuary","clarahereu@hotmail.com","Paralabrax nebulifer",1,"Serranidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Mexico (BN)","Punta Banda Estuary","pablojorgensen@hotmail.com","Anchoa delicatissima",147,"Engraulidae",NA,NA,NA,NA,NA
+"Mexico (BN)","Punta Banda Estuary","pablojorgensen@hotmail.com","Atherinops affinis",130,"Atherinopsidae","selective plankton feeding",NA,NA,NA,NA
+"Mexico (BN)","Punta Banda Estuary","pablojorgensen@hotmail.com","Atherinopsis californiensis",4,"Atherinopsidae","variable",NA,NA,NA,NA
+"Mexico (BN)","Punta Banda Estuary","pablojorgensen@hotmail.com","Callinectes arcuatus",17,NA,NA,NA,NA,NA,NA
+"Mexico (BN)","Punta Banda Estuary","pablojorgensen@hotmail.com","Ctenogobius sagittula",1,"Gobiidae",NA,NA,NA,NA,NA
+"Mexico (BN)","Punta Banda Estuary","pablojorgensen@hotmail.com","Fundulus parvipinnis",82,"Fundulidae",NA,NA,NA,NA,NA
+"Mexico (BN)","Punta Banda Estuary","pablojorgensen@hotmail.com","Halichoeres semicinctus",1,"Labridae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Mexico (BN)","Punta Banda Estuary","pablojorgensen@hotmail.com","Hemigrapsus oregonensis",6,NA,NA,NA,NA,NA,NA
+"Mexico (BN)","Punta Banda Estuary","pablojorgensen@hotmail.com","Hyporhamphus rosae",1,NA,NA,NA,NA,NA,NA
+"Mexico (BN)","Punta Banda Estuary","pablojorgensen@hotmail.com","Hypsoblennius gentilis",11,"Blenniidae",NA,NA,NA,NA,NA
+"Mexico (BN)","Punta Banda Estuary","pablojorgensen@hotmail.com","Ilypnus gilberti",132,"Gobiidae",NA,NA,NA,NA,NA
+"Mexico (BN)","Punta Banda Estuary","pablojorgensen@hotmail.com","Paralabrax maculatofasciatus",5,"Serranidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Mexico (BN)","Punta Banda Estuary","pablojorgensen@hotmail.com","Paralabrax nebulifer",6,"Serranidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Mexico (BN)","Punta Banda Estuary","pablojorgensen@hotmail.com","Syngnathus leptorhynchus",7,"Syngnathidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Norway","NN_Juvika","katrin.sieben@gmail.com","Carcinus maenas",1,NA,NA,NA,NA,NA,NA
+"Norway","NN_Juvika","katrin.sieben@gmail.com","Crangon crangon",34,NA,NA,NA,NA,NA,NA
+"Norway","NN_Juvika","katrin.sieben@gmail.com","Cyclopterus lumpus",2,"Cyclopteridae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Norway","NN_Juvika","katrin.sieben@gmail.com","Gadus morhua",1,"Gadidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Norway","NN_Juvika","katrin.sieben@gmail.com","Gasterosteus aculeatus",10,"Gasterosteidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Norway","NN_Juvika","katrin.sieben@gmail.com","Pholis gunnellus",1,"Pholidae",NA,NA,NA,NA,NA
+"Norway","NN_Juvika","katrin.sieben@gmail.com","Pleuronectes platessa",25,"Pleuronectidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Norway","NN_Juvika","katrin.sieben@gmail.com","Pollachius virens",77,"Gadidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Norway","NN_Juvika","katrin.sieben@gmail.com","Pomatoschistus sp.",66,"Gobiidae",NA,NA,NA,NA,NA
+"Norway","NN_Juvika","katrin.sieben@gmail.com","Spinachia spinachia",4,"Gasterosteidae","hunting macrofauna (predator)","planktivore","benthic","Day","rock"
+"USA (AK)","Sunshine Cove","wraymond2@alaska.edu","Aulorhynchus flavidus",15,"Aulorhynchidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (AK)","Sunshine Cove","wraymond2@alaska.edu","Blepsias cirrhosus",3,"Agonidae","variable",NA,NA,NA,NA
+"USA (AK)","Sunshine Cove","wraymond2@alaska.edu","Gadus chalcogrammus",1,"Gadidae",NA,NA,NA,NA,NA
+"USA (AK)","Sunshine Cove","wraymond2@alaska.edu","Gasterosteus aculeatus",2,"Gasterosteidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (AK)","Sunshine Cove","wraymond2@alaska.edu","Lepidopsetta sp.",22,"Pleuronectidae",NA,NA,NA,NA,NA
+"USA (AK)","Sunshine Cove","wraymond2@alaska.edu","Leptocottus armatus",11,"Cottidae","variable",NA,NA,NA,NA
+"USA (AK)","Sunshine Cove","wraymond2@alaska.edu","Limanda aspera",5,"Pleuronectidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (AK)","Sunshine Cove","wraymond2@alaska.edu","Myoxocephalus polyacanthocephalus",4,"Cottidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (AK)","Sunshine Cove","wraymond2@alaska.edu","Oligocottus maculosus",3,"Cottidae",NA,NA,NA,NA,NA
+"USA (AK)","Sunshine Cove","wraymond2@alaska.edu","Pholis laeta",4,"Pholidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (AK)","Sunshine Cove","wraymond2@alaska.edu","Platichthys stellatus",1,"Pleuronectidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (AK)","Sunshine Cove","wraymond2@alaska.edu","Syngnathus leptorhynchus",17,"Syngnathidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (CA)","San Diego","khovel@mail.sdsu.edu","Atherinops affinis",899,"Atherinopsidae","selective plankton feeding",NA,NA,NA,NA
+"USA (CA)","San Diego","khovel@mail.sdsu.edu","Cymatogaster aggregata",248,"Embiotocidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (CA)","San Diego","khovel@mail.sdsu.edu","Heterostichus rostratus",38,"Clinidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (CA)","San Diego","khovel@mail.sdsu.edu","Hypsoblennius gentilis",3,"Blenniidae",NA,NA,NA,NA,NA
+"USA (CA)","San Diego","khovel@mail.sdsu.edu","Lepidogobius lepidus",236,"Gobiidae",NA,NA,NA,NA,NA
+"USA (CA)","San Diego","khovel@mail.sdsu.edu","Leptocottus armatus",2,"Cottidae","variable",NA,NA,NA,NA
+"USA (CA)","San Diego","khovel@mail.sdsu.edu","Lysmata californica",1,NA,NA,NA,NA,NA,NA
+"USA (CA)","San Diego","khovel@mail.sdsu.edu","Paralabrax clathratus",4,"Serranidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (CA)","San Diego","khovel@mail.sdsu.edu","Paralabrax maculatofasciatus",9,"Serranidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (CA)","San Diego","khovel@mail.sdsu.edu","Paralabrax nebulifer",189,"Serranidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (CA)","San Diego","khovel@mail.sdsu.edu","Paralichthys californicus",6,"Paralichthyidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (CA)","San Diego","khovel@mail.sdsu.edu","Penaeus californicus",6,NA,NA,NA,NA,NA,NA
+"USA (CA)","San Diego","khovel@mail.sdsu.edu","Platichthys stellatus",8,"Pleuronectidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (CA)","San Diego","khovel@mail.sdsu.edu","Portunus xantusii",39,NA,NA,NA,NA,NA,NA
+"USA (CA)","San Diego","khovel@mail.sdsu.edu","Rhinobatos productus",1,"Rhinobatidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (CA)","San Diego","khovel@mail.sdsu.edu","Strongylura exilis",1,"Belonidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (CA)","San Diego","khovel@mail.sdsu.edu","Syngnathus leptorhynchus",8,"Syngnathidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (CA)","San Diego","khovel@mail.sdsu.edu","Umbrina roncador",5,"Sciaenidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (CA2)","Windy Cove","jkoleary@calpoly.edu","Artedius lateralis",11,"Cottidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (CA2)","Windy Cove","jkoleary@calpoly.edu","Atherinops affinis",214,"Atherinopsidae","selective plankton feeding",NA,NA,NA,NA
+"USA (CA2)","Windy Cove","jkoleary@calpoly.edu","Clevelandia ios",36,"Gobiidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (CA2)","Windy Cove","jkoleary@calpoly.edu","Cymatogaster aggregata",181,"Embiotocidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (CA2)","Windy Cove","jkoleary@calpoly.edu","Embiotoca sp.",7,"Embiotocidae",NA,NA,NA,NA,NA
+"USA (CA2)","Windy Cove","jkoleary@calpoly.edu","Embiotocidae sp.",1,"Embiotocidae",NA,NA,NA,NA,NA
+"USA (CA2)","Windy Cove","jkoleary@calpoly.edu","Embiotocidae spp.",14,NA,NA,NA,NA,NA,NA
+"USA (CA2)","Windy Cove","jkoleary@calpoly.edu","Gobiidae sp.",1,"Gobiidae",NA,NA,NA,NA,NA
+"USA (CA2)","Windy Cove","jkoleary@calpoly.edu","Heterostichus rostratus",1,"Clinidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (CA2)","Windy Cove","jkoleary@calpoly.edu","Hypsoblennius gentilis",1,"Blenniidae",NA,NA,NA,NA,NA
+"USA (CA2)","Windy Cove","jkoleary@calpoly.edu","Leptocottus armatus",4,"Cottidae","variable",NA,NA,NA,NA
+"USA (CA2)","Windy Cove","jkoleary@calpoly.edu","Micrometrus minimus",29,"Embiotocidae","variable",NA,NA,NA,NA
+"USA (CA2)","Windy Cove","jkoleary@calpoly.edu","Phanerodon furcatus",1,"Embiotocidae",NA,NA,NA,NA,NA
+"USA (CA2)","Windy Cove","jkoleary@calpoly.edu","Scorpaenichthys marmoratus",1,"Cottidae","variable",NA,NA,NA,NA
+"USA (CA2)","Windy Cove","jkoleary@calpoly.edu","Sebastes spp.",92,"Sebastidae",NA,NA,NA,NA,NA
+"USA (CA2)","Windy Cove","jkoleary@calpoly.edu","Syngnathus leptorhynchus",9,"Syngnathidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (CA3)","Elkhorn Slough","bbhughes@ucsc.edu","Aplysia californica",1,NA,NA,NA,NA,NA,NA
+"USA (CA3)","Elkhorn Slough","bbhughes@ucsc.edu","Artedius harringtoni",1,"Cottidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (CA3)","Elkhorn Slough","bbhughes@ucsc.edu","Atherinops affinis",1,"Atherinopsidae","selective plankton feeding",NA,NA,NA,NA
+"USA (CA3)","Elkhorn Slough","bbhughes@ucsc.edu","Clevelandia ios",2,"Gobiidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (CA3)","Elkhorn Slough","bbhughes@ucsc.edu","Crangon sp.",1,NA,NA,NA,NA,NA,NA
+"USA (CA3)","Elkhorn Slough","bbhughes@ucsc.edu","Cymatogaster aggregata",6,"Embiotocidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (CA3)","Elkhorn Slough","bbhughes@ucsc.edu","Embiotoca jacksoni",7,"Embiotocidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (CA3)","Elkhorn Slough","bbhughes@ucsc.edu","Embiotoca lateralis",1,"Embiotocidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (CA3)","Elkhorn Slough","bbhughes@ucsc.edu","Gobiidae sp.",5,"Gobiidae",NA,NA,NA,NA,NA
+"USA (CA3)","Elkhorn Slough","bbhughes@ucsc.edu","Hemigrapsus oregonensis",1,NA,NA,NA,NA,NA,NA
+"USA (CA3)","Elkhorn Slough","bbhughes@ucsc.edu","Hypsurus caryi",4,"Embiotocidae","hunting macrofauna (predator)","Benthic invertivore","pelagic site attached","Day","rock"
+"USA (CA3)","Elkhorn Slough","bbhughes@ucsc.edu","Leptocottus armatus",9,"Cottidae","variable",NA,NA,NA,NA
+"USA (CA3)","Elkhorn Slough","bbhughes@ucsc.edu","Metacarcinus magister",3,NA,NA,NA,NA,NA,NA
+"USA (CA3)","Elkhorn Slough","bbhughes@ucsc.edu","Rhacochilus toxotes",1,"Embiotocidae","hunting macrofauna (predator)","Benthic invertivore","pelagic site attached","Day","rock"
+"USA (CA3)","Elkhorn Slough","bbhughes@ucsc.edu","Rhacochilus vacca",9,"Embiotocidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (CA3)","Elkhorn Slough","bbhughes@ucsc.edu","Sardinops sagax",1,"Clupeidae","selective plankton feeding",NA,NA,NA,NA
+"USA (CA3)","Elkhorn Slough","bbhughes@ucsc.edu","Scorpaenichthys marmoratus",1,"Cottidae","variable",NA,NA,NA,NA
+"USA (DE)","UD Lewes, DE","lanej@udel.edu","Callinectes sapidus",3,NA,NA,NA,NA,NA,NA
+"USA (DE)","UD Lewes, DE","lanej@udel.edu","Cottus bairdi",2,"Cottidae",NA,NA,NA,NA,NA
+"USA (DE)","UD Lewes, DE","lanej@udel.edu","Menidia menidia",8,"Atherinopsidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (DE)","UD Lewes, DE","lanej@udel.edu","Palaemonetes pugio",26,NA,NA,NA,NA,NA,NA
+"USA (MA)","Dorothy Cove","rhughes@northeastern.edu","Cyclopterus lumpus",1,"Cyclopteridae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (MA)","Dorothy Cove","rhughes@northeastern.edu","Gadus morhua",1,"Gadidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (MA)","Dorothy Cove","rhughes@northeastern.edu","Myoxocephalus aenaeus",1,"Cottidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (MA)","Dorothy Cove","rhughes@northeastern.edu","NA NA",0,NA,NA,NA,NA,NA,NA
+"USA (MA)","Dorothy Cove","rhughes@northeastern.edu","Pollachius virens",1,"Gadidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (MA)","Dorothy Cove","rhughes@northeastern.edu","Pseudopleuronectes americanus",5,"Pleuronectidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (MA)","Dorothy Cove","rhughes@northeastern.edu","Urophycis regia",2,"Phycidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (NC)","NC","sziegler@live.unc.edu","Arenaeus cribrarius",3,NA,NA,NA,NA,NA,NA
+"USA (NC)","NC","sziegler@live.unc.edu","Argopecten irradians",1,NA,NA,NA,NA,NA,NA
+"USA (NC)","NC","sziegler@live.unc.edu","Bairdiella chrysoura",1,"Sciaenidae","variable",NA,NA,NA,NA
+"USA (NC)","NC","sziegler@live.unc.edu","Callinectes sapidus",25,NA,NA,NA,NA,NA,NA
+"USA (NC)","NC","sziegler@live.unc.edu","Chasmodes saburrae",1,"Blenniidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (NC)","NC","sziegler@live.unc.edu","Chilomycterus schoepfi",1,"Diodontidae",NA,NA,NA,NA,NA
+"USA (NC)","NC","sziegler@live.unc.edu","Diplodus holbrookii",4,"Sparidae","grazing on aquatic plants",NA,NA,NA,NA
+"USA (NC)","NC","sziegler@live.unc.edu","Eucinostomus harengulus",92,"Gerreidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (NC)","NC","sziegler@live.unc.edu","Farfantepenaeus aztecus",42,NA,NA,NA,NA,NA,NA
+"USA (NC)","NC","sziegler@live.unc.edu","Fundulus heteroclitus",3,"Fundulidae","variable",NA,NA,NA,NA
+"USA (NC)","NC","sziegler@live.unc.edu","Gobiosoma bosc",1,"Gobiidae",NA,NA,NA,NA,NA
+"USA (NC)","NC","sziegler@live.unc.edu","Gobiosoma sp.",2,"Gobiidae",NA,NA,NA,NA,NA
+"USA (NC)","NC","sziegler@live.unc.edu","Hippocampus sp.",1,"Syngnathidae",NA,NA,NA,NA,NA
+"USA (NC)","NC","sziegler@live.unc.edu","Hyporhamphus sajori",2,"Hemiramphidae","selective plankton feeding",NA,NA,NA,NA
+"USA (NC)","NC","sziegler@live.unc.edu","Lagodon rhomboides",298,"Sparidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (NC)","NC","sziegler@live.unc.edu","Leiostomus xanthurus",3,"Sciaenidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (NC)","NC","sziegler@live.unc.edu","Menidia menidia",17,"Atherinopsidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (NC)","NC","sziegler@live.unc.edu","Opsanus tau",4,"Batrachoididae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (NC)","NC","sziegler@live.unc.edu","Orthopristis chrysoptera",5,"Haemulidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (NC)","NC","sziegler@live.unc.edu","Sphyraena borealis",1,"Sphyraenidae",NA,NA,NA,NA,NA
+"USA (NC)","NC","sziegler@live.unc.edu","Stephanolepis hispidus",7,"Monacanthidae","grazing on aquatic plants",NA,NA,NA,NA
+"USA (NC)","NC","sziegler@live.unc.edu","Syngnathus sp.",7,"Syngnathidae",NA,NA,NA,NA,NA
+"USA (NC2)","Pine Knoll Shores","lindsaycgaskins@gmail.com","Lagodon rhomboides",24,"Sparidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (NC2)","Pine Knoll Shores","lindsaycgaskins@gmail.com","Orthopristis chrysoptera",1,"Haemulidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (OR)","OIMB-Valino-SSNERR","agalow3@uoregon.edu","Atherinops affinis",15,"Atherinopsidae","selective plankton feeding",NA,NA,NA,NA
+"USA (OR)","OIMB-Valino-SSNERR","agalow3@uoregon.edu","Cottus asper",1,"Cottidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (OR)","OIMB-Valino-SSNERR","agalow3@uoregon.edu","Cymatogaster aggregata",163,"Embiotocidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (OR)","OIMB-Valino-SSNERR","agalow3@uoregon.edu","Hemigrapsus oregonensis",58,NA,NA,NA,NA,NA,NA
+"USA (OR)","OIMB-Valino-SSNERR","agalow3@uoregon.edu","Lepidogobius lepidus",1,"Gobiidae",NA,NA,NA,NA,NA
+"USA (OR)","OIMB-Valino-SSNERR","agalow3@uoregon.edu","Leptocottus armatus",58,"Cottidae","variable",NA,NA,NA,NA
+"USA (OR)","OIMB-Valino-SSNERR","agalow3@uoregon.edu","Metacarcinus magister",60,NA,NA,NA,NA,NA,NA
+"USA (OR)","OIMB-Valino-SSNERR","agalow3@uoregon.edu","Oncorhynchus tshawytscha",2,"Salmonidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (OR)","OIMB-Valino-SSNERR","agalow3@uoregon.edu","Parophrys vetulus",9,"Pleuronectidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (OR)","OIMB-Valino-SSNERR","agalow3@uoregon.edu","Phanerodon furcatus",24,"Embiotocidae",NA,NA,NA,NA,NA
+"USA (OR)","OIMB-Valino-SSNERR","agalow3@uoregon.edu","Pugettia producta",1,NA,NA,NA,NA,NA,NA
+"USA (OR)","OIMB-Valino-SSNERR","agalow3@uoregon.edu","Rhacochilus vacca",6,"Embiotocidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (OR)","OIMB-Valino-SSNERR","agalow3@uoregon.edu","Syngnathus leptorhynchus",7,"Syngnathidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (TX)","Aransas Pass","mdiskin@islander.tamucc.edu","Anchoa mitchilli",503,"Engraulidae","variable",NA,NA,NA,NA
+"USA (TX)","Aransas Pass","mdiskin@islander.tamucc.edu","Bairdiella chrysoura",20,"Sciaenidae","variable",NA,NA,NA,NA
+"USA (TX)","Aransas Pass","mdiskin@islander.tamucc.edu","Bathygobius soporator",75,"Gobiidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (TX)","Aransas Pass","mdiskin@islander.tamucc.edu","Callinectes sapidus",12,NA,NA,NA,NA,NA,NA
+"USA (TX)","Aransas Pass","mdiskin@islander.tamucc.edu","Ctenogobius boleosoma",11,"Gobiidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (TX)","Aransas Pass","mdiskin@islander.tamucc.edu","Cynoscion nebulosus",13,"Sciaenidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (TX)","Aransas Pass","mdiskin@islander.tamucc.edu","Eucinostomus argenteus",182,"Gerreidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (TX)","Aransas Pass","mdiskin@islander.tamucc.edu","Farfantepenaeus spp.",182,NA,NA,NA,NA,NA,NA
+"USA (TX)","Aransas Pass","mdiskin@islander.tamucc.edu","Gobiosoma bosc",1,"Gobiidae",NA,NA,NA,NA,NA
+"USA (TX)","Aransas Pass","mdiskin@islander.tamucc.edu","Lagodon rhomboides",149,"Sparidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (TX)","Aransas Pass","mdiskin@islander.tamucc.edu","Lutjanus griseus",12,"Lutjanidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (TX)","Aransas Pass","mdiskin@islander.tamucc.edu","Menidia beryllina",13,"Atherinopsidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (TX)","Aransas Pass","mdiskin@islander.tamucc.edu","Palaemonetes spp.",220,NA,NA,NA,NA,NA,NA
+"USA (TX)","Aransas Pass","mdiskin@islander.tamucc.edu","Sardinella aurita",133,"Clupeidae","selective plankton feeding","Planktivore","pelagic non-site attached","Day","sand"
+"USA (TX)","Aransas Pass","mdiskin@islander.tamucc.edu","Sciaenops ocellatus",1,"Sciaenidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (TX)","Aransas Pass","mdiskin@islander.tamucc.edu","Syngnathus floridae",12,"Syngnathidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (TX)","Aransas Pass","mdiskin@islander.tamucc.edu","Synodus foetens",2,"Synodontidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (TX)","Aransas Pass","mdiskin@islander.tamucc.edu","Tozeuma cardinense",42,NA,NA,NA,NA,NA,NA
+"USA (TX)","Aransas Pass","mdiskin@islander.tamucc.edu","Tozeuma carolinense",137,NA,NA,NA,NA,NA,NA
+"USA (TX)","Laguna Madre","mdiskin@islander.tamucc.edu","Bairdiella chrysoura",7,"Sciaenidae","variable",NA,NA,NA,NA
+"USA (TX)","Laguna Madre","mdiskin@islander.tamucc.edu","Callinectes sapidus",2,NA,NA,NA,NA,NA,NA
+"USA (TX)","Laguna Madre","mdiskin@islander.tamucc.edu","Cynoscion nebulosus",1,"Sciaenidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (TX)","Laguna Madre","mdiskin@islander.tamucc.edu","Eurypanopeus turgidus",3,NA,NA,NA,NA,NA,NA
+"USA (TX)","Laguna Madre","mdiskin@islander.tamucc.edu","Farfantepenaeus spp.",41,NA,NA,NA,NA,NA,NA
+"USA (TX)","Laguna Madre","mdiskin@islander.tamucc.edu","Lagodon rhomboides",30,"Sparidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (TX)","Laguna Madre","mdiskin@islander.tamucc.edu","Menidia beryllina",3,"Atherinopsidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (TX)","Laguna Madre","mdiskin@islander.tamucc.edu","NA NA",0,NA,NA,NA,NA,NA,NA
+"USA (TX)","Laguna Madre","mdiskin@islander.tamucc.edu","Palaemonetes spp.",5,NA,NA,NA,NA,NA,NA
+"USA (TX)","Oso Bay","mdiskin@islander.tamucc.edu","Anchoa mitchilli",215,"Engraulidae","variable",NA,NA,NA,NA
+"USA (TX)","Oso Bay","mdiskin@islander.tamucc.edu","Archosargus probatocephalus",1,"Sparidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (TX)","Oso Bay","mdiskin@islander.tamucc.edu","Callinectes sapidus",139,NA,NA,NA,NA,NA,NA
+"USA (TX)","Oso Bay","mdiskin@islander.tamucc.edu","Cynoscion arenarius",1,"Sciaenidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (TX)","Oso Bay","mdiskin@islander.tamucc.edu","Cynoscion nebulosus",40,"Sciaenidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (TX)","Oso Bay","mdiskin@islander.tamucc.edu","Cyprinodon variegatus",26,"Cyprinodontidae",NA,NA,NA,NA,NA
+"USA (TX)","Oso Bay","mdiskin@islander.tamucc.edu","Elops saurus",10,"Elopidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (TX)","Oso Bay","mdiskin@islander.tamucc.edu","Farfantepenaeus spp.",100,NA,NA,NA,NA,NA,NA
+"USA (TX)","Oso Bay","mdiskin@islander.tamucc.edu","Farfantepenaus spp.",100,NA,NA,NA,NA,NA,NA
+"USA (TX)","Oso Bay","mdiskin@islander.tamucc.edu","Fundulus grandis",14,"Fundulidae",NA,NA,NA,NA,NA
+"USA (TX)","Oso Bay","mdiskin@islander.tamucc.edu","Fundulus heteroclitus",8,"Fundulidae","variable",NA,NA,NA,NA
+"USA (TX)","Oso Bay","mdiskin@islander.tamucc.edu","Fundulus similis",15,"Fundulidae",NA,NA,NA,NA,NA
+"USA (TX)","Oso Bay","mdiskin@islander.tamucc.edu","Gobiosoma bosc",21,"Gobiidae",NA,NA,NA,NA,NA
+"USA (TX)","Oso Bay","mdiskin@islander.tamucc.edu","Harengula jaguana",1,"Clupeidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (TX)","Oso Bay","mdiskin@islander.tamucc.edu","Lagodon rhomboides",22,"Sparidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (TX)","Oso Bay","mdiskin@islander.tamucc.edu","Leiostomus xanthurus",8,"Sciaenidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (TX)","Oso Bay","mdiskin@islander.tamucc.edu","Menidia beryllina",4539,"Atherinopsidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (TX)","Oso Bay","mdiskin@islander.tamucc.edu","Mugil curema",4,"Mugilidae","grazing on aquatic plants",NA,NA,NA,NA
+"USA (TX)","Oso Bay","mdiskin@islander.tamucc.edu","Palaemonetes spp.",2002,NA,NA,NA,NA,NA,NA
+"USA (TX)","Oso Bay","mdiskin@islander.tamucc.edu","Paralichthys albigutta",1,"Paralichthyidae",NA,NA,NA,NA,NA
+"USA (TX)","Oso Bay","mdiskin@islander.tamucc.edu","Syngnathus floridae",2,"Syngnathidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (VA)","Goodwin Island","jslefche@vims.edu","Bairdiella chrysoura",3,"Sciaenidae","variable",NA,NA,NA,NA
+"USA (VA)","Goodwin Island","jslefche@vims.edu","Callinectes sapidus",2,NA,NA,NA,NA,NA,NA
+"USA (VA)","Goodwin Island","jslefche@vims.edu","Strongylura marina",19,"Belonidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (WA)","Redondo N-3","hultgrenk@seattleu.edu","NA NA",0,NA,NA,NA,NA,NA,NA
+"USA (WA)","Redondo N-4","hultgrenk@seattleu.edu","Cymatogaster aggregata",2,"Embiotocidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (WA)","Redondo N1","hultgrenk@seattleu.edu","Aulorhynchus flavidus",1,"Aulorhynchidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (WA)","Redondo N1","hultgrenk@seattleu.edu","Cymatogaster aggregata",2,"Embiotocidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (WA)","Redondo N1","hultgrenk@seattleu.edu","Pugettia producta",1,NA,NA,NA,NA,NA,NA
+"USA (WA)","Redondo N1","hultgrenk@seattleu.edu","Syngnathus leptorhynchus",2,"Syngnathidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (WA)","Redondo N2","hultgrenk@seattleu.edu","Pholis sp.",1,"Pholidae",NA,NA,NA,NA,NA
+"USA (WA)","Redondo N2","hultgrenk@seattleu.edu","Pugettia producta",1,NA,NA,NA,NA,NA,NA
+"USA (WA)","Redondo S-5","hultgrenk@seattleu.edu","NA NA",0,NA,NA,NA,NA,NA,NA
+"USA (WA)","Redondo S-6","hultgrenk@seattleu.edu","Brachyistius frenatus",3,"Embiotocidae","hunting macrofauna (predator)","Benthic invertivore","pelagic site attached","Day","rock"
+"USA (WA)","Redondo S-6","hultgrenk@seattleu.edu","Citharichthys stigmaeus",1,"Paralichthyidae","hunting macrofauna (predator)","Benthic invertivore","benthic","Night","sand"
+"USA (WA)","Redondo S-6","hultgrenk@seattleu.edu","Cymatogaster aggregata",230,"Embiotocidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (WA)","Redondo S-6","hultgrenk@seattleu.edu","Pholis ornata",3,"Pholidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (WA)","Redondo S-6","hultgrenk@seattleu.edu","Pugettia producta",1,NA,NA,NA,NA,NA,NA
+"USA (WA)","Redondo S-6","hultgrenk@seattleu.edu","sculpin sp.",1,NA,NA,NA,NA,NA,NA
+"USA (WA)","Redondo S-6","hultgrenk@seattleu.edu","Syngnathus leptorhynchus",10,"Syngnathidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (WA2)","False Bay","ojgraham@mac.com","Parophrys vetulus",1,"Pleuronectidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (WA2)","False Bay","ojgraham@me.com","Apodichthys flavidus",21,"Pholidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (WA2)","False Bay","ojgraham@me.com","Brachyistius frenatus",7,"Embiotocidae","hunting macrofauna (predator)","Benthic invertivore","pelagic site attached","Day","rock"
+"USA (WA2)","False Bay","ojgraham@me.com","Cymatogaster aggregata",2881,"Embiotocidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (WA2)","False Bay","ojgraham@me.com","Embiotoca lateralis",151,"Embiotocidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (WA2)","False Bay","ojgraham@me.com","Hypomesus pretiosus",1,"Osmeridae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (WA2)","False Bay","ojgraham@me.com","Leptocottus armatus",42,"Cottidae","variable",NA,NA,NA,NA
+"USA (WA2)","False Bay","ojgraham@me.com","Nautichthys oculofasciatus",1,"Agonidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (WA2)","False Bay","ojgraham@me.com","Parophrys vetulus",21,"Pleuronectidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (WA2)","False Bay","ojgraham@me.com","Pholis laeta",37,"Pholidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (WA2)","False Bay","ojgraham@me.com","Pholis ornata",17,"Pholidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"USA (WA2)","False Bay","ojgraham@me.com","Syngnathus leptorhynchus",41,"Syngnathidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Wales","Porthdinllaen, UK","maxrobinson@hotmail.com","Ammodytes tobianus",20,"Ammodytidae","filtering plankton",NA,NA,NA,NA
+"Wales","Porthdinllaen, UK","maxrobinson@hotmail.com","Atherina presbyter",465,"Atherinidae","selective plankton feeding",NA,NA,NA,NA
+"Wales","Porthdinllaen, UK","maxrobinson@hotmail.com","Callionymus lyra",2,"Callionymidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Wales","Porthdinllaen, UK","maxrobinson@hotmail.com","Carcinus maenas",8,NA,NA,NA,NA,NA,NA
+"Wales","Porthdinllaen, UK","maxrobinson@hotmail.com","Crangon crangon",55,NA,NA,NA,NA,NA,NA
+"Wales","Porthdinllaen, UK","maxrobinson@hotmail.com","Echiichthys vipera",3,"Trachinidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Wales","Porthdinllaen, UK","maxrobinson@hotmail.com","Entelurus aequoreus",3,"Syngnathidae","variable",NA,NA,NA,NA
+"Wales","Porthdinllaen, UK","maxrobinson@hotmail.com","Gobiusculus flavescens",1,"Gobiidae","selective plankton feeding",NA,NA,NA,NA
+"Wales","Porthdinllaen, UK","maxrobinson@hotmail.com","Labrus bergylta",2,"Labridae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Wales","Porthdinllaen, UK","maxrobinson@hotmail.com","Limanda limanda",2,"Pleuronectidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Wales","Porthdinllaen, UK","maxrobinson@hotmail.com","Merlangius merlangus",1,"Gadidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Wales","Porthdinllaen, UK","maxrobinson@hotmail.com","Palaemon serratus",207,NA,NA,NA,NA,NA,NA
+"Wales","Porthdinllaen, UK","maxrobinson@hotmail.com","Pleuronectes platessa",11,"Pleuronectidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Wales","Porthdinllaen, UK","maxrobinson@hotmail.com","Pollachius pollachius",4,"Gadidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Wales","Porthdinllaen, UK","maxrobinson@hotmail.com","Pomatoschistus minutus",291,"Gobiidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Wales","Porthdinllaen, UK","maxrobinson@hotmail.com","Spinachia spinachia",8,"Gasterosteidae","hunting macrofauna (predator)","planktivore","benthic","Day","rock"
+"Wales","Porthdinllaen, UK","maxrobinson@hotmail.com","Sprattus sprattus",55,"Clupeidae","selective plankton feeding",NA,NA,NA,NA
+"Wales","Porthdinllaen, UK","maxrobinson@hotmail.com","Symphodus melops",41,"Labridae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Wales","Porthdinllaen, UK","maxrobinson@hotmail.com","Syngnathus acus",2,"Syngnathidae","hunting macrofauna (predator)",NA,NA,NA,NA
+"Wales","Porthdinllaen, UK","maxrobinson@hotmail.com","Taurulus bubalis",3,"Cottidae","hunting macrofauna (predator)",NA,NA,NA,NA

@@ -1,0 +1,461 @@
+"","functional_group_name","year","fishing_entity_name","taxon_scientific_name","commercial_group_id","commercial_group_name","catch_status","catch_sum","cell_id","reporting_status_name","taxon_common_name","sector_type_name","fishing_entity_id","functional_group_id","sector_type_id","reporting_status","catch_status_name","taxon_key"
+"1","pelagiclg",2010,"Mexico","Coryphaena hippurus",3,"Perch-likes","R",0.0179763750340072,99547,"Reported","Common dolphinfish","Artisanal",110,3,3,"R","Landings",600006
+"2","pelagiclg",2010,"Mexico","Coryphaena hippurus",3,"Perch-likes","R",0.0266300348664659,98827,"Reported","Common dolphinfish","Artisanal",110,3,3,"R","Landings",600006
+"3","pelagiclg",2010,"Mexico","Coryphaena hippurus",3,"Perch-likes","R",0.000332286117772858,99546,"Reported","Common dolphinfish","Artisanal",110,3,3,"R","Landings",600006
+"4","pelagiclg",2010,"Mexico","Coryphaena hippurus",3,"Perch-likes","R",0.00665125876258268,99547,"Unreported","Common dolphinfish","Artisanal",110,3,3,"U","Landings",600006
+"5","pelagiclg",2010,"Mexico","Coryphaena hippurus",3,"Perch-likes","R",0.00985311290059238,98827,"Unreported","Common dolphinfish","Artisanal",110,3,3,"U","Landings",600006
+"6","pelagiclg",2010,"Mexico","Coryphaena hippurus",3,"Perch-likes","R",0.000122945863575957,99546,"Unreported","Common dolphinfish","Artisanal",110,3,3,"U","Landings",600006
+"7","pelagiclg",2010,"Mexico","Kajikia albida",4,"Tuna & billfishes","R",0.00142283362376182,99547,"Reported","Atlantic white marlin","Industrial",110,3,1,"R","Landings",600219
+"8","pelagiclg",2010,"Mexico","Kajikia albida",4,"Tuna & billfishes","R",0.000908545099328332,98827,"Reported","Atlantic white marlin","Industrial",110,3,1,"R","Landings",600219
+"9","pelagiclg",2010,"Mexico","Kajikia albida",4,"Tuna & billfishes","R",1.02448961518346e-05,99546,"Reported","Atlantic white marlin","Industrial",110,3,1,"R","Landings",600219
+"10","pelagiclg",2010,"Mexico","Kajikia albida",4,"Tuna & billfishes","R",0.0840258132646176,99547,"Reported","Atlantic white marlin","Recreational",110,3,4,"R","Landings",600219
+"11","pelagiclg",2010,"Mexico","Kajikia albida",4,"Tuna & billfishes","R",0.109402118589868,98827,"Reported","Atlantic white marlin","Recreational",110,3,4,"R","Landings",600219
+"12","pelagiclg",2010,"Mexico","Kajikia albida",4,"Tuna & billfishes","R",0.00141686075258238,99546,"Reported","Atlantic white marlin","Recreational",110,3,4,"R","Landings",600219
+"13","pelagiclg",2010,"Mexico","Kajikia albida",4,"Tuna & billfishes","R",0.00840258132646176,99547,"Unreported","Atlantic white marlin","Recreational",110,3,4,"U","Landings",600219
+"14","pelagiclg",2010,"Mexico","Kajikia albida",4,"Tuna & billfishes","R",0.0109402118589868,98827,"Unreported","Atlantic white marlin","Recreational",110,3,4,"U","Landings",600219
+"15","pelagiclg",2010,"Mexico","Kajikia albida",4,"Tuna & billfishes","R",0.000141686075258238,99546,"Unreported","Atlantic white marlin","Recreational",110,3,4,"U","Landings",600219
+"16","pelagiclg",2010,"Mexico","Makaira nigricans",4,"Tuna & billfishes","R",0.0192158078650784,99547,"Reported","Blue marlin","Industrial",110,3,1,"R","Landings",600216
+"17","pelagiclg",2010,"Mexico","Makaira nigricans",4,"Tuna & billfishes","R",0.0122505324070708,98827,"Reported","Blue marlin","Industrial",110,3,1,"R","Landings",600216
+"18","pelagiclg",2010,"Mexico","Makaira nigricans",4,"Tuna & billfishes","R",0.759947014147279,99547,"Reported","Blue marlin","Recreational",110,3,4,"R","Landings",600216
+"19","pelagiclg",2010,"Mexico","Makaira nigricans",4,"Tuna & billfishes","R",0.987871067332476,98827,"Reported","Blue marlin","Recreational",110,3,4,"R","Landings",600216
+"20","pelagiclg",2010,"Mexico","Makaira nigricans",4,"Tuna & billfishes","R",0.0759947014147279,99547,"Unreported","Blue marlin","Recreational",110,3,4,"U","Landings",600216
+"21","pelagiclg",2010,"Mexico","Makaira nigricans",4,"Tuna & billfishes","R",0.0987871067332476,98827,"Unreported","Blue marlin","Recreational",110,3,4,"U","Landings",600216
+"22","pelagiclg",2010,"Mexico","Katsuwonus pelamis",4,"Tuna & billfishes","R",0.00109359187147714,99547,"Reported","Skipjack tuna","Industrial",110,3,1,"R","Landings",600107
+"23","pelagiclg",2010,"Mexico","Katsuwonus pelamis",4,"Tuna & billfishes","R",0.000711868405595773,98827,"Reported","Skipjack tuna","Industrial",110,3,1,"R","Landings",600107
+"24","pelagiclg",2010,"Mexico","Katsuwonus pelamis",4,"Tuna & billfishes","R",7.87424121040397e-06,99546,"Reported","Skipjack tuna","Industrial",110,3,1,"R","Landings",600107
+"25","sharklg",2010,"Mexico","Isurus oxyrinchus",9,"Sharks & rays","R",0.000124339509248986,99547,"Reported","Shortfin mako","Industrial",110,20,1,"R","Landings",600752
+"26","sharklg",2010,"Mexico","Isurus oxyrinchus",9,"Sharks & rays","R",2.53238329217567e-06,98827,"Reported","Shortfin mako","Industrial",110,20,1,"R","Landings",600752
+"27","sharklg",2010,"Mexico","Isurus oxyrinchus",9,"Sharks & rays","R",0.125871444433085,99547,"Reported","Shortfin mako","Artisanal",110,20,3,"R","Landings",600752
+"28","sharklg",2010,"Mexico","Isurus oxyrinchus",9,"Sharks & rays","R",0.00522718828442534,98827,"Reported","Shortfin mako","Artisanal",110,20,3,"R","Landings",600752
+"29","sharklg",2010,"Mexico","Isurus oxyrinchus",9,"Sharks & rays","R",0.0465724344402414,99547,"Unreported","Shortfin mako","Artisanal",110,20,3,"U","Landings",600752
+"30","sharklg",2010,"Mexico","Isurus oxyrinchus",9,"Sharks & rays","R",0.00193405966523737,98827,"Unreported","Shortfin mako","Artisanal",110,20,3,"U","Landings",600752
+"31","pelagiclg",2010,"Mexico","Xiphias gladius",4,"Tuna & billfishes","R",0.00322063988987182,99547,"Reported","Swordfish","Industrial",110,3,1,"R","Landings",600226
+"32","pelagiclg",2010,"Mexico","Xiphias gladius",4,"Tuna & billfishes","R",0.00209646015410159,98827,"Reported","Swordfish","Industrial",110,3,1,"R","Landings",600226
+"33","pelagiclg",2010,"Mexico","Xiphias gladius",4,"Tuna & billfishes","R",2.31897255330229e-05,99546,"Reported","Swordfish","Industrial",110,3,1,"R","Landings",600226
+"34","pelagiclg",2010,"Mexico","Thunnus thynnus",4,"Tuna & billfishes","R",0.0011252590638606,99547,"Reported","Atlantic bluefin tuna","Industrial",110,3,1,"R","Landings",600147
+"35","pelagiclg",2010,"Mexico","Thunnus thynnus",4,"Tuna & billfishes","R",0.000726200530568518,98827,"Reported","Atlantic bluefin tuna","Industrial",110,3,1,"R","Landings",600147
+"36","pelagiclg",2010,"Mexico","Thunnus thynnus",4,"Tuna & billfishes","R",9.4536286459712e-06,99546,"Reported","Atlantic bluefin tuna","Industrial",110,3,1,"R","Landings",600147
+"37","pelagicmd",2010,"Mexico","Elops saurus",12,"Other fishes & inverts","R",4.71798517555819,98827,"Reported","Ladyfish","Artisanal",110,2,3,"R","Landings",600175
+"38","pelagicmd",2010,"Mexico","Elops saurus",12,"Other fishes & inverts","R",1.74565451495653,98827,"Unreported","Ladyfish","Artisanal",110,2,3,"U","Landings",600175
+"39","pelagiclg",2010,"Mexico","Istiophorus albicans",4,"Tuna & billfishes","R",0.000725914249017967,99547,"Reported","Atlantic sailfish","Industrial",110,3,1,"R","Landings",600078
+"40","pelagiclg",2010,"Mexico","Istiophorus albicans",4,"Tuna & billfishes","R",0.00047253041333389,98827,"Reported","Atlantic sailfish","Industrial",110,3,1,"R","Landings",600078
+"41","pelagiclg",2010,"Mexico","Istiophorus albicans",4,"Tuna & billfishes","R",5.22683465735346e-06,99546,"Reported","Atlantic sailfish","Industrial",110,3,1,"R","Landings",600078
+"42","pelagiclg",2010,"Mexico","Istiophorus albicans",4,"Tuna & billfishes","R",0.0141994464755134,99547,"Unreported","Atlantic sailfish","Recreational",110,3,4,"U","Landings",600078
+"43","pelagiclg",2010,"Mexico","Istiophorus albicans",4,"Tuna & billfishes","R",0.0188467511849866,98827,"Unreported","Atlantic sailfish","Recreational",110,3,4,"U","Landings",600078
+"44","pelagiclg",2010,"Mexico","Istiophorus albicans",4,"Tuna & billfishes","R",0.000239434021973589,99546,"Unreported","Atlantic sailfish","Recreational",110,3,4,"U","Landings",600078
+"45","otherdeminvert",2010,"Mexico","Mercenaria mercenaria",11,"Molluscs","R",1.64613507609548,99547,"Reported","Northern quahog","Artisanal",110,29,3,"R","Landings",690270
+"46","otherdeminvert",2010,"Mexico","Mercenaria mercenaria",11,"Molluscs","R",2.74799829110593,98827,"Reported","Northern quahog","Artisanal",110,29,3,"R","Landings",690270
+"47","otherdeminvert",2010,"Mexico","Mercenaria mercenaria",11,"Molluscs","R",0.0284978141533155,99546,"Reported","Northern quahog","Artisanal",110,29,3,"R","Landings",690270
+"48","otherdeminvert",2010,"Mexico","Mercenaria mercenaria",11,"Molluscs","R",1.64613507609548,99547,"Unreported","Northern quahog","Artisanal",110,29,3,"U","Landings",690270
+"49","otherdeminvert",2010,"Mexico","Mercenaria mercenaria",11,"Molluscs","R",2.74799829110593,98827,"Unreported","Northern quahog","Artisanal",110,29,3,"U","Landings",690270
+"50","otherdeminvert",2010,"Mexico","Mercenaria mercenaria",11,"Molluscs","R",0.0284978141533155,99546,"Unreported","Northern quahog","Artisanal",110,29,3,"U","Landings",690270
+"51","benthopelagicmd",2010,"Mexico","Mugil curema",3,"Perch-likes","R",61.3882013027629,99547,"Reported","White mullet","Artisanal",110,14,3,"R","Landings",601086
+"52","benthopelagicmd",2010,"Mexico","Mugil curema",3,"Perch-likes","R",83.1138819529174,98827,"Reported","White mullet","Artisanal",110,14,3,"R","Landings",601086
+"53","benthopelagicmd",2010,"Mexico","Mugil curema",3,"Perch-likes","R",1.27566989824621,99546,"Reported","White mullet","Artisanal",110,14,3,"R","Landings",601086
+"54","benthopelagicmd",2010,"Mexico","Mugil curema",3,"Perch-likes","R",22.7136344820223,99547,"Unreported","White mullet","Artisanal",110,14,3,"U","Landings",601086
+"55","benthopelagicmd",2010,"Mexico","Mugil curema",3,"Perch-likes","R",30.7521363225794,98827,"Unreported","White mullet","Artisanal",110,14,3,"U","Landings",601086
+"56","benthopelagicmd",2010,"Mexico","Mugil curema",3,"Perch-likes","R",0.471997862351098,99546,"Unreported","White mullet","Artisanal",110,14,3,"U","Landings",601086
+"57","sharklg",2010,"Mexico","Elasmobranchii",9,"Sharks & rays","R",34.008179468037,99547,"Reported","Sharks, rays, skates","Artisanal",110,20,3,"R","Landings",200004
+"58","sharklg",2010,"Mexico","Elasmobranchii",9,"Sharks & rays","R",1.14437113677987,98827,"Reported","Sharks, rays, skates","Artisanal",110,20,3,"R","Landings",200004
+"59","sharklg",2010,"Mexico","Elasmobranchii",9,"Sharks & rays","R",12.5830264031737,99547,"Unreported","Sharks, rays, skates","Artisanal",110,20,3,"U","Landings",200004
+"60","sharklg",2010,"Mexico","Elasmobranchii",9,"Sharks & rays","R",0.423417320608551,98827,"Unreported","Sharks, rays, skates","Artisanal",110,20,3,"U","Landings",200004
+"61","lobsters,crab",2010,"Mexico","Menippe mercenaria",10,"Crustaceans","R",1.11832512249167,99547,"Reported","Black stone crab","Artisanal",110,27,3,"R","Landings",690047
+"62","lobsters,crab",2010,"Mexico","Menippe mercenaria",10,"Crustaceans","R",1.52045280405298,98827,"Reported","Black stone crab","Artisanal",110,27,3,"R","Landings",690047
+"63","lobsters,crab",2010,"Mexico","Menippe mercenaria",10,"Crustaceans","R",0.0184240634452884,99546,"Reported","Black stone crab","Artisanal",110,27,3,"R","Landings",690047
+"64","lobsters,crab",2010,"Mexico","Menippe mercenaria",10,"Crustaceans","R",0.413780295321917,99547,"Unreported","Black stone crab","Artisanal",110,27,3,"U","Landings",690047
+"65","lobsters,crab",2010,"Mexico","Menippe mercenaria",10,"Crustaceans","R",0.562567537499601,98827,"Unreported","Black stone crab","Artisanal",110,27,3,"U","Landings",690047
+"66","lobsters,crab",2010,"Mexico","Menippe mercenaria",10,"Crustaceans","R",0.00681690347475671,99546,"Unreported","Black stone crab","Artisanal",110,27,3,"U","Landings",690047
+"67","shrimp",2010,"Mexico","Xiphopenaeus kroyeri",10,"Crustaceans","R",26.0536279210684,99547,"Reported","Atlantic seabob","Industrial",110,26,1,"R","Landings",690032
+"68","shrimp",2010,"Mexico","Xiphopenaeus kroyeri",10,"Crustaceans","R",20.0055246796314,98827,"Reported","Atlantic seabob","Industrial",110,26,1,"R","Landings",690032
+"69","shrimp",2010,"Mexico","Xiphopenaeus kroyeri",10,"Crustaceans","R",0.186708107828727,99546,"Reported","Atlantic seabob","Industrial",110,26,1,"R","Landings",690032
+"70","shrimp",2010,"Mexico","Xiphopenaeus kroyeri",10,"Crustaceans","R",13.9458714071231,99547,"Reported","Atlantic seabob","Artisanal",110,26,3,"R","Landings",690032
+"71","shrimp",2010,"Mexico","Xiphopenaeus kroyeri",10,"Crustaceans","R",21.8238316862721,98827,"Reported","Atlantic seabob","Artisanal",110,26,3,"R","Landings",690032
+"72","shrimp",2010,"Mexico","Xiphopenaeus kroyeri",10,"Crustaceans","R",0.234113305271482,99546,"Reported","Atlantic seabob","Artisanal",110,26,3,"R","Landings",690032
+"73","shrimp",2010,"Mexico","Xiphopenaeus kroyeri",10,"Crustaceans","R",7.81608837632051,99547,"Unreported","Atlantic seabob","Industrial",110,26,1,"U","Landings",690032
+"74","shrimp",2010,"Mexico","Xiphopenaeus kroyeri",10,"Crustaceans","R",6.00165740388942,98827,"Unreported","Atlantic seabob","Industrial",110,26,1,"U","Landings",690032
+"75","shrimp",2010,"Mexico","Xiphopenaeus kroyeri",10,"Crustaceans","R",0.0560124323486182,99546,"Unreported","Atlantic seabob","Industrial",110,26,1,"U","Landings",690032
+"76","shrimp",2010,"Mexico","Xiphopenaeus kroyeri",10,"Crustaceans","R",4.18376142213692,99547,"Unreported","Atlantic seabob","Artisanal",110,26,3,"U","Landings",690032
+"77","shrimp",2010,"Mexico","Xiphopenaeus kroyeri",10,"Crustaceans","R",6.54714950588163,98827,"Unreported","Atlantic seabob","Artisanal",110,26,3,"U","Landings",690032
+"78","shrimp",2010,"Mexico","Xiphopenaeus kroyeri",10,"Crustaceans","R",0.0702339915814445,99546,"Unreported","Atlantic seabob","Artisanal",110,26,3,"U","Landings",690032
+"79","lobsters,crab",2010,"Mexico","Panulirus argus",10,"Crustaceans","R",4.86494751018959,99547,"Reported","Caribbean spiny lobster","Artisanal",110,27,3,"R","Landings",690071
+"80","lobsters,crab",2010,"Mexico","Panulirus argus",10,"Crustaceans","R",7.07812622387564,98827,"Reported","Caribbean spiny lobster","Artisanal",110,27,3,"R","Landings",690071
+"81","lobsters,crab",2010,"Mexico","Panulirus argus",10,"Crustaceans","R",0.0917818128516418,99546,"Reported","Caribbean spiny lobster","Artisanal",110,27,3,"R","Landings",690071
+"82","lobsters,crab",2010,"Mexico","Panulirus argus",10,"Crustaceans","R",1.45948425305688,99547,"Unreported","Caribbean spiny lobster","Artisanal",110,27,3,"U","Landings",690071
+"83","lobsters,crab",2010,"Mexico","Panulirus argus",10,"Crustaceans","R",2.12343786716269,98827,"Unreported","Caribbean spiny lobster","Artisanal",110,27,3,"U","Landings",690071
+"84","lobsters,crab",2010,"Mexico","Panulirus argus",10,"Crustaceans","R",0.0275345438554926,99546,"Unreported","Caribbean spiny lobster","Artisanal",110,27,3,"U","Landings",690071
+"85","lobsters,crab",2010,"Mexico","Callinectes sapidus",10,"Crustaceans","R",88.6187595739136,99547,"Reported","Blue crab","Artisanal",110,27,3,"R","Landings",690052
+"86","lobsters,crab",2010,"Mexico","Callinectes sapidus",10,"Crustaceans","R",139.308996723634,98827,"Reported","Blue crab","Artisanal",110,27,3,"R","Landings",690052
+"87","lobsters,crab",2010,"Mexico","Callinectes sapidus",10,"Crustaceans","R",1.51722834639232,99546,"Reported","Blue crab","Artisanal",110,27,3,"R","Landings",690052
+"88","lobsters,crab",2010,"Mexico","Callinectes sapidus",10,"Crustaceans","R",32.788941042348,99547,"Unreported","Blue crab","Artisanal",110,27,3,"U","Landings",690052
+"89","lobsters,crab",2010,"Mexico","Callinectes sapidus",10,"Crustaceans","R",51.5443287877447,98827,"Unreported","Blue crab","Artisanal",110,27,3,"U","Landings",690052
+"90","lobsters,crab",2010,"Mexico","Callinectes sapidus",10,"Crustaceans","R",0.561374488165157,99546,"Unreported","Blue crab","Artisanal",110,27,3,"U","Landings",690052
+"91","reef-associatedmd",2010,"Mexico","Caranx crysos",3,"Perch-likes","R",45.3986620740223,99547,"Reported","Blue runner","Artisanal",110,17,3,"R","Landings",601933
+"92","reef-associatedmd",2010,"Mexico","Caranx crysos",3,"Perch-likes","R",73.5042665354771,98827,"Reported","Blue runner","Artisanal",110,17,3,"R","Landings",601933
+"93","reef-associatedmd",2010,"Mexico","Caranx crysos",3,"Perch-likes","R",0.741419016226222,99546,"Reported","Blue runner","Artisanal",110,17,3,"R","Landings",601933
+"94","reef-associatedmd",2010,"Mexico","Caranx crysos",3,"Perch-likes","R",16.7975049673882,99547,"Unreported","Blue runner","Artisanal",110,17,3,"U","Landings",601933
+"95","reef-associatedmd",2010,"Mexico","Caranx crysos",3,"Perch-likes","R",27.1965786181265,98827,"Unreported","Blue runner","Artisanal",110,17,3,"U","Landings",601933
+"96","reef-associatedmd",2010,"Mexico","Caranx crysos",3,"Perch-likes","R",0.274325036003702,99546,"Unreported","Blue runner","Artisanal",110,17,3,"U","Landings",601933
+"97","benthopelagiclg",2010,"Mexico","Mugil cephalus",3,"Perch-likes","R",24.934558929953,99547,"Reported","Flathead grey mullet","Artisanal",110,15,3,"R","Landings",600785
+"98","benthopelagiclg",2010,"Mexico","Mugil cephalus",3,"Perch-likes","R",40.4224079264913,98827,"Reported","Flathead grey mullet","Artisanal",110,15,3,"R","Landings",600785
+"99","benthopelagiclg",2010,"Mexico","Mugil cephalus",3,"Perch-likes","R",0.407730643824452,99546,"Reported","Flathead grey mullet","Artisanal",110,15,3,"R","Landings",600785
+"100","benthopelagiclg",2010,"Mexico","Mugil cephalus",3,"Perch-likes","R",9.2257868040826,99547,"Unreported","Flathead grey mullet","Artisanal",110,15,3,"U","Landings",600785
+"101","benthopelagiclg",2010,"Mexico","Mugil cephalus",3,"Perch-likes","R",14.9562909328018,98827,"Unreported","Flathead grey mullet","Artisanal",110,15,3,"U","Landings",600785
+"102","benthopelagiclg",2010,"Mexico","Mugil cephalus",3,"Perch-likes","R",0.150860338215047,99546,"Unreported","Flathead grey mullet","Artisanal",110,15,3,"U","Landings",600785
+"103","sharklg",2010,"Mexico","Ginglymostoma cirratum",9,"Sharks & rays","R",0.324327310133198,99547,"Reported","Nurse shark","Artisanal",110,20,3,"R","Landings",602532
+"104","sharklg",2010,"Mexico","Ginglymostoma cirratum",9,"Sharks & rays","R",0.412641781236887,98827,"Reported","Nurse shark","Artisanal",110,20,3,"R","Landings",602532
+"105","sharklg",2010,"Mexico","Ginglymostoma cirratum",9,"Sharks & rays","R",0.00766180086205666,99546,"Reported","Nurse shark","Artisanal",110,20,3,"R","Landings",602532
+"106","sharklg",2010,"Mexico","Ginglymostoma cirratum",9,"Sharks & rays","R",0.120001104749283,99547,"Unreported","Nurse shark","Artisanal",110,20,3,"U","Landings",602532
+"107","sharklg",2010,"Mexico","Ginglymostoma cirratum",9,"Sharks & rays","R",0.152677459057648,98827,"Unreported","Nurse shark","Artisanal",110,20,3,"U","Landings",602532
+"108","sharklg",2010,"Mexico","Ginglymostoma cirratum",9,"Sharks & rays","R",0.00283486631896096,99546,"Unreported","Nurse shark","Artisanal",110,20,3,"U","Landings",602532
+"109","shrimp",2010,"Mexico","Farfantepenaeus aztecus",10,"Crustaceans","R",32.1431365696758,99547,"Reported","Northern brown shrimp","Industrial",110,26,1,"R","Landings",690265
+"110","shrimp",2010,"Mexico","Farfantepenaeus aztecus",10,"Crustaceans","R",27.418161961614,98827,"Reported","Northern brown shrimp","Industrial",110,26,1,"R","Landings",690265
+"111","shrimp",2010,"Mexico","Farfantepenaeus aztecus",10,"Crustaceans","R",0.234924367202148,99546,"Reported","Northern brown shrimp","Industrial",110,26,1,"R","Landings",690265
+"112","shrimp",2010,"Mexico","Farfantepenaeus aztecus",10,"Crustaceans","R",26.0816876568003,99547,"Reported","Northern brown shrimp","Artisanal",110,26,3,"R","Landings",690265
+"113","shrimp",2010,"Mexico","Farfantepenaeus aztecus",10,"Crustaceans","R",45.3408211794624,98827,"Reported","Northern brown shrimp","Artisanal",110,26,3,"R","Landings",690265
+"114","shrimp",2010,"Mexico","Farfantepenaeus aztecus",10,"Crustaceans","R",0.446540619897105,99546,"Reported","Northern brown shrimp","Artisanal",110,26,3,"R","Landings",690265
+"115","shrimp",2010,"Mexico","Farfantepenaeus aztecus",10,"Crustaceans","R",9.64294097090274,99547,"Unreported","Northern brown shrimp","Industrial",110,26,1,"U","Landings",690265
+"116","shrimp",2010,"Mexico","Farfantepenaeus aztecus",10,"Crustaceans","R",8.2254485884842,98827,"Unreported","Northern brown shrimp","Industrial",110,26,1,"U","Landings",690265
+"117","shrimp",2010,"Mexico","Farfantepenaeus aztecus",10,"Crustaceans","R",0.0704773101606445,99546,"Unreported","Northern brown shrimp","Industrial",110,26,1,"U","Landings",690265
+"118","shrimp",2010,"Mexico","Farfantepenaeus aztecus",10,"Crustaceans","R",7.82450629704009,99547,"Unreported","Northern brown shrimp","Artisanal",110,26,3,"U","Landings",690265
+"119","shrimp",2010,"Mexico","Farfantepenaeus aztecus",10,"Crustaceans","R",13.6022463538387,98827,"Unreported","Northern brown shrimp","Artisanal",110,26,3,"U","Landings",690265
+"120","shrimp",2010,"Mexico","Farfantepenaeus aztecus",10,"Crustaceans","R",0.133962185969132,99546,"Unreported","Northern brown shrimp","Artisanal",110,26,3,"U","Landings",690265
+"121","sharklg",2010,"Mexico","Rhizoprionodon terraenovae",9,"Sharks & rays","R",2.5024560884086,99547,"Reported","Atlantic sharpnose shark","Artisanal",110,20,3,"R","Landings",600905
+"122","sharklg",2010,"Mexico","Rhizoprionodon terraenovae",9,"Sharks & rays","R",3.16910964728599,98827,"Reported","Atlantic sharpnose shark","Artisanal",110,20,3,"R","Landings",600905
+"123","sharklg",2010,"Mexico","Rhizoprionodon terraenovae",9,"Sharks & rays","R",0.0508105368315352,99546,"Reported","Atlantic sharpnose shark","Artisanal",110,20,3,"R","Landings",600905
+"124","sharklg",2010,"Mexico","Rhizoprionodon terraenovae",9,"Sharks & rays","R",0.925908752711182,99547,"Unreported","Atlantic sharpnose shark","Artisanal",110,20,3,"U","Landings",600905
+"125","sharklg",2010,"Mexico","Rhizoprionodon terraenovae",9,"Sharks & rays","R",1.17257056949582,98827,"Unreported","Atlantic sharpnose shark","Artisanal",110,20,3,"U","Landings",600905
+"126","sharklg",2010,"Mexico","Rhizoprionodon terraenovae",9,"Sharks & rays","R",0.018799898627668,99546,"Unreported","Atlantic sharpnose shark","Artisanal",110,20,3,"U","Landings",600905
+"127","shrimp",2010,"Mexico","Farfantepenaeus duorarum",10,"Crustaceans","R",16.2840170621412,98827,"Reported","Northern pink shrimp","Industrial",110,26,1,"R","Landings",690268
+"128","shrimp",2010,"Mexico","Farfantepenaeus duorarum",10,"Crustaceans","R",28.6258801358566,98827,"Reported","Northern pink shrimp","Artisanal",110,26,3,"R","Landings",690268
+"129","shrimp",2010,"Mexico","Farfantepenaeus duorarum",10,"Crustaceans","R",4.88520511864235,98827,"Unreported","Northern pink shrimp","Industrial",110,26,1,"U","Landings",690268
+"130","shrimp",2010,"Mexico","Farfantepenaeus duorarum",10,"Crustaceans","R",8.58776404075698,98827,"Unreported","Northern pink shrimp","Artisanal",110,26,3,"U","Landings",690268
+"131","sharklg",2010,"Mexico","Galeocerdo cuvier",9,"Sharks & rays","R",0.127196661631417,99547,"Reported","Tiger shark","Artisanal",110,20,3,"R","Landings",600886
+"132","sharklg",2010,"Mexico","Galeocerdo cuvier",9,"Sharks & rays","R",0.165237465389454,98827,"Reported","Tiger shark","Artisanal",110,20,3,"R","Landings",600886
+"133","sharklg",2010,"Mexico","Galeocerdo cuvier",9,"Sharks & rays","R",0.00300400122280092,99546,"Reported","Tiger shark","Artisanal",110,20,3,"R","Landings",600886
+"134","sharklg",2010,"Mexico","Galeocerdo cuvier",9,"Sharks & rays","R",0.0470627648036243,99547,"Unreported","Tiger shark","Artisanal",110,20,3,"U","Landings",600886
+"135","sharklg",2010,"Mexico","Galeocerdo cuvier",9,"Sharks & rays","R",0.061137862194098,98827,"Unreported","Tiger shark","Artisanal",110,20,3,"U","Landings",600886
+"136","sharklg",2010,"Mexico","Galeocerdo cuvier",9,"Sharks & rays","R",0.00111148045243634,99546,"Unreported","Tiger shark","Artisanal",110,20,3,"U","Landings",600886
+"137","shrimp",2010,"Mexico","Farfantepenaeus brasiliensis",10,"Crustaceans","R",1.90924333010801,99547,"Reported","Redspotted shrimp","Industrial",110,26,1,"R","Landings",690327
+"138","shrimp",2010,"Mexico","Farfantepenaeus brasiliensis",10,"Crustaceans","R",0.0139540763294299,99546,"Reported","Redspotted shrimp","Industrial",110,26,1,"R","Landings",690327
+"139","shrimp",2010,"Mexico","Farfantepenaeus brasiliensis",10,"Crustaceans","R",1.45938450774269,98827,"Reported","Redspotted shrimp","Industrial",110,26,1,"R","Landings",690327
+"140","shrimp",2010,"Mexico","Farfantepenaeus brasiliensis",10,"Crustaceans","R",1.49348870640275,99547,"Reported","Redspotted shrimp","Artisanal",110,26,3,"R","Landings",690327
+"141","shrimp",2010,"Mexico","Farfantepenaeus brasiliensis",10,"Crustaceans","R",2.3265586239478,98827,"Reported","Redspotted shrimp","Artisanal",110,26,3,"R","Landings",690327
+"142","shrimp",2010,"Mexico","Farfantepenaeus brasiliensis",10,"Crustaceans","R",0.0255697937013109,99546,"Reported","Redspotted shrimp","Artisanal",110,26,3,"R","Landings",690327
+"143","shrimp",2010,"Mexico","Farfantepenaeus brasiliensis",10,"Crustaceans","R",0.572772999032402,99547,"Unreported","Redspotted shrimp","Industrial",110,26,1,"U","Landings",690327
+"144","shrimp",2010,"Mexico","Farfantepenaeus brasiliensis",10,"Crustaceans","R",0.00418622289882897,99546,"Unreported","Redspotted shrimp","Industrial",110,26,1,"U","Landings",690327
+"145","shrimp",2010,"Mexico","Farfantepenaeus brasiliensis",10,"Crustaceans","R",0.437815352322805,98827,"Unreported","Redspotted shrimp","Industrial",110,26,1,"U","Landings",690327
+"146","shrimp",2010,"Mexico","Farfantepenaeus brasiliensis",10,"Crustaceans","R",0.448046611920825,99547,"Unreported","Redspotted shrimp","Artisanal",110,26,3,"U","Landings",690327
+"147","shrimp",2010,"Mexico","Farfantepenaeus brasiliensis",10,"Crustaceans","R",0.697967587184341,98827,"Unreported","Redspotted shrimp","Artisanal",110,26,3,"U","Landings",690327
+"148","shrimp",2010,"Mexico","Farfantepenaeus brasiliensis",10,"Crustaceans","R",0.00767093811039328,99546,"Unreported","Redspotted shrimp","Artisanal",110,26,3,"U","Landings",690327
+"149","reef-associatedmd",2010,"Mexico","Ocyurus chrysurus",3,"Perch-likes","R",17.3894769181902,99547,"Reported","Yellowtail snapper","Artisanal",110,17,3,"R","Landings",600188
+"150","reef-associatedmd",2010,"Mexico","Ocyurus chrysurus",3,"Perch-likes","R",26.1006994073707,98827,"Reported","Yellowtail snapper","Artisanal",110,17,3,"R","Landings",600188
+"151","reef-associatedmd",2010,"Mexico","Ocyurus chrysurus",3,"Perch-likes","R",0.327005282605136,99546,"Reported","Yellowtail snapper","Artisanal",110,17,3,"R","Landings",600188
+"152","reef-associatedmd",2010,"Mexico","Ocyurus chrysurus",3,"Perch-likes","R",6.43410645973039,99547,"Unreported","Yellowtail snapper","Artisanal",110,17,3,"U","Landings",600188
+"153","reef-associatedmd",2010,"Mexico","Ocyurus chrysurus",3,"Perch-likes","R",9.65725878072714,98827,"Unreported","Yellowtail snapper","Artisanal",110,17,3,"U","Landings",600188
+"154","reef-associatedmd",2010,"Mexico","Ocyurus chrysurus",3,"Perch-likes","R",0.1209919545639,99546,"Unreported","Yellowtail snapper","Artisanal",110,17,3,"U","Landings",600188
+"155","pelagiclg",2010,"Mexico","Rachycentron canadum",3,"Perch-likes","R",6.7172675060451,99547,"Reported","Cobia","Artisanal",110,3,3,"R","Landings",603542
+"156","pelagiclg",2010,"Mexico","Rachycentron canadum",3,"Perch-likes","R",8.52268289209595,98827,"Reported","Cobia","Artisanal",110,3,3,"R","Landings",603542
+"157","pelagiclg",2010,"Mexico","Rachycentron canadum",3,"Perch-likes","R",0.161885538254822,99546,"Reported","Cobia","Artisanal",110,3,3,"R","Landings",603542
+"158","pelagiclg",2010,"Mexico","Rachycentron canadum",3,"Perch-likes","R",2.48538897723669,99547,"Unreported","Cobia","Artisanal",110,3,3,"U","Landings",603542
+"159","pelagiclg",2010,"Mexico","Rachycentron canadum",3,"Perch-likes","R",3.1533926700755,98827,"Unreported","Cobia","Artisanal",110,3,3,"U","Landings",603542
+"160","pelagiclg",2010,"Mexico","Rachycentron canadum",3,"Perch-likes","R",0.0598976491542843,99546,"Unreported","Cobia","Artisanal",110,3,3,"U","Landings",603542
+"161","demersalsm",2010,"Mexico","Conodon nobilis",3,"Perch-likes","R",3.86651544580118,99547,"Reported","Barred grunt","Artisanal",110,4,3,"R","Landings",600401
+"162","demersalsm",2010,"Mexico","Conodon nobilis",3,"Perch-likes","R",4.96388006319452,98827,"Reported","Barred grunt","Artisanal",110,4,3,"R","Landings",600401
+"163","demersalsm",2010,"Mexico","Conodon nobilis",3,"Perch-likes","R",0.0666659884984956,99546,"Reported","Barred grunt","Artisanal",110,4,3,"R","Landings",600401
+"164","demersalsm",2010,"Mexico","Conodon nobilis",3,"Perch-likes","R",1.43061071494644,99547,"Unreported","Barred grunt","Artisanal",110,4,3,"U","Landings",600401
+"165","demersalsm",2010,"Mexico","Conodon nobilis",3,"Perch-likes","R",1.83663562338197,98827,"Unreported","Barred grunt","Artisanal",110,4,3,"U","Landings",600401
+"166","demersalsm",2010,"Mexico","Conodon nobilis",3,"Perch-likes","R",0.0246664157444434,99546,"Unreported","Barred grunt","Artisanal",110,4,3,"U","Landings",600401
+"167","cephalopods",2010,"Mexico","Octopus maya",12,"Other fishes & inverts","R",94.9932308960357,99547,"Reported","Mexican foureyed octopus","Artisanal",110,25,3,"R","Landings",690903
+"168","cephalopods",2010,"Mexico","Octopus maya",12,"Other fishes & inverts","R",102.633781646587,98827,"Reported","Mexican foureyed octopus","Artisanal",110,25,3,"R","Landings",690903
+"169","cephalopods",2010,"Mexico","Octopus maya",12,"Other fishes & inverts","R",1.70559301323044,99546,"Reported","Mexican foureyed octopus","Artisanal",110,25,3,"R","Landings",690903
+"170","cephalopods",2010,"Mexico","Octopus maya",12,"Other fishes & inverts","R",14.2489846344053,99547,"Unreported","Mexican foureyed octopus","Artisanal",110,25,3,"U","Landings",690903
+"171","cephalopods",2010,"Mexico","Octopus maya",12,"Other fishes & inverts","R",15.3950672469881,98827,"Unreported","Mexican foureyed octopus","Artisanal",110,25,3,"U","Landings",690903
+"172","cephalopods",2010,"Mexico","Octopus maya",12,"Other fishes & inverts","R",0.255838951984566,99546,"Unreported","Mexican foureyed octopus","Artisanal",110,25,3,"U","Landings",690903
+"173","shrimp",2010,"Mexico","Sicyonia brevirostris",10,"Crustaceans","R",1.86611356655587,99547,"Reported","Rock shrimp","Industrial",110,26,1,"R","Landings",690334
+"174","shrimp",2010,"Mexico","Sicyonia brevirostris",10,"Crustaceans","R",0.0136388540614319,99546,"Reported","Rock shrimp","Industrial",110,26,1,"R","Landings",690334
+"175","shrimp",2010,"Mexico","Sicyonia brevirostris",10,"Crustaceans","R",1.59179873114387,98827,"Reported","Rock shrimp","Industrial",110,26,1,"R","Landings",690334
+"176","shrimp",2010,"Mexico","Sicyonia brevirostris",10,"Crustaceans","R",1.55934649368413,99547,"Reported","Rock shrimp","Artisanal",110,26,3,"R","Landings",690334
+"177","shrimp",2010,"Mexico","Sicyonia brevirostris",10,"Crustaceans","R",2.71079277757242,98827,"Reported","Rock shrimp","Artisanal",110,26,3,"R","Landings",690334
+"178","shrimp",2010,"Mexico","Sicyonia brevirostris",10,"Crustaceans","R",0.0266973348920748,99546,"Reported","Rock shrimp","Artisanal",110,26,3,"R","Landings",690334
+"179","shrimp",2010,"Mexico","Sicyonia brevirostris",10,"Crustaceans","R",0.559834069966763,99547,"Unreported","Rock shrimp","Industrial",110,26,1,"U","Landings",690334
+"180","shrimp",2010,"Mexico","Sicyonia brevirostris",10,"Crustaceans","R",0.00409165621842957,99546,"Unreported","Rock shrimp","Industrial",110,26,1,"U","Landings",690334
+"181","shrimp",2010,"Mexico","Sicyonia brevirostris",10,"Crustaceans","R",0.477539619343162,98827,"Unreported","Rock shrimp","Industrial",110,26,1,"U","Landings",690334
+"182","shrimp",2010,"Mexico","Sicyonia brevirostris",10,"Crustaceans","R",0.467803948105238,99547,"Unreported","Rock shrimp","Artisanal",110,26,3,"U","Landings",690334
+"183","shrimp",2010,"Mexico","Sicyonia brevirostris",10,"Crustaceans","R",0.813237833271723,98827,"Unreported","Rock shrimp","Artisanal",110,26,3,"U","Landings",690334
+"184","shrimp",2010,"Mexico","Sicyonia brevirostris",10,"Crustaceans","R",0.00800920046762241,99546,"Unreported","Rock shrimp","Artisanal",110,26,3,"U","Landings",690334
+"185","otherdeminvert",2010,"Mexico","Lobatus gigas",11,"Molluscs","R",0.933951739490739,99547,"Reported","Pink conch","Artisanal",110,29,3,"R","Landings",690304
+"186","otherdeminvert",2010,"Mexico","Lobatus gigas",11,"Molluscs","R",1.33498391997038,98827,"Reported","Pink conch","Artisanal",110,29,3,"R","Landings",690304
+"187","otherdeminvert",2010,"Mexico","Lobatus gigas",11,"Molluscs","R",0.0175883578314425,99546,"Reported","Pink conch","Artisanal",110,29,3,"R","Landings",690304
+"188","otherdeminvert",2010,"Mexico","Lobatus gigas",11,"Molluscs","R",0.280185521847222,99547,"Unreported","Pink conch","Artisanal",110,29,3,"U","Landings",690304
+"189","otherdeminvert",2010,"Mexico","Lobatus gigas",11,"Molluscs","R",0.400495175991115,98827,"Unreported","Pink conch","Artisanal",110,29,3,"U","Landings",690304
+"190","otherdeminvert",2010,"Mexico","Lobatus gigas",11,"Molluscs","R",0.00527650734943275,99546,"Unreported","Pink conch","Artisanal",110,29,3,"U","Landings",690304
+"191","cephalopods",2010,"Mexico","Octopus vulgaris",12,"Other fishes & inverts","R",212.978196399694,99547,"Reported","Common octopus","Artisanal",110,25,3,"R","Landings",690088
+"192","cephalopods",2010,"Mexico","Octopus vulgaris",12,"Other fishes & inverts","R",287.461358159897,98827,"Reported","Common octopus","Artisanal",110,25,3,"R","Landings",690088
+"193","cephalopods",2010,"Mexico","Octopus vulgaris",12,"Other fishes & inverts","R",3.75422533765704,99546,"Reported","Common octopus","Artisanal",110,25,3,"R","Landings",690088
+"194","reef-associatedlg",2010,"Mexico","Centropomidae",3,"Perch-likes","R",65.2696048992806,99547,"Reported","Snooks","Artisanal",110,18,3,"R","Landings",400287
+"195","reef-associatedlg",2010,"Mexico","Centropomidae",3,"Perch-likes","R",96.3820922708164,98827,"Reported","Snooks","Artisanal",110,18,3,"R","Landings",400287
+"196","reef-associatedlg",2010,"Mexico","Centropomidae",3,"Perch-likes","R",1.08386334457145,99546,"Reported","Snooks","Artisanal",110,18,3,"R","Landings",400287
+"197","reef-associatedlg",2010,"Mexico","Centropomidae",3,"Perch-likes","R",24.1497538127338,99547,"Unreported","Snooks","Artisanal",110,18,3,"U","Landings",400287
+"198","reef-associatedlg",2010,"Mexico","Centropomidae",3,"Perch-likes","R",35.6613741402021,98827,"Unreported","Snooks","Artisanal",110,18,3,"U","Landings",400287
+"199","reef-associatedlg",2010,"Mexico","Centropomidae",3,"Perch-likes","R",0.401029437491435,99546,"Unreported","Snooks","Artisanal",110,18,3,"U","Landings",400287
+"200","reef-associatedmd",2010,"Mexico","Lachnolaimus maximus",3,"Perch-likes","R",13.0174587490852,99547,"Reported","Hogfish","Artisanal",110,17,3,"R","Landings",601071
+"201","reef-associatedmd",2010,"Mexico","Lachnolaimus maximus",3,"Perch-likes","R",19.3780720495574,98827,"Reported","Hogfish","Artisanal",110,17,3,"R","Landings",601071
+"202","reef-associatedmd",2010,"Mexico","Lachnolaimus maximus",3,"Perch-likes","R",0.245586609148419,99546,"Reported","Hogfish","Artisanal",110,17,3,"R","Landings",601071
+"203","reef-associatedmd",2010,"Mexico","Lachnolaimus maximus",3,"Perch-likes","R",4.81645973716151,99547,"Unreported","Hogfish","Artisanal",110,17,3,"U","Landings",601071
+"204","reef-associatedmd",2010,"Mexico","Lachnolaimus maximus",3,"Perch-likes","R",7.16988665833624,98827,"Unreported","Hogfish","Artisanal",110,17,3,"U","Landings",601071
+"205","reef-associatedmd",2010,"Mexico","Lachnolaimus maximus",3,"Perch-likes","R",0.0908670453849149,99546,"Unreported","Hogfish","Artisanal",110,17,3,"U","Landings",601071
+"206","reef-associatedlg",2010,"Mexico","Scomberomorus cavalla",3,"Perch-likes","R",1.02751361376484,99547,"Reported","King mackerel","Industrial",110,18,1,"R","Landings",600120
+"207","reef-associatedlg",2010,"Mexico","Scomberomorus cavalla",3,"Perch-likes","R",0.008261999903106,99546,"Reported","King mackerel","Industrial",110,18,1,"R","Landings",600120
+"208","reef-associatedlg",2010,"Mexico","Scomberomorus cavalla",3,"Perch-likes","R",0.658225419730299,98827,"Reported","King mackerel","Industrial",110,18,1,"R","Landings",600120
+"209","reef-associatedlg",2010,"Mexico","Scomberomorus cavalla",3,"Perch-likes","R",145.464942512565,99547,"Reported","King mackerel","Artisanal",110,18,3,"R","Landings",600120
+"210","reef-associatedlg",2010,"Mexico","Scomberomorus cavalla",3,"Perch-likes","R",190.005443071858,98827,"Reported","King mackerel","Artisanal",110,18,3,"R","Landings",600120
+"211","reef-associatedlg",2010,"Mexico","Scomberomorus cavalla",3,"Perch-likes","R",2.73915712714134,99546,"Reported","King mackerel","Artisanal",110,18,3,"R","Landings",600120
+"212","reef-associatedlg",2010,"Mexico","Scomberomorus cavalla",3,"Perch-likes","R",53.8220287296492,99547,"Unreported","King mackerel","Artisanal",110,18,3,"U","Landings",600120
+"213","reef-associatedlg",2010,"Mexico","Scomberomorus cavalla",3,"Perch-likes","R",70.3020139365873,98827,"Unreported","King mackerel","Artisanal",110,18,3,"U","Landings",600120
+"214","reef-associatedlg",2010,"Mexico","Scomberomorus cavalla",3,"Perch-likes","R",1.01348813704229,99546,"Unreported","King mackerel","Artisanal",110,18,3,"U","Landings",600120
+"215","reef-associatedmd",2010,"Mexico","Lutjanus griseus",3,"Perch-likes","R",3.09054663342476,99547,"Reported","Grey snapper","Artisanal",110,17,3,"R","Landings",600266
+"216","reef-associatedmd",2010,"Mexico","Lutjanus griseus",3,"Perch-likes","R",3.92770657191264,98827,"Reported","Grey snapper","Artisanal",110,17,3,"R","Landings",600266
+"217","reef-associatedmd",2010,"Mexico","Lutjanus griseus",3,"Perch-likes","R",0.062939922707207,99546,"Reported","Grey snapper","Artisanal",110,17,3,"R","Landings",600266
+"218","reef-associatedmd",2010,"Mexico","Lutjanus griseus",3,"Perch-likes","R",1.14350225436716,99547,"Unreported","Grey snapper","Artisanal",110,17,3,"U","Landings",600266
+"219","reef-associatedmd",2010,"Mexico","Lutjanus griseus",3,"Perch-likes","R",1.45325143160768,98827,"Unreported","Grey snapper","Artisanal",110,17,3,"U","Landings",600266
+"220","reef-associatedmd",2010,"Mexico","Lutjanus griseus",3,"Perch-likes","R",0.0232877714016666,99546,"Unreported","Grey snapper","Artisanal",110,17,3,"U","Landings",600266
+"221","pelagicmd",2010,"Mexico","Scomberomorus maculatus",3,"Perch-likes","R",0.521258830326126,98827,"Reported","Atlantic Spanish mackerel","Industrial",110,2,1,"R","Landings",600126
+"222","pelagicmd",2010,"Mexico","Scomberomorus maculatus",3,"Perch-likes","R",95.0927900003212,98827,"Reported","Atlantic Spanish mackerel","Artisanal",110,2,3,"R","Landings",600126
+"223","pelagicmd",2010,"Mexico","Scomberomorus maculatus",3,"Perch-likes","R",35.1843323001189,98827,"Unreported","Atlantic Spanish mackerel","Artisanal",110,2,3,"U","Landings",600126
+"224","demersalmd",2010,"Mexico","Menticirrhus littoralis",3,"Perch-likes","R",1.50349439213531,99547,"Reported","Gulf kingcroaker","Artisanal",110,5,3,"R","Landings",600411
+"225","demersalmd",2010,"Mexico","Menticirrhus littoralis",3,"Perch-likes","R",2.31880831671591,98827,"Reported","Gulf kingcroaker","Artisanal",110,5,3,"R","Landings",600411
+"226","demersalmd",2010,"Mexico","Menticirrhus littoralis",3,"Perch-likes","R",0.0262060825007054,99546,"Reported","Gulf kingcroaker","Artisanal",110,5,3,"R","Landings",600411
+"227","demersalmd",2010,"Mexico","Menticirrhus littoralis",3,"Perch-likes","R",0.556292925090065,99547,"Unreported","Gulf kingcroaker","Artisanal",110,5,3,"U","Landings",600411
+"228","demersalmd",2010,"Mexico","Menticirrhus littoralis",3,"Perch-likes","R",0.857959077184885,98827,"Unreported","Gulf kingcroaker","Artisanal",110,5,3,"U","Landings",600411
+"229","demersalmd",2010,"Mexico","Menticirrhus littoralis",3,"Perch-likes","R",0.00969625052526099,99546,"Unreported","Gulf kingcroaker","Artisanal",110,5,3,"U","Landings",600411
+"230","reef-associatedmd",2010,"Mexico","Lutjanus campechanus",3,"Perch-likes","R",14.912170880035,99547,"Reported","Northern red snapper","Artisanal",110,17,3,"R","Landings",601423
+"231","reef-associatedmd",2010,"Mexico","Lutjanus campechanus",3,"Perch-likes","R",21.9797337882495,98827,"Reported","Northern red snapper","Artisanal",110,17,3,"R","Landings",601423
+"232","reef-associatedmd",2010,"Mexico","Lutjanus campechanus",3,"Perch-likes","R",0.281332136483779,99546,"Reported","Northern red snapper","Artisanal",110,17,3,"R","Landings",601423
+"233","reef-associatedmd",2010,"Mexico","Lutjanus campechanus",3,"Perch-likes","R",5.51750322561295,99547,"Unreported","Northern red snapper","Artisanal",110,17,3,"U","Landings",601423
+"234","reef-associatedmd",2010,"Mexico","Lutjanus campechanus",3,"Perch-likes","R",8.13250150165232,98827,"Unreported","Northern red snapper","Artisanal",110,17,3,"U","Landings",601423
+"235","reef-associatedmd",2010,"Mexico","Lutjanus campechanus",3,"Perch-likes","R",0.104092890498998,99546,"Unreported","Northern red snapper","Artisanal",110,17,3,"U","Landings",601423
+"236","demersallg",2010,"Mexico","Pogonias cromis",3,"Perch-likes","R",0.475204249104424,99547,"Reported","Black drum","Artisanal",110,6,3,"R","Landings",600425
+"237","demersallg",2010,"Mexico","Pogonias cromis",3,"Perch-likes","R",0.624062678097211,98827,"Reported","Black drum","Artisanal",110,6,3,"R","Landings",600425
+"238","demersallg",2010,"Mexico","Pogonias cromis",3,"Perch-likes","R",0.00907800799652169,99546,"Reported","Black drum","Artisanal",110,6,3,"R","Landings",600425
+"239","demersallg",2010,"Mexico","Pogonias cromis",3,"Perch-likes","R",0.175825572168637,99547,"Unreported","Black drum","Artisanal",110,6,3,"U","Landings",600425
+"240","demersallg",2010,"Mexico","Pogonias cromis",3,"Perch-likes","R",0.230903190895968,98827,"Unreported","Black drum","Artisanal",110,6,3,"U","Landings",600425
+"241","demersallg",2010,"Mexico","Pogonias cromis",3,"Perch-likes","R",0.00335886295871303,99546,"Unreported","Black drum","Artisanal",110,6,3,"U","Landings",600425
+"242","reef-associatedmd",2010,"Mexico","Lutjanus synagris",3,"Perch-likes","R",2.73797796746352,99547,"Reported","Lane snapper","Artisanal",110,17,3,"R","Landings",600181
+"243","reef-associatedmd",2010,"Mexico","Lutjanus synagris",3,"Perch-likes","R",3.39773368815539,98827,"Reported","Lane snapper","Artisanal",110,17,3,"R","Landings",600181
+"244","reef-associatedmd",2010,"Mexico","Lutjanus synagris",3,"Perch-likes","R",0.0514592448729003,99546,"Reported","Lane snapper","Artisanal",110,17,3,"R","Landings",600181
+"245","reef-associatedmd",2010,"Mexico","Lutjanus synagris",3,"Perch-likes","R",1.0130518479615,99547,"Unreported","Lane snapper","Artisanal",110,17,3,"U","Landings",600181
+"246","reef-associatedmd",2010,"Mexico","Lutjanus synagris",3,"Perch-likes","R",1.25716146461749,98827,"Unreported","Lane snapper","Artisanal",110,17,3,"U","Landings",600181
+"247","reef-associatedmd",2010,"Mexico","Lutjanus synagris",3,"Perch-likes","R",0.0190399206029731,99546,"Unreported","Lane snapper","Artisanal",110,17,3,"U","Landings",600181
+"248","otherdeminvert",2010,"Mexico","Crassostrea virginica",11,"Molluscs","R",459.965606707701,99547,"Reported","American cupped oyster","Artisanal",110,29,3,"R","Landings",690009
+"249","otherdeminvert",2010,"Mexico","Crassostrea virginica",11,"Molluscs","R",732.575596701674,98827,"Reported","American cupped oyster","Artisanal",110,29,3,"R","Landings",690009
+"250","otherdeminvert",2010,"Mexico","Crassostrea virginica",11,"Molluscs","R",7.431979832595,99546,"Reported","American cupped oyster","Artisanal",110,29,3,"R","Landings",690009
+"251","pelagicmd",2010,"Mexico","Joturus pichardi",3,"Perch-likes","R",0.0906854297208199,99547,"Reported","Bobo mullet","Artisanal",110,2,3,"R","Landings",600338
+"252","pelagicmd",2010,"Mexico","Joturus pichardi",3,"Perch-likes","R",0.138225210034383,98827,"Reported","Bobo mullet","Artisanal",110,2,3,"R","Landings",600338
+"253","pelagicmd",2010,"Mexico","Joturus pichardi",3,"Perch-likes","R",0.00150284222574984,99546,"Reported","Bobo mullet","Artisanal",110,2,3,"R","Landings",600338
+"254","pelagicmd",2010,"Mexico","Joturus pichardi",3,"Perch-likes","R",0.0335536089967034,99547,"Unreported","Bobo mullet","Artisanal",110,2,3,"U","Landings",600338
+"255","pelagicmd",2010,"Mexico","Joturus pichardi",3,"Perch-likes","R",0.0511433277127216,98827,"Unreported","Bobo mullet","Artisanal",110,2,3,"U","Landings",600338
+"256","pelagicmd",2010,"Mexico","Joturus pichardi",3,"Perch-likes","R",0.000556051623527442,99546,"Unreported","Bobo mullet","Artisanal",110,2,3,"U","Landings",600338
+"257","demersalmd",2010,"Mexico","Marine fishes not identified",12,"Other fishes & inverts","R",1.84490853258913,99547,"Reported","Marine fishes nei","Artisanal",110,5,3,"R","Landings",100039
+"258","demersalmd",2010,"Mexico","Marine fishes not identified",12,"Other fishes & inverts","R",2.8086090553168,98827,"Reported","Marine fishes nei","Artisanal",110,5,3,"R","Landings",100039
+"259","demersalmd",2010,"Mexico","Marine fishes not identified",12,"Other fishes & inverts","R",0.0552640203560094,99546,"Reported","Marine fishes nei","Artisanal",110,5,3,"R","Landings",100039
+"260","demersalmd",2010,"Mexico","Marine fishes not identified",12,"Other fishes & inverts","R",11.5627899817395,99547,"Reported","Marine fishes nei","Artisanal",110,5,3,"R","Landings",100039
+"261","demersalmd",2010,"Mexico","Marine fishes not identified",12,"Other fishes & inverts","R",17.6026919892144,98827,"Reported","Marine fishes nei","Artisanal",110,5,3,"R","Landings",100039
+"262","demersalmd",2010,"Mexico","Marine fishes not identified",12,"Other fishes & inverts","R",0.346362028054767,99546,"Reported","Marine fishes nei","Artisanal",110,5,3,"R","Landings",100039
+"263","demersalmd",2010,"Mexico","Marine fishes not identified",12,"Other fishes & inverts","R",0.145313339088289,99547,"Reported","Marine fishes nei","Artisanal",110,5,3,"R","Landings",100039
+"264","demersalmd",2010,"Mexico","Marine fishes not identified",12,"Other fishes & inverts","R",0.221218750313287,98827,"Reported","Marine fishes nei","Artisanal",110,5,3,"R","Landings",100039
+"265","demersalmd",2010,"Mexico","Marine fishes not identified",12,"Other fishes & inverts","R",0.0043528441586775,99546,"Reported","Marine fishes nei","Artisanal",110,5,3,"R","Landings",100039
+"266","demersalmd",2010,"Mexico","Marine fishes not identified",12,"Other fishes & inverts","R",1.84490853258913,99547,"Unreported","Marine fishes nei","Artisanal",110,5,3,"U","Landings",100039
+"267","demersalmd",2010,"Mexico","Marine fishes not identified",12,"Other fishes & inverts","R",2.8086090553168,98827,"Unreported","Marine fishes nei","Artisanal",110,5,3,"U","Landings",100039
+"268","demersalmd",2010,"Mexico","Marine fishes not identified",12,"Other fishes & inverts","R",0.0552640203560094,99546,"Unreported","Marine fishes nei","Artisanal",110,5,3,"U","Landings",100039
+"269","demersalmd",2010,"Mexico","Marine fishes not identified",12,"Other fishes & inverts","R",4.27823229324363,99547,"Unreported","Marine fishes nei","Artisanal",110,5,3,"U","Landings",100039
+"270","demersalmd",2010,"Mexico","Marine fishes not identified",12,"Other fishes & inverts","R",6.51299603600933,98827,"Unreported","Marine fishes nei","Artisanal",110,5,3,"U","Landings",100039
+"271","demersalmd",2010,"Mexico","Marine fishes not identified",12,"Other fishes & inverts","R",0.128153950380264,99546,"Unreported","Marine fishes nei","Artisanal",110,5,3,"U","Landings",100039
+"272","demersalmd",2010,"Mexico","Marine fishes not identified",12,"Other fishes & inverts","D",0.634810367311404,99547,"Unreported","Marine fishes nei","Industrial",110,5,1,"U","Discards",100039
+"273","demersalmd",2010,"Mexico","Marine fishes not identified",12,"Other fishes & inverts","D",0.473957964697173,98827,"Unreported","Marine fishes nei","Industrial",110,5,1,"U","Discards",100039
+"274","demersalmd",2010,"Mexico","Marine fishes not identified",12,"Other fishes & inverts","D",0.00811989927867183,99546,"Unreported","Marine fishes nei","Industrial",110,5,1,"U","Discards",100039
+"275","demersalmd",2010,"Mexico","Rhomboplites aurorubens",3,"Perch-likes","R",36.5009370007756,99547,"Reported","Vermilion snapper","Artisanal",110,5,3,"R","Landings",600213
+"276","demersalmd",2010,"Mexico","Rhomboplites aurorubens",3,"Perch-likes","R",0.68563401088807,99546,"Reported","Vermilion snapper","Artisanal",110,5,3,"R","Landings",600213
+"277","demersalmd",2010,"Mexico","Rhomboplites aurorubens",3,"Perch-likes","R",51.6168748185249,98827,"Reported","Vermilion snapper","Artisanal",110,5,3,"R","Landings",600213
+"278","demersalmd",2010,"Mexico","Rhomboplites aurorubens",3,"Perch-likes","R",13.505346690287,99547,"Unreported","Vermilion snapper","Artisanal",110,5,3,"U","Landings",600213
+"279","demersalmd",2010,"Mexico","Rhomboplites aurorubens",3,"Perch-likes","R",0.253684584028586,99546,"Unreported","Vermilion snapper","Artisanal",110,5,3,"U","Landings",600213
+"280","demersalmd",2010,"Mexico","Rhomboplites aurorubens",3,"Perch-likes","R",19.0982436828542,98827,"Unreported","Vermilion snapper","Artisanal",110,5,3,"U","Landings",600213
+"281","pelagicmd",2010,"Mexico","Sarda sarda",4,"Tuna & billfishes","R",0.0868072095996784,99547,"Reported","Atlantic bonito","Industrial",110,2,1,"R","Landings",600115
+"282","pelagicmd",2010,"Mexico","Sarda sarda",4,"Tuna & billfishes","R",0.0776862094594338,98827,"Reported","Atlantic bonito","Industrial",110,2,1,"R","Landings",600115
+"283","pelagicmd",2010,"Mexico","Sarda sarda",4,"Tuna & billfishes","R",0.000632946595394097,99546,"Reported","Atlantic bonito","Industrial",110,2,1,"R","Landings",600115
+"284","pelagicmd",2010,"Mexico","Sarda sarda",4,"Tuna & billfishes","R",9.02180861557947,99547,"Reported","Atlantic bonito","Artisanal",110,2,3,"R","Landings",600115
+"285","pelagicmd",2010,"Mexico","Sarda sarda",4,"Tuna & billfishes","R",16.4627499747358,98827,"Reported","Atlantic bonito","Artisanal",110,2,3,"R","Landings",600115
+"286","pelagicmd",2010,"Mexico","Sarda sarda",4,"Tuna & billfishes","R",0.154051484228441,99546,"Reported","Atlantic bonito","Artisanal",110,2,3,"R","Landings",600115
+"287","otherdeminvert",2010,"Mexico","Gastropoda",11,"Molluscs","R",60.8406866792567,99547,"Reported","Sea snails","Artisanal",110,29,3,"R","Landings",290006
+"288","otherdeminvert",2010,"Mexico","Gastropoda",11,"Molluscs","R",1.03115882695737,99546,"Reported","Sea snails","Artisanal",110,29,3,"R","Landings",290006
+"289","otherdeminvert",2010,"Mexico","Gastropoda",11,"Molluscs","R",79.7250912323507,98827,"Reported","Sea snails","Artisanal",110,29,3,"R","Landings",290006
+"290","otherdeminvert",2010,"Mexico","Gastropoda",11,"Molluscs","D",5.76024227497075,99547,"Unreported","Sea snails","Industrial",110,29,1,"U","Discards",290006
+"291","otherdeminvert",2010,"Mexico","Gastropoda",11,"Molluscs","D",3.70371926185283,98827,"Unreported","Sea snails","Industrial",110,29,1,"U","Discards",290006
+"292","otherdeminvert",2010,"Mexico","Gastropoda",11,"Molluscs","D",0.0416760679839064,99546,"Unreported","Sea snails","Industrial",110,29,1,"U","Discards",290006
+"293","reef-associatedmd",2010,"Mexico","Caranx",3,"Perch-likes","R",127.96870489961,99547,"Reported","Jacks","Artisanal",110,17,3,"R","Landings",500467
+"294","reef-associatedmd",2010,"Mexico","Caranx",3,"Perch-likes","R",4.21893772648437,98827,"Reported","Jacks","Artisanal",110,17,3,"R","Landings",500467
+"295","reef-associatedmd",2010,"Mexico","Caranx",3,"Perch-likes","R",47.3484208128558,99547,"Unreported","Jacks","Artisanal",110,17,3,"U","Landings",500467
+"296","reef-associatedmd",2010,"Mexico","Caranx",3,"Perch-likes","R",1.56100695879922,98827,"Unreported","Jacks","Artisanal",110,17,3,"U","Landings",500467
+"297","benthopelagiclg",2010,"Mexico","Centropomus undecimalis",3,"Perch-likes","R",0.382350263053573,99547,"Reported","Common snook","Artisanal",110,15,3,"R","Landings",600345
+"298","benthopelagiclg",2010,"Mexico","Centropomus undecimalis",3,"Perch-likes","R",0.54967587885188,98827,"Reported","Common snook","Artisanal",110,15,3,"R","Landings",600345
+"299","benthopelagiclg",2010,"Mexico","Centropomus undecimalis",3,"Perch-likes","R",0.00634928670934219,99546,"Reported","Common snook","Artisanal",110,15,3,"R","Landings",600345
+"300","benthopelagiclg",2010,"Mexico","Centropomus undecimalis",3,"Perch-likes","R",0.141469597329822,99547,"Unreported","Common snook","Artisanal",110,15,3,"U","Landings",600345
+"301","benthopelagiclg",2010,"Mexico","Centropomus undecimalis",3,"Perch-likes","R",0.203380075175195,98827,"Unreported","Common snook","Artisanal",110,15,3,"U","Landings",600345
+"302","benthopelagiclg",2010,"Mexico","Centropomus undecimalis",3,"Perch-likes","R",0.00234923608245661,99546,"Unreported","Common snook","Artisanal",110,15,3,"U","Landings",600345
+"303","pelagicsm",2010,"Mexico","Harengula jaguana",2,"Herring-likes","R",2.05621719070775,99547,"Reported","Scaled herring","Artisanal",110,1,3,"R","Landings",601480
+"304","pelagicsm",2010,"Mexico","Harengula jaguana",2,"Herring-likes","R",3.24248979294013,98827,"Reported","Scaled herring","Artisanal",110,1,3,"R","Landings",601480
+"305","pelagicsm",2010,"Mexico","Harengula jaguana",2,"Herring-likes","R",0.0341147208920767,99546,"Reported","Scaled herring","Artisanal",110,1,3,"R","Landings",601480
+"306","pelagicsm",2010,"Mexico","Harengula jaguana",2,"Herring-likes","R",0.102810859535388,99547,"Unreported","Scaled herring","Artisanal",110,1,3,"U","Landings",601480
+"307","pelagicsm",2010,"Mexico","Harengula jaguana",2,"Herring-likes","R",0.162124489647006,98827,"Unreported","Scaled herring","Artisanal",110,1,3,"U","Landings",601480
+"308","pelagicsm",2010,"Mexico","Harengula jaguana",2,"Herring-likes","R",0.00170573604460383,99546,"Unreported","Scaled herring","Artisanal",110,1,3,"U","Landings",601480
+"309","benthopelagicsm",2010,"Mexico","Gerreidae",3,"Perch-likes","R",9.82029817482275,99547,"Reported","Mojarras, silverbellies","Artisanal",110,13,3,"R","Landings",400326
+"310","benthopelagicsm",2010,"Mexico","Gerreidae",3,"Perch-likes","R",12.8545548294473,98827,"Reported","Mojarras, silverbellies","Artisanal",110,13,3,"R","Landings",400326
+"311","benthopelagicsm",2010,"Mexico","Gerreidae",3,"Perch-likes","R",0.164262261904443,99546,"Reported","Mojarras, silverbellies","Artisanal",110,13,3,"R","Landings",400326
+"312","benthopelagicsm",2010,"Mexico","Gerreidae",3,"Perch-likes","R",3.63351032468442,99547,"Unreported","Mojarras, silverbellies","Artisanal",110,13,3,"U","Landings",400326
+"313","benthopelagicsm",2010,"Mexico","Gerreidae",3,"Perch-likes","R",4.75618528689549,98827,"Unreported","Mojarras, silverbellies","Artisanal",110,13,3,"U","Landings",400326
+"314","benthopelagicsm",2010,"Mexico","Gerreidae",3,"Perch-likes","R",0.0607770369046441,99546,"Unreported","Mojarras, silverbellies","Artisanal",110,13,3,"U","Landings",400326
+"315","reef-associatedsm",2010,"Mexico","Haemulon",3,"Perch-likes","R",7.88727066927371,99547,"Reported","Grunts","Artisanal",110,16,3,"R","Landings",501143
+"316","reef-associatedsm",2010,"Mexico","Haemulon",3,"Perch-likes","R",9.79720741739319,98827,"Reported","Grunts","Artisanal",110,16,3,"R","Landings",501143
+"317","reef-associatedsm",2010,"Mexico","Haemulon",3,"Perch-likes","R",0.146721901944361,99546,"Reported","Grunts","Artisanal",110,16,3,"R","Landings",501143
+"318","reef-associatedsm",2010,"Mexico","Haemulon",3,"Perch-likes","R",2.91829014763127,99547,"Unreported","Grunts","Artisanal",110,16,3,"U","Landings",501143
+"319","reef-associatedsm",2010,"Mexico","Haemulon",3,"Perch-likes","R",3.62496674443548,98827,"Unreported","Grunts","Artisanal",110,16,3,"U","Landings",501143
+"320","reef-associatedsm",2010,"Mexico","Haemulon",3,"Perch-likes","R",0.0542871037194134,99546,"Unreported","Grunts","Artisanal",110,16,3,"U","Landings",501143
+"321","shrimp",2010,"Mexico","Miscellaneous marine crustaceans",10,"Crustaceans","D",34.9320743979845,99547,"Unreported","Marine crabs, shrimps, lobsters nei","Industrial",110,26,1,"U","Discards",100047
+"322","shrimp",2010,"Mexico","Miscellaneous marine crustaceans",10,"Crustaceans","D",21.2380262504672,98827,"Unreported","Marine crabs, shrimps, lobsters nei","Industrial",110,26,1,"U","Discards",100047
+"323","shrimp",2010,"Mexico","Miscellaneous marine crustaceans",10,"Crustaceans","D",0.239928197211139,99546,"Unreported","Marine crabs, shrimps, lobsters nei","Industrial",110,26,1,"U","Discards",100047
+"324","reef-associatedmd",2010,"Mexico","Mugilidae",3,"Perch-likes","R",0.657038016562038,99547,"Reported","Mullets, grey mullets","Artisanal",110,17,3,"R","Landings",400359
+"325","reef-associatedmd",2010,"Mexico","Mugilidae",3,"Perch-likes","R",0.849766681113129,98827,"Reported","Mullets, grey mullets","Artisanal",110,17,3,"R","Landings",400359
+"326","reef-associatedmd",2010,"Mexico","Mugilidae",3,"Perch-likes","R",0.0132514144649415,99546,"Reported","Mullets, grey mullets","Artisanal",110,17,3,"R","Landings",400359
+"327","reef-associatedmd",2010,"Mexico","Mugilidae",3,"Perch-likes","R",0.243104066127954,99547,"Unreported","Mullets, grey mullets","Artisanal",110,17,3,"U","Landings",400359
+"328","reef-associatedmd",2010,"Mexico","Mugilidae",3,"Perch-likes","R",0.314413672011858,98827,"Unreported","Mullets, grey mullets","Artisanal",110,17,3,"U","Landings",400359
+"329","reef-associatedmd",2010,"Mexico","Mugilidae",3,"Perch-likes","R",0.00490302335202837,99546,"Unreported","Mullets, grey mullets","Artisanal",110,17,3,"U","Landings",400359
+"330","demersalmd",2010,"Mexico","Marine finfishes not identified",12,"Other fishes & inverts","R",302.517935561717,99547,"Reported","Finfishes","Artisanal",110,5,3,"R","Landings",100139
+"331","demersalmd",2010,"Mexico","Marine finfishes not identified",12,"Other fishes & inverts","R",374.504464910053,98827,"Reported","Finfishes","Artisanal",110,5,3,"R","Landings",100139
+"332","demersalmd",2010,"Mexico","Marine finfishes not identified",12,"Other fishes & inverts","R",5.30885054142984,99546,"Reported","Finfishes","Artisanal",110,5,3,"R","Landings",100139
+"333","demersalmd",2010,"Mexico","Marine finfishes not identified",12,"Other fishes & inverts","R",17.953667394617,98827,"Unreported","Finfishes","Industrial",110,5,1,"U","Landings",100139
+"334","demersalmd",2010,"Mexico","Marine finfishes not identified",12,"Other fishes & inverts","R",29.5563575255348,99547,"Unreported","Finfishes","Industrial",110,5,1,"U","Landings",100139
+"335","demersalmd",2010,"Mexico","Marine finfishes not identified",12,"Other fishes & inverts","R",0.2214189633589,99546,"Unreported","Finfishes","Industrial",110,5,1,"U","Landings",100139
+"336","demersalmd",2010,"Mexico","Marine finfishes not identified",12,"Other fishes & inverts","R",353.675007796224,99547,"Unreported","Finfishes","Artisanal",110,5,3,"U","Landings",100139
+"337","demersalmd",2010,"Mexico","Marine finfishes not identified",12,"Other fishes & inverts","R",437.834766063852,98827,"Unreported","Finfishes","Artisanal",110,5,3,"U","Landings",100139
+"338","demersalmd",2010,"Mexico","Marine finfishes not identified",12,"Other fishes & inverts","R",6.20659979429925,99546,"Unreported","Finfishes","Artisanal",110,5,3,"U","Landings",100139
+"339","demersalmd",2010,"Mexico","Marine finfishes not identified",12,"Other fishes & inverts","R",168.296819070472,99547,"Unreported","Finfishes","Artisanal",110,5,3,"U","Landings",100139
+"340","demersalmd",2010,"Mexico","Marine finfishes not identified",12,"Other fishes & inverts","R",208.344374871594,98827,"Unreported","Finfishes","Artisanal",110,5,3,"U","Landings",100139
+"341","demersalmd",2010,"Mexico","Marine finfishes not identified",12,"Other fishes & inverts","R",2.95342045549863,99546,"Unreported","Finfishes","Artisanal",110,5,3,"U","Landings",100139
+"342","demersalmd",2010,"Mexico","Marine finfishes not identified",12,"Other fishes & inverts","D",23.7990474765853,98827,"Unreported","Finfishes","Industrial",110,5,1,"U","Discards",100139
+"343","demersalmd",2010,"Mexico","Marine finfishes not identified",12,"Other fishes & inverts","D",39.1793576501275,99547,"Unreported","Finfishes","Industrial",110,5,1,"U","Discards",100139
+"344","demersalmd",2010,"Mexico","Marine finfishes not identified",12,"Other fishes & inverts","D",0.293508858405984,99546,"Unreported","Finfishes","Industrial",110,5,1,"U","Discards",100139
+"345","demersalmd",2010,"Mexico","Marine finfishes not identified",12,"Other fishes & inverts","D",350.573332538136,99547,"Unreported","Finfishes","Artisanal",110,5,3,"U","Discards",100139
+"346","demersalmd",2010,"Mexico","Marine finfishes not identified",12,"Other fishes & inverts","D",433.995022708807,98827,"Unreported","Finfishes","Artisanal",110,5,3,"U","Discards",100139
+"347","demersalmd",2010,"Mexico","Marine finfishes not identified",12,"Other fishes & inverts","D",6.15216887157505,99546,"Unreported","Finfishes","Artisanal",110,5,3,"U","Discards",100139
+"348","demersalmd",2010,"Mexico","Cynoscion",3,"Perch-likes","R",30.1095117684205,99547,"Reported","Weakfishes","Artisanal",110,5,3,"R","Landings",502794
+"349","demersalmd",2010,"Mexico","Cynoscion",3,"Perch-likes","R",47.6099713570367,98827,"Reported","Weakfishes","Artisanal",110,5,3,"R","Landings",502794
+"350","demersalmd",2010,"Mexico","Cynoscion",3,"Perch-likes","R",0.499547224300176,99546,"Reported","Weakfishes","Artisanal",110,5,3,"R","Landings",502794
+"351","demersalmd",2010,"Mexico","Cynoscion",3,"Perch-likes","R",11.1405193543156,99547,"Unreported","Weakfishes","Artisanal",110,5,3,"U","Landings",502794
+"352","demersalmd",2010,"Mexico","Cynoscion",3,"Perch-likes","R",17.6156894021036,98827,"Unreported","Weakfishes","Artisanal",110,5,3,"U","Landings",502794
+"353","demersalmd",2010,"Mexico","Cynoscion",3,"Perch-likes","R",0.184832472991065,99546,"Unreported","Weakfishes","Artisanal",110,5,3,"U","Landings",502794
+"354","demersalmd",2010,"Mexico","Ariidae",12,"Other fishes & inverts","R",60.8330481478877,98827,"Reported","Sea catfishes, coblers","Artisanal",110,5,3,"R","Landings",400145
+"355","demersalmd",2010,"Mexico","Ariidae",12,"Other fishes & inverts","R",22.5082278147184,98827,"Unreported","Sea catfishes, coblers","Artisanal",110,5,3,"U","Landings",400145
+"356","reef-associatedmd",2010,"Mexico","Balistidae",12,"Other fishes & inverts","R",0.362249326592092,99547,"Reported","Triggerfishes","Artisanal",110,17,3,"R","Landings",400445
+"357","reef-associatedmd",2010,"Mexico","Balistidae",12,"Other fishes & inverts","R",0.445138569343721,98827,"Reported","Triggerfishes","Artisanal",110,17,3,"R","Landings",400445
+"358","reef-associatedmd",2010,"Mexico","Balistidae",12,"Other fishes & inverts","R",0.00630268129774417,99546,"Reported","Triggerfishes","Artisanal",110,17,3,"R","Landings",400445
+"359","reef-associatedmd",2010,"Mexico","Balistidae",12,"Other fishes & inverts","R",0.134032250839074,99547,"Unreported","Triggerfishes","Artisanal",110,17,3,"U","Landings",400445
+"360","reef-associatedmd",2010,"Mexico","Balistidae",12,"Other fishes & inverts","R",0.164701270657177,98827,"Unreported","Triggerfishes","Artisanal",110,17,3,"U","Landings",400445
+"361","reef-associatedmd",2010,"Mexico","Balistidae",12,"Other fishes & inverts","R",0.00233199208016534,99546,"Unreported","Triggerfishes","Artisanal",110,17,3,"U","Landings",400445
+"362","reef-associatedmd",2010,"Mexico","Calamus",3,"Perch-likes","R",0.289664698874462,99547,"Reported","Porgies","Artisanal",110,17,3,"R","Landings",501551
+"363","reef-associatedmd",2010,"Mexico","Calamus",3,"Perch-likes","R",0.376591106656604,98827,"Reported","Porgies","Artisanal",110,17,3,"R","Landings",501551
+"364","reef-associatedmd",2010,"Mexico","Calamus",3,"Perch-likes","R",0.0058991097435608,99546,"Reported","Porgies","Artisanal",110,17,3,"R","Landings",501551
+"365","reef-associatedmd",2010,"Mexico","Calamus",3,"Perch-likes","R",0.107175938583551,99547,"Unreported","Porgies","Artisanal",110,17,3,"U","Landings",501551
+"366","reef-associatedmd",2010,"Mexico","Calamus",3,"Perch-likes","R",0.139338709462943,98827,"Unreported","Porgies","Artisanal",110,17,3,"U","Landings",501551
+"367","reef-associatedmd",2010,"Mexico","Calamus",3,"Perch-likes","R",0.0021826706051175,99546,"Unreported","Porgies","Artisanal",110,17,3,"U","Landings",501551
+"368","reef-associatedmd",2010,"Mexico","Mycteroperca",3,"Perch-likes","R",0.54931597586663,99547,"Reported","Scamps, gags","Artisanal",110,17,3,"R","Landings",503028
+"369","reef-associatedmd",2010,"Mexico","Mycteroperca",3,"Perch-likes","R",0.707889233965337,98827,"Reported","Scamps, gags","Artisanal",110,17,3,"R","Landings",503028
+"370","reef-associatedmd",2010,"Mexico","Mycteroperca",3,"Perch-likes","R",0.0126274378221567,99546,"Reported","Scamps, gags","Artisanal",110,17,3,"R","Landings",503028
+"371","reef-associatedmd",2010,"Mexico","Mycteroperca",3,"Perch-likes","R",0.203246911070653,99547,"Unreported","Scamps, gags","Artisanal",110,17,3,"U","Landings",503028
+"372","reef-associatedmd",2010,"Mexico","Mycteroperca",3,"Perch-likes","R",0.261919016567175,98827,"Unreported","Scamps, gags","Artisanal",110,17,3,"U","Landings",503028
+"373","reef-associatedmd",2010,"Mexico","Mycteroperca",3,"Perch-likes","R",0.00467215199419798,99546,"Unreported","Scamps, gags","Artisanal",110,17,3,"U","Landings",503028
+"374","raylg",2010,"Mexico","Dasyatis",9,"Sharks & rays","R",0.402942079391637,99547,"Reported","Rough whip stingrays","Artisanal",110,22,3,"R","Landings",500646
+"375","raylg",2010,"Mexico","Dasyatis",9,"Sharks & rays","R",0.521870837050738,98827,"Reported","Rough whip stingrays","Artisanal",110,22,3,"R","Landings",500646
+"376","raylg",2010,"Mexico","Dasyatis",9,"Sharks & rays","R",0.00964100390536552,99546,"Reported","Rough whip stingrays","Artisanal",110,22,3,"R","Landings",500646
+"377","pelagiclg",2010,"Mexico","Sphyraena",3,"Perch-likes","R",4.5923261436864,99547,"Reported","Barracudas, sennets","Artisanal",110,3,3,"R","Landings",500372
+"378","pelagiclg",2010,"Mexico","Sphyraena",3,"Perch-likes","R",6.02926214862405,98827,"Reported","Barracudas, sennets","Artisanal",110,3,3,"R","Landings",500372
+"379","pelagiclg",2010,"Mexico","Sphyraena",3,"Perch-likes","R",0.105474936884217,99546,"Reported","Barracudas, sennets","Artisanal",110,3,3,"R","Landings",500372
+"380","pelagiclg",2010,"Mexico","Sphyraena",3,"Perch-likes","R",1.69916067316397,99547,"Unreported","Barracudas, sennets","Artisanal",110,3,3,"U","Landings",500372
+"381","pelagiclg",2010,"Mexico","Sphyraena",3,"Perch-likes","R",2.2308269949909,98827,"Unreported","Barracudas, sennets","Artisanal",110,3,3,"U","Landings",500372
+"382","pelagiclg",2010,"Mexico","Sphyraena",3,"Perch-likes","R",0.0390257266471604,99546,"Unreported","Barracudas, sennets","Artisanal",110,3,3,"U","Landings",500372
+"383","demersalmd",2010,"Mexico","Sciaenidae",3,"Perch-likes","R",0.183054534061645,99547,"Reported","Drums, croakers","Artisanal",110,5,3,"R","Landings",400331
+"384","demersalmd",2010,"Mexico","Sciaenidae",3,"Perch-likes","R",0.00368370594235098,99546,"Reported","Drums, croakers","Artisanal",110,5,3,"R","Landings",400331
+"385","demersalmd",2010,"Mexico","Sciaenidae",3,"Perch-likes","R",0.236174863997481,98827,"Reported","Drums, croakers","Artisanal",110,5,3,"R","Landings",400331
+"386","demersalmd",2010,"Mexico","Sciaenidae",3,"Perch-likes","R",0.0677301776028086,99547,"Unreported","Drums, croakers","Artisanal",110,5,3,"U","Landings",400331
+"387","demersalmd",2010,"Mexico","Sciaenidae",3,"Perch-likes","R",0.00136297119866986,99546,"Unreported","Drums, croakers","Artisanal",110,5,3,"U","Landings",400331
+"388","demersalmd",2010,"Mexico","Sciaenidae",3,"Perch-likes","R",0.0873846996790678,98827,"Unreported","Drums, croakers","Artisanal",110,5,3,"U","Landings",400331
+"389","reef-associatedmd",2010,"Mexico","Lutjanus",3,"Perch-likes","R",1.65573275115724,99547,"Reported","Snappers","Artisanal",110,17,3,"R","Landings",500357
+"390","reef-associatedmd",2010,"Mexico","Lutjanus",3,"Perch-likes","R",2.06268835077392,98827,"Reported","Snappers","Artisanal",110,17,3,"R","Landings",500357
+"391","reef-associatedmd",2010,"Mexico","Lutjanus",3,"Perch-likes","R",0.0324033310372498,99546,"Reported","Snappers","Artisanal",110,17,3,"R","Landings",500357
+"392","reef-associatedmd",2010,"Mexico","Lutjanus",3,"Perch-likes","R",0.612621117928179,99547,"Unreported","Snappers","Artisanal",110,17,3,"U","Landings",500357
+"393","reef-associatedmd",2010,"Mexico","Lutjanus",3,"Perch-likes","R",0.76319468978635,98827,"Unreported","Snappers","Artisanal",110,17,3,"U","Landings",500357
+"394","reef-associatedmd",2010,"Mexico","Lutjanus",3,"Perch-likes","R",0.0119892324837824,99546,"Unreported","Snappers","Artisanal",110,17,3,"U","Landings",500357
+"395","pelagicmd",2010,"Mexico","Carangidae",3,"Perch-likes","R",0.026126122426055,99547,"Unreported","Jacks, pompanos","Industrial",110,2,1,"U","Landings",400314
+"396","pelagicmd",2010,"Mexico","Carangidae",3,"Perch-likes","R",0.0168755198250847,98827,"Unreported","Jacks, pompanos","Industrial",110,2,1,"U","Landings",400314
+"397","pelagicmd",2010,"Mexico","Carangidae",3,"Perch-likes","R",0.000255856160212092,99546,"Unreported","Jacks, pompanos","Industrial",110,2,1,"U","Landings",400314
+"398","pelagicmd",2010,"Mexico","Carangidae",3,"Perch-likes","R",0.0456095130407695,98827,"Reported","Jacks, pompanos","Industrial",110,2,1,"R","Landings",400314
+"399","pelagicmd",2010,"Mexico","Carangidae",3,"Perch-likes","R",0.0706111416920406,99547,"Reported","Jacks, pompanos","Industrial",110,2,1,"R","Landings",400314
+"400","pelagicmd",2010,"Mexico","Carangidae",3,"Perch-likes","R",0.000691503135708356,99546,"Reported","Jacks, pompanos","Industrial",110,2,1,"R","Landings",400314
+"401","reef-associatedmd",2010,"Mexico","Serranidae",3,"Perch-likes","R",140.362920041049,99547,"Reported","Basses, groupers, hinds","Artisanal",110,17,3,"R","Landings",400289
+"402","reef-associatedmd",2010,"Mexico","Serranidae",3,"Perch-likes","R",3.2200215916566,99546,"Reported","Basses, groupers, hinds","Artisanal",110,17,3,"R","Landings",400289
+"403","reef-associatedmd",2010,"Mexico","Serranidae",3,"Perch-likes","R",184.772869834134,98827,"Reported","Basses, groupers, hinds","Artisanal",110,17,3,"R","Landings",400289
+"404","reef-associatedmd",2010,"Mexico","Serranidae",3,"Perch-likes","R",51.9342804151882,99547,"Unreported","Basses, groupers, hinds","Artisanal",110,17,3,"U","Landings",400289
+"405","reef-associatedmd",2010,"Mexico","Serranidae",3,"Perch-likes","R",1.19140798891294,99546,"Unreported","Basses, groupers, hinds","Artisanal",110,17,3,"U","Landings",400289
+"406","reef-associatedmd",2010,"Mexico","Serranidae",3,"Perch-likes","R",68.3659618386296,98827,"Unreported","Basses, groupers, hinds","Artisanal",110,17,3,"U","Landings",400289
+"407","reef-associatedmd",2010,"Mexico","Lutjanidae",3,"Perch-likes","R",19.5442236162157,99547,"Reported","Snappers","Artisanal",110,17,3,"R","Landings",400323
+"408","reef-associatedmd",2010,"Mexico","Lutjanidae",3,"Perch-likes","R",25.1861334677243,98827,"Reported","Snappers","Artisanal",110,17,3,"R","Landings",400323
+"409","reef-associatedmd",2010,"Mexico","Lutjanidae",3,"Perch-likes","R",0.449274150650244,99546,"Reported","Snappers","Artisanal",110,17,3,"R","Landings",400323
+"410","reef-associatedmd",2010,"Mexico","Lutjanidae",3,"Perch-likes","R",7.2313627379998,99547,"Unreported","Snappers","Artisanal",110,17,3,"U","Landings",400323
+"411","reef-associatedmd",2010,"Mexico","Lutjanidae",3,"Perch-likes","R",9.318869383058,98827,"Unreported","Snappers","Artisanal",110,17,3,"U","Landings",400323
+"412","reef-associatedmd",2010,"Mexico","Lutjanidae",3,"Perch-likes","R",0.16623143574059,99546,"Unreported","Snappers","Artisanal",110,17,3,"U","Landings",400323
+"413","otherdeminvert",2010,"Mexico","Bivalvia",11,"Molluscs","R",6.14658189545319,99547,"Reported","Clams","Artisanal",110,29,3,"R","Landings",290004
+"414","otherdeminvert",2010,"Mexico","Bivalvia",11,"Molluscs","R",7.7302024280884,98827,"Reported","Clams","Artisanal",110,29,3,"R","Landings",290004
+"415","otherdeminvert",2010,"Mexico","Bivalvia",11,"Molluscs","R",0.0990379460941882,99546,"Reported","Clams","Artisanal",110,29,3,"R","Landings",290004
+"416","otherdeminvert",2010,"Mexico","Bivalvia",11,"Molluscs","R",6.14658189545319,99547,"Unreported","Clams","Artisanal",110,29,3,"U","Landings",290004
+"417","otherdeminvert",2010,"Mexico","Bivalvia",11,"Molluscs","R",7.7302024280884,98827,"Unreported","Clams","Artisanal",110,29,3,"U","Landings",290004
+"418","otherdeminvert",2010,"Mexico","Bivalvia",11,"Molluscs","R",0.0990379460941882,99546,"Unreported","Clams","Artisanal",110,29,3,"U","Landings",290004
+"419","benthopelagicmd",2010,"Mexico","Sparidae",3,"Perch-likes","R",9.89043769776599,99547,"Reported","Porgies, seabreams","Artisanal",110,14,3,"R","Landings",400330
+"420","benthopelagicmd",2010,"Mexico","Sparidae",3,"Perch-likes","R",12.4833607116366,98827,"Reported","Porgies, seabreams","Artisanal",110,14,3,"R","Landings",400330
+"421","benthopelagicmd",2010,"Mexico","Sparidae",3,"Perch-likes","R",0.190081171238438,99546,"Reported","Porgies, seabreams","Artisanal",110,14,3,"R","Landings",400330
+"422","benthopelagicmd",2010,"Mexico","Sparidae",3,"Perch-likes","R",3.65946194817342,99547,"Unreported","Porgies, seabreams","Artisanal",110,14,3,"U","Landings",400330
+"423","benthopelagicmd",2010,"Mexico","Sparidae",3,"Perch-likes","R",4.61884346330555,98827,"Unreported","Porgies, seabreams","Artisanal",110,14,3,"U","Landings",400330
+"424","benthopelagicmd",2010,"Mexico","Sparidae",3,"Perch-likes","R",0.0703300333582222,99546,"Unreported","Porgies, seabreams","Artisanal",110,14,3,"U","Landings",400330
+"425","raylg",2010,"Mexico","Batoidea",9,"Sharks & rays","R",39.2850496570608,99547,"Reported","Batoids, skates, rays, sawfishes","Artisanal",110,22,3,"R","Landings",300063
+"426","raylg",2010,"Mexico","Batoidea",9,"Sharks & rays","R",52.0621205534975,98827,"Reported","Batoids, skates, rays, sawfishes","Artisanal",110,22,3,"R","Landings",300063
+"427","raylg",2010,"Mexico","Batoidea",9,"Sharks & rays","R",0.885446533615039,99546,"Reported","Batoids, skates, rays, sawfishes","Artisanal",110,22,3,"R","Landings",300063
+"428","raylg",2010,"Mexico","Batoidea",9,"Sharks & rays","R",14.5354683731125,99547,"Unreported","Batoids, skates, rays, sawfishes","Artisanal",110,22,3,"U","Landings",300063
+"429","raylg",2010,"Mexico","Batoidea",9,"Sharks & rays","R",19.2629846047941,98827,"Unreported","Batoids, skates, rays, sawfishes","Artisanal",110,22,3,"U","Landings",300063
+"430","raylg",2010,"Mexico","Batoidea",9,"Sharks & rays","R",0.327615217437564,99546,"Unreported","Batoids, skates, rays, sawfishes","Artisanal",110,22,3,"U","Landings",300063
+"431","benthopelagiclg",2010,"Mexico","Trichiuridae",3,"Perch-likes","R",76.5707987172946,99547,"Reported","Cutlassfishes","Artisanal",110,15,3,"R","Landings",400415
+"432","benthopelagiclg",2010,"Mexico","Trichiuridae",3,"Perch-likes","R",102.031143193749,98827,"Reported","Cutlassfishes","Artisanal",110,15,3,"R","Landings",400415
+"433","benthopelagiclg",2010,"Mexico","Trichiuridae",3,"Perch-likes","R",1.69290728624089,99546,"Reported","Cutlassfishes","Artisanal",110,15,3,"R","Landings",400415
+"434","benthopelagiclg",2010,"Mexico","Trichiuridae",3,"Perch-likes","R",28.331195525399,99547,"Unreported","Cutlassfishes","Artisanal",110,15,3,"U","Landings",400415
+"435","benthopelagiclg",2010,"Mexico","Trichiuridae",3,"Perch-likes","R",37.7515229816873,98827,"Unreported","Cutlassfishes","Artisanal",110,15,3,"U","Landings",400415
+"436","benthopelagiclg",2010,"Mexico","Trichiuridae",3,"Perch-likes","R",0.62637569590913,99546,"Unreported","Cutlassfishes","Artisanal",110,15,3,"U","Landings",400415
+"437","flatfishsm md",2010,"Mexico","Pleuronectiformes",7,"Flatfishes","R",38.3419642556999,99547,"Reported","Flatfishes","Artisanal",110,23,3,"R","Landings",300061
+"438","flatfishsm md",2010,"Mexico","Pleuronectiformes",7,"Flatfishes","R",49.175679716451,98827,"Reported","Flatfishes","Artisanal",110,23,3,"R","Landings",300061
+"439","flatfishsm md",2010,"Mexico","Pleuronectiformes",7,"Flatfishes","R",0.761439727079702,99546,"Reported","Flatfishes","Artisanal",110,23,3,"R","Landings",300061
+"440","pelagicsm",2010,"Mexico","Engraulidae",1,"Anchovies","R",5.80323128012335,99547,"Reported","Anchovies, round herrings","Artisanal",110,1,3,"R","Landings",400454
+"441","pelagicsm",2010,"Mexico","Engraulidae",1,"Anchovies","R",7.94393376717787,98827,"Reported","Anchovies, round herrings","Artisanal",110,1,3,"R","Landings",400454
+"442","pelagicsm",2010,"Mexico","Engraulidae",1,"Anchovies","R",0.095618607424155,99546,"Reported","Anchovies, round herrings","Artisanal",110,1,3,"R","Landings",400454
+"443","sharklg",2010,"Mexico","Sphyrna",9,"Sharks & rays","R",0.93029855821856,99547,"Reported","Hammerhead sharks","Artisanal",110,20,3,"R","Landings",500693
+"444","sharklg",2010,"Mexico","Sphyrna",9,"Sharks & rays","R",0.0303641423895629,98827,"Reported","Hammerhead sharks","Artisanal",110,20,3,"R","Landings",500693
+"445","sharklg",2010,"Mexico","Sphyrna",9,"Sharks & rays","R",0.344210466540867,99547,"Unreported","Hammerhead sharks","Artisanal",110,20,3,"U","Landings",500693
+"446","sharklg",2010,"Mexico","Sphyrna",9,"Sharks & rays","R",0.0112347326841383,98827,"Unreported","Hammerhead sharks","Artisanal",110,20,3,"U","Landings",500693
+"447","sharklg",2010,"Mexico","Carcharhinus",9,"Sharks & rays","R",0.0365330905790551,99547,"Unreported","Sharp-nosed sharks","Industrial",110,20,1,"U","Landings",500816
+"448","sharklg",2010,"Mexico","Carcharhinus",9,"Sharks & rays","R",0.000584465205212422,98827,"Unreported","Sharp-nosed sharks","Industrial",110,20,1,"U","Landings",500816
+"449","demersalmd",2010,"Mexico","Haemulidae",3,"Perch-likes","R",16.8139925228116,99547,"Reported","Grunts, sweetlips, bonnetmouths","Artisanal",110,5,3,"R","Landings",400327
+"450","demersalmd",2010,"Mexico","Haemulidae",3,"Perch-likes","R",0.384187071084095,99546,"Reported","Grunts, sweetlips, bonnetmouths","Artisanal",110,5,3,"R","Landings",400327
+"451","demersalmd",2010,"Mexico","Haemulidae",3,"Perch-likes","R",21.731190485142,98827,"Reported","Grunts, sweetlips, bonnetmouths","Artisanal",110,5,3,"R","Landings",400327
+"452","demersalmd",2010,"Mexico","Haemulidae",3,"Perch-likes","R",6.2211772334403,99547,"Unreported","Grunts, sweetlips, bonnetmouths","Artisanal",110,5,3,"U","Landings",400327
+"453","demersalmd",2010,"Mexico","Haemulidae",3,"Perch-likes","R",0.142149216301115,99546,"Unreported","Grunts, sweetlips, bonnetmouths","Artisanal",110,5,3,"U","Landings",400327
+"454","demersalmd",2010,"Mexico","Haemulidae",3,"Perch-likes","R",8.04054047950255,98827,"Unreported","Grunts, sweetlips, bonnetmouths","Artisanal",110,5,3,"U","Landings",400327
+"455","pelagicmd",2010,"Mexico","Trachinotus",3,"Perch-likes","R",10.7788488994289,99547,"Reported","Pompanos","Artisanal",110,2,3,"R","Landings",500598
+"456","pelagicmd",2010,"Mexico","Trachinotus",3,"Perch-likes","R",14.1090124250884,98827,"Reported","Pompanos","Artisanal",110,2,3,"R","Landings",500598
+"457","pelagicmd",2010,"Mexico","Trachinotus",3,"Perch-likes","R",0.222310002259506,99546,"Reported","Pompanos","Artisanal",110,2,3,"R","Landings",500598
+"458","pelagicmd",2010,"Mexico","Trachinotus",3,"Perch-likes","R",3.98817409278869,99547,"Unreported","Pompanos","Artisanal",110,2,3,"U","Landings",500598
+"459","pelagicmd",2010,"Mexico","Trachinotus",3,"Perch-likes","R",5.2203345972827,98827,"Unreported","Pompanos","Artisanal",110,2,3,"U","Landings",500598
+"460","pelagicmd",2010,"Mexico","Trachinotus",3,"Perch-likes","R",0.0822547008360173,99546,"Unreported","Pompanos","Artisanal",110,2,3,"U","Landings",500598

@@ -1,0 +1,359 @@
+"","functional_group_name","year","fishing_entity_name","taxon_scientific_name","commercial_group_id","commercial_group_name","catch_status","catch_sum","cell_id","reporting_status_name","taxon_common_name","sector_type_name","fishing_entity_id","functional_group_id","sector_type_id","reporting_status","catch_status_name","taxon_key"
+"1","sharklg",2010,"Belize","Isurus oxyrinchus",9,"Sharks & rays","R",2.38641280095327,105305,"Reported","Shortfin mako","Industrial",16,20,1,"R","Landings",600752
+"2","sharklg",2010,"Belize","Isurus oxyrinchus",9,"Sharks & rays","R",0.407607082599519,104585,"Reported","Shortfin mako","Industrial",16,20,1,"R","Landings",600752
+"3","sharklg",2010,"Belize","Sphyrna lewini",9,"Sharks & rays","R",16.1191581282577,105305,"Unreported","Scalloped hammerhead","Artisanal",16,20,3,"U","Landings",600912
+"4","sharklg",2010,"Belize","Sphyrna lewini",9,"Sharks & rays","R",24.5341607403851,104585,"Unreported","Scalloped hammerhead","Artisanal",16,20,3,"U","Landings",600912
+"5","reef-associatedmd",2010,"Belize","Trachinotus goodei",3,"Perch-likes","R",0.00747396634691334,105304,"Reported","Great pompano","Artisanal",16,17,3,"R","Landings",601011
+"6","reef-associatedmd",2010,"Belize","Trachinotus goodei",3,"Perch-likes","R",0.00538245686969857,104585,"Reported","Great pompano","Artisanal",16,17,3,"R","Landings",601011
+"7","reef-associatedmd",2010,"Belize","Trachinotus goodei",3,"Perch-likes","R",0.141780048551626,105304,"Unreported","Great pompano","Subsistence",16,17,2,"U","Landings",601011
+"8","reef-associatedmd",2010,"Belize","Trachinotus goodei",3,"Perch-likes","R",0.102104419647014,104585,"Unreported","Great pompano","Subsistence",16,17,2,"U","Landings",601011
+"9","reef-associatedmd",2010,"Belize","Trachinotus goodei",3,"Perch-likes","R",0.0639220702507965,105304,"Unreported","Great pompano","Artisanal",16,17,3,"U","Landings",601011
+"10","reef-associatedmd",2010,"Belize","Trachinotus goodei",3,"Perch-likes","R",0.046034163144024,104585,"Unreported","Great pompano","Artisanal",16,17,3,"U","Landings",601011
+"11","reef-associatedmd",2010,"Belize","Haemulon sciurus",3,"Perch-likes","R",0.383418814350688,105304,"Reported","Bluestriped grunt","Artisanal",16,17,3,"R","Landings",601141
+"12","reef-associatedmd",2010,"Belize","Haemulon sciurus",3,"Perch-likes","R",0.337433777588956,104585,"Reported","Bluestriped grunt","Artisanal",16,17,3,"R","Landings",601141
+"13","reef-associatedmd",2010,"Belize","Haemulon sciurus",3,"Perch-likes","R",7.27339883416763,105304,"Unreported","Bluestriped grunt","Subsistence",16,17,2,"U","Landings",601141
+"14","reef-associatedmd",2010,"Belize","Haemulon sciurus",3,"Perch-likes","R",6.40106941199686,104585,"Unreported","Bluestriped grunt","Subsistence",16,17,2,"U","Landings",601141
+"15","reef-associatedmd",2010,"Belize","Haemulon sciurus",3,"Perch-likes","R",3.27923932872988,105304,"Unreported","Bluestriped grunt","Artisanal",16,17,3,"U","Landings",601141
+"16","reef-associatedmd",2010,"Belize","Haemulon sciurus",3,"Perch-likes","R",2.88594631482932,104585,"Unreported","Bluestriped grunt","Artisanal",16,17,3,"U","Landings",601141
+"17","pelagiclg",2010,"Belize","Megalops atlanticus",12,"Other fishes & inverts","R",0.000551888698825062,105305,"Reported","Tarpon","Artisanal",16,3,3,"R","Landings",601079
+"18","pelagiclg",2010,"Belize","Megalops atlanticus",12,"Other fishes & inverts","R",0.00281801585111426,105304,"Reported","Tarpon","Artisanal",16,3,3,"R","Landings",601079
+"19","pelagiclg",2010,"Belize","Megalops atlanticus",12,"Other fishes & inverts","R",0.0045577393033632,104585,"Reported","Tarpon","Artisanal",16,3,3,"R","Landings",601079
+"20","pelagiclg",2010,"Belize","Megalops atlanticus",12,"Other fishes & inverts","R",0.0104692479043375,105305,"Unreported","Tarpon","Subsistence",16,3,2,"U","Landings",601079
+"21","pelagiclg",2010,"Belize","Megalops atlanticus",12,"Other fishes & inverts","R",0.0534573485677038,105304,"Unreported","Tarpon","Subsistence",16,3,2,"U","Landings",601079
+"22","pelagiclg",2010,"Belize","Megalops atlanticus",12,"Other fishes & inverts","R",0.0864596480265613,104585,"Unreported","Tarpon","Subsistence",16,3,2,"U","Landings",601079
+"23","pelagiclg",2010,"Belize","Megalops atlanticus",12,"Other fishes & inverts","R",0.00472009994953826,105305,"Unreported","Tarpon","Artisanal",16,3,3,"U","Landings",601079
+"24","pelagiclg",2010,"Belize","Megalops atlanticus",12,"Other fishes & inverts","R",0.0241014474566342,105304,"Unreported","Tarpon","Artisanal",16,3,3,"U","Landings",601079
+"25","pelagiclg",2010,"Belize","Megalops atlanticus",12,"Other fishes & inverts","R",0.0389806587843038,104585,"Unreported","Tarpon","Artisanal",16,3,3,"U","Landings",601079
+"26","reef-associatedmd",2010,"Belize","Mulloidichthys martinicus",3,"Perch-likes","R",0.00540315160755178,105304,"Reported","Yellow goatfish","Artisanal",16,17,3,"R","Landings",601092
+"27","reef-associatedmd",2010,"Belize","Mulloidichthys martinicus",3,"Perch-likes","R",0.00467868271125453,104585,"Reported","Yellow goatfish","Artisanal",16,17,3,"R","Landings",601092
+"28","reef-associatedmd",2010,"Belize","Mulloidichthys martinicus",3,"Perch-likes","R",0.0652123781301796,105304,"Reported","Yellow goatfish","Artisanal",16,17,3,"R","Landings",601092
+"29","reef-associatedmd",2010,"Belize","Mulloidichthys martinicus",3,"Perch-likes","R",0.0564685295321024,104585,"Reported","Yellow goatfish","Artisanal",16,17,3,"R","Landings",601092
+"30","reef-associatedmd",2010,"Belize","Mulloidichthys martinicus",3,"Perch-likes","R",0.0211118806318086,105304,"Reported","Yellow goatfish","Artisanal",16,17,3,"R","Landings",601092
+"31","reef-associatedmd",2010,"Belize","Mulloidichthys martinicus",3,"Perch-likes","R",0.0182811436895565,104585,"Reported","Yellow goatfish","Artisanal",16,17,3,"R","Landings",601092
+"32","reef-associatedmd",2010,"Belize","Mulloidichthys martinicus",3,"Perch-likes","R",1.74005555980049,105304,"Unreported","Yellow goatfish","Subsistence",16,17,2,"U","Landings",601092
+"33","reef-associatedmd",2010,"Belize","Mulloidichthys martinicus",3,"Perch-likes","R",1.50674429584435,104585,"Unreported","Yellow goatfish","Subsistence",16,17,2,"U","Landings",601092
+"34","reef-associatedmd",2010,"Belize","Mulloidichthys martinicus",3,"Perch-likes","R",0.0462111575838533,105304,"Unreported","Yellow goatfish","Artisanal",16,17,3,"U","Landings",601092
+"35","reef-associatedmd",2010,"Belize","Mulloidichthys martinicus",3,"Perch-likes","R",0.040015043026453,104585,"Unreported","Yellow goatfish","Artisanal",16,17,3,"U","Landings",601092
+"36","reef-associatedmd",2010,"Belize","Mulloidichthys martinicus",3,"Perch-likes","R",0.557737354247037,105304,"Unreported","Yellow goatfish","Artisanal",16,17,3,"U","Landings",601092
+"37","reef-associatedmd",2010,"Belize","Mulloidichthys martinicus",3,"Perch-likes","R",0.48295445071156,104585,"Unreported","Yellow goatfish","Artisanal",16,17,3,"U","Landings",601092
+"38","reef-associatedmd",2010,"Belize","Mulloidichthys martinicus",3,"Perch-likes","R",0.180562107752898,105304,"Unreported","Yellow goatfish","Artisanal",16,17,3,"U","Landings",601092
+"39","reef-associatedmd",2010,"Belize","Mulloidichthys martinicus",3,"Perch-likes","R",0.156351861508093,104585,"Unreported","Yellow goatfish","Artisanal",16,17,3,"U","Landings",601092
+"40","sharklg",2010,"Belize","Elasmobranchii",9,"Sharks & rays","R",0.289062153178966,105305,"Reported","Sharks, rays, skates","Artisanal",16,20,3,"R","Landings",200004
+"41","sharklg",2010,"Belize","Elasmobranchii",9,"Sharks & rays","R",0.438648741294093,104585,"Reported","Sharks, rays, skates","Artisanal",16,20,3,"R","Landings",200004
+"42","sharklg",2010,"Belize","Elasmobranchii",9,"Sharks & rays","R",0.696959272473337,105305,"Reported","Sharks, rays, skates","Artisanal",16,20,3,"R","Landings",200004
+"43","sharklg",2010,"Belize","Elasmobranchii",9,"Sharks & rays","R",1.05762827904487,104585,"Reported","Sharks, rays, skates","Artisanal",16,20,3,"R","Landings",200004
+"44","shrimp",2010,"Belize","Litopenaeus schmitti",10,"Crustaceans","R",0.184811367832676,105305,"Reported","Southern white shrimp","Industrial",16,26,1,"R","Landings",690382
+"45","shrimp",2010,"Belize","Litopenaeus schmitti",10,"Crustaceans","R",0.0576859418039138,105304,"Reported","Southern white shrimp","Industrial",16,26,1,"R","Landings",690382
+"46","shrimp",2010,"Belize","Litopenaeus schmitti",10,"Crustaceans","R",0.171603209249234,104585,"Reported","Southern white shrimp","Industrial",16,26,1,"R","Landings",690382
+"47","lobsters,crab",2010,"Belize","Menippe mercenaria",10,"Crustaceans","R",0.91279765432986,105305,"Reported","Black stone crab","Industrial",16,27,1,"R","Landings",690047
+"48","lobsters,crab",2010,"Belize","Menippe mercenaria",10,"Crustaceans","R",0.216799936307327,105304,"Reported","Black stone crab","Industrial",16,27,1,"R","Landings",690047
+"49","lobsters,crab",2010,"Belize","Menippe mercenaria",10,"Crustaceans","R",0.928010814917514,104585,"Reported","Black stone crab","Industrial",16,27,1,"R","Landings",690047
+"50","sharklg",2010,"Belize","Carcharhinus limbatus",9,"Sharks & rays","R",2.00983757741509,105304,"Unreported","Blacktip shark","Artisanal",16,20,3,"U","Landings",600874
+"51","sharklg",2010,"Belize","Carcharhinus limbatus",9,"Sharks & rays","R",3.24848503850833,104585,"Unreported","Blacktip shark","Artisanal",16,20,3,"U","Landings",600874
+"52","sharklg",2010,"Belize","Carcharhinus limbatus",9,"Sharks & rays","R",0.00385315669714962,105304,"Unreported","Blacktip shark","Artisanal",16,20,3,"U","Landings",600874
+"53","sharklg",2010,"Belize","Carcharhinus limbatus",9,"Sharks & rays","R",0.00622782757292112,104585,"Unreported","Blacktip shark","Artisanal",16,20,3,"U","Landings",600874
+"54","sharklg",2010,"Belize","Carcharhinus limbatus",9,"Sharks & rays","R",4.84097318619321,105304,"Unreported","Blacktip shark","Artisanal",16,20,3,"U","Landings",600874
+"55","sharklg",2010,"Belize","Carcharhinus limbatus",9,"Sharks & rays","R",7.8244277765938,104585,"Unreported","Blacktip shark","Artisanal",16,20,3,"U","Landings",600874
+"56","lobsters,crab",2010,"Belize","Panulirus argus",10,"Crustaceans","R",107.328430822646,105304,"Reported","Caribbean spiny lobster","Artisanal",16,27,3,"R","Landings",690071
+"57","lobsters,crab",2010,"Belize","Panulirus argus",10,"Crustaceans","R",94.6105768740575,104585,"Reported","Caribbean spiny lobster","Artisanal",16,27,3,"R","Landings",690071
+"58","lobsters,crab",2010,"Belize","Panulirus argus",10,"Crustaceans","R",31.0981705210924,105304,"Unreported","Caribbean spiny lobster","Artisanal",16,27,3,"U","Landings",690071
+"59","lobsters,crab",2010,"Belize","Panulirus argus",10,"Crustaceans","R",27.4132010519206,104585,"Unreported","Caribbean spiny lobster","Artisanal",16,27,3,"U","Landings",690071
+"60","sharklg",2010,"Belize","Negaprion brevirostris",9,"Sharks & rays","R",5.637861455217,105304,"Unreported","Lemon shark","Artisanal",16,20,3,"U","Landings",600897
+"61","sharklg",2010,"Belize","Negaprion brevirostris",9,"Sharks & rays","R",9.01256356189503,104585,"Unreported","Lemon shark","Artisanal",16,20,3,"U","Landings",600897
+"62","sharklg",2010,"Belize","Negaprion brevirostris",9,"Sharks & rays","R",0.0108086165110468,105304,"Unreported","Lemon shark","Artisanal",16,20,3,"U","Landings",600897
+"63","sharklg",2010,"Belize","Negaprion brevirostris",9,"Sharks & rays","R",0.0172784209217869,104585,"Unreported","Lemon shark","Artisanal",16,20,3,"U","Landings",600897
+"64","sharklg",2010,"Belize","Negaprion brevirostris",9,"Sharks & rays","R",13.5795730156861,105304,"Unreported","Lemon shark","Artisanal",16,20,3,"U","Landings",600897
+"65","sharklg",2010,"Belize","Negaprion brevirostris",9,"Sharks & rays","R",21.708012145991,104585,"Unreported","Lemon shark","Artisanal",16,20,3,"U","Landings",600897
+"66","reef-associatedlg",2010,"Belize","Epinephelus itajara",3,"Perch-likes","R",0.0699235537129101,105304,"Reported","Goliath grouper","Artisanal",16,18,3,"R","Landings",600016
+"67","reef-associatedlg",2010,"Belize","Epinephelus itajara",3,"Perch-likes","R",0.10952149478814,104585,"Reported","Goliath grouper","Artisanal",16,18,3,"R","Landings",600016
+"68","reef-associatedlg",2010,"Belize","Epinephelus itajara",3,"Perch-likes","R",1.32643958778499,105304,"Unreported","Goliath grouper","Subsistence",16,18,2,"U","Landings",600016
+"69","reef-associatedlg",2010,"Belize","Epinephelus itajara",3,"Perch-likes","R",2.07760673887996,104585,"Unreported","Goliath grouper","Subsistence",16,18,2,"U","Landings",600016
+"70","reef-associatedlg",2010,"Belize","Epinephelus itajara",3,"Perch-likes","R",0.598030296787179,105304,"Unreported","Goliath grouper","Artisanal",16,18,3,"U","Landings",600016
+"71","reef-associatedlg",2010,"Belize","Epinephelus itajara",3,"Perch-likes","R",0.936696843264618,104585,"Unreported","Goliath grouper","Artisanal",16,18,3,"U","Landings",600016
+"72","benthopelagiclg",2010,"Belize","Mugil cephalus",3,"Perch-likes","R",0.0756409939690098,105305,"Unreported","Flathead grey mullet","Artisanal",16,15,3,"U","Landings",600785
+"73","benthopelagiclg",2010,"Belize","Mugil cephalus",3,"Perch-likes","R",0.749847587822822,105304,"Unreported","Flathead grey mullet","Artisanal",16,15,3,"U","Landings",600785
+"74","benthopelagiclg",2010,"Belize","Mugil cephalus",3,"Perch-likes","R",0.655319802673137,104585,"Unreported","Flathead grey mullet","Artisanal",16,15,3,"U","Landings",600785
+"75","benthopelagiclg",2010,"Belize","Mugil cephalus",3,"Perch-likes","R",0.00884417918808583,105305,"Reported","Flathead grey mullet","Artisanal",16,15,3,"R","Landings",600785
+"76","benthopelagiclg",2010,"Belize","Mugil cephalus",3,"Perch-likes","R",0.0876745013844744,105304,"Reported","Flathead grey mullet","Artisanal",16,15,3,"R","Landings",600785
+"77","benthopelagiclg",2010,"Belize","Mugil cephalus",3,"Perch-likes","R",0.076622020100857,104585,"Reported","Flathead grey mullet","Artisanal",16,15,3,"R","Landings",600785
+"78","benthopelagiclg",2010,"Belize","Mugil cephalus",3,"Perch-likes","R",0.167772785758387,105305,"Unreported","Flathead grey mullet","Subsistence",16,15,2,"U","Landings",600785
+"79","benthopelagiclg",2010,"Belize","Mugil cephalus",3,"Perch-likes","R",1.66317246908183,105304,"Unreported","Flathead grey mullet","Subsistence",16,15,2,"U","Landings",600785
+"80","benthopelagiclg",2010,"Belize","Mugil cephalus",3,"Perch-likes","R",1.45350851553,104585,"Unreported","Flathead grey mullet","Subsistence",16,15,2,"U","Landings",600785
+"81","sharklg",2010,"Belize","Ginglymostoma cirratum",9,"Sharks & rays","R",3.02862467123209,105305,"Unreported","Nurse shark","Artisanal",16,20,3,"U","Landings",602532
+"82","sharklg",2010,"Belize","Ginglymostoma cirratum",9,"Sharks & rays","R",15.4645535391061,105304,"Unreported","Nurse shark","Artisanal",16,20,3,"U","Landings",602532
+"83","sharklg",2010,"Belize","Ginglymostoma cirratum",9,"Sharks & rays","R",25.0117129207341,104585,"Unreported","Nurse shark","Artisanal",16,20,3,"U","Landings",602532
+"84","shrimp",2010,"Belize","Farfantepenaeus aztecus",10,"Crustaceans","R",0.0878568330790485,105304,"Reported","Northern brown shrimp","Industrial",16,26,1,"R","Landings",690265
+"85","shrimp",2010,"Belize","Farfantepenaeus aztecus",10,"Crustaceans","R",0.336027972833569,104585,"Reported","Northern brown shrimp","Industrial",16,26,1,"R","Landings",690265
+"86","reef-associatedlg",2010,"Belize","Caranx latus",3,"Perch-likes","R",0.0864538273535627,105305,"Reported","Horseeye jack","Artisanal",16,18,3,"R","Landings",601935
+"87","reef-associatedlg",2010,"Belize","Caranx latus",3,"Perch-likes","R",0.135722871627732,104585,"Reported","Horseeye jack","Artisanal",16,18,3,"R","Landings",601935
+"88","reef-associatedlg",2010,"Belize","Caranx latus",3,"Perch-likes","R",1.64001646123603,105305,"Unreported","Horseeye jack","Subsistence",16,18,2,"U","Landings",601935
+"89","reef-associatedlg",2010,"Belize","Caranx latus",3,"Perch-likes","R",2.57464302563966,104585,"Unreported","Horseeye jack","Subsistence",16,18,2,"U","Landings",601935
+"90","reef-associatedlg",2010,"Belize","Caranx latus",3,"Perch-likes","R",0.739407614248486,105305,"Unreported","Horseeye jack","Artisanal",16,18,3,"U","Landings",601935
+"91","reef-associatedlg",2010,"Belize","Caranx latus",3,"Perch-likes","R",1.16078752995866,104585,"Unreported","Horseeye jack","Artisanal",16,18,3,"U","Landings",601935
+"92","reef-associatedmd",2010,"Belize","Ocyurus chrysurus",3,"Perch-likes","R",2.34861033774437,105304,"Reported","Yellowtail snapper","Artisanal",16,17,3,"R","Landings",600188
+"93","reef-associatedmd",2010,"Belize","Ocyurus chrysurus",3,"Perch-likes","R",2.12928218996972,104585,"Reported","Yellowtail snapper","Artisanal",16,17,3,"R","Landings",600188
+"94","reef-associatedmd",2010,"Belize","Ocyurus chrysurus",3,"Perch-likes","R",44.5527946284865,105304,"Unreported","Yellowtail snapper","Subsistence",16,17,2,"U","Landings",600188
+"95","reef-associatedmd",2010,"Belize","Ocyurus chrysurus",3,"Perch-likes","R",40.3921717414071,104585,"Unreported","Yellowtail snapper","Subsistence",16,17,2,"U","Landings",600188
+"96","reef-associatedmd",2010,"Belize","Ocyurus chrysurus",3,"Perch-likes","R",20.086795689553,105304,"Unreported","Yellowtail snapper","Artisanal",16,17,3,"U","Landings",600188
+"97","reef-associatedmd",2010,"Belize","Ocyurus chrysurus",3,"Perch-likes","R",18.2109631504061,104585,"Unreported","Yellowtail snapper","Artisanal",16,17,3,"U","Landings",600188
+"98","pelagiclg",2010,"Belize","Rachycentron canadum",3,"Perch-likes","R",0.0786551701372004,105304,"Reported","Cobia","Artisanal",16,3,3,"R","Landings",603542
+"99","pelagiclg",2010,"Belize","Rachycentron canadum",3,"Perch-likes","R",0.126483130763826,104585,"Reported","Cobia","Artisanal",16,3,3,"R","Landings",603542
+"100","pelagiclg",2010,"Belize","Rachycentron canadum",3,"Perch-likes","R",1.4920770743762,105304,"Unreported","Cobia","Subsistence",16,3,2,"U","Landings",603542
+"101","pelagiclg",2010,"Belize","Rachycentron canadum",3,"Perch-likes","R",2.39936649274089,104585,"Unreported","Cobia","Subsistence",16,3,2,"U","Landings",603542
+"102","pelagiclg",2010,"Belize","Rachycentron canadum",3,"Perch-likes","R",0.672708583063782,105304,"Unreported","Cobia","Artisanal",16,3,3,"U","Landings",603542
+"103","pelagiclg",2010,"Belize","Rachycentron canadum",3,"Perch-likes","R",1.08176344325727,104585,"Unreported","Cobia","Artisanal",16,3,3,"U","Landings",603542
+"104","pelagiclg",2010,"Belize","Sphyraena barracuda",3,"Perch-likes","R",0.0861550770733728,105305,"Reported","Great barracuda","Artisanal",16,3,3,"R","Landings",601235
+"105","pelagiclg",2010,"Belize","Sphyraena barracuda",3,"Perch-likes","R",0.440137442164094,105304,"Reported","Great barracuda","Artisanal",16,3,3,"R","Landings",601235
+"106","pelagiclg",2010,"Belize","Sphyraena barracuda",3,"Perch-likes","R",0.704280475545254,104585,"Reported","Great barracuda","Artisanal",16,3,3,"R","Landings",601235
+"107","pelagiclg",2010,"Belize","Sphyraena barracuda",3,"Perch-likes","R",1.63434921211233,105305,"Unreported","Great barracuda","Subsistence",16,3,2,"U","Landings",601235
+"108","pelagiclg",2010,"Belize","Sphyraena barracuda",3,"Perch-likes","R",8.34934290882715,105304,"Unreported","Great barracuda","Subsistence",16,3,2,"U","Landings",601235
+"109","pelagiclg",2010,"Belize","Sphyraena barracuda",3,"Perch-likes","R",13.3600976217944,104585,"Unreported","Great barracuda","Subsistence",16,3,2,"U","Landings",601235
+"110","pelagiclg",2010,"Belize","Sphyraena barracuda",3,"Perch-likes","R",0.736852513581537,105305,"Unreported","Great barracuda","Artisanal",16,3,3,"U","Landings",601235
+"111","pelagiclg",2010,"Belize","Sphyraena barracuda",3,"Perch-likes","R",3.76433277755368,105304,"Unreported","Great barracuda","Artisanal",16,3,3,"U","Landings",601235
+"112","pelagiclg",2010,"Belize","Sphyraena barracuda",3,"Perch-likes","R",6.02345046049884,104585,"Unreported","Great barracuda","Artisanal",16,3,3,"U","Landings",601235
+"113","reef-associatedlg",2010,"Belize","Caranx hippos",3,"Perch-likes","R",0.675088788881209,105305,"Reported","Crevalle jack","Artisanal",16,18,3,"R","Landings",600071
+"114","reef-associatedlg",2010,"Belize","Caranx hippos",3,"Perch-likes","R",1.0871453446463,104585,"Reported","Crevalle jack","Artisanal",16,18,3,"R","Landings",600071
+"115","reef-associatedlg",2010,"Belize","Caranx hippos",3,"Perch-likes","R",12.8063355949903,105305,"Unreported","Crevalle jack","Subsistence",16,18,2,"U","Landings",600071
+"116","reef-associatedlg",2010,"Belize","Caranx hippos",3,"Perch-likes","R",20.6229881955894,104585,"Unreported","Crevalle jack","Subsistence",16,18,2,"U","Landings",600071
+"117","reef-associatedlg",2010,"Belize","Caranx hippos",3,"Perch-likes","R",5.77378475970947,105305,"Unreported","Crevalle jack","Artisanal",16,18,3,"U","Landings",600071
+"118","reef-associatedlg",2010,"Belize","Caranx hippos",3,"Perch-likes","R",9.29795210036058,104585,"Unreported","Crevalle jack","Artisanal",16,18,3,"U","Landings",600071
+"119","sharklg",2010,"Belize","Prionace glauca",9,"Sharks & rays","R",46.8685691194101,105305,"Reported","Blue shark","Industrial",16,20,1,"R","Landings",600898
+"120","sharklg",2010,"Belize","Prionace glauca",9,"Sharks & rays","R",7.77777119706144,104585,"Reported","Blue shark","Industrial",16,20,1,"R","Landings",600898
+"121","reef-associatedsm",2010,"Belize","Gerres cinereus",3,"Perch-likes","R",0.0816228110364136,105304,"Reported","Yellow fin mojarra","Artisanal",16,16,3,"R","Landings",601054
+"122","reef-associatedsm",2010,"Belize","Gerres cinereus",3,"Perch-likes","R",0.100378970519654,104585,"Reported","Yellow fin mojarra","Artisanal",16,16,3,"R","Landings",601054
+"123","reef-associatedsm",2010,"Belize","Gerres cinereus",3,"Perch-likes","R",1.54837278822405,105304,"Unreported","Yellow fin mojarra","Subsistence",16,16,2,"U","Landings",601054
+"124","reef-associatedsm",2010,"Belize","Gerres cinereus",3,"Perch-likes","R",1.90417439057862,104585,"Unreported","Yellow fin mojarra","Subsistence",16,16,2,"U","Landings",601054
+"125","reef-associatedsm",2010,"Belize","Gerres cinereus",3,"Perch-likes","R",0.698089718224632,105304,"Unreported","Yellow fin mojarra","Artisanal",16,16,3,"U","Landings",601054
+"126","reef-associatedsm",2010,"Belize","Gerres cinereus",3,"Perch-likes","R",0.85850421415262,104585,"Unreported","Yellow fin mojarra","Artisanal",16,16,3,"U","Landings",601054
+"127","reef-associatedmd",2010,"Belize","Archosargus rhomboidalis",3,"Perch-likes","R",0.0822402556678933,105304,"Reported","Western Atlantic seabream","Artisanal",16,17,3,"R","Landings",601219
+"128","reef-associatedmd",2010,"Belize","Archosargus rhomboidalis",3,"Perch-likes","R",0.0966136590119039,104585,"Reported","Western Atlantic seabream","Artisanal",16,17,3,"R","Landings",601219
+"129","reef-associatedmd",2010,"Belize","Archosargus rhomboidalis",3,"Perch-likes","R",1.56008562258345,105304,"Unreported","Western Atlantic seabream","Subsistence",16,17,2,"U","Landings",601219
+"130","reef-associatedmd",2010,"Belize","Archosargus rhomboidalis",3,"Perch-likes","R",1.8327469819442,104585,"Unreported","Western Atlantic seabream","Subsistence",16,17,2,"U","Landings",601219
+"131","reef-associatedmd",2010,"Belize","Archosargus rhomboidalis",3,"Perch-likes","R",0.703370493823216,105304,"Unreported","Western Atlantic seabream","Artisanal",16,17,3,"U","Landings",601219
+"132","reef-associatedmd",2010,"Belize","Archosargus rhomboidalis",3,"Perch-likes","R",0.826300897259984,104585,"Unreported","Western Atlantic seabream","Artisanal",16,17,3,"U","Landings",601219
+"133","demersalmd",2010,"Belize","Selene vomer",3,"Perch-likes","R",0.0892519484504633,105304,"Reported","Lookdown","Artisanal",16,5,3,"R","Landings",601004
+"134","demersalmd",2010,"Belize","Selene vomer",3,"Perch-likes","R",0.0783775124176711,104585,"Reported","Lookdown","Artisanal",16,5,3,"R","Landings",601004
+"135","demersalmd",2010,"Belize","Selene vomer",3,"Perch-likes","R",1.69309640922586,105304,"Unreported","Lookdown","Subsistence",16,5,2,"U","Landings",601004
+"136","demersalmd",2010,"Belize","Selene vomer",3,"Perch-likes","R",1.4868099480435,104585,"Unreported","Lookdown","Subsistence",16,5,2,"U","Landings",601004
+"137","demersalmd",2010,"Belize","Selene vomer",3,"Perch-likes","R",0.763338909229521,105304,"Unreported","Lookdown","Artisanal",16,5,3,"U","Landings",601004
+"138","demersalmd",2010,"Belize","Selene vomer",3,"Perch-likes","R",0.670333879268018,104585,"Unreported","Lookdown","Artisanal",16,5,3,"U","Landings",601004
+"139","reef-associatedsm",2010,"Belize","Neoniphon marianus",12,"Other fishes & inverts","R",0.00515863930052235,105304,"Reported","Longjaw squirrelfish","Artisanal",16,16,3,"R","Landings",603249
+"140","reef-associatedsm",2010,"Belize","Neoniphon marianus",12,"Other fishes & inverts","R",0.00496047951026866,104585,"Reported","Longjaw squirrelfish","Artisanal",16,16,3,"R","Landings",603249
+"141","reef-associatedsm",2010,"Belize","Neoniphon marianus",12,"Other fishes & inverts","R",0.06226128029291,105304,"Reported","Longjaw squirrelfish","Artisanal",16,16,3,"R","Landings",603249
+"142","reef-associatedsm",2010,"Belize","Neoniphon marianus",12,"Other fishes & inverts","R",0.0598696259195329,104585,"Reported","Longjaw squirrelfish","Artisanal",16,16,3,"R","Landings",603249
+"143","reef-associatedsm",2010,"Belize","Neoniphon marianus",12,"Other fishes & inverts","R",0.0201564910714271,105304,"Reported","Longjaw squirrelfish","Artisanal",16,16,3,"R","Landings",603249
+"144","reef-associatedsm",2010,"Belize","Neoniphon marianus",12,"Other fishes & inverts","R",0.019382215955398,104585,"Reported","Longjaw squirrelfish","Artisanal",16,16,3,"R","Landings",603249
+"145","reef-associatedsm",2010,"Belize","Neoniphon marianus",12,"Other fishes & inverts","R",1.66131170247626,105304,"Unreported","Longjaw squirrelfish","Subsistence",16,16,2,"U","Landings",603249
+"146","reef-associatedsm",2010,"Belize","Neoniphon marianus",12,"Other fishes & inverts","R",1.59749542083095,104585,"Unreported","Longjaw squirrelfish","Subsistence",16,16,2,"U","Landings",603249
+"147","reef-associatedsm",2010,"Belize","Neoniphon marianus",12,"Other fishes & inverts","R",0.0441199342438427,105304,"Unreported","Longjaw squirrelfish","Artisanal",16,16,3,"U","Landings",603249
+"148","reef-associatedsm",2010,"Belize","Neoniphon marianus",12,"Other fishes & inverts","R",0.0424251468383962,104585,"Unreported","Longjaw squirrelfish","Artisanal",16,16,3,"U","Landings",603249
+"149","reef-associatedsm",2010,"Belize","Neoniphon marianus",12,"Other fishes & inverts","R",0.532497705777276,105304,"Unreported","Longjaw squirrelfish","Artisanal",16,16,3,"U","Landings",603249
+"150","reef-associatedsm",2010,"Belize","Neoniphon marianus",12,"Other fishes & inverts","R",0.51204277036888,104585,"Unreported","Longjaw squirrelfish","Artisanal",16,16,3,"U","Landings",603249
+"151","reef-associatedsm",2010,"Belize","Neoniphon marianus",12,"Other fishes & inverts","R",0.172391014151332,105304,"Unreported","Longjaw squirrelfish","Artisanal",16,16,3,"U","Landings",603249
+"152","reef-associatedsm",2010,"Belize","Neoniphon marianus",12,"Other fishes & inverts","R",0.165768925415182,104585,"Unreported","Longjaw squirrelfish","Artisanal",16,16,3,"U","Landings",603249
+"153","reef-associatedmd",2010,"Belize","Calamus calamus",3,"Perch-likes","R",0.103108032908764,105304,"Reported","Saucereye porgy","Artisanal",16,17,3,"R","Landings",601222
+"154","reef-associatedmd",2010,"Belize","Calamus calamus",3,"Perch-likes","R",0.0738461564750053,104585,"Reported","Saucereye porgy","Artisanal",16,17,3,"R","Landings",601222
+"155","reef-associatedmd",2010,"Belize","Calamus calamus",3,"Perch-likes","R",1.95594430498132,105304,"Unreported","Saucereye porgy","Subsistence",16,17,2,"U","Landings",601222
+"156","reef-associatedmd",2010,"Belize","Calamus calamus",3,"Perch-likes","R",1.40085078851086,104585,"Unreported","Saucereye porgy","Subsistence",16,17,2,"U","Landings",601222
+"157","reef-associatedmd",2010,"Belize","Calamus calamus",3,"Perch-likes","R",0.881844875544216,105304,"Unreported","Saucereye porgy","Artisanal",16,17,3,"U","Landings",601222
+"158","reef-associatedmd",2010,"Belize","Calamus calamus",3,"Perch-likes","R",0.631578867611046,104585,"Unreported","Saucereye porgy","Artisanal",16,17,3,"U","Landings",601222
+"159","reef-associatedlg",2010,"Belize","Epinephelus striatus",3,"Perch-likes","R",0.0185065239529606,105304,"Reported","Nassau grouper","Artisanal",16,18,3,"R","Landings",600018
+"160","reef-associatedlg",2010,"Belize","Epinephelus striatus",3,"Perch-likes","R",0.0173478459893234,104585,"Reported","Nassau grouper","Artisanal",16,18,3,"R","Landings",600018
+"161","reef-associatedlg",2010,"Belize","Epinephelus striatus",3,"Perch-likes","R",0.0162671024148722,105304,"Reported","Nassau grouper","Artisanal",16,18,3,"R","Landings",600018
+"162","reef-associatedlg",2010,"Belize","Epinephelus striatus",3,"Perch-likes","R",0.015248632757996,104585,"Reported","Nassau grouper","Artisanal",16,18,3,"R","Landings",600018
+"163","reef-associatedlg",2010,"Belize","Epinephelus striatus",3,"Perch-likes","R",0.659650606639882,105304,"Unreported","Nassau grouper","Subsistence",16,18,2,"U","Landings",600018
+"164","reef-associatedlg",2010,"Belize","Epinephelus striatus",3,"Perch-likes","R",0.618350434681263,104585,"Unreported","Nassau grouper","Subsistence",16,18,2,"U","Landings",600018
+"165","reef-associatedlg",2010,"Belize","Epinephelus striatus",3,"Perch-likes","R",0.158279455554112,105304,"Unreported","Nassau grouper","Artisanal",16,18,3,"U","Landings",600018
+"166","reef-associatedlg",2010,"Belize","Epinephelus striatus",3,"Perch-likes","R",0.148369711416682,104585,"Unreported","Nassau grouper","Artisanal",16,18,3,"U","Landings",600018
+"167","reef-associatedlg",2010,"Belize","Epinephelus striatus",3,"Perch-likes","R",0.13912651128939,105304,"Unreported","Nassau grouper","Artisanal",16,18,3,"U","Landings",600018
+"168","reef-associatedlg",2010,"Belize","Epinephelus striatus",3,"Perch-likes","R",0.130415916949875,104585,"Unreported","Nassau grouper","Artisanal",16,18,3,"U","Landings",600018
+"169","pelagiclg",2010,"Belize","Euthynnus alletteratus",4,"Tuna & billfishes","R",0.00481958210891356,105304,"Reported","Little tunny","Artisanal",16,3,3,"R","Landings",600097
+"170","pelagiclg",2010,"Belize","Euthynnus alletteratus",4,"Tuna & billfishes","R",0.00673916704831792,104585,"Reported","Little tunny","Artisanal",16,3,3,"R","Landings",600097
+"171","pelagiclg",2010,"Belize","Euthynnus alletteratus",4,"Tuna & billfishes","R",0.0914267677539808,105304,"Unreported","Little tunny","Subsistence",16,3,2,"U","Landings",600097
+"172","pelagiclg",2010,"Belize","Euthynnus alletteratus",4,"Tuna & billfishes","R",0.127841013319874,104585,"Unreported","Little tunny","Subsistence",16,3,2,"U","Landings",600097
+"173","pelagiclg",2010,"Belize","Euthynnus alletteratus",4,"Tuna & billfishes","R",0.0412201034692493,105304,"Unreported","Little tunny","Artisanal",16,3,3,"U","Landings",600097
+"174","pelagiclg",2010,"Belize","Euthynnus alletteratus",4,"Tuna & billfishes","R",0.0576376035827803,104585,"Unreported","Little tunny","Artisanal",16,3,3,"U","Landings",600097
+"175","sharklg",2010,"Belize","Carcharhinus leucas",9,"Sharks & rays","R",1.01400680859153,105304,"Unreported","Bull shark","Artisanal",16,20,3,"U","Landings",600873
+"176","sharklg",2010,"Belize","Carcharhinus leucas",9,"Sharks & rays","R",1.60903998171101,104585,"Unreported","Bull shark","Artisanal",16,20,3,"U","Landings",600873
+"177","sharklg",2010,"Belize","Carcharhinus leucas",9,"Sharks & rays","R",0.00194400143045631,105304,"Unreported","Bull shark","Artisanal",16,20,3,"U","Landings",600873
+"178","sharklg",2010,"Belize","Carcharhinus leucas",9,"Sharks & rays","R",0.00308476826743639,104585,"Unreported","Bull shark","Artisanal",16,20,3,"U","Landings",600873
+"179","sharklg",2010,"Belize","Carcharhinus leucas",9,"Sharks & rays","R",2.4423763522833,105304,"Unreported","Bull shark","Artisanal",16,20,3,"U","Landings",600873
+"180","sharklg",2010,"Belize","Carcharhinus leucas",9,"Sharks & rays","R",3.8755964633689,104585,"Unreported","Bull shark","Artisanal",16,20,3,"U","Landings",600873
+"181","reef-associatedlg",2010,"Belize","Lutjanus jocu",3,"Perch-likes","R",0.0248913138452624,105304,"Reported","Dog snapper","Artisanal",16,18,3,"R","Landings",600154
+"182","reef-associatedlg",2010,"Belize","Lutjanus jocu",3,"Perch-likes","R",0.035285320965282,104585,"Reported","Dog snapper","Artisanal",16,18,3,"R","Landings",600154
+"183","reef-associatedlg",2010,"Belize","Lutjanus jocu",3,"Perch-likes","R",0.0876069050998889,105304,"Reported","Dog snapper","Artisanal",16,18,3,"R","Landings",600154
+"184","reef-associatedlg",2010,"Belize","Lutjanus jocu",3,"Perch-likes","R",0.124189417418516,104585,"Reported","Dog snapper","Artisanal",16,18,3,"R","Landings",600154
+"185","reef-associatedlg",2010,"Belize","Lutjanus jocu",3,"Perch-likes","R",2.13407476079982,105304,"Unreported","Dog snapper","Subsistence",16,18,2,"U","Landings",600154
+"186","reef-associatedlg",2010,"Belize","Lutjanus jocu",3,"Perch-likes","R",3.02521246434974,104585,"Unreported","Dog snapper","Subsistence",16,18,2,"U","Landings",600154
+"187","reef-associatedlg",2010,"Belize","Lutjanus jocu",3,"Perch-likes","R",0.21288620237213,105304,"Unreported","Dog snapper","Artisanal",16,18,3,"U","Landings",600154
+"188","reef-associatedlg",2010,"Belize","Lutjanus jocu",3,"Perch-likes","R",0.301782301507974,104585,"Unreported","Dog snapper","Artisanal",16,18,3,"U","Landings",600154
+"189","reef-associatedlg",2010,"Belize","Lutjanus jocu",3,"Perch-likes","R",0.749269461798244,105304,"Unreported","Dog snapper","Artisanal",16,18,3,"U","Landings",600154
+"190","reef-associatedlg",2010,"Belize","Lutjanus jocu",3,"Perch-likes","R",1.0621461612428,104585,"Unreported","Dog snapper","Artisanal",16,18,3,"U","Landings",600154
+"191","otherdeminvert",2010,"Belize","Lobatus gigas",11,"Molluscs","R",385.588697865686,105304,"Reported","Pink conch","Artisanal",16,29,3,"R","Landings",690304
+"192","otherdeminvert",2010,"Belize","Lobatus gigas",11,"Molluscs","R",334.584449493786,104585,"Reported","Pink conch","Artisanal",16,29,3,"R","Landings",690304
+"193","reef-associatedmd",2010,"Belize","Lachnolaimus maximus",3,"Perch-likes","R",0.0916588235157845,105304,"Reported","Hogfish","Artisanal",16,17,3,"R","Landings",601071
+"194","reef-associatedmd",2010,"Belize","Lachnolaimus maximus",3,"Perch-likes","R",0.0842039828836388,104585,"Reported","Hogfish","Artisanal",16,17,3,"R","Landings",601071
+"195","reef-associatedmd",2010,"Belize","Lachnolaimus maximus",3,"Perch-likes","R",1.73875447721541,105304,"Unreported","Hogfish","Subsistence",16,17,2,"U","Landings",601071
+"196","reef-associatedmd",2010,"Belize","Lachnolaimus maximus",3,"Perch-likes","R",1.59733724067583,104585,"Unreported","Hogfish","Subsistence",16,17,2,"U","Landings",601071
+"197","reef-associatedmd",2010,"Belize","Lachnolaimus maximus",3,"Perch-likes","R",0.783924021587418,105304,"Unreported","Hogfish","Artisanal",16,17,3,"U","Landings",601071
+"198","reef-associatedmd",2010,"Belize","Lachnolaimus maximus",3,"Perch-likes","R",0.720165526502233,104585,"Unreported","Hogfish","Artisanal",16,17,3,"U","Landings",601071
+"199","demersalmd",2010,"Belize","Chaetodipterus faber",3,"Perch-likes","R",0.0046173734465944,105304,"Reported","Atlantic spadefish","Artisanal",16,5,3,"R","Landings",601024
+"200","demersalmd",2010,"Belize","Chaetodipterus faber",3,"Perch-likes","R",0.0064719057850781,104585,"Reported","Atlantic spadefish","Artisanal",16,5,3,"R","Landings",601024
+"201","demersalmd",2010,"Belize","Chaetodipterus faber",3,"Perch-likes","R",0.0557285682575914,105304,"Reported","Atlantic spadefish","Artisanal",16,5,3,"R","Landings",601024
+"202","demersalmd",2010,"Belize","Chaetodipterus faber",3,"Perch-likes","R",0.0781115167469165,104585,"Reported","Atlantic spadefish","Artisanal",16,5,3,"R","Landings",601024
+"203","demersalmd",2010,"Belize","Chaetodipterus faber",3,"Perch-likes","R",0.0180415883390608,105304,"Reported","Atlantic spadefish","Artisanal",16,5,3,"R","Landings",601024
+"204","demersalmd",2010,"Belize","Chaetodipterus faber",3,"Perch-likes","R",0.0252878527790914,104585,"Reported","Atlantic spadefish","Artisanal",16,5,3,"R","Landings",601024
+"205","demersalmd",2010,"Belize","Chaetodipterus faber",3,"Perch-likes","R",1.48699998093561,105304,"Unreported","Atlantic spadefish","Subsistence",16,5,2,"U","Landings",601024
+"206","demersalmd",2010,"Belize","Chaetodipterus faber",3,"Perch-likes","R",2.08424202424569,104585,"Unreported","Atlantic spadefish","Subsistence",16,5,2,"U","Landings",601024
+"207","demersalmd",2010,"Belize","Chaetodipterus faber",3,"Perch-likes","R",0.0394906875583222,105304,"Unreported","Atlantic spadefish","Artisanal",16,5,3,"U","Landings",601024
+"208","demersalmd",2010,"Belize","Chaetodipterus faber",3,"Perch-likes","R",0.0553518168329926,104585,"Unreported","Atlantic spadefish","Artisanal",16,5,3,"U","Landings",601024
+"209","demersalmd",2010,"Belize","Chaetodipterus faber",3,"Perch-likes","R",0.476625835572466,105304,"Unreported","Atlantic spadefish","Artisanal",16,5,3,"U","Landings",601024
+"210","demersalmd",2010,"Belize","Chaetodipterus faber",3,"Perch-likes","R",0.668058916662734,104585,"Unreported","Atlantic spadefish","Artisanal",16,5,3,"U","Landings",601024
+"211","demersalmd",2010,"Belize","Chaetodipterus faber",3,"Perch-likes","R",0.154303033184204,105304,"Unreported","Atlantic spadefish","Artisanal",16,5,3,"U","Landings",601024
+"212","demersalmd",2010,"Belize","Chaetodipterus faber",3,"Perch-likes","R",0.216277653230866,104585,"Unreported","Atlantic spadefish","Artisanal",16,5,3,"U","Landings",601024
+"213","reef-associatedlg",2010,"Belize","Scomberomorus cavalla",3,"Perch-likes","R",0.0111526078589082,105304,"Reported","King mackerel","Artisanal",16,18,3,"R","Landings",600120
+"214","reef-associatedlg",2010,"Belize","Scomberomorus cavalla",3,"Perch-likes","R",0.0149334396510725,104585,"Reported","King mackerel","Artisanal",16,18,3,"R","Landings",600120
+"215","reef-associatedlg",2010,"Belize","Scomberomorus cavalla",3,"Perch-likes","R",0.211563340041834,105304,"Unreported","King mackerel","Subsistence",16,18,2,"U","Landings",600120
+"216","reef-associatedlg",2010,"Belize","Scomberomorus cavalla",3,"Perch-likes","R",0.283285166201777,104585,"Unreported","King mackerel","Subsistence",16,18,2,"U","Landings",600120
+"217","reef-associatedlg",2010,"Belize","Scomberomorus cavalla",3,"Perch-likes","R",0.0953841307207829,105304,"Unreported","King mackerel","Artisanal",16,18,3,"U","Landings",600120
+"218","reef-associatedlg",2010,"Belize","Scomberomorus cavalla",3,"Perch-likes","R",0.127720186866524,104585,"Unreported","King mackerel","Artisanal",16,18,3,"U","Landings",600120
+"219","reef-associatedmd",2010,"Belize","Lutjanus griseus",3,"Perch-likes","R",0.110714275111128,105304,"Reported","Grey snapper","Artisanal",16,17,3,"R","Landings",600266
+"220","reef-associatedmd",2010,"Belize","Lutjanus griseus",3,"Perch-likes","R",0.15794818864969,104585,"Reported","Grey snapper","Artisanal",16,17,3,"R","Landings",600266
+"221","reef-associatedmd",2010,"Belize","Lutjanus griseus",3,"Perch-likes","R",2.10023360716583,105304,"Unreported","Grey snapper","Subsistence",16,17,2,"U","Landings",600266
+"222","reef-associatedmd",2010,"Belize","Lutjanus griseus",3,"Perch-likes","R",2.99625403914787,104585,"Unreported","Grey snapper","Subsistence",16,17,2,"U","Landings",600266
+"223","reef-associatedmd",2010,"Belize","Lutjanus griseus",3,"Perch-likes","R",0.946898252270333,105304,"Unreported","Grey snapper","Artisanal",16,17,3,"U","Landings",600266
+"224","reef-associatedmd",2010,"Belize","Lutjanus griseus",3,"Perch-likes","R",1.35087244740153,104585,"Unreported","Grey snapper","Artisanal",16,17,3,"U","Landings",600266
+"225","reef-associatedmd",2010,"Belize","Lutjanus campechanus",3,"Perch-likes","R",0.254444266225536,105304,"Reported","Northern red snapper","Artisanal",16,17,3,"R","Landings",601423
+"226","reef-associatedmd",2010,"Belize","Lutjanus campechanus",3,"Perch-likes","R",0.23616901817718,104585,"Reported","Northern red snapper","Artisanal",16,17,3,"R","Landings",601423
+"227","reef-associatedmd",2010,"Belize","Lutjanus campechanus",3,"Perch-likes","R",4.82677051844605,105304,"Unreported","Northern red snapper","Subsistence",16,17,2,"U","Landings",601423
+"228","reef-associatedmd",2010,"Belize","Lutjanus campechanus",3,"Perch-likes","R",4.48009173567912,104585,"Unreported","Northern red snapper","Subsistence",16,17,2,"U","Landings",601423
+"229","reef-associatedmd",2010,"Belize","Lutjanus campechanus",3,"Perch-likes","R",2.17616771412118,105304,"Unreported","Northern red snapper","Artisanal",16,17,3,"U","Landings",601423
+"230","reef-associatedmd",2010,"Belize","Lutjanus campechanus",3,"Perch-likes","R",2.01986627585204,104585,"Unreported","Northern red snapper","Artisanal",16,17,3,"U","Landings",601423
+"231","demersallg",2010,"Belize","Pogonias cromis",3,"Perch-likes","R",0.0812234486242874,105304,"Reported","Black drum","Artisanal",16,6,3,"R","Landings",600425
+"232","demersallg",2010,"Belize","Pogonias cromis",3,"Perch-likes","R",0.102875579235588,104585,"Reported","Black drum","Artisanal",16,6,3,"R","Landings",600425
+"233","demersallg",2010,"Belize","Pogonias cromis",3,"Perch-likes","R",1.54079694167179,105304,"Unreported","Black drum","Subsistence",16,6,2,"U","Landings",600425
+"234","demersallg",2010,"Belize","Pogonias cromis",3,"Perch-likes","R",1.95153469279695,104585,"Unreported","Black drum","Subsistence",16,6,2,"U","Landings",600425
+"235","demersallg",2010,"Belize","Pogonias cromis",3,"Perch-likes","R",0.694674119200159,105304,"Unreported","Black drum","Artisanal",16,6,3,"U","Landings",600425
+"236","demersallg",2010,"Belize","Pogonias cromis",3,"Perch-likes","R",0.8798567852402,104585,"Unreported","Black drum","Artisanal",16,6,3,"U","Landings",600425
+"237","reef-associatedmd",2010,"Belize","Lutjanus synagris",3,"Perch-likes","R",1.04661806729138,105304,"Reported","Lane snapper","Artisanal",16,17,3,"R","Landings",600181
+"238","reef-associatedmd",2010,"Belize","Lutjanus synagris",3,"Perch-likes","R",1.42167214146436,104585,"Reported","Lane snapper","Artisanal",16,17,3,"R","Landings",600181
+"239","reef-associatedmd",2010,"Belize","Lutjanus synagris",3,"Perch-likes","R",19.854191671182,105304,"Unreported","Lane snapper","Subsistence",16,17,2,"U","Landings",600181
+"240","reef-associatedmd",2010,"Belize","Lutjanus synagris",3,"Perch-likes","R",26.9689126075013,104585,"Unreported","Lane snapper","Subsistence",16,17,2,"U","Landings",600181
+"241","reef-associatedmd",2010,"Belize","Lutjanus synagris",3,"Perch-likes","R",8.95133728435667,105304,"Unreported","Lane snapper","Artisanal",16,17,3,"U","Landings",600181
+"242","reef-associatedmd",2010,"Belize","Lutjanus synagris",3,"Perch-likes","R",12.1590360836741,104585,"Unreported","Lane snapper","Artisanal",16,17,3,"U","Landings",600181
+"243","demersalmd",2010,"Belize","Marine fishes not identified",12,"Other fishes & inverts","R",0.213249332063121,105305,"Reported","Marine fishes nei","Industrial",16,5,1,"R","Landings",100039
+"244","demersalmd",2010,"Belize","Marine fishes not identified",12,"Other fishes & inverts","R",0.0817552215036736,105304,"Reported","Marine fishes nei","Industrial",16,5,1,"R","Landings",100039
+"245","demersalmd",2010,"Belize","Marine fishes not identified",12,"Other fishes & inverts","R",0.171050472276656,104585,"Reported","Marine fishes nei","Industrial",16,5,1,"R","Landings",100039
+"246","demersalmd",2010,"Belize","Marine fishes not identified",12,"Other fishes & inverts","R",0.000227266508181124,105305,"Reported","Marine fishes nei","Artisanal",16,5,3,"R","Landings",100039
+"247","demersalmd",2010,"Belize","Marine fishes not identified",12,"Other fishes & inverts","R",0.00266932269052996,105304,"Reported","Marine fishes nei","Artisanal",16,5,3,"R","Landings",100039
+"248","demersalmd",2010,"Belize","Marine fishes not identified",12,"Other fishes & inverts","R",0.00166890914725718,104585,"Reported","Marine fishes nei","Artisanal",16,5,3,"R","Landings",100039
+"249","demersalmd",2010,"Belize","Marine fishes not identified",12,"Other fishes & inverts","R",0.0868719545552585,105305,"Reported","Marine fishes nei","Artisanal",16,5,3,"R","Landings",100039
+"250","demersalmd",2010,"Belize","Marine fishes not identified",12,"Other fishes & inverts","R",1.02034075025358,105304,"Reported","Marine fishes nei","Artisanal",16,5,3,"R","Landings",100039
+"251","demersalmd",2010,"Belize","Marine fishes not identified",12,"Other fishes & inverts","R",0.637935614700584,104585,"Reported","Marine fishes nei","Artisanal",16,5,3,"R","Landings",100039
+"252","demersalmd",2010,"Belize","Marine fishes not identified",12,"Other fishes & inverts","R",0.0661124420139922,105305,"Reported","Marine fishes nei","Artisanal",16,5,3,"R","Landings",100039
+"253","demersalmd",2010,"Belize","Marine fishes not identified",12,"Other fishes & inverts","R",0.776513191524243,105304,"Reported","Marine fishes nei","Artisanal",16,5,3,"R","Landings",100039
+"254","demersalmd",2010,"Belize","Marine fishes not identified",12,"Other fishes & inverts","R",0.485490185543429,104585,"Reported","Marine fishes nei","Artisanal",16,5,3,"R","Landings",100039
+"255","demersalmd",2010,"Belize","Marine fishes not identified",12,"Other fishes & inverts","R",0.0255504612731299,105305,"Reported","Marine fishes nei","Artisanal",16,5,3,"R","Landings",100039
+"256","demersalmd",2010,"Belize","Marine fishes not identified",12,"Other fishes & inverts","R",0.300098886438284,105304,"Reported","Marine fishes nei","Artisanal",16,5,3,"R","Landings",100039
+"257","demersalmd",2010,"Belize","Marine fishes not identified",12,"Other fishes & inverts","R",0.18762728778929,104585,"Reported","Marine fishes nei","Artisanal",16,5,3,"R","Landings",100039
+"258","demersalmd",2010,"Belize","Marine fishes not identified",12,"Other fishes & inverts","R",0.00741191490917944,105305,"Reported","Marine fishes nei","Artisanal",16,5,3,"R","Landings",100039
+"259","demersalmd",2010,"Belize","Marine fishes not identified",12,"Other fishes & inverts","R",0.0870554698344821,105304,"Reported","Marine fishes nei","Artisanal",16,5,3,"R","Landings",100039
+"260","demersalmd",2010,"Belize","Marine fishes not identified",12,"Other fishes & inverts","R",0.0544286647848836,104585,"Reported","Marine fishes nei","Artisanal",16,5,3,"R","Landings",100039
+"261","demersalmd",2010,"Belize","Marine fishes not identified",12,"Other fishes & inverts","R",0.00471347045533122,105305,"Reported","Marine fishes nei","Artisanal",16,5,3,"R","Landings",100039
+"262","demersalmd",2010,"Belize","Marine fishes not identified",12,"Other fishes & inverts","R",0.0553613189125558,105304,"Reported","Marine fishes nei","Artisanal",16,5,3,"R","Landings",100039
+"263","demersalmd",2010,"Belize","Marine fishes not identified",12,"Other fishes & inverts","R",0.0346129045638326,104585,"Reported","Marine fishes nei","Artisanal",16,5,3,"R","Landings",100039
+"264","demersalmd",2010,"Belize","Marine fishes not identified",12,"Other fishes & inverts","R",3.62110814246295,105305,"Unreported","Marine fishes nei","Subsistence",16,5,2,"U","Landings",100039
+"265","demersalmd",2010,"Belize","Marine fishes not identified",12,"Other fishes & inverts","R",42.5311507925123,105304,"Unreported","Marine fishes nei","Subsistence",16,5,2,"U","Landings",100039
+"266","demersalmd",2010,"Belize","Marine fishes not identified",12,"Other fishes & inverts","R",26.5912498525631,104585,"Unreported","Marine fishes nei","Subsistence",16,5,2,"U","Landings",100039
+"267","demersalmd",2010,"Belize","Marine fishes not identified",12,"Other fishes & inverts","R",0.00194372640005353,105305,"Unreported","Marine fishes nei","Artisanal",16,5,3,"U","Landings",100039
+"268","demersalmd",2010,"Belize","Marine fishes not identified",12,"Other fishes & inverts","R",0.022829729841715,105304,"Unreported","Marine fishes nei","Artisanal",16,5,3,"U","Landings",100039
+"269","demersalmd",2010,"Belize","Marine fishes not identified",12,"Other fishes & inverts","R",0.0142735627645993,104585,"Unreported","Marine fishes nei","Artisanal",16,5,3,"U","Landings",100039
+"270","demersalmd",2010,"Belize","Marine fishes not identified",12,"Other fishes & inverts","R",0.742983701578823,105305,"Unreported","Marine fishes nei","Artisanal",16,5,3,"U","Landings",100039
+"271","demersalmd",2010,"Belize","Marine fishes not identified",12,"Other fishes & inverts","R",8.72659710923042,105304,"Unreported","Marine fishes nei","Artisanal",16,5,3,"U","Landings",100039
+"272","demersalmd",2010,"Belize","Marine fishes not identified",12,"Other fishes & inverts","R",5.45602740039318,104585,"Unreported","Marine fishes nei","Artisanal",16,5,3,"U","Landings",100039
+"273","demersalmd",2010,"Belize","Marine fishes not identified",12,"Other fishes & inverts","R",0.565435267796653,105305,"Unreported","Marine fishes nei","Artisanal",16,5,3,"U","Landings",100039
+"274","demersalmd",2010,"Belize","Marine fishes not identified",12,"Other fishes & inverts","R",6.64123016820674,105304,"Unreported","Marine fishes nei","Artisanal",16,5,3,"U","Landings",100039
+"275","demersalmd",2010,"Belize","Marine fishes not identified",12,"Other fishes & inverts","R",4.15221801998022,104585,"Unreported","Marine fishes nei","Artisanal",16,5,3,"U","Landings",100039
+"276","demersalmd",2010,"Belize","Marine fishes not identified",12,"Other fishes & inverts","R",0.217804975219341,105305,"Unreported","Marine fishes nei","Artisanal",16,5,3,"U","Landings",100039
+"277","demersalmd",2010,"Belize","Marine fishes not identified",12,"Other fishes & inverts","R",2.55819375726032,105304,"Unreported","Marine fishes nei","Artisanal",16,5,3,"U","Landings",100039
+"278","demersalmd",2010,"Belize","Marine fishes not identified",12,"Other fishes & inverts","R",1.59942931482005,104585,"Unreported","Marine fishes nei","Artisanal",16,5,3,"U","Landings",100039
+"279","demersalmd",2010,"Belize","Marine fishes not identified",12,"Other fishes & inverts","R",0.000718671346953045,105305,"Unreported","Marine fishes nei","Artisanal",16,5,3,"U","Landings",100039
+"280","demersalmd",2010,"Belize","Marine fishes not identified",12,"Other fishes & inverts","R",0.00844104020785417,105304,"Unreported","Marine fishes nei","Artisanal",16,5,3,"U","Landings",100039
+"281","demersalmd",2010,"Belize","Marine fishes not identified",12,"Other fishes & inverts","R",0.00527749202643485,104585,"Unreported","Marine fishes nei","Artisanal",16,5,3,"U","Landings",100039
+"282","demersalmd",2010,"Belize","Marine fishes not identified",12,"Other fishes & inverts","R",0.0633913672508254,105305,"Unreported","Marine fishes nei","Artisanal",16,5,3,"U","Landings",100039
+"283","demersalmd",2010,"Belize","Marine fishes not identified",12,"Other fishes & inverts","R",0.744553239897051,105304,"Unreported","Marine fishes nei","Artisanal",16,5,3,"U","Landings",100039
+"284","demersalmd",2010,"Belize","Marine fishes not identified",12,"Other fishes & inverts","R",0.465508241881935,104585,"Unreported","Marine fishes nei","Artisanal",16,5,3,"U","Landings",100039
+"285","demersalmd",2010,"Belize","Marine fishes not identified",12,"Other fishes & inverts","R",0.0403125697368395,105305,"Unreported","Marine fishes nei","Artisanal",16,5,3,"U","Landings",100039
+"286","demersalmd",2010,"Belize","Marine fishes not identified",12,"Other fishes & inverts","R",0.473484887735228,105304,"Unreported","Marine fishes nei","Artisanal",16,5,3,"U","Landings",100039
+"287","demersalmd",2010,"Belize","Marine fishes not identified",12,"Other fishes & inverts","R",0.296031372689705,104585,"Unreported","Marine fishes nei","Artisanal",16,5,3,"U","Landings",100039
+"288","demersalmd",2010,"Belize","Marine fishes not identified",12,"Other fishes & inverts","D",0.0165262111529973,105305,"Unreported","Marine fishes nei","Industrial",16,5,1,"U","Discards",100039
+"289","demersalmd",2010,"Belize","Marine fishes not identified",12,"Other fishes & inverts","D",0.00633579500746035,105304,"Unreported","Marine fishes nei","Industrial",16,5,1,"U","Discards",100039
+"290","demersalmd",2010,"Belize","Marine fishes not identified",12,"Other fishes & inverts","D",0.0132559206414171,104585,"Unreported","Marine fishes nei","Industrial",16,5,1,"U","Discards",100039
+"291","reef-associatedmd",2010,"Belize","Lutjanus analis",3,"Perch-likes","R",0.416684813676594,105304,"Reported","Mutton snapper","Artisanal",16,17,3,"R","Landings",601403
+"292","reef-associatedmd",2010,"Belize","Lutjanus analis",3,"Perch-likes","R",0.581670642768656,104585,"Reported","Mutton snapper","Artisanal",16,17,3,"R","Landings",601403
+"293","reef-associatedmd",2010,"Belize","Lutjanus analis",3,"Perch-likes","R",1.466554443661,105304,"Reported","Mutton snapper","Artisanal",16,17,3,"R","Landings",601403
+"294","reef-associatedmd",2010,"Belize","Lutjanus analis",3,"Perch-likes","R",2.04723483530074,104585,"Reported","Mutton snapper","Artisanal",16,17,3,"R","Landings",601403
+"295","reef-associatedmd",2010,"Belize","Lutjanus analis",3,"Perch-likes","R",35.7247732925534,105304,"Unreported","Mutton snapper","Subsistence",16,17,2,"U","Landings",601403
+"296","reef-associatedmd",2010,"Belize","Lutjanus analis",3,"Perch-likes","R",49.8699524479726,104585,"Unreported","Mutton snapper","Subsistence",16,17,2,"U","Landings",601403
+"297","reef-associatedmd",2010,"Belize","Lutjanus analis",3,"Perch-likes","R",3.56375111901265,105304,"Unreported","Mutton snapper","Artisanal",16,17,3,"U","Landings",601403
+"298","reef-associatedmd",2010,"Belize","Lutjanus analis",3,"Perch-likes","R",4.97481390255919,104585,"Unreported","Mutton snapper","Artisanal",16,17,3,"U","Landings",601403
+"299","reef-associatedmd",2010,"Belize","Lutjanus analis",3,"Perch-likes","R",12.5428978166368,105304,"Unreported","Mutton snapper","Artisanal",16,17,3,"U","Landings",601403
+"300","reef-associatedmd",2010,"Belize","Lutjanus analis",3,"Perch-likes","R",17.5092424674908,104585,"Unreported","Mutton snapper","Artisanal",16,17,3,"U","Landings",601403
+"301","pelagiclg",2010,"Belize","Alectis ciliaris",3,"Perch-likes","R",0.0793884399431126,105304,"Reported","African pompano","Artisanal",16,3,3,"R","Landings",600988
+"302","pelagiclg",2010,"Belize","Alectis ciliaris",3,"Perch-likes","R",0.121659504655852,104585,"Reported","African pompano","Artisanal",16,3,3,"R","Landings",600988
+"303","pelagiclg",2010,"Belize","Alectis ciliaris",3,"Perch-likes","R",1.50598709535544,105304,"Unreported","African pompano","Subsistence",16,3,2,"U","Landings",600988
+"304","pelagiclg",2010,"Belize","Alectis ciliaris",3,"Perch-likes","R",2.30786301091615,104585,"Unreported","African pompano","Subsistence",16,3,2,"U","Landings",600988
+"305","pelagiclg",2010,"Belize","Alectis ciliaris",3,"Perch-likes","R",0.678979968546494,105304,"Unreported","African pompano","Artisanal",16,3,3,"U","Landings",600988
+"306","pelagiclg",2010,"Belize","Alectis ciliaris",3,"Perch-likes","R",1.04050875295955,104585,"Unreported","African pompano","Artisanal",16,3,3,"U","Landings",600988
+"307","demersalmd",2010,"Belize","Lutjanus vivanus",3,"Perch-likes","D",0.196679072853554,105304,"Unreported","Silk snapper","Industrial",16,5,1,"U","Discards",600185
+"308","demersalmd",2010,"Belize","Lutjanus vivanus",3,"Perch-likes","D",0.581037962495243,104585,"Unreported","Silk snapper","Industrial",16,5,1,"U","Discards",600185
+"309","reef-associatedmd",2010,"Belize","Epinephelus guttatus",3,"Perch-likes","R",0.0251771654889675,105304,"Reported","Red hind","Artisanal",16,17,3,"R","Landings",600015
+"310","reef-associatedmd",2010,"Belize","Epinephelus guttatus",3,"Perch-likes","R",0.0366416084244394,104585,"Reported","Red hind","Artisanal",16,17,3,"R","Landings",600015
+"311","reef-associatedmd",2010,"Belize","Epinephelus guttatus",3,"Perch-likes","R",0.0221305486954885,105304,"Reported","Red hind","Artisanal",16,17,3,"R","Landings",600015
+"312","reef-associatedmd",2010,"Belize","Epinephelus guttatus",3,"Perch-likes","R",0.0322077121776639,104585,"Reported","Red hind","Artisanal",16,17,3,"R","Landings",600015
+"313","reef-associatedmd",2010,"Belize","Epinephelus guttatus",3,"Perch-likes","R",0.897420419441499,105304,"Unreported","Red hind","Subsistence",16,17,2,"U","Landings",600015
+"314","reef-associatedmd",2010,"Belize","Epinephelus guttatus",3,"Perch-likes","R",1.30606154277695,104585,"Unreported","Red hind","Subsistence",16,17,2,"U","Landings",600015
+"315","reef-associatedmd",2010,"Belize","Epinephelus guttatus",3,"Perch-likes","R",0.215330985771212,105304,"Unreported","Red hind","Artisanal",16,17,3,"U","Landings",600015
+"316","reef-associatedmd",2010,"Belize","Epinephelus guttatus",3,"Perch-likes","R",0.313382126583497,104585,"Unreported","Red hind","Artisanal",16,17,3,"U","Landings",600015
+"317","reef-associatedmd",2010,"Belize","Epinephelus guttatus",3,"Perch-likes","R",0.189274398992433,105304,"Unreported","Red hind","Artisanal",16,17,3,"U","Landings",600015
+"318","reef-associatedmd",2010,"Belize","Epinephelus guttatus",3,"Perch-likes","R",0.275460651664336,104585,"Unreported","Red hind","Artisanal",16,17,3,"U","Landings",600015
+"319","benthopelagiclg",2010,"Belize","Centropomus undecimalis",3,"Perch-likes","R",0.116501998498567,105304,"Reported","Common snook","Artisanal",16,15,3,"R","Landings",600345
+"320","benthopelagiclg",2010,"Belize","Centropomus undecimalis",3,"Perch-likes","R",0.107339614994134,104585,"Reported","Common snook","Artisanal",16,15,3,"R","Landings",600345
+"321","benthopelagiclg",2010,"Belize","Centropomus undecimalis",3,"Perch-likes","R",2.21002587338513,105304,"Unreported","Common snook","Subsistence",16,15,2,"U","Landings",600345
+"322","benthopelagiclg",2010,"Belize","Centropomus undecimalis",3,"Perch-likes","R",2.03621679828226,104585,"Unreported","Common snook","Subsistence",16,15,2,"U","Landings",600345
+"323","benthopelagiclg",2010,"Belize","Centropomus undecimalis",3,"Perch-likes","R",0.996398510070772,105304,"Unreported","Common snook","Artisanal",16,15,3,"U","Landings",600345
+"324","benthopelagiclg",2010,"Belize","Centropomus undecimalis",3,"Perch-likes","R",0.918036032257779,104585,"Unreported","Common snook","Artisanal",16,15,3,"U","Landings",600345
+"325","benthopelagicsm",2010,"Belize","Gerreidae",3,"Perch-likes","D",0.568924350233507,105305,"Unreported","Mojarras, silverbellies","Industrial",16,13,1,"U","Discards",400326
+"326","benthopelagicsm",2010,"Belize","Gerreidae",3,"Perch-likes","D",0.134479708869729,105304,"Unreported","Mojarras, silverbellies","Industrial",16,13,1,"U","Discards",400326
+"327","benthopelagicsm",2010,"Belize","Gerreidae",3,"Perch-likes","D",0.536615177467939,104585,"Unreported","Mojarras, silverbellies","Industrial",16,13,1,"U","Discards",400326
+"328","demersalmd",2010,"Belize","Cynoscion",3,"Perch-likes","D",0.090658781566849,105304,"Unreported","Weakfishes","Industrial",16,5,1,"U","Discards",502794
+"329","reef-associatedlg",2010,"Belize","Mycteroperca bonaci",3,"Perch-likes","R",0.0225664990833913,105304,"Reported","Black grouper","Artisanal",16,18,3,"R","Landings",601209
+"330","reef-associatedlg",2010,"Belize","Mycteroperca bonaci",3,"Perch-likes","R",0.0244332024689675,104585,"Reported","Black grouper","Artisanal",16,18,3,"R","Landings",601209
+"331","reef-associatedlg",2010,"Belize","Mycteroperca bonaci",3,"Perch-likes","R",0.428083187316568,105304,"Unreported","Black grouper","Subsistence",16,18,2,"U","Landings",601209
+"332","reef-associatedlg",2010,"Belize","Mycteroperca bonaci",3,"Perch-likes","R",0.463494277540138,104585,"Unreported","Black grouper","Subsistence",16,18,2,"U","Landings",601209
+"333","reef-associatedlg",2010,"Belize","Mycteroperca bonaci",3,"Perch-likes","R",0.193002921443285,105304,"Unreported","Black grouper","Artisanal",16,18,3,"U","Landings",601209
+"334","reef-associatedlg",2010,"Belize","Mycteroperca bonaci",3,"Perch-likes","R",0.208968145182817,104585,"Unreported","Black grouper","Artisanal",16,18,3,"U","Landings",601209
+"335","reef-associatedmd",2010,"Belize","Lutjanus",3,"Perch-likes","R",0.0251116500019627,105304,"Reported","Snappers","Artisanal",16,17,3,"R","Landings",500357
+"336","reef-associatedmd",2010,"Belize","Lutjanus",3,"Perch-likes","R",0.0342105414632419,104585,"Reported","Snappers","Artisanal",16,17,3,"R","Landings",500357
+"337","reef-associatedmd",2010,"Belize","Lutjanus",3,"Perch-likes","R",0.088382395252402,105304,"Reported","Snappers","Artisanal",16,17,3,"R","Landings",500357
+"338","reef-associatedmd",2010,"Belize","Lutjanus",3,"Perch-likes","R",0.1204066477976,104585,"Reported","Snappers","Artisanal",16,17,3,"R","Landings",500357
+"339","reef-associatedmd",2010,"Belize","Lutjanus",3,"Perch-likes","R",2.15296544024843,105304,"Unreported","Snappers","Subsistence",16,17,2,"U","Landings",500357
+"340","reef-associatedmd",2010,"Belize","Lutjanus",3,"Perch-likes","R",2.93306546789196,104585,"Unreported","Snappers","Subsistence",16,17,2,"U","Landings",500357
+"341","reef-associatedmd",2010,"Belize","Lutjanus",3,"Perch-likes","R",0.21477065603885,105304,"Unreported","Snappers","Artisanal",16,17,3,"U","Landings",500357
+"342","reef-associatedmd",2010,"Belize","Lutjanus",3,"Perch-likes","R",0.292590109886467,104585,"Unreported","Snappers","Artisanal",16,17,3,"U","Landings",500357
+"343","reef-associatedmd",2010,"Belize","Lutjanus",3,"Perch-likes","R",0.755901942292114,105304,"Unreported","Snappers","Artisanal",16,17,3,"U","Landings",500357
+"344","reef-associatedmd",2010,"Belize","Lutjanus",3,"Perch-likes","R",1.02979353156437,104585,"Unreported","Snappers","Artisanal",16,17,3,"U","Landings",500357
+"345","sharklg",2010,"Belize","Rhizoprionodon porosus",9,"Sharks & rays","R",3.75996108553632,105304,"Unreported","Caribbean sharpnose shark","Artisanal",16,20,3,"U","Landings",600903
+"346","sharklg",2010,"Belize","Rhizoprionodon porosus",9,"Sharks & rays","R",4.98043438326109,104585,"Unreported","Caribbean sharpnose shark","Artisanal",16,20,3,"U","Landings",600903
+"347","sharklg",2010,"Belize","Rhizoprionodon porosus",9,"Sharks & rays","R",0.00720840300756508,105304,"Unreported","Caribbean sharpnose shark","Artisanal",16,20,3,"U","Landings",600903
+"348","sharklg",2010,"Belize","Rhizoprionodon porosus",9,"Sharks & rays","R",0.00954823131690973,104585,"Unreported","Caribbean sharpnose shark","Artisanal",16,20,3,"U","Landings",600903
+"349","sharklg",2010,"Belize","Rhizoprionodon porosus",9,"Sharks & rays","R",9.05638893448357,105304,"Unreported","Caribbean sharpnose shark","Artisanal",16,20,3,"U","Landings",600903
+"350","sharklg",2010,"Belize","Rhizoprionodon porosus",9,"Sharks & rays","R",11.9960685260798,104585,"Unreported","Caribbean sharpnose shark","Artisanal",16,20,3,"U","Landings",600903
+"351","flatfishsm md",2010,"Belize","Pleuronectiformes",7,"Flatfishes","D",0.0515499641611434,105305,"Unreported","Flatfishes","Industrial",16,23,1,"U","Discards",300061
+"352","flatfishsm md",2010,"Belize","Pleuronectiformes",7,"Flatfishes","D",0.0101989998664714,105304,"Unreported","Flatfishes","Industrial",16,23,1,"U","Discards",300061
+"353","flatfishsm md",2010,"Belize","Pleuronectiformes",7,"Flatfishes","D",0.0475053124151573,104585,"Unreported","Flatfishes","Industrial",16,23,1,"U","Discards",300061
+"354","bathydemersallg",2010,"Belize","Ophidiidae",12,"Other fishes & inverts","D",0.379920100468764,105305,"Unreported","Cuskeels","Industrial",16,12,1,"U","Discards",400186
+"355","bathydemersallg",2010,"Belize","Ophidiidae",12,"Other fishes & inverts","D",0.0633694964767597,105304,"Unreported","Cuskeels","Industrial",16,12,1,"U","Discards",400186
+"356","bathydemersallg",2010,"Belize","Ophidiidae",12,"Other fishes & inverts","D",0.339314384965895,104585,"Unreported","Cuskeels","Industrial",16,12,1,"U","Discards",400186
+"357","sharklg",2010,"Belize","Sphyrna",9,"Sharks & rays","R",46.5284931561311,105305,"Unreported","Hammerhead sharks","Artisanal",16,20,3,"U","Landings",500693
+"358","sharklg",2010,"Belize","Sphyrna",9,"Sharks & rays","R",70.3268853820673,104585,"Unreported","Hammerhead sharks","Artisanal",16,20,3,"U","Landings",500693

@@ -1,0 +1,300 @@
+"Timestamp","Name","Email","latitude","longitude","date.deployed","Type.Of.Habitat","other.habitat.describe","n.squidpops.deployed","squid.missing.1hr","n.pops.retrieved.24hr","squid.missing.24hr","Notes","time.deployed","Institution","proportion.missing.1hr","proportion.missing.24hr"
+"4/5/2016 10:27:52","Ross Whippo","whippor@si.edu",16.802367,-88.083183,20140925,"vegetated","",25,1,25,22,"Entered from existing Squidpop Data",1704,"Smithsonian",0.04,0.88
+"4/5/2016 10:42:12","Ross Whippo","whippor@si.edu",16.802367,-88.083183,20140927,"vegetated","",25,6,25,23,"Entered from existing Squidpop Data",840,"Smithsonian",0.24,0.92
+"4/5/2016 10:46:28","Ross Whippo","whippor@si.edu",16.82395,-88.102167,20140927,"vegetated","",25,9,25,21,"Entered from existing Squidpop Data",1015,"Smithsonian",0.36,0.84
+"4/5/2016 10:49:57","Ross Whippo","whippor@si.edu",16.82395,-88.102167,20140928,"vegetated","",25,4,25,25,"Entered from existing Squidpop Data",930,"Smithsonian",0.16,1
+"4/5/2016 11:04:49","Ross Whippo","whippor@si.edu",16.80502,-88.082983,20140929,"unvegetated","",25,3,25,3,"Entered from existing Squidpop Data",1420,"Smithsonian",0.12,0.12
+"4/5/2016 11:06:04","Ross Whippo","whippor@si.edu",16.80502,-88.082983,20140930,"unvegetated","",25,0,25,1,"Entered from existing Squidpop Data",1051,"Smithsonian",0,0.04
+"4/5/2016 11:07:32","Ross Whippo","whippor@si.edu",16.805333,-88.085283,20140929,"unvegetated","",25,0,25,3,"Entered from existing Squidpop Data",1530,"Smithsonian",0,0.12
+"4/5/2016 11:08:36","Ross Whippo","whippor@si.edu",16.805333,-88.085283,20141001,"unvegetated","",25,1,25,4,"Entered from existing Squidpop Data",1022,"Smithsonian",0.04,0.16
+"4/5/2016 11:13:18","Ross Whippo","whippor@si.edu",16.805567,-88.0849,20150223,"vegetated","",20,5,17,7,"Entered from existing Squidpop Data",1355,"Smithsonian",0.25,0.41
+"4/5/2016 11:16:06","Ross Whippo","whippor@si.edu",9.350933,-82.25725,20150328,"vegetated","",25,0,25,25,"Entered from existing Squidpop Data",1100,"Smithsonian",0,1
+"4/5/2016 11:20:11","Ross Whippo","whippor@si.edu",9.352117,-82.258917,20150329,"vegetated","",25,16,24,23,"Entered from existing Squidpop Data",1615,"Smithsonian",0.64,0.96
+"4/5/2016 11:24:26","Ross Whippo","whippor@si.edu",9.290583,-82.343,20150401,"vegetated","",25,0,25,16,"Entered from existing Squidpop Data",1100,"Smithsonian",0,0.64
+"4/5/2016 11:25:43","Ross Whippo","whippor@si.edu",9.231233,-82.116017,20150402,"vegetated","",25,1,25,7,"Entered from existing Squidpop Data",1120,"Smithsonian",0.04,0.28
+"4/5/2016 11:33:39","Ross Whippo","whippor@si.edu",9.35195,-82.258667,20150403,"vegetated","",25,17,20,20,"Entered from existing Squidpop Data",1020,"Smithsonian",0.68,1
+"4/5/2016 11:37:51","Ross Whippo","whippor@si.edu",9.35195,-82.258667,20150403,"vegetated","",25,17,24,24,"Entered from existing Squidpop Data",1030,"Smithsonian",0.68,1
+"4/5/2016 14:21:46","Ross Whippo","whippor@si.edu",16.787278,-88.085056,20150920,"vegetated","",24,0,24,13,"Entered from existing Squidpop Data",1400,"Smithsonian",0,0.54
+"4/5/2016 14:23:59","Ross Whippo","whippor@si.edu",16.8025,-88.0825,20150921,"vegetated","",25,2,25,5,"Entered from existing Squidpop Data",1400,"Smithsonian",0.08,0.2
+"4/5/2016 14:26:50","Ross Whippo","whippor@si.edu",16.883806,-88.073361,20150921,"unvegetated","",25,0,25,3,"Entered from existing Squidpop Data",1300,"Smithsonian",0,0.12
+"4/5/2016 14:28:49","Ross Whippo","whippor@si.edu",16.787278,-88.085056,20150923,"vegetated","",25,0,25,3,"Entered from existing Squidpop Data",1300,"Smithsonian",0,0.12
+"4/5/2016 14:30:15","Ross Whippo","whippor@si.edu",16.78734,-88.09379,20150924,"unvegetated","",25,0,25,0,"Entered from existing Squidpop Data",1645,"Smithsonian",0,0
+"4/5/2016 14:32:32","Ross Whippo","whippor@si.edu",16.874383,-88.093816,20150925,"vegetated","",25,19,22,22,"Entered from existing Squidpop Data",1650,"Smithsonian",0.76,1
+"4/5/2016 14:39:49","Ross Whippo","whippor@si.edu",16.8237,-88.1029,20150927,"vegetated","",25,0,25,10,"Entered from existing Squidpop Data",1437,"Smithsonian",0,0.4
+"4/5/2016 14:43:03","Ross Whippo","whippor@si.edu",9.35229,-82.25833,20160126,"vegetated","",20,1,20,20,"Entered from existing Squidpop Data",1600,"Smithsonian",0.05,1
+"4/5/2016 14:50:10","Ross Whippo","whippor@si.edu",9.29657,-82.29321,20160129,"vegetated","",20,0,20,1,"Entered from existing Squidpop Data",1315,"Smithsonian",0,0.05
+"4/5/2016 14:51:15","Ross Whippo","whippor@si.edu",9.29728,-82.29531,20160129,"unvegetated","",19,1,19,2,"Entered from existing Squidpop Data",1430,"Smithsonian",0.052631579,0.11
+"6/24/2016 15:39:46","Mallarie Yeager","mallarieyeager1@gmail.com",32.765165,-117.246656,20160623,"vegetated","",25,0,25,25,"Overcast",730,"San Diego State University ",0,1
+"6/30/2016 14:09:16","P.G. Ross","pg@vims.edu",37.68882,-75.86724,20160621,"vegetated","",25,0,22,5,"",1050,"VIMS-ESL",0,0.23
+"6/30/2016 14:11:22","P.G. Ross","pg@vims.edu",37.68751,-75.86738,20160621,"unvegetated","",25,4,25,6,"",1130,"VIMS-ESL",0.16,0.24
+"6/30/2016 14:13:15","P.G. Ross","pg@vims.edu",37.68175,-75.86651,20160622,"unvegetated","",25,3,25,6,"",1045,"VIMS-ESL",0.12,0.24
+"6/30/2016 14:14:47","P.G. Ross","pg@vims.edu",37.68154,-75.86672,20160622,"vegetated","",25,2,25,17,"",1130,"VIMS-ESL",0.08,0.68
+"6/30/2016 14:16:52","P.G. Ross","pg@vims.edu",37.68199,-75.86617,20160623,"unvegetated","",25,4,25,6,"",1200,"VIMS-ESL",0.16,0.24
+"6/30/2016 14:18:50","P.G. Ross","pg@vims.edu",37.68225,-75.86633,20160623,"vegetated","",25,1,25,7,"",1245,"VIMS-ESL",0.04,0.28
+"6/30/2016 14:54:15","Randall Hughes","rhughes@northeastern.edu",42.41978,-70.91522,20160607,"vegetated","",25,0,25,1,"",750,"Northeastern University",0,0.04
+"6/30/2016 14:55:50","Randall Hughes","rhughes@northeastern.edu",42.41986,-70.91506,20160607,"unvegetated","",25,0,25,4,"",748,"Northeastern University",0,0.16
+"6/30/2016 14:57:25","Randall Hughes","rhughes@northeastern.edu",42.42026,-70.91574,20160609,"vegetated","",25,0,25,3,"",900,"Northeastern University",0,0.12
+"6/30/2016 14:58:41","Randall Hughes","rhughes@northeastern.edu",42.42044,-70.91594,20160609,"unvegetated","",25,0,25,1,"",900,"Northeastern University",0,0.04
+"6/30/2016 15:01:53","Randall Hughes","rhughes@northeastern.edu",42.42046,-70.91641,20160622,"vegetated","",25,0,25,3,"",750,"Northeastern University",0,0.12
+"6/30/2016 15:03:02","Randall Hughes","rhughes@northeastern.edu",42.42057,-70.91625,20160622,"unvegetated","",25,0,25,0,"",750,"Northeastern University",0,0
+"6/30/2016 17:50:37","Clara M. Hereu","clarahereu@hotmail.com",31.753106,-116.625137,20160625,"unvegetated","",25,0,25,6,"Some small patches of eelgrass were close (1 m) to 3 of the stakes, but all the stakes were on unvegetated muddy bottom.",1002,"Universidad Autónoma de Baja California",0,0.24
+"6/30/2016 18:11:04","Clara M. Hereu","clarahereu@hotmail.com",31.753025,-116.625858,20160625,"vegetated","",25,0,25,15,"The stakes were located in the deeper area of a dense eelgrass meadow, so that the depth of this transect was similar to the depth of the unvegetated transect.",1104,"Universidad Autónoma de Baja California",0,0.6
+"6/30/2016 18:15:21","Clara M. Hereu","clarahereu@hotmail.com",31.753106,-116.625137,20160626,"unvegetated","",25,0,25,6,"Some small patches of eelgrass were close (1 m) to 3 of the stakes, but all the stakes were on unvegetated muddy bottom.",1050,"Universidad Autónoma de Baja California",0,0.24
+"6/30/2016 18:18:05","Clara M. Hereu","clarahereu@hotmail.com",31.753025,-116.625858,20160626,"vegetated","",25,4,25,25,"The stakes were located in the deeper area of a dense eelgrass meadow, so that the depth of this transect was similar to the depth of the unvegetated transect.",1126,"Universidad Autónoma de Baja California",0.16,1
+"6/30/2016 18:21:39","Clara M. Hereu","clarahereu@hotmail.com",31.753106,-116.625137,20160627,"unvegetated","",25,2,25,15,"Some small patches of eelgrass were close (1 m) to 3 of the stakes, but all the stakes were on unvegetated muddy bottom.",1120,"Universidad Autónoma de Baja California",0.08,0.6
+"6/30/2016 18:24:43","Clara M. Hereu","clarahereu@hotmail.com",31.753025,-116.625858,20160627,"vegetated","",25,15,25,25,"The stakes were located in the deeper area of a dense eelgrass meadow, so that the depth of this transect was similar to the depth of the unvegetated transect.",1155,"Universidad Autónoma de Baja California",0.6,1
+"7/1/2016 17:59:05","Mallarie Yeager","mallarieyeager1@gmail.com",32.76538,-117.24635,20160627,"vegetated","",25,0,25,25,"Weather sunny on deployment, overcast on retrieval. ",841,"San Diego State University",0,1
+"7/1/2016 18:01:39","Mallarie Yeager","mallarieyeager1@gmail.com",32.76538,-117.24635,20160627,"unvegetated","",25,0,25,8,"Weather sunny on deployment, overcast on retrieval.",855,"San Diego State University",0,0.32
+"7/1/2016 18:07:31","Mallarie Yeager","mallarieyeager1@gmail.com",32.76538,-117.24635,20160630,"vegetated","",25,0,24,2,"",1145,"San Diego State University",0,0.08
+"7/1/2016 18:10:54","Mallarie Yeager","mallarieyeager1@gmail.com",32.76538,-117.24635,20160630,"unvegetated","",25,0,25,18,"A few poles in the center were not standing; some scrape-marks on the sandy bottom. Perhaps pushed aside by a boat in the shallows.",1200,"San Diego State University",0,0.72
+"7/2/2016 13:00:50","Claudia Kruschel","ckrusche@unizd.hr",44.20607,15.472477,20160625,"vegetated","",25,0,25,0,"The seagrass was dense Zostera noltii, 80-100% coverage.",915,"University of Zadar",0,0
+"7/2/2016 13:10:20","Claudia Kruschel","ckrusche@unizd.hr",44.20607,15.472477,20160625,"unvegetated","",25,0,25,25,"I think the predation may me snails.",950,"University of Zadar",0,1
+"7/2/2016 13:15:42","Claudia Kruschel","ckrusche@unizd.hr",44.20607,15.472477,20160626,"vegetated","",25,0,25,0,"",930,"University of Zadar",0,0
+"7/2/2016 13:24:56","Claudia Kruschel","ckrusche@unizd.hr",44.202902,15.475608,20160626,"unvegetated","",25,0,25,25,"",1010,"University of University",0,1
+"7/2/2016 13:28:00","Claudia Kruschel","ckrusche@unizd.hr",44.20607,15.472477,20160627,"vegetated","",25,0,25,0,"",945,"University of Zadar",0,0
+"7/2/2016 13:32:05","Claudia Kruschel","ckrusche@unizd.hr",44.202902,15.475608,20160627,"unvegetated","",25,0,25,25,"",1045,"University of Zadar",0,1
+"7/6/2016 16:26:08","Zach Monteith","zach@hakai.org",51.68157,-128.1138,20160705,"unvegetated","",25,0,25,0,"",820,"Hakai Institute",0,0
+"7/6/2016 16:29:25","Zach Monteith","zach@hakai.org",51.67617,-128.12361,20160705,"vegetated","",25,0,25,0,"",845,"Hakai Institute",0,0
+"7/7/2016 18:55:41","Zach Monteith","zach@hakai.org",51.681421,-128.113965,20160706,"unvegetated","",25,0,23,1,"two stakes possible removed by surge/swell",940,"Hakai Institute",0,0.04
+"7/7/2016 19:04:20","Zach Monteith","zach@hakai.org",51.676307,-128.123624,20160706,"vegetated","",25,0,23,1,"two stakes lost, possibly not secured well enough",1025,"Hakai Institute",0,0.04
+"7/8/2016 19:19:42","Midoli Bresch","midoli.bresch@hakai.org",51.681421,-128.113965,20160707,"unvegetated","",25,2,21,0,"stakes swept away",935,"Hakai Institute",0.08,0
+"7/8/2016 19:21:58","Midoli Bresch","midoli.bresch@hakai.org",51.676307,-128.123624,20160707,"vegetated","",25,0,24,0,"One stake lost in eelgrass",1010,"Hakai Institute",0,0
+"7/15/2016 17:52:01","Kristin Hultgren","hultgrenk@seattleu.edu",47.351,-122.324,20160706,"vegetated","",25,0,22,0,"",1116,"Seattle University",0,0
+"7/15/2016 17:55:42","Kristin Hultgren","hultgrenk@seattleu.edu",47.3503,122.324,20160706,"vegetated","",25,0,22,0,"",1200,"Seattle University",0,0
+"7/15/2016 17:58:29","Kristin Hultgren","hultgrenk@seattleu.edu",47.35,-122.32,20160706,"unvegetated","",25,0,24,2,"Both ""eaten"" squidpops had fallen over and were lying on the sandy bottom.",1145,"Seattle University",0,0.08
+"7/15/2016 18:00:40","Kristin Hultgren","hultgrenk@seattleu.edu",47.349,-122.32,20160706,"unvegetated","",25,0,25,4,"All 4 eaten squidpops had fallen over and were lying on the ground",1155,"Seattle University",0,0.16
+"7/15/2016 18:03:25","Kristin Hultgren","hultgrenk@seattleu.edu",47.346,-122.33,20160707,"unvegetated","",25,0,25,0,"",1400,"Seattle University",0,0
+"7/15/2016 18:04:54","Kristin Hultgren","hultgrenk@seattleu.edu",47.346,-122.329,20160707,"vegetated","",25,0,24,0,"",230,"Seattle University",0,0
+"7/20/2016 16:52:00","Brent Hughes","bbhughes@ucsc.edu",36.809236,-121.783232,20160622,"unvegetated","",25,0,25,0,"Lots of Ulva cover on the mudflat, ~90%, also Gracilariopsis in deeper areas. Macroalgal covering Elkhorn Slough was extremely high and was unavoidable over mudflat areas.",820,"Duke University/UC Santa Cruz",0,0
+"7/20/2016 16:54:29","Brent Hughes","bbhughes@ucsc.edu",36.810708,-121.782105,20160622,"vegetated","",25,0,25,25,"",840,"Duke University/UC Santa Cruz",0,1
+"7/20/2016 16:56:29","Brent Hughes","bbhughes@ucsc.edu",36.810708,-121.782105,20160623,"vegetated","",25,0,25,24,"",915,"Duke University/UC Santa Cruz",0,0.96
+"7/20/2016 16:58:54","Brent Hughes","bbhughes@ucsc.edu",36.809236,-121.783232,20160623,"unvegetated","",25,0,25,0,"~90% cover of Ulva and Gracilariopsis, 1/2 the poles were covered with a single sheet of Ulva.",930,"Duke University/UC Santa Cruz",0,0
+"7/20/2016 17:01:38","Brent Hughes","bbhughes@ucsc.edu",36.810708,-121.782105,20160705,"vegetated","",25,0,24,20,"15% algal cover",846,"Duke University/UC Santa Cruz",0,0.83
+"7/20/2016 17:03:29","Brent Hughes","bbhughes@ucsc.edu",36.809236,-121.783232,20160705,"unvegetated","",25,0,24,1,"~50% cover of Ulva and Gracilariopsis.",842,"Duke University/UC Santa Cruz",0,0.04
+"7/27/2016 0:15:15","Olivia Graham","ojgraham@mac.com",48.48532472,-123.07541,20160719,"vegetated","",21,0,21,0,"Accidentally deployed the other 4 pops in the unvegetated region at the same time. However, didn't see any predation in either area. WHIPPO - corrected GPS, used values from seine data submission",1030,"Cornell University / Friday Harbor Labs",0,0
+"7/27/2016 0:17:55","Olivia Graham","ojgraham@mac.com",48.48532472,-123.07541,20160719,"unvegetated","",29,0,29,0,"Accidentally deployed extra 4 pops (from seagrass set of pops). However, didn't see any squid pop predation in either area. WHIPPO - corrected GPS, used values from seine data submission",1040,"Cornell University / Friday Harbor Labs",0,0
+"7/27/2016 0:19:42","Olivia Graham","ojgraham@mac.com",48.48532472,-123.07541,20160720,"vegetated","",25,0,25,1,"WHIPPO - corrected GPS, used values from seine data submission",1145,"Cornell University / Friday Harbor Labs",0,0.04
+"7/27/2016 0:21:44","Olivia Graham","ojgraham@mac.com",48.48532472,-123.07541,20160720,"unvegetated","",25,0,25,0,"WHIPPO - corrected GPS, used values from seine data submission",1200,"Cornell University / Friday Harbor Labs",0,0
+"7/27/2016 0:25:51","Olivia Graham","ojgraham@mac.com",48.48532472,-123.07541,20160721,"vegetated","",25,0,24,1,"Conditions at time of collection were wavy and windy. After 24 hrs when the pops were retrieved, 4 squid pops had fallen over, although their bait was still in tact. One pop couldn't be found at the time of collection. WHIPPO - corrected GPS, used values from seine data submission",1230,"Cornell University / Friday Harbor Labs",0,0.04
+"7/27/2016 0:36:38","Olivia Graham","ojgraham@mac.com",48.48532472,-123.07541,20160721,"unvegetated","",25,0,24,5,"Conditions at retrieval time were windy and wavy, which may have dislodged some of the squid. For all 5 pops whose bait was missing, the fishing line knots used to secure the squid were untied. One of the pops couldn't be located at the time of retrieval. WHIPPO - corrected GPS, used values from seine data submission",1200,"Cornell University / Friday Harbor Labs",0,0.21
+"8/5/2016 12:34:53","Lane Johnston","lanej@udel.edu",38.472539,75.9491,20160620,"unvegetated","",25,0,25,0,"",1445,"University of Delaware ",0,0
+"8/5/2016 12:36:06","Lane Johnston","lanej@udel.edu",38.472539,75.9491,20160623,"unvegetated","",25,0,21,0,"",1345,"University of Delaware",0,0
+"8/5/2016 12:38:44","Lane Johnston","lanej@udel.edu",38.472539,75.9491,20160713,"unvegetated","",24,0,21,0,"All submitted squid pop data from UD Lewes site was only conducted in unvegetated areas. There were no easily accessible, near-by vegetated sites. ",1000,"University of Delaware",0,0
+"8/15/2016 9:35:47","Jon Lefcheck","jslefche@vims.edu",37.215796,76.392675,20160811,"vegetated","A mixed bed of Zostera marina and Ruppia maritima",25,18,25,23,"",1000,"VIMS",0.72,0.92
+"8/15/2016 9:36:53","Jon Lefcheck","jslefche@vims.edu",37.215796,76.392675,20160811,"unvegetated","",25,10,25,22,"",1000,"VIMS",0.4,0.88
+"8/25/2016 11:36:34","Wendel Raymond","wraymond2@alaska.edu",58.60859,-134.93278,20160821,"vegetated","",25,0,25,0,"",930,"University of Alaska Fairbanks",0,0
+"8/25/2016 11:38:13","Wendel Raymond","wraymond2@alaska.edu",58.60853,-134.93083,20160821,"unvegetated","",25,0,25,0,"",1010,"University of Alaska Fairbanks",0,0
+"8/25/2016 11:40:35","Wendel Raymond","wraymond2@alaska.edu",58.60859,-134.93278,20160822,"vegetated","",25,0,25,0,"",1030,"University of Alaska Fairbanks",0,0
+"8/25/2016 11:43:48","Wendel Raymond","wraymond2@alaska.edu",58.60853,-134.93083,20160822,"unvegetated","",25,0,25,0,"",1050,"University of Alaska Fairbanks",0,0
+"8/25/2016 11:47:55","Wendel Raymond","wraymond2@alaska.edu",58.60859,-134.93278,20160823,"vegetated","",25,0,25,3,"The three pops that were missing bait were found laying down (fallen over). So its impossible to know if predation occurred when they were upright or fallen over. The day when they were deployed was rather rough so I could see how they may have fallen over soon after deployment. ",1115,"University of Alaska Fairbanks",0,0.12
+"8/25/2016 11:48:57","Wendel Raymond","wraymond2@alaska.edu",58.60853,-134.93083,20160823,"unvegetated","",25,0,25,0,"",1145,"University of Alaska Fairbanks",0,0
+"8/30/2016 15:02:51","Brigitta I. van Tussenbroek","vantuss@cmarl.unam.mx",20.83433,-86.87647,20160716,"unvegetated","",25,0,25,0,"5-10m from coral reef",1130,"ICML, Universidad Nacional Autónoma de México",0,0
+"8/30/2016 15:10:46","Brigitta I. van Tussenbroek","vantuss@cmarl.unam.mx",20.8347,-86.87654,20160718,"vegetated","",25,0,25,8,"WHIPPO - corrected 24 hour consumption value 20160831 from 17 -> 8",1130,"ICML, Universidad Nacional Autónoma de México",0,0.32
+"8/30/2016 15:14:26","Brigitta I. van Tussenbroek","vantuss@cmarl.unam.mx",20.83433,-86.87647,20160719,"unvegetated","",25,0,25,2,"Near Reef",1035,"ICML, Universidad Nacional Autónoma de México",0,0.08
+"8/30/2016 15:20:11","Brigitta I. van Tussenbroek","vantuss@cmarl.unam.mx",20.8347,-86.87654,20160719,"vegetated","",25,0,25,15,"",1045,"ICML, Universidad Nacional Autónoma de México",0,0.6
+"8/30/2016 15:22:17","Brigitta I. van Tussenbroek","vantuss@cmarl.unam.mx",20.83433,-86.87647,20160720,"unvegetated","",25,0,25,0,"Sandflat near coral reef",1020,"ICML, Universidad Nacional Autónoma de México",0,0
+"8/30/2016 15:24:32","Brigitta I. van Tussenbroek","vantuss@cmarl.unam.mx",20.8347,-86.87654,20160720,"vegetated","",25,0,25,15,"",1030,"ICML, Universidad Nacional Autónoma de México",0,0.6
+"8/30/2016 16:53:00","Enrique Lozano Álvarez","elozano@cmarl.unam.mx",19.82738,-87.45408,20160712,"unvegetated","",25,0,25,1,"",1300,"ICML, Universidad Nacional Autónoma de México",0,0.04
+"8/30/2016 16:57:47","Enrique Lozano Álvarez","elozano@cmarl.unam.mx",19.82721,-87.45526,20160712,"unvegetated","",25,0,25,0,"Six trials were realized in two days due to logistics: there were two sand and two seagrass areas in the vicinity of eachother.  Design: Day 1-Unveg1, Unveg2, Seagrass1, Day2-Unveg1, Seagrass1, Seagrass2",1315,"ICML, Universidad Nacional Autónoma de México",0,0
+"8/30/2016 16:59:38","Enrique Lozano Álvarez","elozano@cmarl.unam.mx",19.8271,-87.45401,20160712,"vegetated","",25,0,25,1,"",1330,"ICML, Universidad Nacional Autónoma de México",0,0.04
+"8/30/2016 17:01:28","Enrique Lozano Álvarez","elozano@cmarl.unam.mx",19.82738,-87.45408,20160713,"unvegetated","",25,0,25,1,"",1030,"ICML, Universidad Nacional Autónoma de México",0,0.04
+"8/30/2016 17:04:26","Enrique Lozano Álvarez","elozano@cmarl.unam.mx",19.8271,-87.45401,20160713,"vegetated","",25,1,25,4,"",1050,"ICML, Universidad Nacional Autónoma de México",0.04,0.16
+"8/30/2016 17:07:36","Enrique Lozano Álvarez","elozano@cmarl.unam.mx",19.82687,-87.45509,20160713,"vegetated","",25,1,25,7,"There were only two days available for the three trials.
+Design of trials: Day1-Unveg1, Unveg2, Seagrass1,  Day2-Unveg1, Seagrass1, Seagrass2",1050,"ICML, Universidad Nacional Autónoma de México",0.04,0.28
+"9/9/2016 15:22:52","Aaron W. E. Galloway","agallow3@uoregon.edu",43.315383,-124.320926,20160718,"vegetated","",25,0,25,1,"",820,"Oregon Institute of Marine Biology, University of Oregon",0,0.04
+"9/9/2016 15:28:29","Aaron W. E. Galloway","agallow3@uoregon.edu",43.315013,-124.320361,20160718,"vegetated","",25,0,25,1,"Do not use the previously submitted entry for Galloway for this same date. That entry had the wrong GPS coordinates. I was unable to verify or edit the previously submitted data in this google survey format.",820,"Oregon Institute of Marine Biology, University of Oregon",0,0.04
+"9/9/2016 15:33:20","Aaron W. E. Galloway","agallow3@uoregon.edu",43.315383,-124.320926,20160718,"unvegetated","",25,0,25,5,"Submerged soak time is 22 hours due to tides.",830,"Oregon Institute of Marine Biology, University of Oregon",0,0.2
+"9/9/2016 15:37:34","Aaron W. E. Galloway","agallow3@uoregon.edu",43.315013,-124.320361,20160720,"vegetated","",25,0,25,0,"Submerged soak time was 21 hours due to tides",955,"Oregon Institute of Marine Biology, University of Oregon",0,0
+"9/9/2016 15:42:18","Aaron W. E. Galloway","agallow3@uoregon.edu",43.315383,-124.320926,20160720,"unvegetated","",25,0,25,1,"Submerged soak time was 21.5 hours due to tides at this location",920,"Oregon Institute of Marine Biology; University of Oregon",0,0.04
+"9/9/2016 15:45:48","Aaron W. E. Galloway","agallow3@uoregon.edu",43.315013,-124.320361,20160721,"vegetated","",25,0,25,1,"Submerged soak time was 21 hours at this location due to tides",1015,"Oregon Institute of Marine Biology, University of Oregon",0,0.04
+"9/9/2016 15:48:22","Aaron W. E. Galloway","agallow3@uoregon.edu",43.315383,-124.320926,20160721,"unvegetated","",25,0,25,1,"Submerged soak time was 21.5 hours due to tides at this location",945,"Oregon Institute of Marine Biology, University of Oregon",0,0.04
+"9/16/2016 10:42:30","Jonathan Rodemann","RodemannJ@si.edu",34.718132,-76.670823,20160603,"unvegetated","",24,0,24,24,"",1400,"SERC",0,1
+"9/16/2016 10:45:39","Jonathan Rodemann","RodemannJ@si.edu",34.720467,-76.68594,20160607,"unvegetated","",25,0,25,25,"",1400,"SERC",0,1
+"9/16/2016 10:47:55","Jonathan Rodemann","RodemannJ@si.edu",34.70938,-76.632988,20160607,"unvegetated","",22,0,22,22,"",1730,"SERC",0,1
+"9/16/2016 10:52:36","Jonathan Rodemann","RodemannJ@si.edu",34.715056,-76.678817,20160609,"unvegetated","",27,0,27,26,"",1300,"SERC",0,0.96
+"9/16/2016 10:55:15","Jonathan Rodemann","RodemannJ@si.edu",34.723123,-76.66347,20160609,"unvegetated","",25,1,25,25,"",1800,"SERC",0.04,1
+"9/16/2016 11:01:05","Jonathan Rodemann","RodemannJ@si.edu",27.456273,-80.309371,20160617,"unvegetated","",23,23,23,23,"",1100,"SERC",1,1
+"9/16/2016 11:03:35","Jonathan Rodemann","RodemannJ@si.edu",27.463705,-80.305352,20160617,"unvegetated","",25,25,25,25,"",1400,"SERC",1,1
+"9/16/2016 11:06:09","Jonathan Rodemann","RodemannJ@si.edu",27.460294,-80.293434,20160621,"unvegetated","",25,24,25,25,"",930,"SERC",0.96,1
+"9/16/2016 11:08:32","Jonathan Rodemann","RodemannJ@si.edu",27.478534,-80.312212,20160622,"unvegetated","",25,5,25,25,"",1215,"SERC",0.2,1
+"9/16/2016 11:11:20","Jonathan Rodemann","RodemannJ@si.edu",27.454977,-80.323082,20160622,"unvegetated","",24,12,24,24,"",1245,"SERC",0.5,1
+"9/16/2016 11:14:05","Jonathan Rodemann","RodemannJ@si.edu",27.468599,-80.298464,20160623,"unvegetated","",25,7,25,25,"",1230,"SERC",0.28,1
+"9/16/2016 11:16:31","Jonathan Rodemann","RodemannJ@si.edu",27.453564,-80.290005,20160624,"unvegetated","",24,3,24,24,"",1300,"SERC",0.125,1
+"9/16/2016 11:19:54","Jonathan Rodemann","RodemannJ@si.edu",41.539548,-70.655992,20160714,"vegetated","Zostra",25,0,25,25,"",1230,"SERC",0,1
+"9/16/2016 11:22:08","Jonathan Rodemann","RodemannJ@si.edu",41.543932,-70.652652,20160714,"unvegetated","",25,0,25,23,"",1400,"SERC",0,0.92
+"9/16/2016 11:24:43","Jonathan Rodemann","RodemannJ@si.edu",41.52468,-70.672539,20160716,"vegetated","Zostra",25,0,25,0,"",1030,"SERC",0,0
+"9/16/2016 11:26:45","Jonathan Rodemann","RodemannJ@si.edu",41.525608,-70.671492,20160716,"unvegetated","",25,0,25,0,"",1100,"SERC",0,0
+"9/16/2016 11:29:26","Jonathan Rodemann","RodemannJ@si.edu",41.646981,-70.636447,20160717,"unvegetated","",25,0,25,25,"",1500,"SERC",0,1
+"9/16/2016 11:32:05","Jonathan Rodemann","RodemannJ@si.edu",41.526892,-70.675552,20160717,"vegetated","Zostra",20,0,20,6,"",1700,"SERC",0,0.3
+"9/16/2016 11:35:06","Jonathan Rodemann","RodemannJ@si.edu",43.8629,-69.557429,20160722,"unvegetated","",25,0,25,11,"",1500,"SERC",0,0.44
+"9/16/2016 11:37:32","Jonathan Rodemann","RodemannJ@si.edu",43.861634,-69.560632,20160723,"unvegetated","",25,0,25,22,"",1700,"SERC",0,0.88
+"9/16/2016 11:39:52","Jonathan Rodemann","RodemannJ@si.edu",43.848748,-69.62932,20160723,"unvegetated","",21,0,21,19,"",1100,"SERC",0,0.9
+"9/16/2016 11:42:20","Jonathan Rodemann","RodemannJ@si.edu",43.866031,-69.583379,20160724,"unvegetated","",21,1,21,11,"",1000,"SERC",0.047619048,0.52
+"9/16/2016 11:46:39","Jonathan Rodemann","RodemannJ@si.edu",43.844381,-69.641094,20160725,"unvegetated","",25,0,25,0,"",1000,"SERC",0,0
+"9/19/2016 11:36:24","Shelby Ziegler","sziegler@live.unc.edu",34.69099,-76.62199,20160815,"vegetated","",25,18,25,24,"",1418,"UNC Institute of Marine Sciences",0.72,0.96
+"9/19/2016 11:37:23","Shelby Ziegler","sziegler@live.unc.edu",34.69099,-76.62199,20160816,"vegetated","",25,25,25,25,"",1423,"UNC Institute of Marine Sciences",1,1
+"9/19/2016 11:38:33","Shelby Ziegler","sziegler@live.unc.edu",34.69099,-76.62199,20160817,"vegetated","",25,24,25,25,"",1423,"UNC Institute of Marine Sciences",0.96,1
+"9/19/2016 11:39:37","Shelby Ziegler","sziegler@live.unc.edu",34.69051,-76.62245,20160815,"unvegetated","",25,1,25,25,"",1447,"UNC Institute of Marine Sciences",0.04,1
+"9/19/2016 11:40:28","Shelby Ziegler","sziegler@live.unc.edu",34.69051,-76.62245,20160816,"unvegetated","",25,24,25,25,"",1428,"UNC Institute of Marine Sciences",0.96,1
+"9/19/2016 11:41:32","Shelby Ziegler","sziegler@live.unc.edu",34.69051,-76.62245,20160817,"unvegetated","",25,25,25,25,"",1430,"UNC Institute of Marine Sciences",1,1
+"10/4/2016 1:55:02","Song. hwi-june","sormyo@gmail.com",34.7289,128.6047,20160621,"unvegetated","",25,1,24,24,"",1515,"pusan national univ.",0.04,1
+"10/4/2016 1:59:40","Song. hwi-june","sormyo@pusan.ac.kr",34.7289,128.6047,20160621,"vegetated","",25,0,24,16,"",1523,"Pusan National Univ.",0,0.67
+"10/4/2016 2:02:54","Song. hwi-june","sormyo@pusan.ac.kr",34.7289,128.6047,20160620,"unvegetated","",25,8,25,25,"",1600,"Pusan National Univ.",0.32,1
+"10/4/2016 2:05:51","Song. hwi-june","sormyo@pusan.ac.kr",34.7289,128.6047,20160620,"vegetated","",25,0,25,9,"",1610,"Pusan National Univ.",0,0.36
+"10/4/2016 2:08:22","Song. hwi-june","sormyo@pusan.ac.kr",34.7289,128.6047,20160622,"unvegetated","",25,0,25,25,"",1610,"Pusan National Univ.",0,1
+"10/4/2016 2:10:54","Song. hwi-june","sormyo@pusan.ac.kr",34.7289,128.6047,20160622,"vegetated","",25,0,25,10,"",1610,"Pusan National Univ.",0,0.4
+"10/10/2016 16:22:43","Janina Seemann","seemannj@si.edu",9.351809,-82.257631,20160929,"vegetated","",25,0,25,6,"",1212,"Smithsonian Tropical Research Institute",0,0.24
+"10/17/2016 3:32:45","Prof. Lisandro Benedetti-Cecchi","lisandro.benedetti.cecchi@unipi.it",43.06781,9.831083,20160727,"vegetated","",21,10,23,23,"After 24 hours we found two more stakes (23) than after 1 hour (21 stakes)",1105,"Department of Biology - University of Pisa",0.476190476,1
+"10/17/2016 3:34:33","Prof.Lisandro Benedetti-Cecchi","lisandro.benedetti.cecchi@unipi.it",43.06711,9.831426,20160727,"unvegetated","",23,23,23,23,"",1120,"Department of Biology - University of Pisa",1,1
+"10/17/2016 3:37:10","Prof. Lisandro Benedetti-Cecchi","lisandro.benedetti.cecchi@unipi.it",43.06781,9.831083,20160728,"vegetated","",25,25,0,0,"All the stakes were removed after 1 hour (do not consider the ""0"" counts after 24 hours)",1348,"Department of Biology - University of Pisa",1,NA
+"10/17/2016 3:39:08","Prof. Lisandro Benedetti-Cecchi","lisandro.benedetti.cecchi@unipi.it",43.06711,9.831426,20160728,"unvegetated","",25,25,0,0,"All the stakes were removed after 1 hour (do not consider the ""0"" counts after 24 hours)",1359,"Department of Biology - University of Pisa",1,NA
+"10/17/2016 3:41:07","Prof. Lisandro Benedetti-Cecchi","lisandro.benedetti.cecchi@unipi.it",43.06781,9.831083,20160729,"vegetated","",24,24,0,0,"All the stakes were removed after 1 hour (do not consider the ""0"" counts after 24 hours)",1200,"Department of Biology - University of Pisa",1,NA
+"10/17/2016 3:43:15","Prof. Lisandro Benedetti-Cecchi","lisandro.benedetti.cecchi@unipi.it",43.06711,9.831426,20160729,"unvegetated","",25,25,0,0,"All the stakes were removed after 1 hour (do not consider the ""0"" counts after 24 hours)",1215,"Department of Biology - University of Pisa",1,NA
+"10/17/2016 3:49:12","Prof. Lisandro Benedetti-Cecchi","lisandro.benedetti.cecchi@unipi.it",43.068,9.831061,20160727,"vegetated","",21,21,21,21,"",1145,"Department of Biology - University of Pisa",1,1
+"10/17/2016 3:50:52","Prof. Lisandro Bendetti-Cecchi","lisandro.benedetti.cecchi@unipi.it",43.067767,9.83136,20160727,"unvegetated","",25,25,25,25,"",1200,"Department of Biology - University of Pisa",1,1
+"10/17/2016 3:52:45","Prof. Lisandro Bendetti-Cecchi","lisandro.benedetti.cecchi@unipi.it",43.068,9.831061,20160728,"vegetated","",25,25,0,0,"All the stakes were removed after 1 hour (do not consider the ""0"" counts after 24 hours)",1415,"Department of Biology - University of Pisa",1,NA
+"10/17/2016 3:54:38","Prof. Lisandro Benedetti-Cecchi","lisandro.benedetti.cecchi@unipi.it",43.067767,9.83136,20160728,"unvegetated","",25,25,0,0,"All the stakes were removed after 1 hour (do not consider the ""0"" counts after 24 hours)",1430,"Department of Biology - University of Pisa",1,NA
+"10/17/2016 3:57:32","Prof. Lisandro Benedetti-Cecchi","lisandro.benedetti.cecchi@unipi.it",43.068,9.831061,20160729,"vegetated","",24,24,0,0,"Only 24 stakes were initially deployed. All the stakes were removed after 1 hour (do not consider the ""0"" counts after 24 hours)",1230,"Department of Biology - University of Pisa",1,NA
+"10/17/2016 3:59:30","Prof. Lisandro Benedetti-Cecchi","lisandro.benedetti.cecchi@unipi.it",43.067767,9.83136,20160729,"unvegetated","",25,25,0,0,"All the stakes were removed after 1 hour (do not consider the ""0"" counts after 24 hours)",1245,"Department of Biology - University of Pisa",1,NA
+"10/25/2016 4:26:16","Francesca Rossi","francesca.rossi@cnrs.fr",40.7127837,-74.0059413,20160705,"unvegetated","",25,0,25,4,"WHIPPO - GPS IS INCORRECT",956,"CNRS, MARBEC laboratory",0,0.16
+"10/25/2016 4:28:57","Francesca Rossi","francesca.rossi@cnrs.fr",40.7127837,-74.0059413,20160705,"vegetated","",25,1,25,1,"WHIPPO - GPS IS INCORRECT",1010,"CNRS, MARBEC laboratory",0.04,0.04
+"10/25/2016 4:30:51","Francesca Rossi","francesca.rossi@cnrs.fr",40.7127837,-74.0059413,20160706,"unvegetated","",25,0,25,17,"WHIPPO - GPS IS INCORRECT",1020,"CNRS, MARBEC laboratory",0,0.68
+"10/25/2016 4:32:21","Francesca Rossi","francesca.rossi@cnrs.fr",40.7127837,-74.0059413,20160706,"vegetated","",25,0,25,0,"WHIPPO - GPS IS INCORRECT",1025,"CNRS, MARBEC laboratory",0,0
+"10/25/2016 4:34:02","Francesca Rossi","francesca.rossi@cnrs.fr",40.7127837,-74.0059413,20160707,"unvegetated","",25,3,25,22,"WHIPPO - GPS IS INCORRECT",929,"CNRS, MARBEC laboratory",0.12,0.88
+"10/25/2016 4:35:38","Francesca Rossi","Francesca.rossi@cnrs.fr",40.7127837,-74.0059413,20160707,"vegetated","",25,0,25,0,"WHIPPO - GPS IS INCORRECT",925,"CNRS, MARBEC laboratory",0,0
+"11/13/2016 11:11:12","Meredith Diskin","mdiskin@islander.tamucc.edu",27.42443,-97.19447,20160707,"unvegetated","",25,2,24,0,"",816,"Texas A&M University - Corpus Christi",0.08,0
+"11/13/2016 11:13:04","Meredith Diskin","mdiskin@islander.tamucc.edu",27.42446,-97.19337,20160707,"vegetated","",28,9,28,23,"",830,"Texas A&M University - Corpus Christi",0.321428571,0.82
+"11/13/2016 11:21:55","Meredith Diskin","mdiskin@islander.tamucc.edu",27.42443,-97.19447,20160713,"unvegetated","",25,15,25,25,"",750,"Texas A&M University - Corpus Christi",0.6,1
+"11/13/2016 11:23:15","Meredith Diskin","mdiskin@islander.tamucc.edu",27.42466,-97.19377,20160713,"vegetated","",25,9,25,11,"",810,"Texas A&M University - Corpus Christi",0.36,0.44
+"11/13/2016 11:25:29","Meredith Diskin","mdiskin@islander.tamucc.edu",27.42443,-97.19447,20160719,"unvegetated","",25,0,25,25,"",745,"Texas A&M University - Corpus Christi",0,1
+"11/13/2016 11:26:56","Meredith Diskin","mdiskin@islander.tamucc.edu",27.42466,-97.19377,20160719,"vegetated","",25,23,25,24,"",745,"Texas A&M University - Corpus Christi",0.92,0.96
+"11/13/2016 11:34:50","Meredith Diskin","mdiskin@islander.tamucc.edu",27.37981,-97.17288,20160726,"unvegetated","",25,0,25,1,"",840,"Texas A&M University - Corpus Christi",0,0.04
+"11/13/2016 11:36:57","Meredith Diskin","mdiskin@islander.tamucc.edu",27.37951,-97.17278,20160726,"vegetated","",25,0,22,25,"3 stakes missing after 24 hours",840,"Texas A&M University - Corpus Christi",0,1.14
+"11/13/2016 11:39:05","Meredith Diskin","mdiskin@islander.tamucc.edu",27.37981,-97.17288,20160802,"unvegetated","",25,2,25,11,"",750,"Texas A&M University - Corpus Christi",0.08,0.44
+"11/13/2016 11:40:19","Meredith Diskin","mdiskin@islander.tamucc.edu",27.37951,-97.17278,20160802,"vegetated","",25,0,25,25,"",750,"Texas A&M University - Corpus Christi",0,1
+"11/13/2016 11:43:25","Meredith Diskin","mdiskin@islander.tamucc.edu",27.37984,-97.17288,20160809,"unvegetated","",25,0,25,17,"",755,"Texas A&M University - Corpus Christi",0,0.68
+"11/13/2016 11:44:38","Meredith Diskin","mdiskin@islander.tamucc.edu",27.37985,-97.17283,20160809,"vegetated","",25,0,25,25,"",755,"Texas A&M University - Corpus Christi",0,1
+"11/13/2016 11:54:22","Meredith Diskin","mdiskin@islander.tamucc.edu",27.53477,-97.06673,20160822,"unvegetated","",25,2,25,25,"",845,"Texas A&M University - Corpus Christi",0.08,1
+"11/13/2016 11:55:46","Meredith Diskin","mdiskin@islander.tamucc.edu",27.53467,-97.06679,20160822,"vegetated","",25,0,25,7,"",845,"Texas A&M University - Corpus Christi",0,0.28
+"11/13/2016 11:57:36","Meredith Diskin","mdiskin@islander.tamucc.edu",27.53477,-97.06673,20160901,"unvegetated","",25,1,25,5,"",709,"Texas A&M University - Corpus Christi",0.04,0.2
+"11/13/2016 11:59:09","Meredith Diskin","mdiskin@islander.tamucc.edu",27.53467,-97.06697,20160901,"vegetated","",25,0,25,21,"",703,"Texas A&M University - Corpus Christi",0,0.84
+"11/13/2016 12:00:49","Meredith Diskin","mdiskin@islander.tamucc.edu",27.53477,-97.06673,20160908,"unvegetated","",25,0,21,21,"4 stakes missing",718,"Texas A&M University - Corpus Christi",0,1
+"11/13/2016 12:02:12","Meredith Diskin","mdiskin@islander.tamucc.edu",27.53467,-97.06697,20160908,"vegetated","",25,1,25,16,"",710,"Texas A&M University - Corpus Christi",0.04,0.64
+"11/15/2016 18:05:21","Lindsay C. Gaskins, Stacy Zhang","lindsaycgaskins@gmail.com",34.7004,-76.8335,20161028,"vegetated","",25,25,25,25,"Pine Knoll Shores Aquarium ",1618,"Duke University Marine Lab",1,1
+"11/15/2016 18:05:29","Lindsay C. Gaskins, Stacy Zhang","lindsaycgaskins@gmail.com",34.7004,-76.8335,20161029,"vegetated","",25,24,20,25,"I did find the one stake where there was bait left from before! So there were 25 eaten, but I just didn't get the empty stakes back. ",1705,"Duke University Marine Lab",0.96,1.25
+"11/15/2016 18:05:33","Lindsay C. Gaskins, Stacy Zhang","lindsaycgaskins@gmail.com",34.7004,-76.8335,20161030,"vegetated","",25,18,22,25," Everything I did find was empty, so I think all 25 were eaten. ",1510,"Duke University Marine Lab",0.72,1.14
+"11/15/2016 18:05:38","Lindsay C. Gaskins, Stacy Zhang","lindsaycgaskins@gmail.com",34.7004,-76.8335,20161028,"unvegetated","",25,25,25,25,"Pine Knoll Shores",1618,"Duke University Marine Lab",1,1
+"11/15/2016 18:05:40","Lindsay C. Gaskins, Stacy Zhang","lindsaycgaskins@gmail.com",34.7004,-76.8335,20161029,"unvegetated","",25,24,17,24,"I can't assume more than I found. So I'm not sure about the final count. ",1705,"Duke University Marine Lab",0.96,1.41
+"11/15/2016 18:05:45","Lindsay C. Gaskins, Stacy Zhang","lindsaycgaskins@gmail.com",34.7004,-76.8335,20161030,"unvegetated","",25,23,25,25,"Pine Knoll Shores",1510,"Duke University Marine Lab",0.92,1
+"12/3/2016 5:03:38","Paul York","paul.york@jcu.edu.au",-20.01734,148.25191,20161202,"vegetated","",25,0,25,24,"Seagrass consisted of dense Halodule uninervis meadow but with a short canopy (approx 10cm)",730,"James Cook University",0,0.96
+"12/3/2016 5:08:09","Paul York","paul.york@jcu.edu.au",-20.02034,148.24826,20161202,"unvegetated","",25,0,25,3,"",745,"James Cook University",0,0.12
+"12/3/2016 21:18:14","Paul York","paul.york@jcu.edu.au",-20.01734,148.25191,20161203,"vegetated","",25,0,25,19,"",800,"James Cook University",0,0.76
+"12/3/2016 21:21:19","Paul York","paul.york@jcu.edu.au",-20.02034,148.24826,20161203,"unvegetated","",25,1,25,2,"",830,"James Cook University",0.04,0.08
+"12/5/2016 17:52:55","Paul York","paul.york@jcu.edu.au",-20.01734,148.25191,20161204,"vegetated","",25,0,25,22,"",845,"James Cook University",0,0.88
+"12/5/2016 17:54:47","Paul York","paul.york@jcu.edu.au",-20.02034,148.24826,20161204,"unvegetated","",25,0,25,25,"",915,"James Cook University",0,1
+"12/9/2016 23:22:03","Brendan Lanham","brendan.lanham@unsw.edu.au",-35.09903,150.57948,20160711,"unvegetated","",25,0,25,11,"",1300,"University of New South Wales",0,0.44
+"12/9/2016 23:24:37","Brendan Lanham","brendan.lanham@unsw.edu.au",-35.09903,150.57948,20160711,"unvegetated","",25,0,25,5,"WHIPPO - corrected habitat type from Rocky Reef to Sandy Bottom 20161230",1300,"The University of New South Wales",0,0.2
+"12/9/2016 23:27:27","Brendan Lanham","brendan.lanham@unsw.edu.au",-35.09903,150.57948,20160712,"unvegetated","",25,0,25,4,"",1400,"The University of New South Wales",0,0.16
+"12/9/2016 23:38:34","Brendan Lanham","brendan.lanham@unsw.edu.au",-35.09903,150.57948,20160712,"unvegetated","",25,0,25,2,"",1400,"The University of New South Wales",0,0.08
+"12/9/2016 23:40:47","Brendan Lanham","brendan.lanham@unsw.edu.au",-35.09903,150.57948,20160718,"unvegetated","",25,0,25,15,"",1200,"The University of New South Wales",0,0.6
+"12/9/2016 23:42:02","Brendan Lanham","brendan.lanham@unsw.edu.au",-35.09903,150.57948,20160718,"unvegetated","",25,0,25,12,"",1200,"The University of New South Wales",0,0.48
+"12/14/2016 0:45:48","Alistair Poore","a.poore@unsw.edu.au",-32.380278,152.508889,20161208,"vegetated","",25,23,25,25,"Weather warm (26C), sunny and windy",940,"University of New South Wales",0.92,1
+"12/14/2016 0:47:23","Alistair Poore","a.poore@unsw.edu.au",-32.380278,152.508889,20161208,"unvegetated","",25,25,25,25,"Weather warm (26C), sunny and windy",940,"University of New South Wales",1,1
+"12/14/2016 0:49:03","Alistair Poore","a.poore@unsw.edu.au",-32.380278,152.508889,20161209,"vegetated","",25,23,25,25,"Weather warm (25C), sunny",950,"University of New South Wales",0.92,1
+"12/14/2016 0:50:43","Alistair Poore","a.poore@unsw.edu.au",-32.380278,152.508889,20160909,"unvegetated","",25,25,25,25,"Weather warm (25C), sunny",25,"University of New South Wales",1,1
+"12/14/2016 0:52:07","Alistair Poore","a.poore@unsw.edu.au",-32.380278,152.508889,20161210,"vegetated","",25,25,25,25,"Weather warm (22C), sunny",940,"University of New South Wales",1,1
+"12/14/2016 0:53:18","Alistair Poore","a.poore@unsw.edu.au",-32.380278,152.508889,20161210,"unvegetated","",25,25,25,25,"Warm (22C), sunny",940,"University of New South Wales",1,1
+"12/22/2016 13:20:41","Dean Janiak","janiakd@si.edu",27.536592,-80.34928,20161115,"vegetated","",25,12,25,25,"",1000,"SMSFP",0.48,1
+"12/22/2016 13:21:48","Dean Janiak","janiakdd@si.edu",27.53546,-80.347016,20161115,"unvegetated","",25,8,25,25,"",1030,"SMSFP",0.32,1
+"12/22/2016 13:23:04","Dean Janiak","janiakd@si.edu",27.536592,-80.34928,20161117,"vegetated","",25,0,25,25,"",1100,"SMSFP",0,1
+"12/22/2016 13:24:31","Dean Janiak","janiakd@si.edu",27.53546,-80.347016,20161117,"unvegetated","",25,0,25,25,"",1130,"SMSFP",0,1
+"12/22/2016 13:25:24","Dean Janiak","janiakd@si.edu",27.536592,-80.34928,20161121,"vegetated","",25,0,25,25,"",1200,"SMSFP",0,1
+"12/22/2016 13:26:27","Dean Janiak","janiakd@si.edu",27.53546,-80.347016,20161121,"unvegetated","",25,25,25,25,"",1230,"SMSFP",1,1
+"1/18/2017 21:46:40","Jennifer K O'Leary and Erin Aiello","jkoleary@calpoly.edu",35.350021,-120.844398,20160723,"vegetated","",24,0,24,5,"",735,"California Sea Grant & California Polytechnic State University",NA,NA
+"1/18/2017 21:48:38","Jennifer K O'Leary & Erin Aiello","jkoleary@calpoly.edu",35.349373,-120.8442,20160723,"unvegetated","",25,0,25,1,"",822,"California Sea Grant & California Polytechnic State University",NA,NA
+"1/18/2017 21:50:24","Jennifer K O'Leary & Erin Aiello","jkoleary@calpoly.edu",35.350021,-120.844398,20160724,"vegetated","",23,0,23,5,"",903,"California Sea Grant & California Polytechnic State University",NA,NA
+"1/18/2017 21:51:53","Jennifer K O'Leary & Erin Aiello","jkoleary@calpoly.edu",35.349373,-120.8442,20160724,"unvegetated","",25,0,25,2,"",1023,"California Sea Grant & California Polytechnic State University",NA,NA
+"1/18/2017 21:53:35","Jennifer K O'Leary & Erin Aiello","jkoleary@calpoly.edu",35.349861,-120.844376,20160804,"vegetated","",25,1,25,6,"",602,"California Sea Grant & California Polytechnic State University",NA,NA
+"1/18/2017 21:54:51","Jennifer K O'Leary & Erin Aiello","jkoleary@calpoly.edu",35.349033,-120.844223,20160804,"unvegetated","",25,0,25,4,"",620,"California Sea Grant & California Polytechnic State University",NA,NA
+"1/23/2017 11:59:22","Max Robinson","maxrobinson@hotmail.com",52.9426,-4.56519,20160902,"vegetated","",25,4,25,25,"",1735,"Project Seagrass",NA,NA
+"1/23/2017 12:01:43","Max Robinson","maxrobinson@hotmail.com",52.94046,-4.56424,20160902,"unvegetated","",25,0,23,3,"",1815,"Project Seagrass",NA,NA
+"1/23/2017 12:03:57","Max Robinson","maxrobinson@hotmail.com",52.94251,-4.56562,20160903,"vegetated","",25,1,25,25,"",1832,"Project Seagrass",NA,NA
+"1/23/2017 12:06:06","Max Robinson","maxrobinson@hotmail.com",52.94046,-4.56424,20160903,"unvegetated","",25,0,25,6,"",1802,"Project Seagrass",NA,NA
+"1/23/2017 12:07:45","Max Robinson","maxrobinson@hotmail.com",52.9425,-4.56553,20160904,"vegetated","",25,9,24,24,"",1824,"Project Seagrass",NA,NA
+"1/23/2017 12:09:45","Max Robinson","maxrobinson@hotmail.com",52.94046,-4.56424,20160904,"unvegetated","",25,0,25,7,"",1750,"Project Seagrass",NA,NA
+"3/1/2017 18:03:24","Brendan Kelaehr","brendan.kelaher@scu.edu.au",-30.50583,153.02362,20170222,"vegetated","",25,25,25,25,"This was carried out in eel grass (Zostera muelleri) directly adjacent to grey mangroves (Avicennia marina). The visibility was less than two metres. However, numerous silver biddys (Gerres subfasciatus) and yellow fin bream (Acanthopagrus australis) were observed biting the squid pops within minutes of deployment.",1448,"Southern Cross Univeristy",NA,NA
+"3/1/2017 23:51:51","Brendan Kelaher","brendan.kelaher@scu.edu.au",-30.50439,153.0238,20170222,"unvegetated","",25,0,25,25,"The visibility was less than two metres. Few fish were observed around the squid pops.",1344,"Southern Cross Univeristy",NA,NA
+"3/1/2017 23:56:36","Brendan Kelaher","brendan.kelaher@scu.edu.au",-30.50583,153.02362,20170223,"vegetated","",25,24,24,24,"The missing squid pop was found floating at the end of the first hour. So it is really 100% of baits gone in 1 hour. The sampling was carried out in eel grass (Zostera muelleri) directly adjacent to grey mangroves (Avicennia marina). The visibility was less than two metres. However, numerous silver biddys (Gerres subfasciatus) and yellow fin bream (Acanthopagrus australis) were observed biting the squid pops within minutes of deployment.",1404,"Southern Cross Univeristy",NA,NA
+"3/2/2017 0:00:31","Brendan Kelaher","brendan.kelaher@scu.edu.au",-30.50466,153.02372,20170223,"unvegetated","",25,0,25,25,"The visibility was less than two metres. Few fish were observed around the squid pops in the first hour.",1451,"Southern Cross Univeristy",NA,NA
+"3/2/2017 0:02:32","Brendan Kelaher","brendan.kelaher@scu.edu.au",-30.50583,153.02362,20170224,"vegetated","",25,25,25,25,"The sampling was carried out in eel grass (Zostera muelleri) directly adjacent to grey mangroves (Avicennia marina). The visibility was less than two metres. However, numerous silver biddys (Gerres subfasciatus) and yellow fin bream (Acanthopagrus australis) were observed biting the squid pops within minutes of deployment.",1359,"Southern Cross University",NA,NA
+"3/2/2017 0:04:37","Brendan Kelaher","brendan.kelaher@scu.edu.au",-30.50466,153.02372,20170224,"unvegetated","",25,25,25,25,"The visibility was less than two metres. Unlike the previous two days, silver biddys (Gerres subfasciatus) and yellow fin bream (Acanthopagrus australis) were observed biting the squid pops within minutes of deployment.",1505,"Southern Cross Univeristy",NA,NA
+"3/3/2017 9:59:36","Ross Whippo","whippor@si.edu",48,121,20170303,"unvegetated","",25,25,25,25,"THIS IS A TEST OF THE GOOGLE FORM ONLY",1200,"Smithsonian",NA,NA
+"3/5/2017 20:23:04","Holger Janes","hjanes@deakin.edu.au",-38.193552,144.711297,20170222,"vegetated","",25,5,25,14,"",1140,"Deakin University",NA,NA
+"3/5/2017 20:28:44","Holger Janes","hjanes@deakin.edu.au",-38.193552,144.711297,20170222,"unvegetated","",25,1,25,5,"",1140,"Deakin University",NA,NA
+"3/5/2017 20:30:41","Holger Janes","hjanes@deakin.edu.au",-38.193552,144.711297,20170223,"vegetated","",25,0,21,8,"",1300,"Deakin University",NA,NA
+"3/5/2017 20:31:58","Holger Janes","hjanes@deakin.edu.au",-38.193552,144.711297,20170223,"unvegetated","",25,0,25,2,"",1300,"Deakin University",NA,NA
+"3/5/2017 20:34:14","Holger Janes","hjanes@deakin.edu.au",-38.193552,144.711297,20170224,"vegetated","",25,0,25,2,"",1345,"Deakin University",NA,NA
+"3/5/2017 20:35:25","Holger Janes","hjanes@deakin.edu.au",-38.193552,144.711297,20170224,"unvegetated","",25,0,24,1,"",1345,"Deakin University",NA,NA
+"3/5/2017 20:52:03","Holger Janes","hjanes@deakin.edu.au",-38.152773,144.716919,20170222,"vegetated","",25,0,25,2,"",1640,"Deakin University",NA,NA
+"3/5/2017 20:53:30","Holger Janes","hjanes@deakin.edu.au",-38.152773,144.716919,20170222,"unvegetated","",25,0,25,2,"",1640,"Deakin University",NA,NA
+"3/5/2017 20:55:18","Holger Janes","hjanes@deakin.edu.au",-38.152773,144.716919,20170223,"vegetated","",25,0,25,0,"",1700,"Deakin University",NA,NA
+"3/5/2017 20:56:41","Holger Janes","hjanes@deakin.edu.au",-38.152773,144.716919,20170223,"unvegetated","",25,0,25,2,"",1700,"Deakin University",NA,NA
+"3/5/2017 20:58:12","Holger Janes","hjanes@deakin.edu.au",-38.152773,144.716919,20170224,"vegetated","",25,0,14,1,"",1730,"Deakin University",NA,NA
+"3/5/2017 21:00:29","Holger Janes","hjanes@deakin.edu.au",-38.180151,144.715595,20170223,"vegetated","",25,0,24,4,"",1045,"Deakin University",NA,NA
+"3/5/2017 21:01:51","Holger Janes","hjanes@deakin.edu.au",-38.180151,144.715595,20170223,"unvegetated","",25,0,25,1,"",1045,"Deakin University",NA,NA
+"3/5/2017 21:05:41","Holger Janes","hjanes@deakin.edu.au",-38.180151,144.715595,20170224,"vegetated","",25,0,16,7,"Heavy onshore wind and poor visibility, hence so many stakes missing",1100,"Deakin University",NA,NA
+"3/5/2017 21:07:21","Holger Janes","hjanes@deakin.edu.au",-38.180151,144.715595,20170224,"unvegetated","",25,0,20,2,"Heavy onshore wind an poor visibility, hence stakes missing",1100,"Deakin University",NA,NA
+"3/7/2017 0:04:36","Prof Rod M Connolly","r.connolly@griffith.edu.au",-27.49408,153.397264,20160208,"vegetated","",25,4,25,25,"",1430,"Griffith University",NA,NA
+"3/7/2017 0:06:00","Prof Rod M Connolly","r.connolly@griffith.edu.au",-27.49408,153.397264,20160209,"vegetated","",25,25,25,25,"",1555,"Griffith University",NA,NA
+"3/7/2017 0:09:57","Prof Rod M Connolly","r.connolly@griffith.edu.au",-27.49408,153.397264,20170210,"vegetated","",25,11,24,24,"Unable to locate one of the 25 squid pops at the end of the 24 hours",1554,"Griffith University",NA,NA
+"3/7/2017 0:15:54","Prof Rod M Connolly","r.connolly@griffith.edu.au",-27.494632,153.39706,20170208,"unvegetated","",25,11,24,23,"Unable to locate one of the squid pops after 24 hours",1450,"Griffith University",NA,NA
+"3/7/2017 0:17:24","Prof Rod M Connolly","r.connolly@griffith.edu.au",-27.494632,153.39706,20170209,"unvegetated","",25,14,24,23,"Unable to locate one of the squid pops after 24 hours",1605,"Griffith University",NA,NA
+"3/7/2017 0:18:37","Prof Rod M Connolly","r.connolly@griffith.edu.au",-27.494632,153.39706,20170210,"unvegetated","",25,13,23,23,"Unable to locate two of the squid pops after 24 hours",1535,"Griffith University",NA,NA
+"3/14/2017 6:18:06","Michael Rasheed","michael.rasheed@jcu.edu.au",-16.75543,145.97242,20170313,"vegetated","",25,1,25,25,"",1230,"James Cook University",NA,NA
+"3/14/2017 6:20:35","Michael Rasheed","michael.rasheed@jcu.edu.au",-16.7556,145.97476,20170313,"unvegetated","",25,1,25,22,"",1257,"James Cook University",NA,NA
+"3/15/2017 6:35:58","Michael Rasheed","michael.rasheed@jcu.edu.au",-16.75542,145.97292,20170314,"vegetated","",25,0,24,24,"",945,"James Cook University",NA,NA
+"3/15/2017 6:38:10","Michael Rasheed","michael.rasheed@jcu.edu.au",-16.7556,145.97476,20170314,"unvegetated","",25,1,25,25,"",1040,"James Cook University",NA,NA
+"3/16/2017 15:48:42","Michael Rasheed","michael.rasheed@jcu.edu.au",-16.75543,145.97292,20170315,"vegetated","",24,1,24,24,"",900,"James Cook University",NA,NA
+"3/16/2017 15:52:36","Michael Rasheed","michael.rasheed@jcu.edu.au",-16.7556,145.97476,20170315,"unvegetated","",25,22,25,25,"",825,"James Cook Univerity",NA,NA
+"4/3/2017 9:48:54","Mathieu Cusson","mathieu.cusson@uqac.ca",49.08802,-68.32182,20160705,"vegetated","",25,0,25,0,"Number of bait was checked after 30 mins instead of 1 h, due to tide rise and strong currents",1225,"Université du Québec à Chicoutimi",NA,NA
+"4/3/2017 9:51:40","Mathieu cusson","mathieu.cusson@uqac.ca",49.08779,-68.32173,20160705,"unvegetated","",25,0,24,1,"Number of bait was checked after 30 mins instead of 1 h, due to tide rise and strong currents",1225,"UQAC",NA,NA
+"4/3/2017 9:53:58","Mathieu Cusson","mathieu.cusson@uqac.ca",49.08802,-68.32182,20160706,"vegetated","",25,0,25,0,"Number of bait was checked after 30 mins instead of 1 h, due to tide rise and strong currents
+",1300,"UQAC",NA,NA
+"4/3/2017 9:55:47","Mathieu Cusson","mathieu.cusson@uqac.ca",49.08779,-68.32173,20160706,"unvegetated","",25,1,24,1,"Number of bait was checked after 30 mins instead of 1 h, due to tide rise and strong currents
+",1300,"UQAC",NA,NA
+"4/3/2017 9:57:36","Mathieu Cusson","mathieu.cusson@uqac.ca",49.08802,-68.32182,20160707,"vegetated","",25,0,25,0,"Number of bait was checked after 30 mins instead of 1 h, due to tide rise and strong currents
+",1340,"UQAC",NA,NA
+"4/3/2017 9:59:03","Mathieu Cusson","mathieu.cusson@uqac.ca",49.08779,-68.32173,20160707,"unvegetated","",25,0,25,0,"Number of bait was checked after 30 mins instead of 1 h, due to tide rise and strong currents
+",1340,"UQAC",NA,NA
+"4/17/2017 20:00:54","Christopher Henderson","chender1@usc.edu.au",-26.393508,153.055206,20170301,"vegetated","",25,22,24,24,"",1200,"University of the Sunshine Coast",NA,NA
+"4/17/2017 20:02:35","Christopher Henderson","chender1@usc.edu.au",-26.393508,153.055206,20170130,"unvegetated","",25,23,23,23,"",1230,"University of the Sunshine Coast",NA,NA
+"4/17/2017 20:03:58","Christopher Henderson","chender1@usc.edu.au",-26.393508,153.055206,20170131,"vegetated","",25,25,25,25,"",1230,"University of the Sunshine Coast",NA,NA
+"4/17/2017 20:05:28","Christopher Henderson","chender1@usc.edu.au",-26.393508,153.055206,20170131,"unvegetated","",25,25,25,25,"",1300,"University of the Sunshine Coast",NA,NA
+"4/17/2017 20:06:42","Christopher Henderson","chender1@usc.edu.au",-26.393508,153.055206,20170201,"vegetated","",25,25,25,25,"",1300,"University of the Sunshine Coast",NA,NA
+"4/17/2017 20:07:58","Christopher Henderson","chender1@usc.edu.au",-26.393508,153.055206,20170201,"unvegetated","",25,25,25,25,"",1330,"University of the Sunshine Coast",NA,NA
+"4/17/2017 20:09:36","Christopher Henderson","chender1@usc.edu.au",-25.307906,152.909319,20170221,"vegetated","",25,5,25,24,"",1400,"University of the Sunshine Coast",NA,NA
+"4/17/2017 20:11:23","Christopher Henderson","chender1@usc.edu.au",-25.307906,152.909319,20170221,"unvegetated","",25,6,25,22,"",1400,"University of the Sunshine Coast",NA,NA
+"4/17/2017 20:13:50","Christopher Henderson","chender1@usc.edu.au",-25.307906,152.909319,20170222,"vegetated","",25,3,25,21,"",1430,"University of the Sunshine Coast",NA,NA
+"4/17/2017 20:14:57","Christopher Henderson","chender1@usc.edu.au",-25.307906,152.909319,20170222,"unvegetated","",25,4,25,21,"",1430,"University of the Sunshine Coast",NA,NA
+"4/17/2017 20:16:24","Christopher Henderson","chender1@usc.edu.au",-25.307906,152.909319,20170223,"vegetated","",25,22,25,25,"",1500,"University of the Sunshine Coast",NA,NA
+"4/17/2017 20:17:55","Christopher Henderson","chender1@usc.edu.au",-25.307906,152.909319,20170223,"unvegetated","",25,0,25,25,"",1500,"University of the Sunshine Coast",NA,NA
+"5/23/2017 5:59:19","Nessa O'Connor and Camilla Bertolini","n.oconnor@tcd.ie",54.530033,-5.571583,20160827,"vegetated","",25,0,24,1,"site may have been too shallow for methodology around 70cm deep at slack high tide in calm weather neap tide conditions",15,"Trinity College Dublin",NA,NA
+"5/23/2017 6:05:10","Nessa O'Connor and Camilla Bertolini","n.oconnor@tcd.ie",54.5265,-5.5752,20160827,"unvegetated","",25,0,23,2,"Site may have been too shallow - around 70cm deep at high neap tide calm conditions - our seagrass meadows here are largely intertidal so we wanted to compare with them ",1500,"Trinity College Dublin",NA,NA
+"2016-10-12 9:04:00","Janina Seemann","seemannj@gmail.com",9.351809,-82.257631,20160929,"vegetated","",25,0,25,6,"Manually entered by RW",1215,"Smithsonian Tropical Research Institude",0,0.24
+"2016-10-12 9:04:00","Janina Seemann","seemannj@gmail.com",9.351809,-82.257631,20161004,"vegetated","",25,1,25,25,"Manually entered by RW",1150,"Smithsonian Tropical Research Institude",0.04,1
+"2016-10-12 9:04:00","Janina Seemann","seemannj@gmail.com",9.351809,-82.257631,20161005,"vegetated","",25,0,25,6,"Manually entered by RW",1150,"Smithsonian Tropical Research Institude",0,0.24
+"2016-10-12 9:04:00","Janina Seemann","seemannj@gmail.com",9.351617,-82.257759,20160929,"unvegetated","",25,0,25,0,"Manually entered by RW",1220,"Smithsonian Tropical Research Institude",0,0
+"2016-10-12 9:04:00","Janina Seemann","seemannj@gmail.com",9.351617,-82.257759,20161004,"unvegetated","",25,0,25,0,"Manually entered by RW",1145,"Smithsonian Tropical Research Institude",0,0
+"2016-10-12 9:04:00","Janina Seemann","seemannj@gmail.com",9.351617,-82.257759,20161005,"unvegetated","",25,0,24,24,"Manually entered by RW",1145,"Smithsonian Tropical Research Institude",0,1
+"4/27/2017 16:06:00","Martin Thiel","thiel@ucn.cl",-30.29754,-71.607033,20170307,"unvegetated","",25,1,25,4,"poor visibility (1-2m), Manually enetered by RW",1245,"Universidad Catolica del Norte",NA,NA
+"4/27/2017 16:06:00","Martin Thiel","thiel@ucn.cl",-30.293,-71.608228,20170307,"Seagrass","",25,0,25,2,"poor visibility (1-2m), Manually enetered by RW",1320,"Universidad Catolica del Norte",NA,NA
+"4/27/2017 16:06:00","Martin Thiel","thiel@ucn.cl",-30.29754,-71.607033,20170308,"unvegetated","",25,0,25,4,"poor visibility (1-2m), Manually enetered by RW",1255,"Universidad Catolica del Norte",NA,NA
+"4/27/2017 16:06:00","Martin Thiel","thiel@ucn.cl",-30.293,-71.608228,20170308,"Seagrass","",25,0,24,3,"moderate visibility (3 - 4 m), Manually enetered by RW",1325,"Universidad Catolica del Norte",NA,NA
+"4/27/2017 16:06:00","Martin Thiel","thiel@ucn.cl",-30.29754,-71.607033,20170308,"unvegetated","",25,0,25,2,"poor visibility (1.2 - 1.5m), Manually enetered by RW",1300,"Universidad Catolica del Norte",NA,NA
+"4/27/2017 16:06:00","Martin Thiel","thiel@ucn.cl",-30.293,-71.608228,20170308,"Seagrass","",25,0,25,0,"moderate visibility (2.5 m), Manually enetered by RW",1330,"Universidad Catolica del Norte",NA,NA
+"4/27/2017 16:06:00","Augusto Flores","guca@usp.br",-23.78863,-45.36364,20170307,"vegetated","",30,0,29,19,"depth 1.2, partially cloudy, Manually entered by RW, ",930,"University of São Paulo",NA,NA
+"4/27/2017 16:06:00","Augusto Flores","guca@usp.br",-23.762,-45.34991,20170307,"unvegetated","",30,0,30,1,"depth 1.1, partially cloudy, no substrate type provided - defaulted to sandy, manually entered by RW",1120,"University of São Paulo",NA,NA
+"4/27/2017 16:06:00","Augusto Flores","guca@usp.br",-23.78863,-45.36364,20170308,"vegetated","",30,0,30,4,"depth 1.1, overcast/rainy, Manually entered by RW",930,"University of São Paulo",NA,NA
+"4/27/2017 16:06:00","Augusto Flores","guca@usp.br",-23.762,-45.34991,20170308,"unvegetated","",30,0,29,0,"depth 1.0, overcast/rainy, no substrate type provided - default to sandy, manually entered by RW",1015,"University of São Paulo",NA,NA
+"4/27/2017 16:06:00","Augusto Flores","guca@usp.br",-23.78863,-45.36364,20170309,"vegetated","",30,0,30,6,"depth 0.8, partially cloudy/windy, Manually entered by RW",945,"University of São Paulo",NA,NA
+"4/27/2017 16:06:00","Augusto Flores","guca@usp.br",-23.762,-45.34991,20170309,"unvegetated","",30,0,30,5,"depth 0.9, partially cloudy/windy, no substrate type provided - default to sandy, manually entered by RW",1100,"University of São Paulo",NA,NA

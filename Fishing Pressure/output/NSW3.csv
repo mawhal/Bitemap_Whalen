@@ -1,0 +1,331 @@
+"","functional_group_name","year","fishing_entity_name","taxon_scientific_name","commercial_group_id","commercial_group_name","catch_status","catch_sum","cell_id","reporting_status_name","taxon_common_name","sector_type_name","fishing_entity_id","functional_group_id","sector_type_id","reporting_status","catch_status_name","taxon_key"
+"1","pelagicsm",2010,"Australia","Monodactylus argenteus",3,"Perch-likes","R",0.109548580946005,179223,"Reported","Silver moony","Artisanal",7,1,3,"R","Landings",605807
+"2","pelagiclg",2010,"Unknown Fishing Country","Coryphaena hippurus",3,"Perch-likes","D",0.0120506525657421,179223,"Unreported","Common dolphinfish","Industrial",213,3,1,"U","Discards",600006
+"3","pelagiclg",2010,"Japan","Coryphaena hippurus",3,"Perch-likes","D",0.00620838864753772,179223,"Unreported","Common dolphinfish","Industrial",91,3,1,"U","Discards",600006
+"4","pelagiclg",2010,"Indonesia","Coryphaena hippurus",3,"Perch-likes","D",0.00525239579235678,179223,"Unreported","Common dolphinfish","Industrial",83,3,1,"U","Discards",600006
+"5","pelagiclg",2010,"Australia","Coryphaena hippurus",3,"Perch-likes","R",0.0865451845912048,179223,"Reported","Common dolphinfish","Artisanal",7,3,3,"R","Landings",600006
+"6","pelagiclg",2010,"Australia","Coryphaena hippurus",3,"Perch-likes","R",0.221571553334108,179223,"Reported","Common dolphinfish","Industrial",7,3,1,"R","Landings",600006
+"7","pelagiclg",2010,"Unknown Fishing Country","Kajikia audax",4,"Tuna & billfishes","R",0.122857571324464,179223,"Reported","Striped marlin","Industrial",213,3,1,"R","Landings",600223
+"8","pelagiclg",2010,"USA","Kajikia audax",4,"Tuna & billfishes","R",0.0159860170149211,179223,"Reported","Striped marlin","Industrial",187,3,1,"R","Landings",600223
+"9","pelagiclg",2010,"Japan","Kajikia audax",4,"Tuna & billfishes","R",0.0138620007681833,179223,"Reported","Striped marlin","Industrial",91,3,1,"R","Landings",600223
+"10","pelagiclg",2010,"Japan","Kajikia audax",4,"Tuna & billfishes","R",0.129341410393453,179223,"Reported","Striped marlin","Industrial",91,3,1,"R","Landings",600223
+"11","pelagiclg",2010,"Japan","Kajikia audax",4,"Tuna & billfishes","R",0.100499505569329,179223,"Reported","Striped marlin","Industrial",91,3,1,"R","Landings",600223
+"12","pelagiclg",2010,"Indonesia","Kajikia audax",4,"Tuna & billfishes","R",0.0253764046320776,179223,"Reported","Striped marlin","Industrial",83,3,1,"R","Landings",600223
+"13","pelagiclg",2010,"Australia","Kajikia audax",4,"Tuna & billfishes","R",0.027612211207591,179223,"Reported","Striped marlin","Industrial",7,3,1,"R","Landings",600223
+"14","pelagiclg",2010,"Australia","Pomatomus saltatrix",3,"Perch-likes","R",0.141491517753738,179223,"Reported","Bluefish","Artisanal",7,3,3,"R","Landings",600364
+"15","pelagiclg",2010,"Australia","Pomatomus saltatrix",3,"Perch-likes","R",0.027167774465026,179223,"Reported","Bluefish","Artisanal",7,3,3,"R","Landings",600364
+"16","pelagiclg",2010,"Australia","Pomatomus saltatrix",3,"Perch-likes","R",0.0375013797652976,179223,"Reported","Bluefish","Artisanal",7,3,3,"R","Landings",600364
+"17","pelagiclg",2010,"Australia","Pomatomus saltatrix",3,"Perch-likes","R",0.0249763737353747,179223,"Reported","Bluefish","Artisanal",7,3,3,"R","Landings",600364
+"18","pelagiclg",2010,"Australia","Pomatomus saltatrix",3,"Perch-likes","R",0.339998911554876,179223,"Reported","Bluefish","Artisanal",7,3,3,"R","Landings",600364
+"19","pelagiclg",2010,"Australia","Pomatomus saltatrix",3,"Perch-likes","R",0.108419167146476,179223,"Reported","Bluefish","Artisanal",7,3,3,"R","Landings",600364
+"20","pelagiclg",2010,"Australia","Pomatomus saltatrix",3,"Perch-likes","D",0.0186255111964489,179223,"Unreported","Bluefish","Industrial",7,3,1,"U","Discards",600364
+"21","pelagiclg",2010,"Australia","Pomatomus saltatrix",3,"Perch-likes","R",7.85173393196358,179223,"Unreported","Bluefish","Recreational",7,3,4,"U","Landings",600364
+"22","pelagiclg",2010,"Australia","Pomatomus saltatrix",3,"Perch-likes","R",1.53565030537479,179223,"Reported","Bluefish","Artisanal",7,3,3,"R","Landings",600364
+"23","sharklg",2010,"Unknown Fishing Country","Carcharhinus longimanus",9,"Sharks & rays","D",5.75316933028135e-05,179223,"Unreported","Oceanic whitetip shark","Industrial",213,20,1,"U","Discards",600875
+"24","sharklg",2010,"Unknown Fishing Country","Carcharhinus longimanus",9,"Sharks & rays","R",3.39387597985871e-05,179223,"Reported","Oceanic whitetip shark","Industrial",213,20,1,"R","Landings",600875
+"25","sharklg",2010,"Indonesia","Carcharhinus longimanus",9,"Sharks & rays","D",1.65495668858605e-05,179223,"Unreported","Oceanic whitetip shark","Industrial",83,20,1,"U","Discards",600875
+"26","sharklg",2010,"Australia","Carcharhinus longimanus",9,"Sharks & rays","R",2.14002010851846e-06,179223,"Reported","Oceanic whitetip shark","Industrial",7,20,1,"R","Landings",600875
+"27","sharklg",2010,"Australia","Carcharhinus longimanus",9,"Sharks & rays","R",2.21336949213331e-06,179223,"Reported","Oceanic whitetip shark","Industrial",7,20,1,"R","Landings",600875
+"28","pelagiclg",2010,"Unknown Fishing Country","Katsuwonus pelamis",4,"Tuna & billfishes","R",0.0121270259995041,179223,"Reported","Skipjack tuna","Industrial",213,3,1,"R","Landings",600107
+"29","pelagiclg",2010,"Unknown Fishing Country","Katsuwonus pelamis",4,"Tuna & billfishes","D",0.000241362466020451,179223,"Unreported","Skipjack tuna","Industrial",213,3,1,"U","Discards",600107
+"30","pelagiclg",2010,"Unknown Fishing Country","Katsuwonus pelamis",4,"Tuna & billfishes","D",0.000240721205625032,179223,"Unreported","Skipjack tuna","Industrial",213,3,1,"U","Discards",600107
+"31","pelagiclg",2010,"Unknown Fishing Country","Katsuwonus pelamis",4,"Tuna & billfishes","D",0.00029544500652794,179223,"Unreported","Skipjack tuna","Industrial",213,3,1,"U","Discards",600107
+"32","pelagiclg",2010,"USA","Katsuwonus pelamis",4,"Tuna & billfishes","R",0.00243235478500082,179223,"Reported","Skipjack tuna","Industrial",187,3,1,"R","Landings",600107
+"33","pelagiclg",2010,"Japan","Katsuwonus pelamis",4,"Tuna & billfishes","D",3.13764961473906e-05,179223,"Unreported","Skipjack tuna","Industrial",91,3,1,"U","Discards",600107
+"34","pelagiclg",2010,"Japan","Katsuwonus pelamis",4,"Tuna & billfishes","D",0.000888272930775903,179223,"Unreported","Skipjack tuna","Industrial",91,3,1,"U","Discards",600107
+"35","pelagiclg",2010,"Japan","Katsuwonus pelamis",4,"Tuna & billfishes","R",0.0505466489606837,179223,"Reported","Skipjack tuna","Industrial",91,3,1,"R","Landings",600107
+"36","pelagiclg",2010,"Indonesia","Katsuwonus pelamis",4,"Tuna & billfishes","D",0.000663942132295933,179223,"Unreported","Skipjack tuna","Industrial",83,3,1,"U","Discards",600107
+"37","pelagiclg",2010,"Australia","Katsuwonus pelamis",4,"Tuna & billfishes","R",4.6330567333349e-05,179223,"Reported","Skipjack tuna","Industrial",7,3,1,"R","Landings",600107
+"38","sharklg",2010,"Australia","Alopias vulpinus",9,"Sharks & rays","R",3.01883258711943e-06,179223,"Reported","Thresher","Industrial",7,20,1,"R","Landings",602535
+"39","sharklg",2010,"Australia","Alopias vulpinus",9,"Sharks & rays","R",3.01883258711943e-06,179223,"Reported","Thresher","Industrial",7,20,1,"R","Landings",602535
+"40","sharklg",2010,"Unknown Fishing Country","Lamna nasus",9,"Sharks & rays","R",9.53850977274572e-06,179223,"Reported","Porbeagle","Industrial",213,20,1,"R","Landings",600088
+"41","sharklg",2010,"Australia","Isurus oxyrinchus",9,"Sharks & rays","R",0.000196379253527048,179223,"Reported","Shortfin mako","Industrial",7,20,1,"R","Landings",600752
+"42","pelagiclg",2010,"Unknown Fishing Country","Xiphias gladius",4,"Tuna & billfishes","R",0.197928901635306,179223,"Reported","Swordfish","Industrial",213,3,1,"R","Landings",600226
+"43","pelagiclg",2010,"Unknown Fishing Country","Xiphias gladius",4,"Tuna & billfishes","D",0.0598407952948192,179223,"Unreported","Swordfish","Industrial",213,3,1,"U","Discards",600226
+"44","pelagiclg",2010,"Unknown Fishing Country","Xiphias gladius",4,"Tuna & billfishes","R",0.000332478994872955,179223,"Reported","Swordfish","Industrial",213,3,1,"R","Landings",600226
+"45","pelagiclg",2010,"USA","Xiphias gladius",4,"Tuna & billfishes","R",6.2339811538679e-05,179223,"Reported","Swordfish","Industrial",187,3,1,"R","Landings",600226
+"46","pelagiclg",2010,"USA","Xiphias gladius",4,"Tuna & billfishes","R",0.021050076362894,179223,"Reported","Swordfish","Industrial",187,3,1,"R","Landings",600226
+"47","pelagiclg",2010,"USA","Xiphias gladius",4,"Tuna & billfishes","D",0.00245650252266061,179223,"Unreported","Swordfish","Industrial",187,3,1,"U","Discards",600226
+"48","pelagiclg",2010,"Japan","Xiphias gladius",4,"Tuna & billfishes","D",3.19837847114982e-05,179223,"Unreported","Swordfish","Industrial",91,3,1,"U","Discards",600226
+"49","pelagiclg",2010,"Japan","Xiphias gladius",4,"Tuna & billfishes","R",0.00727297801284588,179223,"Reported","Swordfish","Industrial",91,3,1,"R","Landings",600226
+"50","pelagiclg",2010,"Japan","Xiphias gladius",4,"Tuna & billfishes","D",0.0297097756090173,179223,"Unreported","Swordfish","Industrial",91,3,1,"U","Discards",600226
+"51","pelagiclg",2010,"Japan","Xiphias gladius",4,"Tuna & billfishes","R",0.10855439182602,179223,"Reported","Swordfish","Industrial",91,3,1,"R","Landings",600226
+"52","pelagiclg",2010,"Japan","Xiphias gladius",4,"Tuna & billfishes","R",0.0100367096577273,179223,"Reported","Swordfish","Industrial",91,3,1,"R","Landings",600226
+"53","pelagiclg",2010,"Indonesia","Xiphias gladius",4,"Tuna & billfishes","R",8.31197487182384e-05,179223,"Reported","Swordfish","Industrial",83,3,1,"R","Landings",600226
+"54","pelagiclg",2010,"Indonesia","Xiphias gladius",4,"Tuna & billfishes","R",0.0132991597949182,179223,"Reported","Swordfish","Industrial",83,3,1,"R","Landings",600226
+"55","pelagiclg",2010,"Indonesia","Xiphias gladius",4,"Tuna & billfishes","D",0.0147250337945574,179223,"Unreported","Swordfish","Industrial",83,3,1,"U","Discards",600226
+"56","pelagiclg",2010,"Australia","Xiphias gladius",4,"Tuna & billfishes","R",0.0195747008231452,179223,"Reported","Swordfish","Industrial",7,3,1,"R","Landings",600226
+"57","cephalopods",2010,"Australia","Ommastrephidae",12,"Other fishes & inverts","D",2.77560589173446e-05,179223,"Unreported","Arrow squids","Industrial",7,25,1,"U","Discards",490004
+"58","cephalopods",2010,"Australia","Ommastrephidae",12,"Other fishes & inverts","R",0.00023776794800491,179223,"Reported","Arrow squids","Industrial",7,25,1,"R","Landings",490004
+"59","sharklg",2010,"Unknown Fishing Country","Elasmobranchii",9,"Sharks & rays","D",1.97445967725347e-05,179223,"Unreported","Sharks, rays, skates","Industrial",213,20,1,"U","Discards",200004
+"60","sharklg",2010,"Australia","Elasmobranchii",9,"Sharks & rays","R",0.943682181537221,179223,"Unreported","Sharks, rays, skates","Recreational",7,20,4,"U","Landings",200004
+"61","sharklg",2010,"Australia","Elasmobranchii",9,"Sharks & rays","R",3.98549351209507e-05,179223,"Reported","Sharks, rays, skates","Industrial",7,20,1,"R","Landings",200004
+"62","sharklg",2010,"Australia","Elasmobranchii",9,"Sharks & rays","R",3.98549351209507e-05,179223,"Reported","Sharks, rays, skates","Industrial",7,20,1,"R","Landings",200004
+"63","lobsters,crab",2010,"Australia","Portunus pelagicus",10,"Crustaceans","D",0.358237628010626,179223,"Unreported","Blue swimming crab","Industrial",7,27,1,"U","Discards",690055
+"64","lobsters,crab",2010,"Australia","Portunus pelagicus",10,"Crustaceans","R",8.68785718202441,179223,"Unreported","Blue swimming crab","Recreational",7,27,4,"U","Landings",690055
+"65","lobsters,crab",2010,"Australia","Portunus pelagicus",10,"Crustaceans","R",2.86422289872473,179223,"Reported","Blue swimming crab","Artisanal",7,27,3,"R","Landings",690055
+"66","lobsters,crab",2010,"Australia","Portunus pelagicus",10,"Crustaceans","R",3.37299740692228,179223,"Reported","Blue swimming crab","Artisanal",7,27,3,"R","Landings",690055
+"67","benthopelagiclg",2010,"Australia","Mugil cephalus",3,"Perch-likes","R",21.8026715641975,179223,"Reported","Flathead grey mullet","Industrial",7,15,1,"R","Landings",600785
+"68","benthopelagiclg",2010,"Australia","Mugil cephalus",3,"Perch-likes","R",21.8026715641975,179223,"Reported","Flathead grey mullet","Industrial",7,15,1,"R","Landings",600785
+"69","lobsters,crab",2010,"Australia","Sagmariasus verreauxi",10,"Crustaceans","R",11.057230030706,179223,"Reported","Green rock lobster","Artisanal",7,27,3,"R","Landings",690161
+"70","pelagicmd",2010,"Australia","Sardinops sagax",2,"Herring-likes","R",83.8520082398337,179223,"Reported","Pacific sardine","Industrial",7,2,1,"R","Landings",601477
+"71","raylg",2010,"Australia","Callorhinchus milii",9,"Sharks & rays","R",0.0228236006310259,179223,"Reported","Ghost shark","Industrial",7,22,1,"R","Landings",604722
+"72","raylg",2010,"Australia","Callorhinchus milii",9,"Sharks & rays","R",0.0228236006310259,179223,"Reported","Ghost shark","Industrial",7,22,1,"R","Landings",604722
+"73","sharklg",2010,"Australia","Carcharhinus brachyurus",9,"Sharks & rays","R",0.317038394425597,179223,"Reported","Copper shark","Industrial",7,20,1,"R","Landings",600864
+"74","sharklg",2010,"Australia","Carcharhinus brachyurus",9,"Sharks & rays","R",0.317038394425597,179223,"Reported","Copper shark","Industrial",7,20,1,"R","Landings",600864
+"75","sharklg",2010,"Australia","Galeocerdo cuvier",9,"Sharks & rays","R",0.17425826201894,179223,"Reported","Tiger shark","Artisanal",7,20,3,"R","Landings",600886
+"76","benthopelagiclg",2010,"Australia","Thyrsites atun",3,"Perch-likes","D",7.7843693585206,179223,"Unreported","Snoek","Industrial",7,15,1,"U","Discards",600489
+"77","benthopelagiclg",2010,"Australia","Thyrsites atun",3,"Perch-likes","R",0.0976199736092438,179223,"Unreported","Snoek","Recreational",7,15,4,"U","Landings",600489
+"78","benthopelagiclg",2010,"Australia","Thyrsites atun",3,"Perch-likes","R",0.711962330210606,179223,"Reported","Snoek","Industrial",7,15,1,"R","Landings",600489
+"79","benthopelagiclg",2010,"Australia","Trichiurus lepturus",3,"Perch-likes","D",0.242372217725826,179223,"Unreported","Largehead hairtail","Industrial",7,15,1,"U","Discards",601288
+"80","benthopelagiclg",2010,"Australia","Trichiurus lepturus",3,"Perch-likes","R",0.0325301521390178,179223,"Reported","Largehead hairtail","Artisanal",7,15,3,"R","Landings",601288
+"81","demersallg",2010,"Australia","Macruronus novaezelandiae",5,"Cod-likes","D",2.65715899235334,179223,"Unreported","Blue grenadier","Industrial",7,6,1,"U","Discards",601825
+"82","demersallg",2010,"Australia","Macruronus novaezelandiae",5,"Cod-likes","R",0.918262341340572,179223,"Reported","Blue grenadier","Industrial",7,6,1,"R","Landings",601825
+"83","demersallg",2010,"Australia","Macruronus novaezelandiae",5,"Cod-likes","R",3.67304936536229,179223,"Reported","Blue grenadier","Industrial",7,6,1,"R","Landings",601825
+"84","sharklg",2010,"Australia","Galeorhinus galeus",9,"Sharks & rays","R",0.112330107488478,179223,"Reported","Tope shark","Artisanal",7,20,3,"R","Landings",604642
+"85","sharklg",2010,"Australia","Galeorhinus galeus",9,"Sharks & rays","R",0.156539659746578,179223,"Reported","Tope shark","Artisanal",7,20,3,"R","Landings",604642
+"86","sharklg",2010,"Australia","Squalus acanthias",9,"Sharks & rays","R",0.128898317666383,179223,"Reported","Piked dogfish","Industrial",7,20,1,"R","Landings",600139
+"87","sharklg",2010,"Australia","Squalus acanthias",9,"Sharks & rays","R",0.128898317666383,179223,"Reported","Piked dogfish","Industrial",7,20,1,"R","Landings",600139
+"88","sharklg",2010,"Unknown Fishing Country","Prionace glauca",9,"Sharks & rays","D",0.00109126499185108,179223,"Unreported","Blue shark","Industrial",213,20,1,"U","Discards",600898
+"89","sharklg",2010,"Indonesia","Prionace glauca",9,"Sharks & rays","D",0.000208921284258059,179223,"Unreported","Blue shark","Industrial",83,20,1,"U","Discards",600898
+"90","sharklg",2010,"Australia","Prionace glauca",9,"Sharks & rays","R",1.73404344933082e-05,179223,"Reported","Blue shark","Industrial",7,20,1,"R","Landings",600898
+"91","sharklg",2010,"Australia","Prionace glauca",9,"Sharks & rays","R",1.73404344933082e-05,179223,"Reported","Blue shark","Industrial",7,20,1,"R","Landings",600898
+"92","sharklg",2010,"Australia","Prionace glauca",9,"Sharks & rays","D",2.96241257851809e-05,179223,"Unreported","Blue shark","Industrial",7,20,1,"U","Discards",600898
+"93","lobsters,crab",2010,"Australia","Ranina ranina",10,"Crustaceans","R",2.30660883344922,179223,"Reported","Kona crab ","Artisanal",7,27,3,"R","Landings",690883
+"94","lobsters,crab",2010,"Australia","Ranina ranina",10,"Crustaceans","R",0.352431743169514,179223,"Reported","Kona crab ","Artisanal",7,27,3,"R","Landings",690883
+"95","demersalmd",2010,"Australia","Chelidonichthys kumu",8,"Scorpionfishes","D",0.168640079338075,179223,"Unreported","Bluefin gurnard","Industrial",7,5,1,"U","Discards",600507
+"96","demersalmd",2010,"Australia","Chelidonichthys kumu",8,"Scorpionfishes","R",0.152616626536661,179223,"Reported","Bluefin gurnard","Industrial",7,5,1,"R","Landings",600507
+"97","demersalmd",2010,"Australia","Chelidonichthys kumu",8,"Scorpionfishes","R",0.152616626536661,179223,"Reported","Bluefin gurnard","Industrial",7,5,1,"R","Landings",600507
+"98","demersalmd",2010,"Australia","Chelidonichthys kumu",8,"Scorpionfishes","R",1.22093301229329,179223,"Reported","Bluefin gurnard","Industrial",7,5,1,"R","Landings",600507
+"99","sharklg",2010,"Unknown Fishing Country","Isurus",9,"Sharks & rays","R",8.14479743473143e-05,179223,"Reported","Mako sharks","Industrial",213,20,1,"R","Landings",500638
+"100","sharklg",2010,"Unknown Fishing Country","Isurus",9,"Sharks & rays","D",0.000115805896195262,179223,"Unreported","Mako sharks","Industrial",213,20,1,"U","Discards",500638
+"101","sharklg",2010,"Indonesia","Isurus",9,"Sharks & rays","D",2.35276196418035e-05,179223,"Unreported","Mako sharks","Industrial",83,20,1,"U","Discards",500638
+"102","sharklg",2010,"Australia","Isurus",9,"Sharks & rays","R",9.85991523859364e-06,179223,"Reported","Mako sharks","Industrial",7,20,1,"R","Landings",500638
+"103","benthopelagiclg",2010,"Australia","Seriola lalandi",3,"Perch-likes","R",0.318766764451933,179223,"Reported","Yellowtail amberjack","Artisanal",7,15,3,"R","Landings",600382
+"104","benthopelagiclg",2010,"Australia","Seriola lalandi",3,"Perch-likes","R",2.46473945852159e-05,179223,"Reported","Yellowtail amberjack","Industrial",7,15,1,"R","Landings",600382
+"105","benthopelagiclg",2010,"Australia","Seriola lalandi",3,"Perch-likes","R",9.85895783408634e-05,179223,"Reported","Yellowtail amberjack","Industrial",7,15,1,"R","Landings",600382
+"106","benthopelagicmd",2010,"Australia","Zeus faber",12,"Other fishes & inverts","D",0.337461974417982,179223,"Unreported","John dory","Industrial",7,14,1,"U","Discards",601370
+"107","benthopelagicmd",2010,"Australia","Zeus faber",12,"Other fishes & inverts","R",0.651721632803992,179223,"Reported","John dory","Artisanal",7,14,3,"R","Landings",601370
+"108","benthopelagicmd",2010,"Australia","Zeus faber",12,"Other fishes & inverts","R",0.606988197651187,179223,"Reported","John dory","Industrial",7,14,1,"R","Landings",601370
+"109","benthopelagicmd",2010,"Australia","Zeus faber",12,"Other fishes & inverts","R",2.42795279060475,179223,"Reported","John dory","Industrial",7,14,1,"R","Landings",601370
+"110","pelagiclg",2010,"Australia","Scomberomorus commerson",3,"Perch-likes","R",0.670800846640774,179223,"Reported","Narrowbarred Spanish mackerel","Artisanal",7,3,3,"R","Landings",600121
+"111","pelagiclg",2010,"Australia","Scomberomorus commerson",3,"Perch-likes","R",0.0229470890751543,179223,"Reported","Narrowbarred Spanish mackerel","Artisanal",7,3,3,"R","Landings",600121
+"112","pelagiclg",2010,"Australia","Scomberomorus commerson",3,"Perch-likes","R",0.0751537923036136,179223,"Reported","Narrowbarred Spanish mackerel","Artisanal",7,3,3,"R","Landings",600121
+"113","pelagiclg",2010,"Australia","Scomberomorus commerson",3,"Perch-likes","R",0.00218321434772504,179223,"Reported","Narrowbarred Spanish mackerel","Artisanal",7,3,3,"R","Landings",600121
+"114","reef-associatedlg",2010,"Australia","Pseudocaranx dentex",3,"Perch-likes","D",0.000734646164753345,179223,"Unreported","White trevally","Industrial",7,18,1,"U","Discards",601002
+"115","reef-associatedlg",2010,"Australia","Pseudocaranx dentex",3,"Perch-likes","R",3.75966688504262,179223,"Reported","White trevally","Industrial",7,18,1,"R","Landings",601002
+"116","reef-associatedlg",2010,"Australia","Pseudocaranx dentex",3,"Perch-likes","R",15.0386675401705,179223,"Reported","White trevally","Industrial",7,18,1,"R","Landings",601002
+"117","benthopelagicmd",2010,"Australia","Centroberyx affinis",12,"Other fishes & inverts","D",10.6318251745217,179223,"Unreported","Redfish","Industrial",7,14,1,"U","Discards",614129
+"118","benthopelagicmd",2010,"Australia","Centroberyx affinis",12,"Other fishes & inverts","R",71.1147093865361,179223,"Unreported","Redfish","Recreational",7,14,4,"U","Landings",614129
+"119","benthopelagicmd",2010,"Australia","Centroberyx affinis",12,"Other fishes & inverts","R",19.0552934677934,179223,"Reported","Redfish","Industrial",7,14,1,"R","Landings",614129
+"120","benthopelagicmd",2010,"Australia","Girella tricuspidata",3,"Perch-likes","R",13.2681581248811,179223,"Unreported","Parore","Recreational",7,14,4,"U","Landings",608173
+"121","benthopelagicmd",2010,"Australia","Girella tricuspidata",3,"Perch-likes","R",13.4787629440192,179223,"Reported","Parore","Artisanal",7,14,3,"R","Landings",608173
+"122","demersallg",2010,"Australia","Pagrus auratus",3,"Perch-likes","D",2.77136060757714,179223,"Unreported","Silver seabream","Industrial",7,6,1,"U","Discards",606426
+"123","demersallg",2010,"Australia","Pagrus auratus",3,"Perch-likes","R",0.0509763796481507,179223,"Reported","Silver seabream","Industrial",7,6,1,"R","Landings",606426
+"124","bathypelagicmd",2010,"Australia","Brama brama",3,"Perch-likes","R",9.85719798322679e-05,179223,"Reported","Atlantic pomfret","Industrial",7,8,1,"R","Landings",600391
+"125","demersalmd",2010,"Unknown Fishing Country","Marine fishes not identified",12,"Other fishes & inverts","D",0.845624201010589,179223,"Unreported","Marine fishes nei","Industrial",213,5,1,"U","Discards",100039
+"126","demersalmd",2010,"Unknown Fishing Country","Marine fishes not identified",12,"Other fishes & inverts","D",0.00118840030901234,179223,"Unreported","Marine fishes nei","Industrial",213,5,1,"U","Discards",100039
+"127","demersalmd",2010,"Samoa","Marine fishes not identified",12,"Other fishes & inverts","D",0.008881472457276,179223,"Unreported","Marine fishes nei","Industrial",192,5,1,"U","Discards",100039
+"128","demersalmd",2010,"USA","Marine fishes not identified",12,"Other fishes & inverts","D",0.0506307928298133,179223,"Unreported","Marine fishes nei","Industrial",187,5,1,"U","Discards",100039
+"129","demersalmd",2010,"Papua New Guinea","Marine fishes not identified",12,"Other fishes & inverts","D",0.0321420579623639,179223,"Unreported","Marine fishes nei","Industrial",136,5,1,"U","Discards",100039
+"130","demersalmd",2010,"Micronesia","Marine fishes not identified",12,"Other fishes & inverts","D",0.00733093013285809,179223,"Unreported","Marine fishes nei","Industrial",131,5,1,"U","Discards",100039
+"131","demersalmd",2010,"Vanuatu","Marine fishes not identified",12,"Other fishes & inverts","D",0.064776178817477,179223,"Unreported","Marine fishes nei","Industrial",122,5,1,"U","Discards",100039
+"132","demersalmd",2010,"Japan","Marine fishes not identified",12,"Other fishes & inverts","D",0.477185389336548,179223,"Unreported","Marine fishes nei","Industrial",91,5,1,"U","Discards",100039
+"133","demersalmd",2010,"Indonesia","Marine fishes not identified",12,"Other fishes & inverts","D",0.331263611347411,179223,"Unreported","Marine fishes nei","Industrial",83,5,1,"U","Discards",100039
+"134","demersalmd",2010,"Fiji","Marine fishes not identified",12,"Other fishes & inverts","D",0.0609754043109066,179223,"Unreported","Marine fishes nei","Industrial",56,5,1,"U","Discards",100039
+"135","demersalmd",2010,"Cook Islands","Marine fishes not identified",12,"Other fishes & inverts","D",0.00791501089688281,179223,"Unreported","Marine fishes nei","Industrial",40,5,1,"U","Discards",100039
+"136","demersalmd",2010,"Solomon Isl.","Marine fishes not identified",12,"Other fishes & inverts","D",0.0740409994124868,179223,"Unreported","Marine fishes nei","Industrial",18,5,1,"U","Discards",100039
+"137","demersalmd",2010,"Australia","Marine fishes not identified",12,"Other fishes & inverts","R",1.33784273018993,179223,"Reported","Marine fishes nei","Artisanal",7,5,3,"R","Landings",100039
+"138","demersalmd",2010,"Australia","Marine fishes not identified",12,"Other fishes & inverts","R",0.00947605589271812,179223,"Reported","Marine fishes nei","Artisanal",7,5,3,"R","Landings",100039
+"139","demersalmd",2010,"Australia","Marine fishes not identified",12,"Other fishes & inverts","R",0.0130803931388448,179223,"Reported","Marine fishes nei","Artisanal",7,5,3,"R","Landings",100039
+"140","demersalmd",2010,"Australia","Marine fishes not identified",12,"Other fishes & inverts","R",0.0204477689120957,179223,"Reported","Marine fishes nei","Artisanal",7,5,3,"R","Landings",100039
+"141","demersalmd",2010,"Australia","Marine fishes not identified",12,"Other fishes & inverts","R",2.72550458178551,179223,"Reported","Marine fishes nei","Artisanal",7,5,3,"R","Landings",100039
+"142","demersalmd",2010,"Australia","Marine fishes not identified",12,"Other fishes & inverts","R",5.94872995843513,179223,"Reported","Marine fishes nei","Artisanal",7,5,3,"R","Landings",100039
+"143","demersalmd",2010,"Australia","Marine fishes not identified",12,"Other fishes & inverts","R",17.4455528144119,179223,"Reported","Marine fishes nei","Artisanal",7,5,3,"R","Landings",100039
+"144","demersalmd",2010,"Australia","Marine fishes not identified",12,"Other fishes & inverts","R",1.29275298068095,179223,"Reported","Marine fishes nei","Industrial",7,5,1,"R","Landings",100039
+"145","demersalmd",2010,"Australia","Marine fishes not identified",12,"Other fishes & inverts","R",1.72634663413107,179223,"Reported","Marine fishes nei","Industrial",7,5,1,"R","Landings",100039
+"146","demersalmd",2010,"Australia","Marine fishes not identified",12,"Other fishes & inverts","R",1.90967625238369,179223,"Reported","Marine fishes nei","Industrial",7,5,1,"R","Landings",100039
+"147","demersalmd",2010,"Australia","Marine fishes not identified",12,"Other fishes & inverts","R",0.274337117234858,179223,"Reported","Marine fishes nei","Industrial",7,5,1,"R","Landings",100039
+"148","demersalmd",2010,"Australia","Marine fishes not identified",12,"Other fishes & inverts","R",8.45726200207454,179223,"Reported","Marine fishes nei","Industrial",7,5,1,"R","Landings",100039
+"149","demersalmd",2010,"Australia","Marine fishes not identified",12,"Other fishes & inverts","D",0.0417908039942515,179223,"Unreported","Marine fishes nei","Industrial",7,5,1,"U","Discards",100039
+"150","demersalmd",2010,"Australia","Marine fishes not identified",12,"Other fishes & inverts","D",0.335762962803423,179223,"Unreported","Marine fishes nei","Industrial",7,5,1,"U","Discards",100039
+"151","demersalmd",2010,"Australia","Marine fishes not identified",12,"Other fishes & inverts","D",18.7638166393318,179223,"Unreported","Marine fishes nei","Industrial",7,5,1,"U","Discards",100039
+"152","demersalmd",2010,"Australia","Marine fishes not identified",12,"Other fishes & inverts","R",53.2748391372237,179223,"Unreported","Marine fishes nei","Recreational",7,5,4,"U","Landings",100039
+"153","demersalmd",2010,"Australia","Marine fishes not identified",12,"Other fishes & inverts","R",13.0448701949148,179223,"Unreported","Marine fishes nei","Subsistence",7,5,2,"U","Landings",100039
+"154","demersalmd",2010,"Australia","Marine fishes not identified",12,"Other fishes & inverts","R",1.19481876467335,179223,"Reported","Marine fishes nei","Artisanal",7,5,3,"R","Landings",100039
+"155","pelagicsm",2010,"Australia","Myctophidae",12,"Other fishes & inverts","R",0.0287039143843816,179223,"Reported","Lanternfishes","Industrial",7,1,1,"R","Landings",400167
+"156","demersalmd",2010,"Australia","Pterygotrigla polyommata",8,"Scorpionfishes","R",3.62204937986299,179223,"Reported","Latchet","Industrial",7,5,1,"R","Landings",600508
+"157","reef-associatedmd",2010,"Australia","Monacanthidae",12,"Other fishes & inverts","D",3.60948650922698,179223,"Unreported","Filefishes","Industrial",7,17,1,"U","Discards",400517
+"158","reef-associatedmd",2010,"Australia","Monacanthidae",12,"Other fishes & inverts","R",3.51328315031287,179223,"Unreported","Filefishes","Recreational",7,17,4,"U","Landings",400517
+"159","reef-associatedmd",2010,"Australia","Monacanthidae",12,"Other fishes & inverts","R",19.418401253026,179223,"Reported","Filefishes","Artisanal",7,17,3,"R","Landings",400517
+"160","reef-associatedmd",2010,"Australia","Monacanthidae",12,"Other fishes & inverts","R",16.9152118407973,179223,"Reported","Filefishes","Industrial",7,17,1,"R","Landings",400517
+"161","demersalmd",2010,"Australia","Cyttus novaezealandiae",12,"Other fishes & inverts","D",4.12250232360884,179223,"Unreported","New Zealand dory","Industrial",7,5,1,"U","Discards",614575
+"162","benthopelagicmd",2010,"Australia","Seriolella brama",3,"Perch-likes","D",1.28606406106209,179223,"Unreported","Common warehou","Industrial",7,14,1,"U","Discards",612918
+"163","benthopelagicmd",2010,"Australia","Seriolella brama",3,"Perch-likes","R",0.827759751892747,179223,"Reported","Common warehou","Industrial",7,14,1,"R","Landings",612918
+"164","demersalmd",2010,"Australia","Nemadactylus macropterus",3,"Perch-likes","D",0.227858074817806,179223,"Unreported","Tarakihi","Industrial",7,5,1,"U","Discards",610106
+"165","demersalmd",2010,"Australia","Nemadactylus macropterus",3,"Perch-likes","R",0.0146563048104768,179223,"Reported","Tarakihi","Artisanal",7,5,3,"R","Landings",610106
+"166","demersalmd",2010,"Australia","Nemadactylus macropterus",3,"Perch-likes","R",0.120632662670848,179223,"Reported","Tarakihi","Artisanal",7,5,3,"R","Landings",610106
+"167","demersalmd",2010,"Australia","Nemadactylus macropterus",3,"Perch-likes","R",7.15305792300463,179223,"Reported","Tarakihi","Industrial",7,5,1,"R","Landings",610106
+"168","bathydemersallg",2010,"Australia","Genypterus blacodes",12,"Other fishes & inverts","D",0.00916777298521761,179223,"Unreported","Pink cusk-eel","Industrial",7,12,1,"U","Discards",600482
+"169","bathydemersallg",2010,"Australia","Genypterus blacodes",12,"Other fishes & inverts","R",3.91485198651446,179223,"Reported","Pink cusk-eel","Artisanal",7,12,3,"R","Landings",600482
+"170","bathydemersallg",2010,"Australia","Genypterus blacodes",12,"Other fishes & inverts","R",0.529545196243503,179223,"Reported","Pink cusk-eel","Artisanal",7,12,3,"R","Landings",600482
+"171","bathydemersallg",2010,"Australia","Genypterus blacodes",12,"Other fishes & inverts","R",16.2383480062339,179223,"Reported","Pink cusk-eel","Industrial",7,12,1,"R","Landings",600482
+"172","benthopelagicmd",2010,"Australia","Beryx splendens",12,"Other fishes & inverts","R",2.54481762801653,179223,"Reported","Splendid alfonsino","Industrial",7,14,1,"R","Landings",601320
+"173","benthopelagicmd",2010,"Australia","Trachurus declivis",3,"Perch-likes","D",2.86605449029111,179223,"Unreported","Greenback horse mackerel","Industrial",7,14,1,"U","Discards",600372
+"174","benthopelagicmd",2010,"Australia","Trachurus declivis",3,"Perch-likes","R",0.228673465810132,179223,"Reported","Greenback horse mackerel","Artisanal",7,14,3,"R","Landings",600372
+"175","benthopelagicmd",2010,"Australia","Trachurus declivis",3,"Perch-likes","R",0.948039664397228,179223,"Reported","Greenback horse mackerel","Industrial",7,14,1,"R","Landings",600372
+"176","benthopelagicmd",2010,"Australia","Trachurus declivis",3,"Perch-likes","R",3.79215865758891,179223,"Reported","Greenback horse mackerel","Industrial",7,14,1,"R","Landings",600372
+"177","benthopelagicmd",2010,"Australia","Seriolella punctata",3,"Perch-likes","D",1.9777127131333,179223,"Unreported","Silver warehou","Industrial",7,14,1,"U","Discards",612922
+"178","benthopelagicmd",2010,"Australia","Seriolella punctata",3,"Perch-likes","R",28.5823527302126,179223,"Reported","Silver warehou","Industrial",7,14,1,"R","Landings",612922
+"179","pelagicmd",2010,"Australia","Arripis trutta",3,"Perch-likes","R",13.0530507839298,179223,"Unreported","Australian salmon","Recreational",7,2,4,"U","Landings",605048
+"180","pelagicmd",2010,"Australia","Arripis trutta",3,"Perch-likes","R",2.97354466105558,179223,"Reported","Australian salmon","Industrial",7,2,1,"R","Landings",605048
+"181","bathydemersalmd",2010,"Australia","Zenopsis nebulosa",12,"Other fishes & inverts","D",0.255738223665408,179223,"Unreported","Mirror dory","Industrial",7,11,1,"U","Discards",603255
+"182","bathydemersalmd",2010,"Australia","Zenopsis nebulosa",12,"Other fishes & inverts","R",0.449770817028615,179223,"Reported","Mirror dory","Artisanal",7,11,3,"R","Landings",603255
+"183","bathydemersalmd",2010,"Australia","Zenopsis nebulosa",12,"Other fishes & inverts","R",3.545292134375,179223,"Reported","Mirror dory","Industrial",7,11,1,"R","Landings",603255
+"184","bathydemersalmd",2010,"Australia","Zenopsis nebulosa",12,"Other fishes & inverts","R",14.1811685375,179223,"Reported","Mirror dory","Industrial",7,11,1,"R","Landings",603255
+"185","bathypelagiclg",2010,"Australia","Centrolophus niger",3,"Perch-likes","R",6.65239930153222,179223,"Reported","Rudderfish","Industrial",7,9,1,"R","Landings",600249
+"186","benthopelagiclg",2010,"Australia","Hyperoglyphe antarctica",3,"Perch-likes","D",0.00496159000497926,179223,"Unreported","Bluenose warehou","Industrial",7,15,1,"U","Discards",600496
+"187","benthopelagiclg",2010,"Australia","Hyperoglyphe antarctica",3,"Perch-likes","R",1.77559895184737,179223,"Reported","Bluenose warehou","Industrial",7,15,1,"R","Landings",600496
+"188","bathydemersallg",2010,"Australia","Lepidopus caudatus",3,"Perch-likes","D",3.23605258565339,179223,"Unreported","Silver scabbardfish","Industrial",7,12,1,"U","Discards",600645
+"189","bathydemersallg",2010,"Australia","Lepidopus caudatus",3,"Perch-likes","R",11.1877035870944,179223,"Reported","Silver scabbardfish","Industrial",7,12,1,"R","Landings",600645
+"190","demersalsm",2010,"Australia","Lepidoperca pulchella",3,"Perch-likes","R",0.0950326098100289,179223,"Reported","Orange perch","Industrial",7,4,1,"R","Landings",614354
+"191","demersallg",2010,"Australia","Polyprion oxygeneios",3,"Perch-likes","R",0.326084560229211,179223,"Reported","Hapuka","Artisanal",7,6,3,"R","Landings",600350
+"192","pelagicmd",2010,"Australia","Auxis thazard",4,"Tuna & billfishes","R",0.743011848098918,179223,"Reported","Frigate tuna","Artisanal",7,2,3,"R","Landings",600094
+"193","sharklg",2010,"Australia","Deania calcea",9,"Sharks & rays","R",1.51175974633595,179223,"Reported","Birdbeak dogfish","Industrial",7,20,1,"R","Landings",600670
+"194","sharklg",2010,"Australia","Deania calcea",9,"Sharks & rays","R",1.51175974633595,179223,"Reported","Birdbeak dogfish","Industrial",7,20,1,"R","Landings",600670
+"195","pelagicmd",2010,"Australia","Scomber australasicus",3,"Perch-likes","D",0.0137505391058566,179223,"Unreported","Blue mackerel","Industrial",7,2,1,"U","Discards",600116
+"196","pelagicmd",2010,"Australia","Scomber australasicus",3,"Perch-likes","R",7.66774724024759,179223,"Unreported","Blue mackerel","Recreational",7,2,4,"U","Landings",600116
+"197","pelagicmd",2010,"Australia","Scomber australasicus",3,"Perch-likes","R",6.8289021854633,179223,"Reported","Blue mackerel","Industrial",7,2,1,"R","Landings",600116
+"198","benthopelagiclg",2010,"Australia","Rexea solandri",3,"Perch-likes","R",0.923544109899206,179223,"Reported","Silver gemfish","Artisanal",7,15,3,"R","Landings",608490
+"199","benthopelagiclg",2010,"Australia","Rexea solandri",3,"Perch-likes","R",0.9183570980026,179223,"Reported","Silver gemfish","Industrial",7,15,1,"R","Landings",608490
+"200","benthopelagiclg",2010,"Australia","Rexea solandri",3,"Perch-likes","R",3.6734283920104,179223,"Reported","Silver gemfish","Industrial",7,15,1,"R","Landings",608490
+"201","benthopelagiclg",2010,"Australia","Ruvettus pretiosus",3,"Perch-likes","R",0.0607158541479287,179223,"Reported","Oilfish","Industrial",7,15,1,"R","Landings",601044
+"202","shrimp",2010,"Australia","Haliporoides sibogae",10,"Crustaceans","D",0.174815422599238,179223,"Unreported","Jackknife shrimp","Industrial",7,26,1,"U","Discards",690194
+"203","shrimp",2010,"Australia","Haliporoides sibogae",10,"Crustaceans","R",7.50546975641675,179223,"Reported","Jackknife shrimp","Industrial",7,26,1,"R","Landings",690194
+"204","bathypelagicmd",2010,"Australia","Lepidorhynchus denticulatus",5,"Cod-likes","D",3.57784346239044,179223,"Unreported","Thorntooth grenadier","Industrial",7,8,1,"U","Discards",608483
+"205","bathypelagiclg",2010,"Australia","Lepidocybium flavobrunneum",3,"Perch-likes","R",1.40225150327082,179223,"Reported","Escolar","Industrial",7,9,1,"R","Landings",601042
+"206","bathypelagicmd",2010,"Australia","Neocyttus rhomboidalis",12,"Other fishes & inverts","R",0.730257941616358,179223,"Reported","Spiky oreo","Industrial",7,8,1,"R","Landings",609146
+"207","pelagiclg",2010,"Australia","Scomberomorus",3,"Perch-likes","R",4.4891206869456,179223,"Unreported","Spanish mackerels","Recreational",7,3,4,"U","Landings",500487
+"208","pelagiclg",2010,"Australia","Scomberomorus",3,"Perch-likes","R",0.94570738464321,179223,"Reported","Spanish mackerels","Artisanal",7,3,3,"R","Landings",500487
+"209","pelagiclg",2010,"Australia","Scomberomorus",3,"Perch-likes","R",0.0323512286889828,179223,"Reported","Spanish mackerels","Artisanal",7,3,3,"R","Landings",500487
+"210","pelagiclg",2010,"Australia","Scomberomorus",3,"Perch-likes","R",0.10595320015082,179223,"Reported","Spanish mackerels","Artisanal",7,3,3,"R","Landings",500487
+"211","pelagiclg",2010,"Australia","Scomberomorus",3,"Perch-likes","R",0.0030779357856241,179223,"Reported","Spanish mackerels","Artisanal",7,3,3,"R","Landings",500487
+"212","benthopelagicmd",2010,"Australia","Pseudocyttus maculatus",12,"Other fishes & inverts","R",6.27884624145518,179223,"Reported","Smooth oreo dory","Industrial",7,14,1,"R","Landings",607151
+"213","bathypelagicmd",2010,"Australia","Halargyreus johnsonii",5,"Cod-likes","D",0.0378084187814474,179223,"Unreported","Slender codling","Industrial",7,8,1,"U","Discards",602012
+"214","cephalopods",2010,"Australia","Cephalopoda",12,"Other fishes & inverts","R",2.03929131807879,179223,"Unreported","Squids, cuttlefishes, octopuses","Recreational",7,25,4,"U","Landings",290002
+"215","cephalopods",2010,"Australia","Teuthida",12,"Other fishes & inverts","R",0.00462603692549673,179223,"Reported","Squids","Industrial",7,25,1,"R","Landings",390002
+"216","otherdeminvert",2010,"Australia","Donax",11,"Molluscs","R",0.31716040149827,179223,"Unreported","Bean clams","Recreational",7,29,4,"U","Landings",590128
+"217","otherdeminvert",2010,"Australia","Donax",11,"Molluscs","R",0.156488486760034,179223,"Reported","Bean clams","Artisanal",7,29,3,"R","Landings",590128
+"218","otherdeminvert",2010,"Australia","Donax",11,"Molluscs","R",0.0298377882490106,179223,"Reported","Bean clams","Artisanal",7,29,3,"R","Landings",590128
+"219","reef-associatedmd",2010,"Australia","Kyphosidae",3,"Perch-likes","R",1.17598645136436,179223,"Unreported","Sea chubs, knifefishes, niblers","Recreational",7,17,4,"U","Landings",400339
+"220","reef-associatedmd",2010,"Australia","Kyphosidae",3,"Perch-likes","R",0.553237240386211,179223,"Reported","Sea chubs, knifefishes, niblers","Artisanal",7,17,3,"R","Landings",400339
+"221","lobsters,crab",2010,"Australia","Scylla",10,"Crustaceans","R",0.727807657450654,179223,"Unreported","Mud crabs","Recreational",7,27,4,"U","Landings",590076
+"222","reef-associatedmd",2010,"Australia","Mugilidae",3,"Perch-likes","R",4.57934740181488,179223,"Unreported","Mullets, grey mullets","Recreational",7,17,4,"U","Landings",400359
+"223","reef-associatedmd",2010,"Australia","Mugilidae",3,"Perch-likes","R",0.382077002982649,179223,"Reported","Mullets, grey mullets","Artisanal",7,17,3,"R","Landings",400359
+"224","reef-associatedmd",2010,"Australia","Mugilidae",3,"Perch-likes","R",1.52828934569501,179223,"Reported","Mullets, grey mullets","Artisanal",7,17,3,"R","Landings",400359
+"225","reef-associatedmd",2010,"Australia","Mugilidae",3,"Perch-likes","R",0.0382855564719388,179223,"Reported","Mullets, grey mullets","Artisanal",7,17,3,"R","Landings",400359
+"226","otherdeminvert",2010,"Australia","Haliotidae",11,"Molluscs","R",0.352762229198599,179223,"Unreported","Abalones, ear shells","Recreational",7,29,4,"U","Landings",490020
+"227","demersalmd",2010,"Australia","Latridae",3,"Perch-likes","R",0.00228306030668228,179223,"Reported","Trumpeters","Industrial",7,5,1,"R","Landings",400356
+"228","demersalmd",2010,"Australia","Latridae",3,"Perch-likes","R",0.00913224122672913,179223,"Reported","Trumpeters","Industrial",7,5,1,"R","Landings",400356
+"229","cephalopods",2010,"Australia","Sepia",12,"Other fishes & inverts","D",22.7740921338234,179223,"Unreported","Sepia cuttlefishes","Industrial",7,25,1,"U","Discards",590011
+"230","cephalopods",2010,"Australia","Sepia",12,"Other fishes & inverts","R",4.02539289479263,179223,"Reported","Sepia cuttlefishes","Artisanal",7,25,3,"R","Landings",590011
+"231","cephalopods",2010,"Australia","Sepia",12,"Other fishes & inverts","R",0.0132697856757208,179223,"Reported","Sepia cuttlefishes","Artisanal",7,25,3,"R","Landings",590011
+"232","cephalopods",2010,"Australia","Sepia",12,"Other fishes & inverts","R",0.449032218008915,179223,"Reported","Sepia cuttlefishes","Artisanal",7,25,3,"R","Landings",590011
+"233","cephalopods",2010,"Australia","Sepia",12,"Other fishes & inverts","R",0.0861637983686724,179223,"Reported","Sepia cuttlefishes","Artisanal",7,25,3,"R","Landings",590011
+"234","cephalopods",2010,"Australia","Sepia",12,"Other fishes & inverts","R",0.0609355311514855,179223,"Reported","Sepia cuttlefishes","Artisanal",7,25,3,"R","Landings",590011
+"235","cephalopods",2010,"Australia","Sepia",12,"Other fishes & inverts","R",1.40904888682149,179223,"Reported","Sepia cuttlefishes","Industrial",7,25,1,"R","Landings",590011
+"236","benthopelagicmd",2010,"Australia","Pagrus",3,"Perch-likes","R",14.8033104930371,179223,"Reported","Subtropical seabreams","Artisanal",7,14,3,"R","Landings",500903
+"237","otherdeminvert",2010,"Australia","Ostreidae",11,"Molluscs","R",0.750504092620111,179223,"Unreported","True oysters","Recreational",7,29,4,"U","Landings",490143
+"238","demersalmd",2010,"Australia","Sciaenidae",3,"Perch-likes","R",13.5725083865016,179223,"Unreported","Drums, croakers","Recreational",7,5,4,"U","Landings",400331
+"239","demersalmd",2010,"Australia","Sciaenidae",3,"Perch-likes","R",1.86806206776369,179223,"Reported","Drums, croakers","Artisanal",7,5,3,"R","Landings",400331
+"240","demersalmd",2010,"Australia","Sciaenidae",3,"Perch-likes","R",0.172119222912252,179223,"Reported","Drums, croakers","Artisanal",7,5,3,"R","Landings",400331
+"241","demersalmd",2010,"Australia","Sciaenidae",3,"Perch-likes","R",0.0330485975655036,179223,"Reported","Drums, croakers","Artisanal",7,5,3,"R","Landings",400331
+"242","demersalmd",2010,"Australia","Sciaenidae",3,"Perch-likes","R",0.0456190480236032,179223,"Reported","Drums, croakers","Artisanal",7,5,3,"R","Landings",400331
+"243","demersalmd",2010,"Australia","Sciaenidae",3,"Perch-likes","R",0.0303828392453943,179223,"Reported","Drums, croakers","Artisanal",7,5,3,"R","Landings",400331
+"244","demersalmd",2010,"Australia","Sciaenidae",3,"Perch-likes","R",0.413596160228416,179223,"Reported","Drums, croakers","Artisanal",7,5,3,"R","Landings",400331
+"245","demersalmd",2010,"Australia","Sciaenidae",3,"Perch-likes","R",0.131887925822692,179223,"Reported","Drums, croakers","Artisanal",7,5,3,"R","Landings",400331
+"246","flatfishsm md",2010,"Australia","Bothidae",7,"Flatfishes","R",0.294741484559932,179223,"Unreported","Lefteye flounders","Recreational",7,23,4,"U","Landings",400439
+"247","demersalmd",2010,"Australia","Nemadactylus",3,"Perch-likes","R",11.9878249940033,179223,"Unreported","Porae","Recreational",7,5,4,"U","Landings",501523
+"248","demersalmd",2010,"Australia","Nemadactylus",3,"Perch-likes","R",0.362733741721977,179223,"Reported","Porae","Artisanal",7,5,3,"R","Landings",501523
+"249","demersalmd",2010,"Australia","Nemadactylus",3,"Perch-likes","R",2.98557772032704,179223,"Reported","Porae","Artisanal",7,5,3,"R","Landings",501523
+"250","demersalmd",2010,"Australia","Nemadactylus",3,"Perch-likes","R",3.2101731500889,179223,"Reported","Porae","Industrial",7,5,1,"R","Landings",501523
+"251","pelagicmd",2010,"Australia","Carangidae",3,"Perch-likes","R",2.5791022985681,179223,"Unreported","Jacks, pompanos","Recreational",7,2,4,"U","Landings",400314
+"252","pelagiclg",2010,"Australia","Lampris",12,"Other fishes & inverts","R",1.28559879234189,179223,"Reported","Opahs","Industrial",7,3,1,"R","Landings",500391
+"253","shrimp",2010,"Australia","Dendrobranchiata",10,"Crustaceans","R",0.214687776944012,179223,"Reported","Shrimps and prawns","Artisanal",7,26,3,"R","Landings",390045
+"254","reef-associatedmd",2010,"Australia","Serranidae",3,"Perch-likes","R",0.900339288282024,179223,"Unreported","Basses, groupers, hinds","Recreational",7,17,4,"U","Landings",400289
+"255","reef-associatedmd",2010,"Australia","Epinephelus",3,"Perch-likes","D",0.586671910841252,179223,"Unreported","Seabasses, hinds","Industrial",7,17,1,"U","Discards",500366
+"256","reef-associatedmd",2010,"Australia","Epinephelus",3,"Perch-likes","R",0.392673047875434,179223,"Reported","Seabasses, hinds","Artisanal",7,17,3,"R","Landings",500366
+"257","reef-associatedmd",2010,"Australia","Lutjanidae",3,"Perch-likes","R",0.626497909361668,179223,"Unreported","Snappers","Recreational",7,17,4,"U","Landings",400323
+"258","lobsters,crab",2010,"Australia","Palinuridae",10,"Crustaceans","R",0.660249102351411,179223,"Unreported","Spiny lobsters","Recreational",7,27,4,"U","Landings",490039
+"259","raylg",2010,"Australia","Myliobatidae",9,"Sharks & rays","R",0.0845122557024897,179223,"Reported","Eagle/manta rays","Industrial",7,22,1,"R","Landings",400022
+"260","raylg",2010,"Australia","Myliobatidae",9,"Sharks & rays","R",0.0845122557024897,179223,"Reported","Eagle/manta rays","Industrial",7,22,1,"R","Landings",400022
+"261","shrimp",2010,"Australia","Penaeidae",10,"Crustaceans","R",6.19696097512737,179223,"Unreported","Commercial shrimps and prawns","Recreational",7,26,4,"U","Landings",490043
+"262","shrimp",2010,"Australia","Penaeidae",10,"Crustaceans","R",24.0661275463042,179223,"Reported","Commercial shrimps and prawns","Industrial",7,26,1,"R","Landings",490043
+"263","benthopelagicmd",2010,"Australia","Sparidae",3,"Perch-likes","R",27.6100417364397,179223,"Unreported","Porgies, seabreams","Recreational",7,14,4,"U","Landings",400330
+"264","benthopelagicmd",2010,"Australia","Sparidae",3,"Perch-likes","R",0.702068516806006,179223,"Reported","Porgies, seabreams","Industrial",7,14,1,"R","Landings",400330
+"265","benthopelagicmd",2010,"Australia","Sparidae",3,"Perch-likes","R",0.702068516806006,179223,"Reported","Porgies, seabreams","Industrial",7,14,1,"R","Landings",400330
+"266","demersalmd",2010,"Australia","Triglidae",8,"Scorpionfishes","D",0.276708343457309,179223,"Unreported","Searobins, gurnards","Industrial",7,5,1,"U","Discards",400266
+"267","demersalmd",2010,"Australia","Triglidae",8,"Scorpionfishes","R",1.00490939205833,179223,"Unreported","Searobins, gurnards","Recreational",7,5,4,"U","Landings",400266
+"268","demersalmd",2010,"Australia","Triglidae",8,"Scorpionfishes","R",0.639350245909275,179223,"Reported","Searobins, gurnards","Artisanal",7,5,3,"R","Landings",400266
+"269","demersalmd",2010,"Australia","Marine groundfishes not identified",12,"Other fishes & inverts","R",0.0353072222953486,179223,"Reported","Groundfishes","Industrial",7,5,1,"R","Landings",100239
+"270","benthopelagiclg",2010,"Australia","Seriola",3,"Perch-likes","R",8.10061498356626,179223,"Unreported","Amberjacks","Recreational",7,15,4,"U","Landings",500928
+"271","benthopelagicsm",2010,"Australia","Centriscidae",12,"Other fishes & inverts","D",0.0656542410275723,179223,"Unreported","Snipefishes, shrimpfishes","Industrial",7,13,1,"U","Discards",400595
+"272","bathydemersallg",2010,"Australia","Genypterus",12,"Other fishes & inverts","R",0.279147854779179,179223,"Reported","Genypterid cuskeels","Industrial",7,12,1,"R","Landings",502417
+"273","bathydemersalmd",2010,"Australia","Peristediidae",8,"Scorpionfishes","R",0.0340452465842457,179223,"Reported","Armored searobins, gurnards","Industrial",7,11,1,"R","Landings",400581
+"274","pelagicmd",2010,"Australia","Trachurus",3,"Perch-likes","R",5.69880838682032,179223,"Unreported","Jacks, horse mackerels","Recreational",7,2,4,"U","Landings",500661
+"275","pelagicmd",2010,"Australia","Trachurus",3,"Perch-likes","R",17.1774895948539,179223,"Reported","Jacks, horse mackerels","Artisanal",7,2,3,"R","Landings",500661
+"276","benthopelagiclg",2010,"Australia","Gempylidae",3,"Perch-likes","D",0.296493140078562,179223,"Unreported","Snake mackerels","Industrial",7,15,1,"U","Discards",400414
+"277","sharklg",2010,"Australia","Squalidae",9,"Sharks & rays","D",3.41143510950366,179223,"Unreported","Dogfish sharks","Industrial",7,20,1,"U","Discards",400013
+"278","sharklg",2010,"Australia","Squalus",9,"Sharks & rays","D",2.04686106570219,179223,"Unreported","Dogfishes","Industrial",7,20,1,"U","Discards",500107
+"279","sharklg",2010,"Australia","Squalus",9,"Sharks & rays","R",1.36505061027052,179223,"Reported","Dogfishes","Industrial",7,20,1,"R","Landings",500107
+"280","sharklg",2010,"Australia","Squalus",9,"Sharks & rays","R",1.36505061027052,179223,"Reported","Dogfishes","Industrial",7,20,1,"R","Landings",500107
+"281","raylg",2010,"Australia","Chimaeriformes",9,"Sharks & rays","D",2.84360224925719,179223,"Unreported","Chimaeras","Industrial",7,22,1,"U","Discards",300003
+"282","raylg",2010,"Australia","Chimaeriformes",9,"Sharks & rays","R",0.176668335476482,179223,"Reported","Chimaeras","Industrial",7,22,1,"R","Landings",300003
+"283","sharklg",2010,"Australia","Squaliformes",9,"Sharks & rays","D",0.854159535656676,179223,"Unreported","Bramble, sleeper, dogfish sharks","Industrial",7,20,1,"U","Discards",300009
+"284","sharklg",2010,"Australia","Squaliformes",9,"Sharks & rays","R",0.0282297281217784,179223,"Reported","Bramble, sleeper, dogfish sharks","Artisanal",7,20,3,"R","Landings",300009
+"285","sharklg",2010,"Australia","Squaliformes",9,"Sharks & rays","R",0.19331146169892,179223,"Reported","Bramble, sleeper, dogfish sharks","Artisanal",7,20,3,"R","Landings",300009
+"286","sharklg",2010,"Australia","Squaliformes",9,"Sharks & rays","R",0.0577223160738259,179223,"Reported","Bramble, sleeper, dogfish sharks","Artisanal",7,20,3,"R","Landings",300009
+"287","pelagicsm",2010,"Australia","Clupeidae",2,"Herring-likes","R",0.0336587804969695,179223,"Unreported","Herrings, sardines, menhadens","Recreational",7,1,4,"U","Landings",400043
+"288","pelagicsm",2010,"Australia","Clupeidae",2,"Herring-likes","R",1.15002134401294,179223,"Reported","Herrings, sardines, menhadens","Artisanal",7,1,3,"R","Landings",400043
+"289","benthopelagicmd",2010,"Australia","Macrouridae",5,"Cod-likes","D",2.07633109172632,179223,"Unreported","Grenadiers, rattails","Industrial",7,14,1,"U","Discards",400185
+"290","pelagiclg",2010,"Unknown Fishing Country","Istiophoridae",4,"Tuna & billfishes","D",9.94020582710823e-05,179223,"Unreported","Billfishes","Industrial",213,3,1,"U","Discards",400419
+"291","pelagiclg",2010,"Unknown Fishing Country","Istiophoridae",4,"Tuna & billfishes","D",0.0131731935563211,179223,"Unreported","Billfishes","Industrial",213,3,1,"U","Discards",400419
+"292","pelagiclg",2010,"Japan","Istiophoridae",4,"Tuna & billfishes","D",0.00584769702563715,179223,"Unreported","Billfishes","Industrial",91,3,1,"U","Discards",400419
+"293","pelagiclg",2010,"Indonesia","Istiophoridae",4,"Tuna & billfishes","D",0.00620003563426072,179223,"Unreported","Billfishes","Industrial",83,3,1,"U","Discards",400419
+"294","sharklg",2010,"Australia","Carcharhinidae",9,"Sharks & rays","R",1.23352216420177e-06,179223,"Reported","Requiem sharks","Industrial",7,20,1,"R","Landings",400011
+"295","sharklg",2010,"Australia","Carcharhinidae",9,"Sharks & rays","R",1.23352216420177e-06,179223,"Reported","Requiem sharks","Industrial",7,20,1,"R","Landings",400011
+"296","sharklg",2010,"Unknown Fishing Country","Sphyrna",9,"Sharks & rays","R",1.09074967463228e-05,179223,"Reported","Hammerhead sharks","Industrial",213,20,1,"R","Landings",500693
+"297","sharklg",2010,"Australia","Sphyrna",9,"Sharks & rays","R",1.68043637597612e-05,179223,"Reported","Hammerhead sharks","Industrial",7,20,1,"R","Landings",500693
+"298","sharklg",2010,"Australia","Sphyrna",9,"Sharks & rays","R",1.6873614776097e-05,179223,"Reported","Hammerhead sharks","Industrial",7,20,1,"R","Landings",500693
+"299","demersalmd",2010,"Australia","Perciformes",3,"Perch-likes","R",0.00146335032912577,179223,"Reported","Perch-likes","Artisanal",7,5,3,"R","Landings",300060
+"300","demersalmd",2010,"Australia","Perciformes",3,"Perch-likes","R",0.000280977774047238,179223,"Reported","Perch-likes","Artisanal",7,5,3,"R","Landings",300060
+"301","demersalmd",2010,"Australia","Perciformes",3,"Perch-likes","R",0.000387851210400696,179223,"Reported","Perch-likes","Artisanal",7,5,3,"R","Landings",300060
+"302","demersalmd",2010,"Australia","Perciformes",3,"Perch-likes","R",0.000258313609934143,179223,"Reported","Perch-likes","Artisanal",7,5,3,"R","Landings",300060
+"303","demersalmd",2010,"Australia","Perciformes",3,"Perch-likes","R",0.00351637700284043,179223,"Reported","Perch-likes","Artisanal",7,5,3,"R","Landings",300060
+"304","demersalmd",2010,"Australia","Perciformes",3,"Perch-likes","R",0.001121305548531,179223,"Reported","Perch-likes","Artisanal",7,5,3,"R","Landings",300060
+"305","demersalmd",2010,"Australia","Perciformes",3,"Perch-likes","D",6.16258046148631e-05,179223,"Unreported","Perch-likes","Industrial",7,5,1,"U","Discards",300060
+"306","demersalmd",2010,"Australia","Perciformes",3,"Perch-likes","R",0.015882184426797,179223,"Reported","Perch-likes","Artisanal",7,5,3,"R","Landings",300060
+"307","demersalmd",2010,"Australia","Scorpaeniformes",8,"Scorpionfishes","D",1.38897419565385e-05,179223,"Unreported","Scorpionfishes, flatheads","Industrial",7,5,1,"U","Discards",300059
+"308","sharklg",2010,"Australia","Carcharhinus",9,"Sharks & rays","R",0.000113274881594583,179223,"Reported","Sharp-nosed sharks","Industrial",7,20,1,"R","Landings",500816
+"309","sharklg",2010,"Australia","Carcharhinus",9,"Sharks & rays","R",0.000113274881594583,179223,"Reported","Sharp-nosed sharks","Industrial",7,20,1,"R","Landings",500816
+"310","sharklg",2010,"Unknown Fishing Country","Alopias",9,"Sharks & rays","R",1.572047747356e-05,179223,"Reported","Thresher sharks","Industrial",213,20,1,"R","Landings",500639
+"311","sharklg",2010,"Unknown Fishing Country","Alopias",9,"Sharks & rays","D",6.47784419599895e-06,179223,"Unreported","Thresher sharks","Industrial",213,20,1,"U","Discards",500639
+"312","sharklg",2010,"Indonesia","Alopias",9,"Sharks & rays","D",2.91671260709022e-06,179223,"Unreported","Thresher sharks","Industrial",83,20,1,"U","Discards",500639
+"313","otherdeminvert",2010,"Australia","Pteriomorphia",11,"Molluscs","R",0.10325613423302,179223,"Unreported","Clams, cockles, arkshells","Recreational",7,29,4,"U","Landings",290056
+"314","otherdeminvert",2010,"Australia","Pteriomorphia",11,"Molluscs","R",0.58821559897672,179223,"Reported","Clams, cockles, arkshells","Artisanal",7,29,3,"R","Landings",290056
+"315","pelagicmd",2010,"Unknown Fishing Country","Scombridae",3,"Perch-likes","D",4.57260714755352e-05,179223,"Unreported","Mackerels, tunas, bonitos","Industrial",213,2,1,"U","Discards",400416
+"316","pelagicmd",2010,"Unknown Fishing Country","Scombridae",3,"Perch-likes","D",0.0558638613190802,179223,"Unreported","Mackerels, tunas, bonitos","Industrial",213,2,1,"U","Discards",400416
+"317","pelagicmd",2010,"Indonesia","Scombridae",3,"Perch-likes","D",0.0113495402567556,179223,"Unreported","Mackerels, tunas, bonitos","Industrial",83,2,1,"U","Discards",400416
+"318","pelagicmd",2010,"Australia","Scombridae",3,"Perch-likes","R",31.5513658370321,179223,"Unreported","Mackerels, tunas, bonitos","Recreational",7,2,4,"U","Landings",400416
+"319","pelagicmd",2010,"Australia","Scombridae",3,"Perch-likes","R",11.8936621937064,179223,"Reported","Mackerels, tunas, bonitos","Artisanal",7,2,3,"R","Landings",400416
+"320","pelagicmd",2010,"Australia","Scombridae",3,"Perch-likes","R",0.406864313239205,179223,"Reported","Mackerels, tunas, bonitos","Artisanal",7,2,3,"R","Landings",400416
+"321","pelagicmd",2010,"Australia","Scombridae",3,"Perch-likes","R",1.33251742705958,179223,"Reported","Mackerels, tunas, bonitos","Artisanal",7,2,3,"R","Landings",400416
+"322","pelagicmd",2010,"Australia","Scombridae",3,"Perch-likes","R",0.0387095724138229,179223,"Reported","Mackerels, tunas, bonitos","Artisanal",7,2,3,"R","Landings",400416
+"323","pelagicmd",2010,"Australia","Scombridae",3,"Perch-likes","R",0.0229930464417213,179223,"Reported","Mackerels, tunas, bonitos","Industrial",7,2,1,"R","Landings",400416
+"324","pelagicmd",2010,"Australia","Scombridae",3,"Perch-likes","R",0.0229930464417213,179223,"Reported","Mackerels, tunas, bonitos","Industrial",7,2,1,"R","Landings",400416
+"325","pelagicmd",2010,"Australia","Hemiramphidae",12,"Other fishes & inverts","R",0.762143440306117,179223,"Unreported","Halfbeaks, garfishes","Recreational",7,2,4,"U","Landings",400475
+"326","benthopelagicmd",2010,"Australia","Centrolophidae",3,"Perch-likes","R",0.286453164560621,179223,"Reported","Medusafishes","Artisanal",7,14,3,"R","Landings",400421
+"327","benthopelagicmd",2010,"Australia","Centrolophidae",3,"Perch-likes","R",1.69493920103111,179223,"Reported","Medusafishes","Artisanal",7,14,3,"R","Landings",400421
+"328","benthopelagicmd",2010,"Australia","Centrolophidae",3,"Perch-likes","R",0.0312238667146685,179223,"Reported","Medusafishes","Artisanal",7,14,3,"R","Landings",400421
+"329","benthopelagicmd",2010,"Australia","Centrolophidae",3,"Perch-likes","R",0.112479545312286,179223,"Reported","Medusafishes","Industrial",7,14,1,"R","Landings",400421
+"330","reef-associatedsm",2010,"Australia","Hyporhamphus",12,"Other fishes & inverts","R",10.790971047331,179223,"Reported","Sea garfishes","Artisanal",7,16,3,"R","Landings",502582

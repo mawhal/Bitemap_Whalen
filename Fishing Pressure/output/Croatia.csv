@@ -1,0 +1,424 @@
+"","functional_group_name","year","fishing_entity_name","taxon_scientific_name","commercial_group_id","commercial_group_name","catch_status","catch_sum","cell_id","reporting_status_name","taxon_common_name","sector_type_name","fishing_entity_id","functional_group_id","sector_type_id","reporting_status","catch_status_name","taxon_key"
+"1","demersalmd",2010,"Croatia","Boops boops",3,"Perch-likes","R",0.00119517031722818,65912,"Reported","Bogue","Industrial",42,5,1,"R","Landings",600203
+"2","demersalmd",2010,"Croatia","Boops boops",3,"Perch-likes","R",4.61669446691363,66631,"Reported","Bogue","Industrial",42,5,1,"R","Landings",600203
+"3","demersalmd",2010,"Croatia","Boops boops",3,"Perch-likes","R",9.71070385412627e-05,65912,"Reported","Bogue","Artisanal",42,5,3,"R","Landings",600203
+"4","demersalmd",2010,"Croatia","Boops boops",3,"Perch-likes","R",0.360179209653194,66631,"Reported","Bogue","Artisanal",42,5,3,"R","Landings",600203
+"5","demersalmd",2010,"Croatia","Boops boops",3,"Perch-likes","R",0.000309000918248181,65912,"Unreported","Bogue","Industrial",42,5,1,"U","Landings",600203
+"6","demersalmd",2010,"Croatia","Boops boops",3,"Perch-likes","R",1.19360630780731,66631,"Unreported","Bogue","Industrial",42,5,1,"U","Landings",600203
+"7","demersalmd",2010,"Croatia","Boops boops",3,"Perch-likes","R",0.000120412727791166,65912,"Unreported","Bogue","Artisanal",42,5,3,"U","Landings",600203
+"8","demersalmd",2010,"Croatia","Boops boops",3,"Perch-likes","R",0.446622219969961,66631,"Unreported","Bogue","Artisanal",42,5,3,"U","Landings",600203
+"9","pelagicsm",2010,"Croatia","Engraulis encrasicolus",1,"Anchovies","R",0.114906945271544,65912,"Reported","European anchovy","Industrial",42,1,1,"R","Landings",600066
+"10","pelagicsm",2010,"Croatia","Engraulis encrasicolus",1,"Anchovies","R",452.266937012189,66631,"Reported","European anchovy","Industrial",42,1,1,"R","Landings",600066
+"11","pelagicsm",2010,"Croatia","Engraulis encrasicolus",1,"Anchovies","R",5.28123132257609e-05,65912,"Reported","European anchovy","Artisanal",42,1,3,"R","Landings",600066
+"12","pelagicsm",2010,"Croatia","Engraulis encrasicolus",1,"Anchovies","R",0.199595316630875,66631,"Reported","European anchovy","Artisanal",42,1,3,"R","Landings",600066
+"13","pelagicsm",2010,"Croatia","Engraulis encrasicolus",1,"Anchovies","R",0.000595602058753415,65912,"Reported","European anchovy","Artisanal",42,1,3,"R","Landings",600066
+"14","pelagicsm",2010,"Croatia","Engraulis encrasicolus",1,"Anchovies","R",2.250978498039,66631,"Reported","European anchovy","Artisanal",42,1,3,"R","Landings",600066
+"15","pelagicsm",2010,"Croatia","Engraulis encrasicolus",1,"Anchovies","R",0.00953581831749885,65912,"Reported","European anchovy","Artisanal",42,1,3,"R","Landings",600066
+"16","pelagicsm",2010,"Croatia","Engraulis encrasicolus",1,"Anchovies","R",36.0390325695349,66631,"Reported","European anchovy","Artisanal",42,1,3,"R","Landings",600066
+"17","pelagicsm",2010,"Croatia","Engraulis encrasicolus",1,"Anchovies","R",0.0297081939621346,65912,"Unreported","European anchovy","Industrial",42,1,1,"U","Landings",600066
+"18","pelagicsm",2010,"Croatia","Engraulis encrasicolus",1,"Anchovies","R",116.929693463411,66631,"Unreported","European anchovy","Industrial",42,1,1,"U","Landings",600066
+"19","pelagicsm",2010,"Croatia","Engraulis encrasicolus",1,"Anchovies","R",6.54872683999435e-05,65912,"Unreported","European anchovy","Artisanal",42,1,3,"U","Landings",600066
+"20","pelagicsm",2010,"Croatia","Engraulis encrasicolus",1,"Anchovies","R",0.247498192622285,66631,"Unreported","European anchovy","Artisanal",42,1,3,"U","Landings",600066
+"21","pelagicsm",2010,"Croatia","Engraulis encrasicolus",1,"Anchovies","R",0.000738546552854234,65912,"Unreported","European anchovy","Artisanal",42,1,3,"U","Landings",600066
+"22","pelagicsm",2010,"Croatia","Engraulis encrasicolus",1,"Anchovies","R",2.79121333756836,66631,"Unreported","European anchovy","Artisanal",42,1,3,"U","Landings",600066
+"23","pelagicsm",2010,"Croatia","Engraulis encrasicolus",1,"Anchovies","R",0.0118244147136986,65912,"Unreported","European anchovy","Artisanal",42,1,3,"U","Landings",600066
+"24","pelagicsm",2010,"Croatia","Engraulis encrasicolus",1,"Anchovies","R",44.6884003862233,66631,"Unreported","European anchovy","Artisanal",42,1,3,"U","Landings",600066
+"25","pelagiclg",2010,"Croatia","Xiphias gladius",4,"Tuna & billfishes","R",5.6121136352183e-06,65912,"Reported","Swordfish","Industrial",42,3,1,"R","Landings",600226
+"26","pelagiclg",2010,"Croatia","Xiphias gladius",4,"Tuna & billfishes","R",0.0503809445612998,66631,"Reported","Swordfish","Industrial",42,3,1,"R","Landings",600226
+"27","pelagiclg",2010,"Croatia","Xiphias gladius",4,"Tuna & billfishes","R",2.80605681760915e-06,65912,"Reported","Swordfish","Industrial",42,3,1,"R","Landings",600226
+"28","pelagiclg",2010,"Croatia","Xiphias gladius",4,"Tuna & billfishes","R",0.0251904722806499,66631,"Reported","Swordfish","Industrial",42,3,1,"R","Landings",600226
+"29","pelagiclg",2010,"Croatia","Xiphias gladius",4,"Tuna & billfishes","R",8.41817045282745e-06,65912,"Reported","Swordfish","Industrial",42,3,1,"R","Landings",600226
+"30","pelagiclg",2010,"Croatia","Xiphias gladius",4,"Tuna & billfishes","R",0.0755714168419497,66631,"Reported","Swordfish","Industrial",42,3,1,"R","Landings",600226
+"31","pelagiclg",2010,"Croatia","Thunnus thynnus",4,"Tuna & billfishes","R",3.04015636183271e-05,65912,"Reported","Atlantic bluefin tuna","Industrial",42,3,1,"R","Landings",600147
+"32","pelagiclg",2010,"Croatia","Thunnus thynnus",4,"Tuna & billfishes","R",0.379523278931778,66631,"Reported","Atlantic bluefin tuna","Industrial",42,3,1,"R","Landings",600147
+"33","pelagiclg",2010,"Croatia","Thunnus thynnus",4,"Tuna & billfishes","R",0.000592030449409528,65912,"Reported","Atlantic bluefin tuna","Industrial",42,3,1,"R","Landings",600147
+"34","pelagiclg",2010,"Croatia","Thunnus thynnus",4,"Tuna & billfishes","R",7.39071648446095,66631,"Reported","Atlantic bluefin tuna","Industrial",42,3,1,"R","Landings",600147
+"35","pelagiclg",2010,"Croatia","Thunnus thynnus",4,"Tuna & billfishes","R",2.47458744039508e-05,65912,"Reported","Atlantic bluefin tuna","Artisanal",42,3,3,"R","Landings",600147
+"36","pelagiclg",2010,"Croatia","Thunnus thynnus",4,"Tuna & billfishes","R",0.296506364266216,66631,"Reported","Atlantic bluefin tuna","Artisanal",42,3,3,"R","Landings",600147
+"37","pelagiclg",2010,"Croatia","Thunnus thynnus",4,"Tuna & billfishes","R",4.17144739952313e-05,65912,"Reported","Atlantic bluefin tuna","Artisanal",42,3,3,"R","Landings",600147
+"38","pelagiclg",2010,"Croatia","Thunnus thynnus",4,"Tuna & billfishes","R",0.499825014048764,66631,"Reported","Atlantic bluefin tuna","Artisanal",42,3,3,"R","Landings",600147
+"39","pelagiclg",2010,"Croatia","Thunnus thynnus",4,"Tuna & billfishes","R",7.07024982970022e-06,65912,"Reported","Atlantic bluefin tuna","Artisanal",42,3,3,"R","Landings",600147
+"40","pelagiclg",2010,"Croatia","Thunnus thynnus",4,"Tuna & billfishes","R",0.0847161040760617,66631,"Reported","Atlantic bluefin tuna","Artisanal",42,3,3,"R","Landings",600147
+"41","pelagiclg",2010,"Croatia","Thunnus thynnus",4,"Tuna & billfishes","R",3.0684884260899e-05,65912,"Unreported","Atlantic bluefin tuna","Artisanal",42,3,3,"U","Landings",600147
+"42","pelagiclg",2010,"Croatia","Thunnus thynnus",4,"Tuna & billfishes","R",0.367667891690108,66631,"Unreported","Atlantic bluefin tuna","Artisanal",42,3,3,"U","Landings",600147
+"43","pelagiclg",2010,"Croatia","Thunnus thynnus",4,"Tuna & billfishes","R",5.17259477540868e-05,65912,"Unreported","Atlantic bluefin tuna","Artisanal",42,3,3,"U","Landings",600147
+"44","pelagiclg",2010,"Croatia","Thunnus thynnus",4,"Tuna & billfishes","R",0.619783017420466,66631,"Unreported","Atlantic bluefin tuna","Artisanal",42,3,3,"U","Landings",600147
+"45","pelagiclg",2010,"Croatia","Thunnus thynnus",4,"Tuna & billfishes","R",8.76710978882826e-06,65912,"Unreported","Atlantic bluefin tuna","Artisanal",42,3,3,"U","Landings",600147
+"46","pelagiclg",2010,"Croatia","Thunnus thynnus",4,"Tuna & billfishes","R",0.105047969054316,66631,"Unreported","Atlantic bluefin tuna","Artisanal",42,3,3,"U","Landings",600147
+"47","pelagicmd",2010,"Croatia","Scomber scombrus",3,"Perch-likes","R",2.78452001246625e-06,65912,"Unreported","Atlantic mackerel","Artisanal",42,2,3,"U","Landings",600118
+"48","pelagicmd",2010,"Croatia","Scomber scombrus",3,"Perch-likes","R",0.0169481901695643,66631,"Unreported","Atlantic mackerel","Artisanal",42,2,3,"U","Landings",600118
+"49","pelagicmd",2010,"Croatia","Scomber scombrus",3,"Perch-likes","R",6.89461053695147e-05,65912,"Reported","Atlantic mackerel","Industrial",42,2,1,"R","Landings",600118
+"50","pelagicmd",2010,"Croatia","Scomber scombrus",3,"Perch-likes","R",0.437034908363587,66631,"Reported","Atlantic mackerel","Industrial",42,2,1,"R","Landings",600118
+"51","pelagicmd",2010,"Croatia","Scomber scombrus",3,"Perch-likes","R",1.04588139687701e-08,65912,"Reported","Atlantic mackerel","Artisanal",42,2,3,"R","Landings",600118
+"52","pelagicmd",2010,"Croatia","Scomber scombrus",3,"Perch-likes","R",6.3658356663709e-05,66631,"Reported","Atlantic mackerel","Artisanal",42,2,3,"R","Landings",600118
+"53","pelagicmd",2010,"Croatia","Scomber scombrus",3,"Perch-likes","R",3.0720876240402e-06,65912,"Reported","Atlantic mackerel","Artisanal",42,2,3,"R","Landings",600118
+"54","pelagicmd",2010,"Croatia","Scomber scombrus",3,"Perch-likes","R",0.0186984920333481,66631,"Reported","Atlantic mackerel","Artisanal",42,2,3,"R","Landings",600118
+"55","pelagicmd",2010,"Croatia","Scomber scombrus",3,"Perch-likes","R",1.26844566774047e-08,65912,"Reported","Atlantic mackerel","Artisanal",42,2,3,"R","Landings",600118
+"56","pelagicmd",2010,"Croatia","Scomber scombrus",3,"Perch-likes","R",7.72048981525718e-05,66631,"Reported","Atlantic mackerel","Artisanal",42,2,3,"R","Landings",600118
+"57","pelagicmd",2010,"Croatia","Scomber scombrus",3,"Perch-likes","R",1.17886488341247e-06,65912,"Reported","Atlantic mackerel","Artisanal",42,2,3,"R","Landings",600118
+"58","pelagicmd",2010,"Croatia","Scomber scombrus",3,"Perch-likes","R",0.00717524964404902,66631,"Reported","Atlantic mackerel","Artisanal",42,2,3,"R","Landings",600118
+"59","pelagicmd",2010,"Croatia","Scomber scombrus",3,"Perch-likes","R",2.24558065521471e-06,65912,"Reported","Atlantic mackerel","Artisanal",42,2,3,"R","Landings",600118
+"60","pelagicmd",2010,"Croatia","Scomber scombrus",3,"Perch-likes","R",0.0136678952980357,66631,"Reported","Atlantic mackerel","Artisanal",42,2,3,"R","Landings",600118
+"61","pelagicmd",2010,"Croatia","Scomber scombrus",3,"Perch-likes","R",1.78254174837815e-05,65912,"Unreported","Atlantic mackerel","Industrial",42,2,1,"U","Landings",600118
+"62","pelagicmd",2010,"Croatia","Scomber scombrus",3,"Perch-likes","R",0.112991584583568,66631,"Unreported","Atlantic mackerel","Industrial",42,2,1,"U","Landings",600118
+"63","pelagicmd",2010,"Croatia","Scomber scombrus",3,"Perch-likes","R",1.29689293212749e-08,65912,"Unreported","Atlantic mackerel","Artisanal",42,2,3,"U","Landings",600118
+"64","pelagicmd",2010,"Croatia","Scomber scombrus",3,"Perch-likes","R",7.89363622629991e-05,66631,"Unreported","Atlantic mackerel","Artisanal",42,2,3,"U","Landings",600118
+"65","pelagicmd",2010,"Croatia","Scomber scombrus",3,"Perch-likes","R",3.80938865380985e-06,65912,"Unreported","Atlantic mackerel","Artisanal",42,2,3,"U","Landings",600118
+"66","pelagicmd",2010,"Croatia","Scomber scombrus",3,"Perch-likes","R",0.0231861301213516,66631,"Unreported","Atlantic mackerel","Artisanal",42,2,3,"U","Landings",600118
+"67","pelagicmd",2010,"Croatia","Scomber scombrus",3,"Perch-likes","R",1.57287262799818e-08,65912,"Unreported","Atlantic mackerel","Artisanal",42,2,3,"U","Landings",600118
+"68","pelagicmd",2010,"Croatia","Scomber scombrus",3,"Perch-likes","R",9.5734073709189e-05,66631,"Unreported","Atlantic mackerel","Artisanal",42,2,3,"U","Landings",600118
+"69","pelagicmd",2010,"Croatia","Scomber scombrus",3,"Perch-likes","R",1.46179245543146e-06,65912,"Unreported","Atlantic mackerel","Artisanal",42,2,3,"U","Landings",600118
+"70","pelagicmd",2010,"Croatia","Scomber scombrus",3,"Perch-likes","R",0.00889730955862078,66631,"Unreported","Atlantic mackerel","Artisanal",42,2,3,"U","Landings",600118
+"71","pelagicmd",2010,"Croatia","Belone belone",12,"Other fishes & inverts","R",7.17162715485365e-05,65912,"Reported","Garfish","Industrial",42,2,1,"R","Landings",600047
+"72","pelagicmd",2010,"Croatia","Belone belone",12,"Other fishes & inverts","R",0.264851388539033,66631,"Reported","Garfish","Industrial",42,2,1,"R","Landings",600047
+"73","pelagicmd",2010,"Croatia","Belone belone",12,"Other fishes & inverts","R",6.242891154878e-06,65912,"Reported","Garfish","Artisanal",42,2,3,"R","Landings",600047
+"74","pelagicmd",2010,"Croatia","Belone belone",12,"Other fishes & inverts","R",0.0221379249116574,66631,"Reported","Garfish","Artisanal",42,2,3,"R","Landings",600047
+"75","pelagicmd",2010,"Croatia","Belone belone",12,"Other fishes & inverts","R",1.85416199201029e-05,65912,"Unreported","Garfish","Industrial",42,2,1,"U","Landings",600047
+"76","pelagicmd",2010,"Croatia","Belone belone",12,"Other fishes & inverts","R",0.0684750291051971,66631,"Unreported","Garfish","Industrial",42,2,1,"U","Landings",600047
+"77","pelagicmd",2010,"Croatia","Belone belone",12,"Other fishes & inverts","R",7.74118503204871e-06,65912,"Unreported","Garfish","Artisanal",42,2,3,"U","Landings",600047
+"78","pelagicmd",2010,"Croatia","Belone belone",12,"Other fishes & inverts","R",0.0274510268904552,66631,"Unreported","Garfish","Artisanal",42,2,3,"U","Landings",600047
+"79","pelagiclg",2010,"Unknown Fishing Country","Euthynnus alletteratus",4,"Tuna & billfishes","R",0.112070134250592,66631,"Reported","Little tunny","Industrial",213,3,1,"R","Landings",600097
+"80","pelagiclg",2010,"Croatia","Euthynnus alletteratus",4,"Tuna & billfishes","R",0.0668018054099798,66631,"Reported","Little tunny","Industrial",42,3,1,"R","Landings",600097
+"81","pelagiclg",2010,"Croatia","Euthynnus alletteratus",4,"Tuna & billfishes","R",0.36107807965831,66631,"Reported","Little tunny","Industrial",42,3,1,"R","Landings",600097
+"82","pelagiclg",2010,"Croatia","Euthynnus alletteratus",4,"Tuna & billfishes","R",0.0668018054099798,66631,"Reported","Little tunny","Industrial",42,3,1,"R","Landings",600097
+"83","pelagiclg",2010,"Croatia","Euthynnus alletteratus",4,"Tuna & billfishes","R",0.0277714733720886,66631,"Reported","Little tunny","Artisanal",42,3,3,"R","Landings",600097
+"84","pelagiclg",2010,"Croatia","Euthynnus alletteratus",4,"Tuna & billfishes","R",0.0344366269813897,66631,"Unreported","Little tunny","Artisanal",42,3,3,"U","Landings",600097
+"85","lobsters,crab",2010,"Croatia","Palinurus elephas",10,"Crustaceans","R",0.897849456373222,66631,"Reported","Common spiny lobster","Industrial",42,27,1,"R","Landings",690092
+"86","lobsters,crab",2010,"Croatia","Palinurus elephas",10,"Crustaceans","R",0.00030151908745595,65912,"Reported","Common spiny lobster","Industrial",42,27,1,"R","Landings",690092
+"87","lobsters,crab",2010,"Croatia","Palinurus elephas",10,"Crustaceans","R",0.0569432829698369,66631,"Reported","Common spiny lobster","Artisanal",42,27,3,"R","Landings",690092
+"88","lobsters,crab",2010,"Croatia","Palinurus elephas",10,"Crustaceans","R",1.99153155610575e-05,65912,"Reported","Common spiny lobster","Artisanal",42,27,3,"R","Landings",690092
+"89","lobsters,crab",2010,"Croatia","Palinurus elephas",10,"Crustaceans","R",0.232131188725789,66631,"Unreported","Common spiny lobster","Industrial",42,27,1,"U","Landings",690092
+"90","lobsters,crab",2010,"Croatia","Palinurus elephas",10,"Crustaceans","R",7.79551445933831e-05,65912,"Unreported","Common spiny lobster","Industrial",42,27,1,"U","Landings",690092
+"91","lobsters,crab",2010,"Croatia","Palinurus elephas",10,"Crustaceans","R",0.0706096708825977,66631,"Unreported","Common spiny lobster","Artisanal",42,27,3,"U","Landings",690092
+"92","lobsters,crab",2010,"Croatia","Palinurus elephas",10,"Crustaceans","R",2.46949912957113e-05,65912,"Unreported","Common spiny lobster","Artisanal",42,27,3,"U","Landings",690092
+"93","demersalmd",2010,"Croatia","Mullus surmuletus",3,"Perch-likes","R",0.838940959816862,66631,"Reported","Surmullet","Industrial",42,5,1,"R","Landings",601327
+"94","demersalmd",2010,"Croatia","Mullus surmuletus",3,"Perch-likes","R",0.0553088323633298,66631,"Reported","Surmullet","Artisanal",42,5,3,"R","Landings",601327
+"95","demersalmd",2010,"Croatia","Mullus surmuletus",3,"Perch-likes","R",0.216900907931375,66631,"Unreported","Surmullet","Industrial",42,5,1,"U","Landings",601327
+"96","demersalmd",2010,"Croatia","Mullus surmuletus",3,"Perch-likes","R",0.0685829521305288,66631,"Unreported","Surmullet","Artisanal",42,5,3,"U","Landings",601327
+"97","pelagicsm",2010,"Croatia","Sardina pilchardus",2,"Herring-likes","R",0.226378935032275,65912,"Reported","European pilchard","Industrial",42,1,1,"R","Landings",601350
+"98","pelagicsm",2010,"Croatia","Sardina pilchardus",2,"Herring-likes","R",884.847015765202,66631,"Reported","European pilchard","Industrial",42,1,1,"R","Landings",601350
+"99","pelagicsm",2010,"Croatia","Sardina pilchardus",2,"Herring-likes","R",0.00129542327803554,65912,"Reported","European pilchard","Artisanal",42,1,3,"R","Landings",601350
+"100","pelagicsm",2010,"Croatia","Sardina pilchardus",2,"Herring-likes","R",4.86194980275884,66631,"Reported","European pilchard","Artisanal",42,1,3,"R","Landings",601350
+"101","pelagicsm",2010,"Croatia","Sardina pilchardus",2,"Herring-likes","R",0.000271068073852903,65912,"Reported","European pilchard","Artisanal",42,1,3,"R","Landings",601350
+"102","pelagicsm",2010,"Croatia","Sardina pilchardus",2,"Herring-likes","R",1.01736582208243,66631,"Reported","European pilchard","Artisanal",42,1,3,"R","Landings",601350
+"103","pelagicsm",2010,"Croatia","Sardina pilchardus",2,"Herring-likes","R",0.0178725418447154,65912,"Reported","European pilchard","Artisanal",42,1,3,"R","Landings",601350
+"104","pelagicsm",2010,"Croatia","Sardina pilchardus",2,"Herring-likes","R",67.0787709083682,66631,"Reported","European pilchard","Artisanal",42,1,3,"R","Landings",601350
+"105","pelagicsm",2010,"Croatia","Sardina pilchardus",2,"Herring-likes","R",0.000539142241151645,65912,"Reported","European pilchard","Artisanal",42,1,3,"R","Landings",601350
+"106","pelagicsm",2010,"Croatia","Sardina pilchardus",2,"Herring-likes","R",2.02349498999376,66631,"Reported","European pilchard","Artisanal",42,1,3,"R","Landings",601350
+"107","pelagicsm",2010,"Croatia","Sardina pilchardus",2,"Herring-likes","R",0.0585283099727982,65912,"Unreported","European pilchard","Industrial",42,1,1,"U","Landings",601350
+"108","pelagicsm",2010,"Croatia","Sardina pilchardus",2,"Herring-likes","R",228.769520493714,66631,"Unreported","European pilchard","Industrial",42,1,1,"U","Landings",601350
+"109","pelagicsm",2010,"Croatia","Sardina pilchardus",2,"Herring-likes","R",0.00160632486476408,65912,"Unreported","European pilchard","Artisanal",42,1,3,"U","Landings",601350
+"110","pelagicsm",2010,"Croatia","Sardina pilchardus",2,"Herring-likes","R",6.028817755421,66631,"Unreported","European pilchard","Artisanal",42,1,3,"U","Landings",601350
+"111","pelagicsm",2010,"Croatia","Sardina pilchardus",2,"Herring-likes","R",0.000336124411577602,65912,"Unreported","European pilchard","Artisanal",42,1,3,"U","Landings",601350
+"112","pelagicsm",2010,"Croatia","Sardina pilchardus",2,"Herring-likes","R",1.26153361938222,66631,"Unreported","European pilchard","Artisanal",42,1,3,"U","Landings",601350
+"113","pelagicsm",2010,"Croatia","Sardina pilchardus",2,"Herring-likes","R",0.0221619518874473,65912,"Unreported","European pilchard","Artisanal",42,1,3,"U","Landings",601350
+"114","pelagicsm",2010,"Croatia","Sardina pilchardus",2,"Herring-likes","R",83.1776759263771,66631,"Unreported","European pilchard","Artisanal",42,1,3,"U","Landings",601350
+"115","pelagicsm",2010,"Croatia","Sardina pilchardus",2,"Herring-likes","R",0.000668536379028045,65912,"Unreported","European pilchard","Artisanal",42,1,3,"U","Landings",601350
+"116","pelagicsm",2010,"Croatia","Sardina pilchardus",2,"Herring-likes","R",2.50913378759228,66631,"Unreported","European pilchard","Artisanal",42,1,3,"U","Landings",601350
+"117","pelagicsm",2010,"Croatia","Sprattus sprattus",2,"Herring-likes","R",0.00124229359629802,65912,"Reported","European sprat","Industrial",42,1,1,"R","Landings",601357
+"118","pelagicsm",2010,"Croatia","Sprattus sprattus",2,"Herring-likes","R",3.48757516528281,66631,"Reported","European sprat","Industrial",42,1,1,"R","Landings",601357
+"119","pelagicsm",2010,"Croatia","Sprattus sprattus",2,"Herring-likes","R",6.32261267519616e-06,65912,"Reported","European sprat","Artisanal",42,1,3,"R","Landings",601357
+"120","pelagicsm",2010,"Croatia","Sprattus sprattus",2,"Herring-likes","R",0.0170436459255762,66631,"Reported","European sprat","Artisanal",42,1,3,"R","Landings",601357
+"121","pelagicsm",2010,"Croatia","Sprattus sprattus",2,"Herring-likes","R",8.5768878282656e-05,65912,"Reported","European sprat","Artisanal",42,1,3,"R","Landings",601357
+"122","pelagicsm",2010,"Croatia","Sprattus sprattus",2,"Herring-likes","R",0.231204166375426,66631,"Reported","European sprat","Artisanal",42,1,3,"R","Landings",601357
+"123","pelagicsm",2010,"Croatia","Sprattus sprattus",2,"Herring-likes","R",4.90698196696989e-06,65912,"Reported","European sprat","Artisanal",42,1,3,"R","Landings",601357
+"124","pelagicsm",2010,"Croatia","Sprattus sprattus",2,"Herring-likes","R",0.0132275797213258,66631,"Reported","European sprat","Artisanal",42,1,3,"R","Landings",601357
+"125","pelagicsm",2010,"Croatia","Sprattus sprattus",2,"Herring-likes","R",2.03576945294048e-06,65912,"Reported","European sprat","Artisanal",42,1,3,"R","Landings",601357
+"126","pelagicsm",2010,"Croatia","Sprattus sprattus",2,"Herring-likes","R",0.00548775253593167,66631,"Reported","European sprat","Artisanal",42,1,3,"R","Landings",601357
+"127","pelagicsm",2010,"Croatia","Sprattus sprattus",2,"Herring-likes","R",2.03522871709127e-08,65912,"Reported","European sprat","Artisanal",42,1,3,"R","Landings",601357
+"128","pelagicsm",2010,"Croatia","Sprattus sprattus",2,"Herring-likes","R",5.48629489320916e-05,66631,"Reported","European sprat","Artisanal",42,1,3,"R","Landings",601357
+"129","pelagicsm",2010,"Croatia","Sprattus sprattus",2,"Herring-likes","R",0.000321184233290021,65912,"Unreported","European sprat","Industrial",42,1,1,"U","Landings",601357
+"130","pelagicsm",2010,"Croatia","Sprattus sprattus",2,"Herring-likes","R",0.901682306695204,66631,"Unreported","European sprat","Industrial",42,1,1,"U","Landings",601357
+"131","pelagicsm",2010,"Croatia","Sprattus sprattus",2,"Herring-likes","R",7.84003971724324e-06,65912,"Unreported","European sprat","Artisanal",42,1,3,"U","Landings",601357
+"132","pelagicsm",2010,"Croatia","Sprattus sprattus",2,"Herring-likes","R",0.0211341209477144,66631,"Unreported","European sprat","Artisanal",42,1,3,"U","Landings",601357
+"133","pelagicsm",2010,"Croatia","Sprattus sprattus",2,"Herring-likes","R",0.000106353409070493,65912,"Unreported","European sprat","Artisanal",42,1,3,"U","Landings",601357
+"134","pelagicsm",2010,"Croatia","Sprattus sprattus",2,"Herring-likes","R",0.286693166305528,66631,"Unreported","European sprat","Artisanal",42,1,3,"U","Landings",601357
+"135","pelagicsm",2010,"Croatia","Sprattus sprattus",2,"Herring-likes","R",6.08465763904266e-06,65912,"Unreported","European sprat","Artisanal",42,1,3,"U","Landings",601357
+"136","pelagicsm",2010,"Croatia","Sprattus sprattus",2,"Herring-likes","R",0.016402198854444,66631,"Unreported","European sprat","Artisanal",42,1,3,"U","Landings",601357
+"137","pelagicsm",2010,"Croatia","Sprattus sprattus",2,"Herring-likes","R",2.5243541216462e-06,65912,"Unreported","European sprat","Artisanal",42,1,3,"U","Landings",601357
+"138","pelagicsm",2010,"Croatia","Sprattus sprattus",2,"Herring-likes","R",0.00680481314455528,66631,"Unreported","European sprat","Artisanal",42,1,3,"U","Landings",601357
+"139","pelagicsm",2010,"Croatia","Sprattus sprattus",2,"Herring-likes","R",2.52368360919317e-08,65912,"Unreported","European sprat","Artisanal",42,1,3,"U","Landings",601357
+"140","pelagicsm",2010,"Croatia","Sprattus sprattus",2,"Herring-likes","R",6.80300566757935e-05,66631,"Unreported","European sprat","Artisanal",42,1,3,"U","Landings",601357
+"141","demersalmd",2010,"Croatia","Mullus barbatus barbatus",3,"Perch-likes","R",29.6465758208543,66631,"Reported","Red mullet","Industrial",42,5,1,"R","Landings",600790
+"142","demersalmd",2010,"Croatia","Mullus barbatus barbatus",3,"Perch-likes","R",1.91132524742661,66631,"Reported","Red mullet","Artisanal",42,5,3,"R","Landings",600790
+"143","demersalmd",2010,"Croatia","Mullus barbatus barbatus",3,"Perch-likes","R",0.0663289515989107,66631,"Reported","Red mullet","Artisanal",42,5,3,"R","Landings",600790
+"144","demersalmd",2010,"Croatia","Mullus barbatus barbatus",3,"Perch-likes","R",0.0713500563829764,66631,"Reported","Red mullet","Artisanal",42,5,3,"R","Landings",600790
+"145","demersalmd",2010,"Croatia","Mullus barbatus barbatus",3,"Perch-likes","R",7.66486501505823,66631,"Unreported","Red mullet","Industrial",42,5,1,"U","Landings",600790
+"146","demersalmd",2010,"Croatia","Mullus barbatus barbatus",3,"Perch-likes","R",2.370043306809,66631,"Unreported","Red mullet","Artisanal",42,5,3,"U","Landings",600790
+"147","demersalmd",2010,"Croatia","Mullus barbatus barbatus",3,"Perch-likes","R",0.0822478999826493,66631,"Unreported","Red mullet","Artisanal",42,5,3,"U","Landings",600790
+"148","demersalmd",2010,"Croatia","Mullus barbatus barbatus",3,"Perch-likes","R",0.0884740699148908,66631,"Unreported","Red mullet","Artisanal",42,5,3,"U","Landings",600790
+"149","pelagicmd",2010,"Croatia","Auxis rochei",4,"Tuna & billfishes","R",8.97803530346925e-05,65912,"Reported","Bullet tuna","Industrial",42,2,1,"R","Landings",600093
+"150","pelagicmd",2010,"Croatia","Auxis rochei",4,"Tuna & billfishes","R",0.405400389944382,66631,"Reported","Bullet tuna","Industrial",42,2,1,"R","Landings",600093
+"151","pelagicmd",2010,"Croatia","Auxis rochei",4,"Tuna & billfishes","R",1.18330820849356e-05,65912,"Reported","Bullet tuna","Industrial",42,2,1,"R","Landings",600093
+"152","pelagicmd",2010,"Croatia","Auxis rochei",4,"Tuna & billfishes","R",0.0534451459447467,66631,"Reported","Bullet tuna","Industrial",42,2,1,"R","Landings",600093
+"153","pelagicmd",2010,"Croatia","Auxis rochei",4,"Tuna & billfishes","R",4.62788335761292e-06,65912,"Reported","Bullet tuna","Artisanal",42,2,3,"R","Landings",600093
+"154","pelagicmd",2010,"Croatia","Auxis rochei",4,"Tuna & billfishes","R",0.0200623365314961,66631,"Reported","Bullet tuna","Artisanal",42,2,3,"R","Landings",600093
+"155","pelagicmd",2010,"Croatia","Auxis rochei",4,"Tuna & billfishes","R",1.4033909307095e-05,65912,"Unreported","Bullet tuna","Industrial",42,2,1,"U","Landings",600093
+"156","pelagicmd",2010,"Croatia","Auxis rochei",4,"Tuna & billfishes","R",0.06335941760008,66631,"Unreported","Bullet tuna","Industrial",42,2,1,"U","Landings",600093
+"157","pelagicmd",2010,"Croatia","Auxis rochei",4,"Tuna & billfishes","R",5.73857536344002e-06,65912,"Unreported","Bullet tuna","Artisanal",42,2,3,"U","Landings",600093
+"158","pelagicmd",2010,"Croatia","Auxis rochei",4,"Tuna & billfishes","R",0.0248772972990551,66631,"Unreported","Bullet tuna","Artisanal",42,2,3,"U","Landings",600093
+"159","demersalmd",2010,"Croatia","Marine fishes not identified",12,"Other fishes & inverts","R",0.221481234154551,65912,"Reported","Marine fishes nei","Industrial",42,5,1,"R","Landings",100039
+"160","demersalmd",2010,"Croatia","Marine fishes not identified",12,"Other fishes & inverts","R",217.058350460985,66631,"Reported","Marine fishes nei","Industrial",42,5,1,"R","Landings",100039
+"161","demersalmd",2010,"Croatia","Marine fishes not identified",12,"Other fishes & inverts","R",0.019566624187636,65912,"Reported","Marine fishes nei","Industrial",42,5,1,"R","Landings",100039
+"162","demersalmd",2010,"Croatia","Marine fishes not identified",12,"Other fishes & inverts","R",19.1758872324806,66631,"Reported","Marine fishes nei","Industrial",42,5,1,"R","Landings",100039
+"163","demersalmd",2010,"Croatia","Marine fishes not identified",12,"Other fishes & inverts","R",7.18486489059813e-07,65912,"Reported","Marine fishes nei","Artisanal",42,5,3,"R","Landings",100039
+"164","demersalmd",2010,"Croatia","Marine fishes not identified",12,"Other fishes & inverts","R",0.00067612152909589,66631,"Reported","Marine fishes nei","Artisanal",42,5,3,"R","Landings",100039
+"165","demersalmd",2010,"Croatia","Marine fishes not identified",12,"Other fishes & inverts","R",2.55525277380436e-06,65912,"Reported","Marine fishes nei","Artisanal",42,5,3,"R","Landings",100039
+"166","demersalmd",2010,"Croatia","Marine fishes not identified",12,"Other fishes & inverts","R",0.00240458441314864,66631,"Reported","Marine fishes nei","Artisanal",42,5,3,"R","Landings",100039
+"167","demersalmd",2010,"Croatia","Marine fishes not identified",12,"Other fishes & inverts","R",0.00512648886868477,65912,"Reported","Marine fishes nei","Artisanal",42,5,3,"R","Landings",100039
+"168","demersalmd",2010,"Croatia","Marine fishes not identified",12,"Other fishes & inverts","R",4.82420970410156,66631,"Reported","Marine fishes nei","Artisanal",42,5,3,"R","Landings",100039
+"169","demersalmd",2010,"Croatia","Marine fishes not identified",12,"Other fishes & inverts","R",0.00925728426094439,65912,"Reported","Marine fishes nei","Artisanal",42,5,3,"R","Landings",100039
+"170","demersalmd",2010,"Croatia","Marine fishes not identified",12,"Other fishes & inverts","R",8.71143617185539,66631,"Reported","Marine fishes nei","Artisanal",42,5,3,"R","Landings",100039
+"171","demersalmd",2010,"Croatia","Marine fishes not identified",12,"Other fishes & inverts","R",0.00029702875494064,65912,"Reported","Marine fishes nei","Artisanal",42,5,3,"R","Landings",100039
+"172","demersalmd",2010,"Croatia","Marine fishes not identified",12,"Other fishes & inverts","R",0.279514700740872,66631,"Reported","Marine fishes nei","Artisanal",42,5,3,"R","Landings",100039
+"173","demersalmd",2010,"Croatia","Marine fishes not identified",12,"Other fishes & inverts","R",0.00493565040128267,65912,"Reported","Marine fishes nei","Artisanal",42,5,3,"R","Landings",100039
+"174","demersalmd",2010,"Croatia","Marine fishes not identified",12,"Other fishes & inverts","R",4.64462386866147,66631,"Reported","Marine fishes nei","Artisanal",42,5,3,"R","Landings",100039
+"175","demersalmd",2010,"Croatia","Marine fishes not identified",12,"Other fishes & inverts","R",0.0572620518950108,65912,"Unreported","Marine fishes nei","Industrial",42,5,1,"U","Landings",100039
+"176","demersalmd",2010,"Croatia","Marine fishes not identified",12,"Other fishes & inverts","R",56.1185536814791,66631,"Unreported","Marine fishes nei","Industrial",42,5,1,"U","Landings",100039
+"177","demersalmd",2010,"Croatia","Marine fishes not identified",12,"Other fishes & inverts","R",0.00505878095685865,65912,"Unreported","Marine fishes nei","Industrial",42,5,1,"U","Landings",100039
+"178","demersalmd",2010,"Croatia","Marine fishes not identified",12,"Other fishes & inverts","R",4.95775930647451,66631,"Unreported","Marine fishes nei","Industrial",42,5,1,"U","Landings",100039
+"179","demersalmd",2010,"Croatia","Marine fishes not identified",12,"Other fishes & inverts","R",0.0442564571912878,65912,"Unreported","Marine fishes nei","Subsistence",42,5,2,"U","Landings",100039
+"180","demersalmd",2010,"Croatia","Marine fishes not identified",12,"Other fishes & inverts","R",41.6469118962782,66631,"Unreported","Marine fishes nei","Subsistence",42,5,2,"U","Landings",100039
+"181","demersalmd",2010,"Croatia","Marine fishes not identified",12,"Other fishes & inverts","R",8.90923246434169e-07,65912,"Unreported","Marine fishes nei","Artisanal",42,5,3,"U","Landings",100039
+"182","demersalmd",2010,"Croatia","Marine fishes not identified",12,"Other fishes & inverts","R",0.000838390696078904,66631,"Unreported","Marine fishes nei","Artisanal",42,5,3,"U","Landings",100039
+"183","demersalmd",2010,"Croatia","Marine fishes not identified",12,"Other fishes & inverts","R",3.16851343951741e-06,65912,"Unreported","Marine fishes nei","Artisanal",42,5,3,"U","Landings",100039
+"184","demersalmd",2010,"Croatia","Marine fishes not identified",12,"Other fishes & inverts","R",0.00298168467230432,66631,"Unreported","Marine fishes nei","Artisanal",42,5,3,"U","Landings",100039
+"185","demersalmd",2010,"Croatia","Marine fishes not identified",12,"Other fishes & inverts","R",0.00635684619716912,65912,"Unreported","Marine fishes nei","Artisanal",42,5,3,"U","Landings",100039
+"186","demersalmd",2010,"Croatia","Marine fishes not identified",12,"Other fishes & inverts","R",5.98202003308593,66631,"Unreported","Marine fishes nei","Artisanal",42,5,3,"U","Landings",100039
+"187","demersalmd",2010,"Croatia","Marine fishes not identified",12,"Other fishes & inverts","R",0.011479032483571,65912,"Unreported","Marine fishes nei","Artisanal",42,5,3,"U","Landings",100039
+"188","demersalmd",2010,"Croatia","Marine fishes not identified",12,"Other fishes & inverts","R",10.8021808531007,66631,"Unreported","Marine fishes nei","Artisanal",42,5,3,"U","Landings",100039
+"189","demersalmd",2010,"Croatia","Marine fishes not identified",12,"Other fishes & inverts","R",0.000368315656126393,65912,"Unreported","Marine fishes nei","Artisanal",42,5,3,"U","Landings",100039
+"190","demersalmd",2010,"Croatia","Marine fishes not identified",12,"Other fishes & inverts","R",0.346598228918682,66631,"Unreported","Marine fishes nei","Artisanal",42,5,3,"U","Landings",100039
+"191","demersalmd",2010,"Croatia","Marine fishes not identified",12,"Other fishes & inverts","R",0.00612020649759051,65912,"Unreported","Marine fishes nei","Artisanal",42,5,3,"U","Landings",100039
+"192","demersalmd",2010,"Croatia","Marine fishes not identified",12,"Other fishes & inverts","R",5.75933359714022,66631,"Unreported","Marine fishes nei","Artisanal",42,5,3,"U","Landings",100039
+"193","demersalmd",2010,"Croatia","Marine fishes not identified",12,"Other fishes & inverts","R",0.0110641142978219,65912,"Unreported","Marine fishes nei","Recreational",42,5,4,"U","Landings",100039
+"194","demersalmd",2010,"Croatia","Marine fishes not identified",12,"Other fishes & inverts","R",10.4117279740695,66631,"Unreported","Marine fishes nei","Recreational",42,5,4,"U","Landings",100039
+"195","demersalmd",2010,"Croatia","Marine fishes not identified",12,"Other fishes & inverts","D",0.106945223511168,65912,"Unreported","Marine fishes nei","Industrial",42,5,1,"U","Discards",100039
+"196","demersalmd",2010,"Croatia","Marine fishes not identified",12,"Other fishes & inverts","D",104.809574019337,66631,"Unreported","Marine fishes nei","Industrial",42,5,1,"U","Discards",100039
+"197","demersalmd",2010,"Croatia","Marine fishes not identified",12,"Other fishes & inverts","D",2.90517407576723e-06,65912,"Unreported","Marine fishes nei","Industrial",42,5,1,"U","Discards",100039
+"198","demersalmd",2010,"Croatia","Marine fishes not identified",12,"Other fishes & inverts","D",0.00284832539998121,66631,"Unreported","Marine fishes nei","Industrial",42,5,1,"U","Discards",100039
+"199","demersalmd",2010,"Croatia","Marine fishes not identified",12,"Other fishes & inverts","D",1.12717767387443e-06,65912,"Unreported","Marine fishes nei","Artisanal",42,5,3,"U","Discards",100039
+"200","demersalmd",2010,"Croatia","Marine fishes not identified",12,"Other fishes & inverts","D",0.00106071457713839,66631,"Unreported","Marine fishes nei","Artisanal",42,5,3,"U","Discards",100039
+"201","demersalmd",2010,"Croatia","Marine fishes not identified",12,"Other fishes & inverts","D",9.71682564485803e-10,65912,"Unreported","Marine fishes nei","Artisanal",42,5,3,"U","Discards",100039
+"202","demersalmd",2010,"Croatia","Marine fishes not identified",12,"Other fishes & inverts","D",9.14388107917871e-07,66631,"Unreported","Marine fishes nei","Artisanal",42,5,3,"U","Discards",100039
+"203","demersalmd",2010,"Croatia","Marine fishes not identified",12,"Other fishes & inverts","D",0.00686534154489593,65912,"Unreported","Marine fishes nei","Artisanal",42,5,3,"U","Discards",100039
+"204","demersalmd",2010,"Croatia","Marine fishes not identified",12,"Other fishes & inverts","D",6.46053237434525,66631,"Unreported","Marine fishes nei","Artisanal",42,5,3,"U","Discards",100039
+"205","demersalmd",2010,"Croatia","Marine fishes not identified",12,"Other fishes & inverts","D",0.0145181481345726,65912,"Unreported","Marine fishes nei","Artisanal",42,5,3,"U","Discards",100039
+"206","demersalmd",2010,"Croatia","Marine fishes not identified",12,"Other fishes & inverts","D",13.6620975701753,66631,"Unreported","Marine fishes nei","Artisanal",42,5,3,"U","Discards",100039
+"207","demersalmd",2010,"Croatia","Marine fishes not identified",12,"Other fishes & inverts","D",1.41463052690905e-05,65912,"Unreported","Marine fishes nei","Artisanal",42,5,3,"U","Discards",100039
+"208","demersalmd",2010,"Croatia","Marine fishes not identified",12,"Other fishes & inverts","D",0.0133121801108753,66631,"Unreported","Marine fishes nei","Artisanal",42,5,3,"U","Discards",100039
+"209","demersalmd",2010,"Croatia","Marine fishes not identified",12,"Other fishes & inverts","D",0.00688260096857964,65912,"Unreported","Marine fishes nei","Artisanal",42,5,3,"U","Discards",100039
+"210","demersalmd",2010,"Croatia","Marine fishes not identified",12,"Other fishes & inverts","D",6.47677411042523,66631,"Unreported","Marine fishes nei","Artisanal",42,5,3,"U","Discards",100039
+"211","pelagicmd",2010,"Unknown Fishing Country","Marine pelagic fishes not identified",12,"Other fishes & inverts","R",0.000118486317534614,66631,"Reported","Pelagic fishes","Industrial",213,2,1,"R","Landings",100339
+"212","pelagicmd",2010,"Unknown Fishing Country","Marine pelagic fishes not identified",12,"Other fishes & inverts","R",1.20851142231487e-07,65912,"Reported","Pelagic fishes","Industrial",213,2,1,"R","Landings",100339
+"213","pelagicmd",2010,"Croatia","Marine pelagic fishes not identified",12,"Other fishes & inverts","R",4.8255433907205e-05,65912,"Reported","Pelagic fishes","Industrial",42,2,1,"R","Landings",100339
+"214","pelagicmd",2010,"Croatia","Marine pelagic fishes not identified",12,"Other fishes & inverts","R",0.0473111677649498,66631,"Reported","Pelagic fishes","Industrial",42,2,1,"R","Landings",100339
+"215","demersalmd",2010,"Croatia","Scorpaena scrofa",8,"Scorpionfishes","R",1.15664051714004,66631,"Reported","Red scorpionfish","Industrial",42,5,1,"R","Landings",601759
+"216","demersalmd",2010,"Croatia","Scorpaena scrofa",8,"Scorpionfishes","R",0.0791601541839171,66631,"Reported","Red scorpionfish","Artisanal",42,5,3,"R","Landings",601759
+"217","demersalmd",2010,"Croatia","Scorpaena scrofa",8,"Scorpionfishes","R",0.29903937265461,66631,"Unreported","Red scorpionfish","Industrial",42,5,1,"U","Landings",601759
+"218","demersalmd",2010,"Croatia","Scorpaena scrofa",8,"Scorpionfishes","R",0.0981585911880575,66631,"Unreported","Red scorpionfish","Artisanal",42,5,3,"U","Landings",601759
+"219","lobsters,crab",2010,"Croatia","Nephrops norvegicus",10,"Crustaceans","R",11.2188012773543,66631,"Reported","Norway lobster","Industrial",42,27,1,"R","Landings",690273
+"220","lobsters,crab",2010,"Croatia","Nephrops norvegicus",10,"Crustaceans","R",0.763445482915906,66631,"Reported","Norway lobster","Artisanal",42,27,3,"R","Landings",690273
+"221","lobsters,crab",2010,"Croatia","Nephrops norvegicus",10,"Crustaceans","R",2.90052375496246,66631,"Unreported","Norway lobster","Industrial",42,27,1,"U","Landings",690273
+"222","lobsters,crab",2010,"Croatia","Nephrops norvegicus",10,"Crustaceans","R",0.94667239881572,66631,"Unreported","Norway lobster","Artisanal",42,27,3,"U","Landings",690273
+"223","pelagicmd",2010,"Croatia","Sarda sarda",4,"Tuna & billfishes","R",7.5844659780483e-06,65912,"Reported","Atlantic bonito","Industrial",42,2,1,"R","Landings",600115
+"224","pelagicmd",2010,"Croatia","Sarda sarda",4,"Tuna & billfishes","R",0.0276925064255701,66631,"Reported","Atlantic bonito","Industrial",42,2,1,"R","Landings",600115
+"225","pelagicmd",2010,"Croatia","Sarda sarda",4,"Tuna & billfishes","R",0.00087811122044524,65912,"Reported","Atlantic bonito","Industrial",42,2,1,"R","Landings",600115
+"226","pelagicmd",2010,"Croatia","Sarda sarda",4,"Tuna & billfishes","R",3.20538047745473,66631,"Reported","Atlantic bonito","Industrial",42,2,1,"R","Landings",600115
+"227","pelagicmd",2010,"Croatia","Sarda sarda",4,"Tuna & billfishes","R",9.10135917365796e-05,65912,"Reported","Atlantic bonito","Industrial",42,2,1,"R","Landings",600115
+"228","pelagicmd",2010,"Croatia","Sarda sarda",4,"Tuna & billfishes","R",0.332310077106841,66631,"Reported","Atlantic bonito","Industrial",42,2,1,"R","Landings",600115
+"229","pelagicmd",2010,"Croatia","Sarda sarda",4,"Tuna & billfishes","R",1.53694935842364e-05,65912,"Reported","Atlantic bonito","Artisanal",42,2,3,"R","Landings",600115
+"230","pelagicmd",2010,"Croatia","Sarda sarda",4,"Tuna & billfishes","R",0.0538623790912904,66631,"Reported","Atlantic bonito","Artisanal",42,2,3,"R","Landings",600115
+"231","pelagicmd",2010,"Croatia","Sarda sarda",4,"Tuna & billfishes","R",3.03433948645886e-05,65912,"Reported","Atlantic bonito","Artisanal",42,2,3,"R","Landings",600115
+"232","pelagicmd",2010,"Croatia","Sarda sarda",4,"Tuna & billfishes","R",0.106338405241241,66631,"Reported","Atlantic bonito","Artisanal",42,2,3,"R","Landings",600115
+"233","pelagicmd",2010,"Croatia","Sarda sarda",4,"Tuna & billfishes","R",0.000136826736163825,65912,"Unreported","Atlantic bonito","Industrial",42,2,1,"U","Landings",600115
+"234","pelagicmd",2010,"Croatia","Sarda sarda",4,"Tuna & billfishes","R",0.499379081137266,66631,"Unreported","Atlantic bonito","Industrial",42,2,1,"U","Landings",600115
+"235","pelagicmd",2010,"Croatia","Sarda sarda",4,"Tuna & billfishes","R",1.90581720444531e-05,65912,"Unreported","Atlantic bonito","Artisanal",42,2,3,"U","Landings",600115
+"236","pelagicmd",2010,"Croatia","Sarda sarda",4,"Tuna & billfishes","R",0.0667893500732,66631,"Unreported","Atlantic bonito","Artisanal",42,2,3,"U","Landings",600115
+"237","pelagicmd",2010,"Croatia","Sarda sarda",4,"Tuna & billfishes","R",3.76258096320898e-05,65912,"Unreported","Atlantic bonito","Artisanal",42,2,3,"U","Landings",600115
+"238","pelagicmd",2010,"Croatia","Sarda sarda",4,"Tuna & billfishes","R",0.131859622499139,66631,"Unreported","Atlantic bonito","Artisanal",42,2,3,"U","Landings",600115
+"239","cephalopods",2010,"Croatia","Cephalopoda",12,"Other fishes & inverts","R",0.0103001863237345,65912,"Reported","Squids, cuttlefishes, octopuses","Industrial",42,25,1,"R","Landings",290002
+"240","cephalopods",2010,"Croatia","Cephalopoda",12,"Other fishes & inverts","R",26.3890142811285,66631,"Reported","Squids, cuttlefishes, octopuses","Industrial",42,25,1,"R","Landings",290002
+"241","cephalopods",2010,"Croatia","Cephalopoda",12,"Other fishes & inverts","R",0.000110489574830651,65912,"Reported","Squids, cuttlefishes, octopuses","Artisanal",42,25,3,"R","Landings",290002
+"242","cephalopods",2010,"Croatia","Cephalopoda",12,"Other fishes & inverts","R",0.271810347308961,66631,"Reported","Squids, cuttlefishes, octopuses","Artisanal",42,25,3,"R","Landings",290002
+"243","cephalopods",2010,"Croatia","Cephalopoda",12,"Other fishes & inverts","R",0.000652664409149658,65912,"Reported","Squids, cuttlefishes, octopuses","Artisanal",42,25,3,"R","Landings",290002
+"244","cephalopods",2010,"Croatia","Cephalopoda",12,"Other fishes & inverts","R",1.60558984862663,66631,"Reported","Squids, cuttlefishes, octopuses","Artisanal",42,25,3,"R","Landings",290002
+"245","cephalopods",2010,"Croatia","Cephalopoda",12,"Other fishes & inverts","R",9.72696767221221e-05,65912,"Reported","Squids, cuttlefishes, octopuses","Artisanal",42,25,3,"R","Landings",290002
+"246","cephalopods",2010,"Croatia","Cephalopoda",12,"Other fishes & inverts","R",0.239288680882279,66631,"Reported","Squids, cuttlefishes, octopuses","Artisanal",42,25,3,"R","Landings",290002
+"247","cephalopods",2010,"Croatia","Cephalopoda",12,"Other fishes & inverts","R",0.00266302382704981,65912,"Unreported","Squids, cuttlefishes, octopuses","Industrial",42,25,1,"U","Landings",290002
+"248","cephalopods",2010,"Croatia","Cephalopoda",12,"Other fishes & inverts","R",6.82265073604259,66631,"Unreported","Squids, cuttlefishes, octopuses","Industrial",42,25,1,"U","Landings",290002
+"249","cephalopods",2010,"Croatia","Cephalopoda",12,"Other fishes & inverts","R",0.00211233304591432,65912,"Unreported","Squids, cuttlefishes, octopuses","Subsistence",42,25,2,"U","Landings",290002
+"250","cephalopods",2010,"Croatia","Cephalopoda",12,"Other fishes & inverts","R",5.19645387107499,66631,"Unreported","Squids, cuttlefishes, octopuses","Subsistence",42,25,2,"U","Landings",290002
+"251","cephalopods",2010,"Croatia","Cephalopoda",12,"Other fishes & inverts","R",0.000137007072790007,65912,"Unreported","Squids, cuttlefishes, octopuses","Artisanal",42,25,3,"U","Landings",290002
+"252","cephalopods",2010,"Croatia","Cephalopoda",12,"Other fishes & inverts","R",0.337044830663111,66631,"Unreported","Squids, cuttlefishes, octopuses","Artisanal",42,25,3,"U","Landings",290002
+"253","cephalopods",2010,"Croatia","Cephalopoda",12,"Other fishes & inverts","R",0.000809303867345576,65912,"Unreported","Squids, cuttlefishes, octopuses","Artisanal",42,25,3,"U","Landings",290002
+"254","cephalopods",2010,"Croatia","Cephalopoda",12,"Other fishes & inverts","R",1.99093141229703,66631,"Unreported","Squids, cuttlefishes, octopuses","Artisanal",42,25,3,"U","Landings",290002
+"255","cephalopods",2010,"Croatia","Cephalopoda",12,"Other fishes & inverts","R",0.000120614399135431,65912,"Unreported","Squids, cuttlefishes, octopuses","Artisanal",42,25,3,"U","Landings",290002
+"256","cephalopods",2010,"Croatia","Cephalopoda",12,"Other fishes & inverts","R",0.296717964294026,66631,"Unreported","Squids, cuttlefishes, octopuses","Artisanal",42,25,3,"U","Landings",290002
+"257","cephalopods",2010,"Croatia","Cephalopoda",12,"Other fishes & inverts","R",0.000528083261478578,65912,"Unreported","Squids, cuttlefishes, octopuses","Recreational",42,25,4,"U","Landings",290002
+"258","cephalopods",2010,"Croatia","Cephalopoda",12,"Other fishes & inverts","R",1.29911346776874,66631,"Unreported","Squids, cuttlefishes, octopuses","Recreational",42,25,4,"U","Landings",290002
+"259","cephalopods",2010,"Croatia","Cephalopoda",12,"Other fishes & inverts","D",0.00497358493058509,65912,"Unreported","Squids, cuttlefishes, octopuses","Industrial",42,25,1,"U","Discards",290002
+"260","cephalopods",2010,"Croatia","Cephalopoda",12,"Other fishes & inverts","D",12.742294132989,66631,"Unreported","Squids, cuttlefishes, octopuses","Industrial",42,25,1,"U","Discards",290002
+"261","cephalopods",2010,"Croatia","Cephalopoda",12,"Other fishes & inverts","D",0.00017333851623008,65912,"Unreported","Squids, cuttlefishes, octopuses","Artisanal",42,25,3,"U","Discards",290002
+"262","cephalopods",2010,"Croatia","Cephalopoda",12,"Other fishes & inverts","D",0.4264221522323,66631,"Unreported","Squids, cuttlefishes, octopuses","Artisanal",42,25,3,"U","Discards",290002
+"263","cephalopods",2010,"Croatia","Cephalopoda",12,"Other fishes & inverts","D",0.00102391452271929,65912,"Unreported","Squids, cuttlefishes, octopuses","Artisanal",42,25,3,"U","Discards",290002
+"264","cephalopods",2010,"Croatia","Cephalopoda",12,"Other fishes & inverts","D",2.51888526552474,66631,"Unreported","Squids, cuttlefishes, octopuses","Artisanal",42,25,3,"U","Discards",290002
+"265","cephalopods",2010,"Croatia","Cephalopoda",12,"Other fishes & inverts","D",0.000152598844398077,65912,"Unreported","Squids, cuttlefishes, octopuses","Artisanal",42,25,3,"U","Discards",290002
+"266","cephalopods",2010,"Croatia","Cephalopoda",12,"Other fishes & inverts","D",0.3754014345549,66631,"Unreported","Squids, cuttlefishes, octopuses","Artisanal",42,25,3,"U","Discards",290002
+"267","reef-associatedmd",2010,"Croatia","Mugilidae",3,"Perch-likes","R",0.00161053667432484,65912,"Reported","Mullets, grey mullets","Industrial",42,17,1,"R","Landings",400359
+"268","reef-associatedmd",2010,"Croatia","Mugilidae",3,"Perch-likes","R",4.11157829783648,66631,"Reported","Mullets, grey mullets","Industrial",42,17,1,"R","Landings",400359
+"269","reef-associatedmd",2010,"Croatia","Mugilidae",3,"Perch-likes","R",0.000133642161212559,65912,"Reported","Mullets, grey mullets","Artisanal",42,17,3,"R","Landings",400359
+"270","reef-associatedmd",2010,"Croatia","Mugilidae",3,"Perch-likes","R",0.327603122371304,66631,"Reported","Mullets, grey mullets","Artisanal",42,17,3,"R","Landings",400359
+"271","reef-associatedmd",2010,"Croatia","Mugilidae",3,"Perch-likes","R",0.000416390286861295,65912,"Unreported","Mullets, grey mullets","Industrial",42,17,1,"U","Landings",400359
+"272","reef-associatedmd",2010,"Croatia","Mugilidae",3,"Perch-likes","R",1.06301290382382,66631,"Unreported","Mullets, grey mullets","Industrial",42,17,1,"U","Landings",400359
+"273","reef-associatedmd",2010,"Croatia","Mugilidae",3,"Perch-likes","R",0.000328090412142126,65912,"Unreported","Mullets, grey mullets","Subsistence",42,17,2,"U","Landings",400359
+"274","reef-associatedmd",2010,"Croatia","Mugilidae",3,"Perch-likes","R",0.804262984544937,66631,"Unreported","Mullets, grey mullets","Subsistence",42,17,2,"U","Landings",400359
+"275","reef-associatedmd",2010,"Croatia","Mugilidae",3,"Perch-likes","R",0.000165716279903573,65912,"Unreported","Mullets, grey mullets","Artisanal",42,17,3,"U","Landings",400359
+"276","reef-associatedmd",2010,"Croatia","Mugilidae",3,"Perch-likes","R",0.406227871740417,66631,"Unreported","Mullets, grey mullets","Artisanal",42,17,3,"U","Landings",400359
+"277","reef-associatedmd",2010,"Croatia","Mugilidae",3,"Perch-likes","R",8.20226030355315e-05,65912,"Unreported","Mullets, grey mullets","Recreational",42,17,4,"U","Landings",400359
+"278","reef-associatedmd",2010,"Croatia","Mugilidae",3,"Perch-likes","R",0.201065746136234,66631,"Unreported","Mullets, grey mullets","Recreational",42,17,4,"U","Landings",400359
+"279","reef-associatedmd",2010,"Croatia","Mugilidae",3,"Perch-likes","D",0.000777669517989112,65912,"Unreported","Mullets, grey mullets","Industrial",42,17,1,"U","Discards",400359
+"280","reef-associatedmd",2010,"Croatia","Mugilidae",3,"Perch-likes","D",1.98533145132718,66631,"Unreported","Mullets, grey mullets","Industrial",42,17,1,"U","Discards",400359
+"281","reef-associatedmd",2010,"Croatia","Mugilidae",3,"Perch-likes","D",0.000209660811582197,65912,"Unreported","Mullets, grey mullets","Artisanal",42,17,3,"U","Discards",400359
+"282","reef-associatedmd",2010,"Croatia","Mugilidae",3,"Perch-likes","D",0.513951105624403,66631,"Unreported","Mullets, grey mullets","Artisanal",42,17,3,"U","Discards",400359
+"283","demersalsm",2010,"Croatia","Spicara",3,"Perch-likes","R",6.75419768237413,66631,"Reported","Picarels","Industrial",42,4,1,"R","Landings",500679
+"284","demersalsm",2010,"Croatia","Spicara",3,"Perch-likes","R",0.000265933361707455,66631,"Reported","Picarels","Artisanal",42,4,3,"R","Landings",500679
+"285","demersalsm",2010,"Croatia","Spicara",3,"Perch-likes","R",0.00091979691249715,66631,"Reported","Picarels","Artisanal",42,4,3,"R","Landings",500679
+"286","demersalsm",2010,"Croatia","Spicara",3,"Perch-likes","R",0.193276776954203,66631,"Reported","Picarels","Artisanal",42,4,3,"R","Landings",500679
+"287","demersalsm",2010,"Croatia","Spicara",3,"Perch-likes","R",0.0203416104520992,66631,"Reported","Picarels","Artisanal",42,4,3,"R","Landings",500679
+"288","demersalsm",2010,"Croatia","Spicara",3,"Perch-likes","R",0.0752430832421227,66631,"Reported","Picarels","Artisanal",42,4,3,"R","Landings",500679
+"289","demersalsm",2010,"Croatia","Spicara",3,"Perch-likes","R",0.162112752867457,66631,"Reported","Picarels","Artisanal",42,4,3,"R","Landings",500679
+"290","demersalsm",2010,"Croatia","Spicara",3,"Perch-likes","R",1.74623922281103,66631,"Unreported","Picarels","Industrial",42,4,1,"U","Landings",500679
+"291","demersalsm",2010,"Croatia","Spicara",3,"Perch-likes","R",0.000329757368517244,66631,"Unreported","Picarels","Artisanal",42,4,3,"U","Landings",500679
+"292","demersalsm",2010,"Croatia","Spicara",3,"Perch-likes","R",0.00114054817149647,66631,"Unreported","Picarels","Artisanal",42,4,3,"U","Landings",500679
+"293","demersalsm",2010,"Croatia","Spicara",3,"Perch-likes","R",0.239663203423212,66631,"Unreported","Picarels","Artisanal",42,4,3,"U","Landings",500679
+"294","demersalsm",2010,"Croatia","Spicara",3,"Perch-likes","R",0.025223596960603,66631,"Unreported","Picarels","Artisanal",42,4,3,"U","Landings",500679
+"295","demersalsm",2010,"Croatia","Spicara",3,"Perch-likes","R",0.0933014232202321,66631,"Unreported","Picarels","Artisanal",42,4,3,"U","Landings",500679
+"296","demersalsm",2010,"Croatia","Spicara",3,"Perch-likes","R",0.201019813555646,66631,"Unreported","Picarels","Artisanal",42,4,3,"U","Landings",500679
+"297","reef-associatedmd",2010,"Croatia","Mullidae",3,"Perch-likes","R",5.98235068655928,66631,"Unreported","Goatfishes","Subsistence",42,17,2,"U","Landings",400332
+"298","reef-associatedmd",2010,"Croatia","Mullidae",3,"Perch-likes","R",0.00249124999014037,65912,"Unreported","Goatfishes","Subsistence",42,17,2,"U","Landings",400332
+"299","reef-associatedmd",2010,"Croatia","Mullidae",3,"Perch-likes","R",1.49558767163982,66631,"Unreported","Goatfishes","Recreational",42,17,4,"U","Landings",400332
+"300","reef-associatedmd",2010,"Croatia","Mullidae",3,"Perch-likes","R",0.000622812497535092,65912,"Unreported","Goatfishes","Recreational",42,17,4,"U","Landings",400332
+"301","reef-associatedmd",2010,"Croatia","Mullidae",3,"Perch-likes","D",18.0994274297976,66631,"Unreported","Goatfishes","Industrial",42,17,1,"U","Discards",400332
+"302","reef-associatedmd",2010,"Croatia","Mullidae",3,"Perch-likes","D",0.00723730498114795,65912,"Unreported","Goatfishes","Industrial",42,17,1,"U","Discards",400332
+"303","reef-associatedmd",2010,"Croatia","Mullidae",3,"Perch-likes","D",3.59086099450793,66631,"Unreported","Goatfishes","Artisanal",42,17,3,"U","Discards",400332
+"304","reef-associatedmd",2010,"Croatia","Mullidae",3,"Perch-likes","D",0.00149535406496011,65912,"Unreported","Goatfishes","Artisanal",42,17,3,"U","Discards",400332
+"305","reef-associatedmd",2010,"Croatia","Mullidae",3,"Perch-likes","D",0.18874416878046,66631,"Unreported","Goatfishes","Artisanal",42,17,3,"U","Discards",400332
+"306","reef-associatedmd",2010,"Croatia","Mullidae",3,"Perch-likes","D",7.85993555459402e-05,65912,"Unreported","Goatfishes","Artisanal",42,17,3,"U","Discards",400332
+"307","reef-associatedmd",2010,"Croatia","Mullidae",3,"Perch-likes","D",0.0433181947096324,66631,"Unreported","Goatfishes","Artisanal",42,17,3,"U","Discards",400332
+"308","reef-associatedmd",2010,"Croatia","Mullidae",3,"Perch-likes","D",1.80391384252564e-05,65912,"Unreported","Goatfishes","Artisanal",42,17,3,"U","Discards",400332
+"309","pelagicmd",2010,"Croatia","Carangidae",3,"Perch-likes","R",0.000989233947845343,65912,"Unreported","Jacks, pompanos","Subsistence",42,2,2,"U","Landings",400314
+"310","pelagicmd",2010,"Croatia","Carangidae",3,"Perch-likes","R",2.34492687840864,66631,"Unreported","Jacks, pompanos","Subsistence",42,2,2,"U","Landings",400314
+"311","pelagicmd",2010,"Croatia","Carangidae",3,"Perch-likes","R",0.000247308486961335,65912,"Unreported","Jacks, pompanos","Recreational",42,2,4,"U","Landings",400314
+"312","pelagicmd",2010,"Croatia","Carangidae",3,"Perch-likes","R",0.586231719602158,66631,"Unreported","Jacks, pompanos","Recreational",42,2,4,"U","Landings",400314
+"313","flatfishsm md",2010,"Croatia","Soleidae",7,"Flatfishes","R",10.0033071910491,66631,"Reported","Soles","Industrial",42,23,1,"R","Landings",400441
+"314","flatfishsm md",2010,"Croatia","Soleidae",7,"Flatfishes","R",0.00388502084152231,65912,"Reported","Soles","Industrial",42,23,1,"R","Landings",400441
+"315","flatfishsm md",2010,"Croatia","Soleidae",7,"Flatfishes","R",0.0304367903735158,66631,"Reported","Soles","Artisanal",42,23,3,"R","Landings",400441
+"316","flatfishsm md",2010,"Croatia","Soleidae",7,"Flatfishes","R",1.23106789244774e-05,65912,"Reported","Soles","Artisanal",42,23,3,"R","Landings",400441
+"317","flatfishsm md",2010,"Croatia","Soleidae",7,"Flatfishes","R",0.110381457416185,66631,"Reported","Soles","Artisanal",42,23,3,"R","Landings",400441
+"318","flatfishsm md",2010,"Croatia","Soleidae",7,"Flatfishes","R",4.46456628570445e-05,65912,"Reported","Soles","Artisanal",42,23,3,"R","Landings",400441
+"319","flatfishsm md",2010,"Croatia","Soleidae",7,"Flatfishes","R",0.533345052805249,66631,"Reported","Soles","Artisanal",42,23,3,"R","Landings",400441
+"320","flatfishsm md",2010,"Croatia","Soleidae",7,"Flatfishes","R",0.000215720502078861,65912,"Reported","Soles","Artisanal",42,23,3,"R","Landings",400441
+"321","flatfishsm md",2010,"Croatia","Soleidae",7,"Flatfishes","R",2.58626830251397,66631,"Unreported","Soles","Industrial",42,23,1,"U","Landings",400441
+"322","flatfishsm md",2010,"Croatia","Soleidae",7,"Flatfishes","R",0.00100443843872214,65912,"Unreported","Soles","Industrial",42,23,1,"U","Landings",400441
+"323","flatfishsm md",2010,"Croatia","Soleidae",7,"Flatfishes","R",1.65506538607598,66631,"Unreported","Soles","Subsistence",42,23,2,"U","Landings",400441
+"324","flatfishsm md",2010,"Croatia","Soleidae",7,"Flatfishes","R",0.000669419420279171,65912,"Unreported","Soles","Subsistence",42,23,2,"U","Landings",400441
+"325","flatfishsm md",2010,"Croatia","Soleidae",7,"Flatfishes","R",0.0377416200631597,66631,"Unreported","Soles","Artisanal",42,23,3,"U","Landings",400441
+"326","flatfishsm md",2010,"Croatia","Soleidae",7,"Flatfishes","R",1.5265241866352e-05,65912,"Unreported","Soles","Artisanal",42,23,3,"U","Landings",400441
+"327","flatfishsm md",2010,"Croatia","Soleidae",7,"Flatfishes","R",0.13687300719607,66631,"Unreported","Soles","Artisanal",42,23,3,"U","Landings",400441
+"328","flatfishsm md",2010,"Croatia","Soleidae",7,"Flatfishes","R",5.53606219427354e-05,65912,"Unreported","Soles","Artisanal",42,23,3,"U","Landings",400441
+"329","flatfishsm md",2010,"Croatia","Soleidae",7,"Flatfishes","R",0.661347865478511,66631,"Unreported","Soles","Artisanal",42,23,3,"U","Landings",400441
+"330","flatfishsm md",2010,"Croatia","Soleidae",7,"Flatfishes","R",0.000267493422577788,65912,"Unreported","Soles","Artisanal",42,23,3,"U","Landings",400441
+"331","flatfishsm md",2010,"Croatia","Soleidae",7,"Flatfishes","R",0.413766346518995,66631,"Unreported","Soles","Recreational",42,23,4,"U","Landings",400441
+"332","flatfishsm md",2010,"Croatia","Soleidae",7,"Flatfishes","R",0.000167354855069793,65912,"Unreported","Soles","Recreational",42,23,4,"U","Landings",400441
+"333","flatfishsm md",2010,"Croatia","Soleidae",7,"Flatfishes","D",4.83023280722331,66631,"Unreported","Soles","Industrial",42,23,1,"U","Discards",400441
+"334","flatfishsm md",2010,"Croatia","Soleidae",7,"Flatfishes","D",0.00187593510496796,65912,"Unreported","Soles","Industrial",42,23,1,"U","Discards",400441
+"335","flatfishsm md",2010,"Croatia","Soleidae",7,"Flatfishes","D",0.0477499174943664,66631,"Unreported","Soles","Artisanal",42,23,3,"U","Discards",400441
+"336","flatfishsm md",2010,"Croatia","Soleidae",7,"Flatfishes","D",1.93132684402534e-05,65912,"Unreported","Soles","Artisanal",42,23,3,"U","Discards",400441
+"337","flatfishsm md",2010,"Croatia","Soleidae",7,"Flatfishes","D",0.173168899212086,66631,"Unreported","Soles","Artisanal",42,23,3,"U","Discards",400441
+"338","flatfishsm md",2010,"Croatia","Soleidae",7,"Flatfishes","D",7.00411144455021e-05,65912,"Unreported","Soles","Artisanal",42,23,3,"U","Discards",400441
+"339","flatfishsm md",2010,"Croatia","Soleidae",7,"Flatfishes","D",0.836723647761465,66631,"Unreported","Soles","Artisanal",42,23,3,"U","Discards",400441
+"340","flatfishsm md",2010,"Croatia","Soleidae",7,"Flatfishes","D",0.000338427148516681,65912,"Unreported","Soles","Artisanal",42,23,3,"U","Discards",400441
+"341","lobsters,crab",2010,"Croatia","Palinuridae",10,"Crustaceans","R",0.0981618111553222,66631,"Unreported","Spiny lobsters","Subsistence",42,27,2,"U","Landings",490039
+"342","lobsters,crab",2010,"Croatia","Palinuridae",10,"Crustaceans","R",3.96732743924701e-05,65912,"Unreported","Spiny lobsters","Subsistence",42,27,2,"U","Landings",490039
+"343","lobsters,crab",2010,"Croatia","Palinuridae",10,"Crustaceans","R",0.0245404527888306,66631,"Unreported","Spiny lobsters","Recreational",42,27,4,"U","Landings",490039
+"344","lobsters,crab",2010,"Croatia","Palinuridae",10,"Crustaceans","R",9.91831859811753e-06,65912,"Unreported","Spiny lobsters","Recreational",42,27,4,"U","Landings",490039
+"345","lobsters,crab",2010,"Croatia","Palinuridae",10,"Crustaceans","D",0.000110323968676825,65912,"Unreported","Spiny lobsters","Industrial",42,27,1,"U","Discards",490039
+"346","lobsters,crab",2010,"Croatia","Palinuridae",10,"Crustaceans","D",0.284280975678659,66631,"Unreported","Spiny lobsters","Industrial",42,27,1,"U","Discards",490039
+"347","lobsters,crab",2010,"Croatia","Palinuridae",10,"Crustaceans","D",0.0224572669302747,66631,"Unreported","Spiny lobsters","Artisanal",42,27,3,"U","Discards",490039
+"348","lobsters,crab",2010,"Croatia","Palinuridae",10,"Crustaceans","D",9.07637402512847e-06,65912,"Unreported","Spiny lobsters","Artisanal",42,27,3,"U","Discards",490039
+"349","lobsters,crab",2010,"Croatia","Palinuridae",10,"Crustaceans","D",0.0402638196782008,66631,"Unreported","Spiny lobsters","Artisanal",42,27,3,"U","Discards",490039
+"350","lobsters,crab",2010,"Croatia","Palinuridae",10,"Crustaceans","D",1.62731060825133e-05,65912,"Unreported","Spiny lobsters","Artisanal",42,27,3,"U","Discards",490039
+"351","lobsters,crab",2010,"Croatia","Palinuridae",10,"Crustaceans","D",7.61326065675304e-06,66631,"Unreported","Spiny lobsters","Artisanal",42,27,3,"U","Discards",490039
+"352","lobsters,crab",2010,"Croatia","Palinuridae",10,"Crustaceans","D",3.07699069018639e-09,65912,"Unreported","Spiny lobsters","Artisanal",42,27,3,"U","Discards",490039
+"353","benthopelagicmd",2010,"Croatia","Sparidae",3,"Perch-likes","R",0.000757028044829697,65912,"Unreported","Porgies, seabreams","Subsistence",42,14,2,"U","Landings",400330
+"354","benthopelagicmd",2010,"Croatia","Sparidae",3,"Perch-likes","R",1.84002123007276,66631,"Unreported","Porgies, seabreams","Subsistence",42,14,2,"U","Landings",400330
+"355","benthopelagicmd",2010,"Croatia","Sparidae",3,"Perch-likes","R",0.000189257011207424,65912,"Unreported","Porgies, seabreams","Recreational",42,14,4,"U","Landings",400330
+"356","benthopelagicmd",2010,"Croatia","Sparidae",3,"Perch-likes","R",0.460005307518189,66631,"Unreported","Porgies, seabreams","Recreational",42,14,4,"U","Landings",400330
+"357","benthopelagicmd",2010,"Croatia","Sparidae",3,"Perch-likes","D",0.000819514102582867,65912,"Unreported","Porgies, seabreams","Industrial",42,14,1,"U","Discards",400330
+"358","benthopelagicmd",2010,"Croatia","Sparidae",3,"Perch-likes","D",2.07443915407374,66631,"Unreported","Porgies, seabreams","Industrial",42,14,1,"U","Discards",400330
+"359","benthopelagicmd",2010,"Croatia","Sparidae",3,"Perch-likes","D",0.000199476653399306,65912,"Unreported","Porgies, seabreams","Artisanal",42,14,3,"U","Discards",400330
+"360","benthopelagicmd",2010,"Croatia","Sparidae",3,"Perch-likes","D",0.484845019501435,66631,"Unreported","Porgies, seabreams","Artisanal",42,14,3,"U","Discards",400330
+"361","benthopelagicmd",2010,"Croatia","Sparidae",3,"Perch-likes","D",2.79209142722252e-06,65912,"Unreported","Porgies, seabreams","Artisanal",42,14,3,"U","Discards",400330
+"362","benthopelagicmd",2010,"Croatia","Sparidae",3,"Perch-likes","D",0.00678641635205117,66631,"Unreported","Porgies, seabreams","Artisanal",42,14,3,"U","Discards",400330
+"363","benthopelagicmd",2010,"Croatia","Sparidae",3,"Perch-likes","D",2.03295724423767e-05,65912,"Unreported","Porgies, seabreams","Artisanal",42,14,3,"U","Discards",400330
+"364","benthopelagicmd",2010,"Croatia","Sparidae",3,"Perch-likes","D",0.0494127597355925,66631,"Unreported","Porgies, seabreams","Artisanal",42,14,3,"U","Discards",400330
+"365","reef-associatedlg",2010,"Croatia","Scorpaenidae",8,"Scorpionfishes","R",0.171635220727151,66631,"Unreported","Scorpionfishes, rockfishes","Subsistence",42,18,2,"U","Landings",400264
+"366","reef-associatedlg",2010,"Croatia","Scorpaenidae",8,"Scorpionfishes","R",6.35857778699788e-05,65912,"Unreported","Scorpionfishes, rockfishes","Subsistence",42,18,2,"U","Landings",400264
+"367","reef-associatedlg",2010,"Croatia","Scorpaenidae",8,"Scorpionfishes","R",0.0429088051817876,66631,"Unreported","Scorpionfishes, rockfishes","Recreational",42,18,4,"U","Landings",400264
+"368","reef-associatedlg",2010,"Croatia","Scorpaenidae",8,"Scorpionfishes","R",1.58964444674947e-05,65912,"Unreported","Scorpionfishes, rockfishes","Recreational",42,18,4,"U","Landings",400264
+"369","reef-associatedlg",2010,"Croatia","Scorpaenidae",8,"Scorpionfishes","D",0.000175315098101763,65912,"Unreported","Scorpionfishes, rockfishes","Industrial",42,18,1,"U","Discards",400264
+"370","reef-associatedlg",2010,"Croatia","Scorpaenidae",8,"Scorpionfishes","D",0.492832281853185,66631,"Unreported","Scorpionfishes, rockfishes","Industrial",42,18,1,"U","Discards",400264
+"371","reef-associatedlg",2010,"Croatia","Scorpaenidae",8,"Scorpionfishes","D",0.104249534477712,66631,"Unreported","Scorpionfishes, rockfishes","Artisanal",42,18,3,"U","Discards",400264
+"372","reef-associatedlg",2010,"Croatia","Scorpaenidae",8,"Scorpionfishes","D",3.86213722000934e-05,65912,"Unreported","Scorpionfishes, rockfishes","Artisanal",42,18,3,"U","Discards",400264
+"373","reef-associatedlg",2010,"Croatia","Scorpaenidae",8,"Scorpionfishes","D",0.00415456549547661,66631,"Unreported","Scorpionfishes, rockfishes","Artisanal",42,18,3,"U","Discards",400264
+"374","reef-associatedlg",2010,"Croatia","Scorpaenidae",8,"Scorpionfishes","D",1.53914375862055e-06,65912,"Unreported","Scorpionfishes, rockfishes","Artisanal",42,18,3,"U","Discards",400264
+"375","reef-associatedlg",2010,"Croatia","Scorpaenidae",8,"Scorpionfishes","D",0.00127658054043623,66631,"Unreported","Scorpionfishes, rockfishes","Artisanal",42,18,3,"U","Discards",400264
+"376","reef-associatedlg",2010,"Croatia","Scorpaenidae",8,"Scorpionfishes","D",4.72935370336112e-07,65912,"Unreported","Scorpionfishes, rockfishes","Artisanal",42,18,3,"U","Discards",400264
+"377","lobsters,crab",2010,"Croatia","Nephropidae",10,"Crustaceans","R",2.42271636357718,66631,"Unreported","Clawed lobsters","Subsistence",42,27,2,"U","Landings",490038
+"378","lobsters,crab",2010,"Croatia","Nephropidae",10,"Crustaceans","R",0.605679090894294,66631,"Unreported","Clawed lobsters","Recreational",42,27,4,"U","Landings",490038
+"379","lobsters,crab",2010,"Croatia","Nephropidae",10,"Crustaceans","D",6.74323970111059,66631,"Unreported","Clawed lobsters","Industrial",42,27,1,"U","Discards",490038
+"380","lobsters,crab",2010,"Croatia","Nephropidae",10,"Crustaceans","D",0.000175830017957072,66631,"Unreported","Clawed lobsters","Artisanal",42,27,3,"U","Discards",490038
+"381","lobsters,crab",2010,"Croatia","Nephropidae",10,"Crustaceans","D",0.0134957234803998,66631,"Unreported","Clawed lobsters","Artisanal",42,27,3,"U","Discards",490038
+"382","lobsters,crab",2010,"Croatia","Nephropidae",10,"Crustaceans","D",1.45626201271747,66631,"Unreported","Clawed lobsters","Artisanal",42,27,3,"U","Discards",490038
+"383","lobsters,crab",2010,"Croatia","Nephropidae",10,"Crustaceans","D",0.078263699606798,66631,"Unreported","Clawed lobsters","Artisanal",42,27,3,"U","Discards",490038
+"384","pelagicmd",2010,"Croatia","Trachurus",3,"Perch-likes","R",0.00530853017813575,65912,"Reported","Jacks, horse mackerels","Industrial",42,2,1,"R","Landings",500661
+"385","pelagicmd",2010,"Croatia","Trachurus",3,"Perch-likes","R",13.6527498567519,66631,"Reported","Jacks, horse mackerels","Industrial",42,2,1,"R","Landings",500661
+"386","pelagicmd",2010,"Croatia","Trachurus",3,"Perch-likes","R",0.701967115636398,66631,"Reported","Jacks, horse mackerels","Artisanal",42,2,3,"R","Landings",500661
+"387","pelagicmd",2010,"Croatia","Trachurus",3,"Perch-likes","R",0.000284252523682683,65912,"Reported","Jacks, horse mackerels","Artisanal",42,2,3,"R","Landings",500661
+"388","pelagicmd",2010,"Croatia","Trachurus",3,"Perch-likes","R",0.00401736235579777,66631,"Reported","Jacks, horse mackerels","Artisanal",42,2,3,"R","Landings",500661
+"389","pelagicmd",2010,"Croatia","Trachurus",3,"Perch-likes","R",1.6267790367189e-06,65912,"Reported","Jacks, horse mackerels","Artisanal",42,2,3,"R","Landings",500661
+"390","pelagicmd",2010,"Croatia","Trachurus",3,"Perch-likes","R",0.222240485522733,66631,"Reported","Jacks, horse mackerels","Artisanal",42,2,3,"R","Landings",500661
+"391","pelagicmd",2010,"Croatia","Trachurus",3,"Perch-likes","R",8.99934163112898e-05,65912,"Reported","Jacks, horse mackerels","Artisanal",42,2,3,"R","Landings",500661
+"392","pelagicmd",2010,"Croatia","Trachurus",3,"Perch-likes","R",0.00137247442975021,65912,"Unreported","Jacks, horse mackerels","Industrial",42,2,1,"U","Landings",500661
+"393","pelagicmd",2010,"Croatia","Trachurus",3,"Perch-likes","R",3.52980004735478,66631,"Unreported","Jacks, horse mackerels","Industrial",42,2,1,"U","Landings",500661
+"394","pelagicmd",2010,"Croatia","Trachurus",3,"Perch-likes","R",0.870439223389134,66631,"Unreported","Jacks, horse mackerels","Artisanal",42,2,3,"U","Landings",500661
+"395","pelagicmd",2010,"Croatia","Trachurus",3,"Perch-likes","R",0.000352473129366527,65912,"Unreported","Jacks, horse mackerels","Artisanal",42,2,3,"U","Landings",500661
+"396","pelagicmd",2010,"Croatia","Trachurus",3,"Perch-likes","R",0.00498152932118924,66631,"Unreported","Jacks, horse mackerels","Artisanal",42,2,3,"U","Landings",500661
+"397","pelagicmd",2010,"Croatia","Trachurus",3,"Perch-likes","R",2.01720600553144e-06,65912,"Unreported","Jacks, horse mackerels","Artisanal",42,2,3,"U","Landings",500661
+"398","pelagicmd",2010,"Croatia","Trachurus",3,"Perch-likes","R",0.275578202048189,66631,"Unreported","Jacks, horse mackerels","Artisanal",42,2,3,"U","Landings",500661
+"399","pelagicmd",2010,"Croatia","Trachurus",3,"Perch-likes","R",0.000111591836225999,65912,"Unreported","Jacks, horse mackerels","Artisanal",42,2,3,"U","Landings",500661
+"400","pelagicsm",2010,"Croatia","Clupeidae",2,"Herring-likes","R",0.0496334299293601,65912,"Unreported","Herrings, sardines, menhadens","Subsistence",42,1,2,"U","Landings",400043
+"401","pelagicsm",2010,"Croatia","Clupeidae",2,"Herring-likes","R",149.852674785776,66631,"Unreported","Herrings, sardines, menhadens","Subsistence",42,1,2,"U","Landings",400043
+"402","pelagicsm",2010,"Croatia","Clupeidae",2,"Herring-likes","R",0.01240835748234,65912,"Unreported","Herrings, sardines, menhadens","Recreational",42,1,4,"U","Landings",400043
+"403","pelagicsm",2010,"Croatia","Clupeidae",2,"Herring-likes","R",37.463168696444,66631,"Unreported","Herrings, sardines, menhadens","Recreational",42,1,4,"U","Landings",400043
+"404","pelagicmd",2010,"Croatia","Belonidae",12,"Other fishes & inverts","R",1.45787113003266e-05,65912,"Unreported","Needlefishes, garfishes","Subsistence",42,2,2,"U","Landings",400207
+"405","pelagicmd",2010,"Croatia","Belonidae",12,"Other fishes & inverts","R",0.045681203827993,66631,"Unreported","Needlefishes, garfishes","Subsistence",42,2,2,"U","Landings",400207
+"406","pelagicmd",2010,"Croatia","Belonidae",12,"Other fishes & inverts","R",3.64467782508166e-06,65912,"Unreported","Needlefishes, garfishes","Recreational",42,2,4,"U","Landings",400207
+"407","pelagicmd",2010,"Croatia","Belonidae",12,"Other fishes & inverts","R",0.0114203009569983,66631,"Unreported","Needlefishes, garfishes","Recreational",42,2,4,"U","Landings",400207
+"408","pelagicsm",2010,"Croatia","Engraulidae",1,"Anchovies","R",0.0274188728832399,65912,"Unreported","Anchovies, round herrings","Subsistence",42,1,2,"U","Landings",400454
+"409","pelagicsm",2010,"Croatia","Engraulidae",1,"Anchovies","R",82.1715514538352,66631,"Unreported","Anchovies, round herrings","Subsistence",42,1,2,"U","Landings",400454
+"410","pelagicsm",2010,"Croatia","Engraulidae",1,"Anchovies","R",0.00685471822080999,65912,"Unreported","Anchovies, round herrings","Recreational",42,1,4,"U","Landings",400454
+"411","pelagicsm",2010,"Croatia","Engraulidae",1,"Anchovies","R",20.5428878634588,66631,"Unreported","Anchovies, round herrings","Recreational",42,1,4,"U","Landings",400454
+"412","benthopelagicmd",2010,"Croatia","Gadiformes",5,"Cod-likes","R",1.64083084093594,66631,"Unreported","Cods","Subsistence",42,14,2,"U","Landings",300044
+"413","benthopelagicmd",2010,"Croatia","Gadiformes",5,"Cod-likes","R",0.410207710233984,66631,"Unreported","Cods","Recreational",42,14,4,"U","Landings",300044
+"414","benthopelagicmd",2010,"Croatia","Gadiformes",5,"Cod-likes","D",0.373410858910565,66631,"Unreported","Cods","Industrial",42,14,1,"U","Discards",300044
+"415","benthopelagicmd",2010,"Croatia","Gadiformes",5,"Cod-likes","D",0.208469080597376,66631,"Unreported","Cods","Artisanal",42,14,3,"U","Discards",300044
+"416","benthopelagicmd",2010,"Croatia","Gadiformes",5,"Cod-likes","D",0.0905823765866087,66631,"Unreported","Cods","Artisanal",42,14,3,"U","Discards",300044
+"417","benthopelagicmd",2010,"Croatia","Gadiformes",5,"Cod-likes","D",0.394895085132688,66631,"Unreported","Cods","Artisanal",42,14,3,"U","Discards",300044
+"418","benthopelagicmd",2010,"Croatia","Gadiformes",5,"Cod-likes","D",0.0103782109819398,66631,"Unreported","Cods","Artisanal",42,14,3,"U","Discards",300044
+"419","benthopelagicmd",2010,"Croatia","Gadiformes",5,"Cod-likes","D",0.34422135791997,66631,"Unreported","Cods","Artisanal",42,14,3,"U","Discards",300044
+"420","pelagicmd",2010,"Croatia","Scombridae",3,"Perch-likes","R",0.00232378013911427,65912,"Unreported","Mackerels, tunas, bonitos","Subsistence",42,2,2,"U","Landings",400416
+"421","pelagicmd",2010,"Croatia","Scombridae",3,"Perch-likes","R",7.2273503409716,66631,"Unreported","Mackerels, tunas, bonitos","Subsistence",42,2,2,"U","Landings",400416
+"422","pelagicmd",2010,"Croatia","Scombridae",3,"Perch-likes","R",0.000580945034778566,65912,"Unreported","Mackerels, tunas, bonitos","Recreational",42,2,4,"U","Landings",400416
+"423","pelagicmd",2010,"Croatia","Scombridae",3,"Perch-likes","R",1.8068375852429,66631,"Unreported","Mackerels, tunas, bonitos","Recreational",42,2,4,"U","Landings",400416

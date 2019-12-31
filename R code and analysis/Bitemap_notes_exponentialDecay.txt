@@ -1,0 +1,33 @@
+Bitemap_notes_exponentialDecay
+
+
+## NOTES WHEN RUNNING MODELS FOR EACH HABITAT IN EACH COUNTRY
+Generally good fit. More sensible in most cases than binomial model on proportions. The data really are count data in the end...
+
+In most cases where model point predictions deviate from data, the predation rate is understimated.
+Exceptions to above: 
+* Texas  - mean rate looks pretty good, but tons of variation in the data
+* Brazil - Rate of prey decrease is not negative because in some assays 30 units were installed and in others 25 were installed
+	   (zero predation in 25 unit assays)
+
+
+## NOTES WHEN RUNNING MODELS FOR EACH ASSAY IN EACH HABITAT IN EACH COUNTRY
+Generally great fit. Obviously, standard errors will be very high for many models, but as estimates of predation RATE they work
+
+A few cases with zero rate (this is good for the model to pick up, 
+but should note in paper that zero does not mean no predation at a site, or that predation is unimportant)
+
+A few cases where prediction does not come close to 25 at hour 0, all underestimations:
+* USA (NC), USA (NC2) USA (TX), USA (VA)  - odd that these are all US East Coast sites
+This happens where this is a lot of predation after one hour...might need to add more zeros
+--padding with zeros helps pull the start of the line up to 25, but slope is still grossly underestimated
+
+Australia (VIC): several underestimates of predation in seagrass. Not sure what to do about this
+
+
+
+
+## THOUGHTS ABOUT PATTERNS IN DATA
+Predator hunting mode differences across sites and how this interacts with habitat cover. 
+Does this explain why some sites have higher predation in unvegetated or in seagrass.
+

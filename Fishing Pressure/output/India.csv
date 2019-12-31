@@ -1,0 +1,551 @@
+"","functional_group_name","year","fishing_entity_name","taxon_scientific_name","commercial_group_id","commercial_group_name","catch_status","catch_sum","cell_id","reporting_status_name","taxon_common_name","sector_type_name","fishing_entity_id","functional_group_id","sector_type_id","reporting_status","catch_status_name","taxon_key"
+"1","sharklg",2010,"India","Chondrichthyes",9,"Sharks & rays","D",12.9957459502441,115707,"Unreported","Sharks, rays, chimaeras","Industrial",82,20,1,"U","Discards",200538
+"2","sharklg",2010,"India","Chondrichthyes",9,"Sharks & rays","D",11.2790397862253,114988,"Unreported","Sharks, rays, chimaeras","Industrial",82,20,1,"U","Discards",200538
+"3","sharklg",2010,"India","Chondrichthyes",9,"Sharks & rays","D",15.0212241918891,115708,"Unreported","Sharks, rays, chimaeras","Industrial",82,20,1,"U","Discards",200538
+"4","pelagiclg",2010,"India","Coryphaena hippurus",3,"Perch-likes","R",11.3205839225587,115708,"Reported","Common dolphinfish","Industrial",82,3,1,"R","Landings",600006
+"5","pelagiclg",2010,"India","Coryphaena hippurus",3,"Perch-likes","R",10.4387475556682,115707,"Reported","Common dolphinfish","Industrial",82,3,1,"R","Landings",600006
+"6","pelagiclg",2010,"India","Coryphaena hippurus",3,"Perch-likes","R",11.3989030836027,114988,"Reported","Common dolphinfish","Industrial",82,3,1,"R","Landings",600006
+"7","pelagiclg",2010,"India","Coryphaena hippurus",3,"Perch-likes","R",0.206580220035793,114988,"Reported","Common dolphinfish","Artisanal",82,3,3,"R","Landings",600006
+"8","pelagiclg",2010,"India","Coryphaena hippurus",3,"Perch-likes","R",0.25091938921426,114988,"Reported","Common dolphinfish","Artisanal",82,3,3,"R","Landings",600006
+"9","pelagiclg",2010,"India","Coryphaena hippurus",3,"Perch-likes","R",0.129994382363957,114988,"Reported","Common dolphinfish","Artisanal",82,3,3,"R","Landings",600006
+"10","pelagiclg",2010,"India","Coryphaena hippurus",3,"Perch-likes","R",0.239834596919643,114988,"Reported","Common dolphinfish","Artisanal",82,3,3,"R","Landings",600006
+"11","pelagiclg",2010,"India","Kajikia audax",4,"Tuna & billfishes","R",0.288476370253081,114988,"Reported","Striped marlin","Industrial",82,3,1,"R","Landings",600223
+"12","pelagiclg",2010,"India","Kajikia audax",4,"Tuna & billfishes","R",0.0311589806221089,114988,"Reported","Striped marlin","Artisanal",82,3,3,"R","Landings",600223
+"13","pelagiclg",2010,"India","Thunnus obesus",4,"Tuna & billfishes","R",11.9204091056155,115707,"Reported","Bigeye tuna","Industrial",82,3,1,"R","Landings",600146
+"14","pelagiclg",2010,"India","Thunnus obesus",4,"Tuna & billfishes","R",11.8134484773385,115708,"Reported","Bigeye tuna","Industrial",82,3,1,"R","Landings",600146
+"15","pelagiclg",2010,"India","Katsuwonus pelamis",4,"Tuna & billfishes","R",0.334786416244222,114988,"Reported","Skipjack tuna","Artisanal",82,3,3,"R","Landings",600107
+"16","pelagiclg",2010,"India","Katsuwonus pelamis",4,"Tuna & billfishes","R",2.75654388082049,114988,"Reported","Skipjack tuna","Artisanal",82,3,3,"R","Landings",600107
+"17","sharklg",2010,"India","Alopias vulpinus",9,"Sharks & rays","R",0.00851783345640773,114988,"Reported","Thresher","Industrial",82,20,1,"R","Landings",602535
+"18","sharklg",2010,"India","Alopias vulpinus",9,"Sharks & rays","R",0.152588379937801,114988,"Reported","Thresher","Industrial",82,20,1,"R","Landings",602535
+"19","sharklg",2010,"India","Alopias vulpinus",9,"Sharks & rays","R",0.19835169891987,115708,"Reported","Thresher","Industrial",82,20,1,"R","Landings",602535
+"20","sharklg",2010,"India","Alopias vulpinus",9,"Sharks & rays","R",0.152485308600492,115707,"Reported","Thresher","Industrial",82,20,1,"R","Landings",602535
+"21","sharklg",2010,"India","Alopias vulpinus",9,"Sharks & rays","R",0.321043186111552,114988,"Reported","Thresher","Artisanal",82,20,3,"R","Landings",602535
+"22","sharklg",2010,"India","Alopias vulpinus",9,"Sharks & rays","R",0.0134956015493081,114988,"Reported","Thresher","Artisanal",82,20,3,"R","Landings",602535
+"23","sharklg",2010,"India","Alopias vulpinus",9,"Sharks & rays","R",0.315786202110987,114988,"Reported","Thresher","Artisanal",82,20,3,"R","Landings",602535
+"24","sharklg",2010,"India","Isurus oxyrinchus",9,"Sharks & rays","R",0.610353519751203,114988,"Reported","Shortfin mako","Industrial",82,20,1,"R","Landings",600752
+"25","sharklg",2010,"India","Isurus oxyrinchus",9,"Sharks & rays","R",0.793406795679479,115708,"Reported","Shortfin mako","Industrial",82,20,1,"R","Landings",600752
+"26","sharklg",2010,"India","Isurus oxyrinchus",9,"Sharks & rays","R",0.609941234401967,115707,"Reported","Shortfin mako","Industrial",82,20,1,"R","Landings",600752
+"27","sharklg",2010,"India","Isurus oxyrinchus",9,"Sharks & rays","R",1.2841727444462,114988,"Reported","Shortfin mako","Artisanal",82,20,3,"R","Landings",600752
+"28","sharklg",2010,"India","Isurus oxyrinchus",9,"Sharks & rays","R",0.0539824061972325,114988,"Reported","Shortfin mako","Artisanal",82,20,3,"R","Landings",600752
+"29","sharklg",2010,"India","Isurus oxyrinchus",9,"Sharks & rays","R",1.26314480844395,114988,"Reported","Shortfin mako","Artisanal",82,20,3,"R","Landings",600752
+"30","pelagiclg",2010,"India","Xiphias gladius",4,"Tuna & billfishes","R",3.66970282413032,114988,"Reported","Swordfish","Industrial",82,3,1,"R","Landings",600226
+"31","pelagiclg",2010,"India","Xiphias gladius",4,"Tuna & billfishes","R",0.578566439432768,114988,"Reported","Swordfish","Artisanal",82,3,3,"R","Landings",600226
+"32","pelagiclg",2010,"India","Xiphias gladius",4,"Tuna & billfishes","R",1.00490437925044,114988,"Unreported","Swordfish","Artisanal",82,3,3,"U","Landings",600226
+"33","pelagiclg",2010,"India","Istiompax indica",4,"Tuna & billfishes","R",0.0946329545343517,114988,"Reported","Black marlin","Industrial",82,3,1,"R","Landings",600217
+"34","pelagiclg",2010,"India","Istiompax indica",4,"Tuna & billfishes","R",0.164666181031167,114988,"Reported","Black marlin","Artisanal",82,3,3,"R","Landings",600217
+"35","pelagiclg",2010,"India","Istiompax indica",4,"Tuna & billfishes","R",0.571054268420466,114988,"Unreported","Black marlin","Artisanal",82,3,3,"U","Landings",600217
+"36","sharklg",2010,"India","Sphyrna lewini",9,"Sharks & rays","R",0.104215772485696,114988,"Reported","Scalloped hammerhead","Industrial",82,20,1,"R","Landings",600912
+"37","sharklg",2010,"India","Sphyrna lewini",9,"Sharks & rays","R",0.137858110895038,115708,"Reported","Scalloped hammerhead","Industrial",82,20,1,"R","Landings",600912
+"38","sharklg",2010,"India","Sphyrna lewini",9,"Sharks & rays","R",0.119371933963842,115707,"Reported","Scalloped hammerhead","Industrial",82,20,1,"R","Landings",600912
+"39","sharklg",2010,"India","Sphyrna lewini",9,"Sharks & rays","R",0.204248881891798,114988,"Reported","Scalloped hammerhead","Artisanal",82,20,3,"R","Landings",600912
+"40","sharklg",2010,"India","Sphyrna lewini",9,"Sharks & rays","R",0.00858595243926351,114988,"Reported","Scalloped hammerhead","Artisanal",82,20,3,"R","Landings",600912
+"41","sharklg",2010,"India","Sphyrna lewini",9,"Sharks & rays","R",0.200904368908223,114988,"Reported","Scalloped hammerhead","Artisanal",82,20,3,"R","Landings",600912
+"42","pelagiclg",2010,"India","Euthynnus affinis",4,"Tuna & billfishes","R",6.23958033179888,114988,"Reported","Kawakawa","Artisanal",82,3,3,"R","Landings",600096
+"43","pelagiclg",2010,"India","Euthynnus affinis",4,"Tuna & billfishes","R",8.13602942583636,114988,"Reported","Kawakawa","Artisanal",82,3,3,"R","Landings",600096
+"44","sharklg",2010,"India","Sphyrna zygaena",9,"Sharks & rays","R",0.2804607257155,114988,"Reported","Smooth hammerhead","Industrial",82,20,1,"R","Landings",600917
+"45","sharklg",2010,"India","Sphyrna zygaena",9,"Sharks & rays","R",0.362446048083009,115708,"Reported","Smooth hammerhead","Industrial",82,20,1,"R","Landings",600917
+"46","sharklg",2010,"India","Sphyrna zygaena",9,"Sharks & rays","R",0.273987727531148,115707,"Reported","Smooth hammerhead","Industrial",82,20,1,"R","Landings",600917
+"47","sharklg",2010,"India","Sphyrna zygaena",9,"Sharks & rays","R",0.64166691577006,114988,"Reported","Smooth hammerhead","Artisanal",82,20,3,"R","Landings",600917
+"48","sharklg",2010,"India","Sphyrna zygaena",9,"Sharks & rays","R",0.026973570526419,114988,"Reported","Smooth hammerhead","Artisanal",82,20,3,"R","Landings",600917
+"49","sharklg",2010,"India","Sphyrna zygaena",9,"Sharks & rays","R",0.631159816240083,114988,"Reported","Smooth hammerhead","Artisanal",82,20,3,"R","Landings",600917
+"50","pelagicsm",2010,"India","Sardinella",2,"Herring-likes","R",0.0021003288481541,114988,"Unreported","Sardinellas","Artisanal",82,1,3,"U","Landings",501940
+"51","pelagicsm",2010,"India","Sardinella",2,"Herring-likes","R",0.00105016442407705,114988,"Unreported","Sardinellas","Artisanal",82,1,3,"U","Landings",501940
+"52","pelagicsm",2010,"India","Sardinella",2,"Herring-likes","R",1.02747062169501,114988,"Unreported","Sardinellas","Artisanal",82,1,3,"U","Landings",501940
+"53","pelagicsm",2010,"India","Sardinella",2,"Herring-likes","D",1.44780460926547,114988,"Unreported","Sardinellas","Industrial",82,1,1,"U","Discards",501940
+"54","pelagicsm",2010,"India","Sardinella",2,"Herring-likes","D",1.31796723710898,115708,"Unreported","Sardinellas","Industrial",82,1,1,"U","Discards",501940
+"55","pelagicsm",2010,"India","Sardinella",2,"Herring-likes","D",1.27251627689316,115707,"Unreported","Sardinellas","Industrial",82,1,1,"U","Discards",501940
+"56","pelagiclg",2010,"India","Istiophorus platypterus",4,"Tuna & billfishes","R",0.00269757025277877,114988,"Reported","Indo-Pacific sailfish","Industrial",82,3,1,"R","Landings",600077
+"57","pelagiclg",2010,"India","Istiophorus platypterus",4,"Tuna & billfishes","R",0.667718936258313,114988,"Reported","Indo-Pacific sailfish","Artisanal",82,3,3,"R","Landings",600077
+"58","pelagiclg",2010,"India","Istiophorus platypterus",4,"Tuna & billfishes","R",2.30771509669531,114988,"Unreported","Indo-Pacific sailfish","Artisanal",82,3,3,"U","Landings",600077
+"59","pelagiclg",2010,"India","Acanthocybium solandri",3,"Perch-likes","R",0.25081452148557,115707,"Reported","Wahoo","Industrial",82,3,1,"R","Landings",600089
+"60","pelagiclg",2010,"India","Acanthocybium solandri",3,"Perch-likes","R",0.273884429825277,114988,"Reported","Wahoo","Industrial",82,3,1,"R","Landings",600089
+"61","pelagiclg",2010,"India","Acanthocybium solandri",3,"Perch-likes","R",0.272002634830654,115708,"Reported","Wahoo","Industrial",82,3,1,"R","Landings",600089
+"62","pelagiclg",2010,"India","Acanthocybium solandri",3,"Perch-likes","R",0.0118867965612461,114988,"Reported","Wahoo","Artisanal",82,3,3,"R","Landings",600089
+"63","pelagiclg",2010,"India","Acanthocybium solandri",3,"Perch-likes","R",0.0287376868193759,114988,"Reported","Wahoo","Artisanal",82,3,3,"R","Landings",600089
+"64","pelagiclg",2010,"India","Acanthocybium solandri",3,"Perch-likes","R",0.00798535468754625,114988,"Reported","Wahoo","Artisanal",82,3,3,"R","Landings",600089
+"65","pelagiclg",2010,"India","Acanthocybium solandri",3,"Perch-likes","R",0.00383088788233368,114988,"Reported","Wahoo","Artisanal",82,3,3,"R","Landings",600089
+"66","pelagiclg",2010,"India","Acanthocybium solandri",3,"Perch-likes","R",0.00826019765909352,114988,"Reported","Wahoo","Artisanal",82,3,3,"R","Landings",600089
+"67","pelagiclg",2010,"India","Acanthocybium solandri",3,"Perch-likes","R",0.00714137153579384,114988,"Reported","Wahoo","Artisanal",82,3,3,"R","Landings",600089
+"68","pelagiclg",2010,"India","Acanthocybium solandri",3,"Perch-likes","R",2.20099312638592,115707,"Unreported","Wahoo","Industrial",82,3,1,"U","Landings",600089
+"69","pelagiclg",2010,"India","Acanthocybium solandri",3,"Perch-likes","R",2.40344037458072,114988,"Unreported","Wahoo","Industrial",82,3,1,"U","Landings",600089
+"70","pelagiclg",2010,"India","Acanthocybium solandri",3,"Perch-likes","R",2.3869269054885,115708,"Unreported","Wahoo","Industrial",82,3,1,"U","Landings",600089
+"71","pelagiclg",2010,"India","Acanthocybium solandri",3,"Perch-likes","R",0.203902830553196,114988,"Unreported","Wahoo","Artisanal",82,3,3,"U","Landings",600089
+"72","pelagiclg",2010,"India","Acanthocybium solandri",3,"Perch-likes","R",0.492958355586407,114988,"Unreported","Wahoo","Artisanal",82,3,3,"U","Landings",600089
+"73","pelagiclg",2010,"India","Acanthocybium solandri",3,"Perch-likes","R",0.136978572433078,114988,"Unreported","Wahoo","Artisanal",82,3,3,"U","Landings",600089
+"74","pelagiclg",2010,"India","Acanthocybium solandri",3,"Perch-likes","R",0.0657139944067395,114988,"Unreported","Wahoo","Artisanal",82,3,3,"U","Landings",600089
+"75","pelagiclg",2010,"India","Acanthocybium solandri",3,"Perch-likes","R",0.141693152981958,114988,"Unreported","Wahoo","Artisanal",82,3,3,"U","Landings",600089
+"76","pelagiclg",2010,"India","Acanthocybium solandri",3,"Perch-likes","R",0.122501118167344,114988,"Unreported","Wahoo","Artisanal",82,3,3,"U","Landings",600089
+"77","pelagiclg",2010,"India","Acanthocybium solandri",3,"Perch-likes","D",0.175869859423209,115707,"Unreported","Wahoo","Industrial",82,3,1,"U","Discards",600089
+"78","pelagiclg",2010,"India","Acanthocybium solandri",3,"Perch-likes","D",0.192046361136823,114988,"Unreported","Wahoo","Industrial",82,3,1,"U","Discards",600089
+"79","pelagiclg",2010,"India","Acanthocybium solandri",3,"Perch-likes","D",0.190726856112922,115708,"Unreported","Wahoo","Industrial",82,3,1,"U","Discards",600089
+"80","pelagiclg",2010,"India","Tetrapturus angustirostris",4,"Tuna & billfishes","R",0.000599311471754213,114988,"Reported","Shortbill spearfish","Industrial",82,3,1,"R","Landings",603915
+"81","bathypelagiclg",2010,"India","Alepisaurus ferox",12,"Other fishes & inverts","R",0.241163775077643,115707,"Reported","Long snouted lancetfish","Industrial",82,9,1,"R","Landings",600099
+"82","bathypelagiclg",2010,"India","Alepisaurus ferox",12,"Other fishes & inverts","R",0.241326787980564,114988,"Reported","Long snouted lancetfish","Industrial",82,9,1,"R","Landings",600099
+"83","bathypelagiclg",2010,"India","Alepisaurus ferox",12,"Other fishes & inverts","R",0.313703955768664,115708,"Reported","Long snouted lancetfish","Industrial",82,9,1,"R","Landings",600099
+"84","bathypelagiclg",2010,"India","Alepisaurus ferox",12,"Other fishes & inverts","R",0.618198510263158,114988,"Reported","Long snouted lancetfish","Artisanal",82,9,3,"R","Landings",600099
+"85","bathypelagiclg",2010,"India","Alepisaurus ferox",12,"Other fishes & inverts","R",0.41032568647461,114988,"Reported","Long snouted lancetfish","Artisanal",82,9,3,"R","Landings",600099
+"86","pelagicsm",2010,"India","Bregmaceros mcclellandi",5,"Cod-likes","R",0.0819134174439288,114988,"Reported","Unicorn cod","Industrial",82,1,1,"R","Landings",608421
+"87","pelagicsm",2010,"India","Bregmaceros mcclellandi",5,"Cod-likes","R",0.0748861168252362,115708,"Reported","Unicorn cod","Industrial",82,1,1,"R","Landings",608421
+"88","pelagicsm",2010,"India","Bregmaceros mcclellandi",5,"Cod-likes","R",0.0670032624823636,115707,"Reported","Unicorn cod","Industrial",82,1,1,"R","Landings",608421
+"89","pelagicsm",2010,"India","Bregmaceros mcclellandi",5,"Cod-likes","R",0.00497602805988015,114988,"Reported","Unicorn cod","Artisanal",82,1,3,"R","Landings",608421
+"90","pelagicsm",2010,"India","Bregmaceros mcclellandi",5,"Cod-likes","R",4.30811855559157e-06,114988,"Reported","Unicorn cod","Artisanal",82,1,3,"R","Landings",608421
+"91","pelagicsm",2010,"India","Bregmaceros mcclellandi",5,"Cod-likes","R",0.00057143840807173,114988,"Reported","Unicorn cod","Artisanal",82,1,3,"R","Landings",608421
+"92","pelagicsm",2010,"India","Bregmaceros mcclellandi",5,"Cod-likes","R",0.00713157905795939,114988,"Unreported","Unicorn cod","Artisanal",82,1,3,"U","Landings",608421
+"93","pelagicsm",2010,"India","Bregmaceros mcclellandi",5,"Cod-likes","R",6.17433979482084e-06,114988,"Unreported","Unicorn cod","Artisanal",82,1,3,"U","Landings",608421
+"94","pelagicsm",2010,"India","Bregmaceros mcclellandi",5,"Cod-likes","R",0.00081897813574953,114988,"Unreported","Unicorn cod","Artisanal",82,1,3,"U","Landings",608421
+"95","pelagicsm",2010,"India","Bregmaceros mcclellandi",5,"Cod-likes","D",0.00787675328573712,114988,"Unreported","Unicorn cod","Industrial",82,1,1,"U","Discards",608421
+"96","pelagicsm",2010,"India","Bregmaceros mcclellandi",5,"Cod-likes","D",0.00720101157008914,115708,"Unreported","Unicorn cod","Industrial",82,1,1,"U","Discards",608421
+"97","pelagicsm",2010,"India","Bregmaceros mcclellandi",5,"Cod-likes","D",0.00644300023588115,115707,"Unreported","Unicorn cod","Industrial",82,1,1,"U","Discards",608421
+"98","pelagicsm",2010,"India","Zenarchopterus dispar",12,"Other fishes & inverts","R",0.0168634002479366,114988,"Unreported","Feathered river garfish","Artisanal",82,1,3,"U","Landings",609648
+"99","pelagicsm",2010,"India","Zenarchopterus dispar",12,"Other fishes & inverts","R",0.0466637584581676,114988,"Unreported","Feathered river garfish","Artisanal",82,1,3,"U","Landings",609648
+"100","pelagicsm",2010,"India","Zenarchopterus dispar",12,"Other fishes & inverts","D",0.0475985400547537,115707,"Unreported","Feathered river garfish","Industrial",82,1,1,"U","Discards",609648
+"101","pelagicsm",2010,"India","Zenarchopterus dispar",12,"Other fishes & inverts","D",0.156775846621148,114988,"Unreported","Feathered river garfish","Industrial",82,1,1,"U","Discards",609648
+"102","pelagicsm",2010,"India","Zenarchopterus dispar",12,"Other fishes & inverts","D",0.0648654474471746,115708,"Unreported","Feathered river garfish","Industrial",82,1,1,"U","Discards",609648
+"103","sharklg",2010,"India","Elasmobranchii",9,"Sharks & rays","R",0.815804294179065,114988,"Reported","Sharks, rays, skates","Industrial",82,20,1,"R","Landings",200004
+"104","sharklg",2010,"India","Elasmobranchii",9,"Sharks & rays","R",2.16304434953242,115707,"Reported","Sharks, rays, skates","Industrial",82,20,1,"R","Landings",200004
+"105","sharklg",2010,"India","Elasmobranchii",9,"Sharks & rays","R",1.87845007164953,114988,"Reported","Sharks, rays, skates","Industrial",82,20,1,"R","Landings",200004
+"106","sharklg",2010,"India","Elasmobranchii",9,"Sharks & rays","R",2.49828629784496,115708,"Reported","Sharks, rays, skates","Industrial",82,20,1,"R","Landings",200004
+"107","sharklg",2010,"India","Elasmobranchii",9,"Sharks & rays","R",2.01028895903781,114988,"Reported","Sharks, rays, skates","Artisanal",82,20,3,"R","Landings",200004
+"108","sharklg",2010,"India","Elasmobranchii",9,"Sharks & rays","R",0.0845059479964196,114988,"Reported","Sharks, rays, skates","Artisanal",82,20,3,"R","Landings",200004
+"109","sharklg",2010,"India","Elasmobranchii",9,"Sharks & rays","R",1.97737109206118,114988,"Reported","Sharks, rays, skates","Artisanal",82,20,3,"R","Landings",200004
+"110","sharklg",2010,"India","Elasmobranchii",9,"Sharks & rays","R",123.139490632612,115707,"Unreported","Sharks, rays, skates","Industrial",82,20,1,"U","Landings",200004
+"111","sharklg",2010,"India","Elasmobranchii",9,"Sharks & rays","R",106.937883659999,114988,"Unreported","Sharks, rays, skates","Industrial",82,20,1,"U","Landings",200004
+"112","sharklg",2010,"India","Elasmobranchii",9,"Sharks & rays","R",142.224408037479,115708,"Unreported","Sharks, rays, skates","Industrial",82,20,1,"U","Landings",200004
+"113","sharklg",2010,"India","Elasmobranchii",9,"Sharks & rays","R",21.0800978327087,114988,"Unreported","Sharks, rays, skates","Artisanal",82,20,3,"U","Landings",200004
+"114","sharklg",2010,"India","Elasmobranchii",9,"Sharks & rays","R",0.886138106266552,114988,"Unreported","Sharks, rays, skates","Artisanal",82,20,3,"U","Landings",200004
+"115","sharklg",2010,"India","Elasmobranchii",9,"Sharks & rays","R",20.7349176767955,114988,"Unreported","Sharks, rays, skates","Artisanal",82,20,3,"U","Landings",200004
+"116","sharklg",2010,"India","Elasmobranchii",9,"Sharks & rays","D",0.766029654357818,115707,"Unreported","Sharks, rays, skates","Industrial",82,20,1,"U","Discards",200004
+"117","sharklg",2010,"India","Elasmobranchii",9,"Sharks & rays","D",0.665242235752197,114988,"Unreported","Sharks, rays, skates","Industrial",82,20,1,"U","Discards",200004
+"118","sharklg",2010,"India","Elasmobranchii",9,"Sharks & rays","D",0.884753652711162,115708,"Unreported","Sharks, rays, skates","Industrial",82,20,1,"U","Discards",200004
+"119","sharklg",2010,"India","Carcharhinus sorrah",9,"Sharks & rays","R",2.77360297518352,115707,"Reported","Spottail shark","Industrial",82,20,1,"R","Landings",600884
+"120","sharklg",2010,"India","Carcharhinus sorrah",9,"Sharks & rays","R",4.01004357724849,114988,"Reported","Spottail shark","Industrial",82,20,1,"R","Landings",600884
+"121","sharklg",2010,"India","Carcharhinus sorrah",9,"Sharks & rays","R",3.34096156232431,115708,"Reported","Spottail shark","Industrial",82,20,1,"R","Landings",600884
+"122","sharklg",2010,"India","Carcharhinus sorrah",9,"Sharks & rays","R",0.065993742685299,114988,"Reported","Spottail shark","Artisanal",82,20,3,"R","Landings",600884
+"123","sharklg",2010,"India","Carcharhinus sorrah",9,"Sharks & rays","R",0.00277416028296861,114988,"Reported","Spottail shark","Artisanal",82,20,3,"R","Landings",600884
+"124","sharklg",2010,"India","Carcharhinus sorrah",9,"Sharks & rays","R",0.0649131153290984,114988,"Reported","Spottail shark","Artisanal",82,20,3,"R","Landings",600884
+"125","benthopelagicsm",2010,"India","Gerres",3,"Perch-likes","R",3.60708097776219,115707,"Reported","Silver biddies","Industrial",82,13,1,"R","Landings",501055
+"126","benthopelagicsm",2010,"India","Gerres",3,"Perch-likes","R",4.30107564461742,114988,"Reported","Silver biddies","Industrial",82,13,1,"R","Landings",501055
+"127","benthopelagicsm",2010,"India","Gerres",3,"Perch-likes","R",3.7806434803964,115708,"Reported","Silver biddies","Industrial",82,13,1,"R","Landings",501055
+"128","benthopelagicsm",2010,"India","Gerres",3,"Perch-likes","R",0.0348966075762085,114988,"Reported","Silver biddies","Artisanal",82,13,3,"R","Landings",501055
+"129","benthopelagicsm",2010,"India","Gerres",3,"Perch-likes","R",0.0133348855552156,114988,"Reported","Silver biddies","Artisanal",82,13,3,"R","Landings",501055
+"130","benthopelagicsm",2010,"India","Gerres",3,"Perch-likes","R",0.0490115407182721,114988,"Reported","Silver biddies","Artisanal",82,13,3,"R","Landings",501055
+"131","benthopelagicsm",2010,"India","Gerres",3,"Perch-likes","R",0.0339555393229154,114988,"Reported","Silver biddies","Artisanal",82,13,3,"R","Landings",501055
+"132","benthopelagicsm",2010,"India","Gerres",3,"Perch-likes","D",0.903015530262107,115707,"Unreported","Silver biddies","Industrial",82,13,1,"U","Discards",501055
+"133","benthopelagicsm",2010,"India","Gerres",3,"Perch-likes","D",1.0767537873051,114988,"Unreported","Silver biddies","Industrial",82,13,1,"U","Discards",501055
+"134","benthopelagicsm",2010,"India","Gerres",3,"Perch-likes","D",0.946466075541266,115708,"Unreported","Silver biddies","Industrial",82,13,1,"U","Discards",501055
+"135","sharklg",2010,"India","Carcharhinus falciformis",9,"Sharks & rays","R",2.73091045146105,115707,"Reported","Silky shark","Industrial",82,20,1,"R","Landings",600868
+"136","sharklg",2010,"India","Carcharhinus falciformis",9,"Sharks & rays","R",3.10366989033092,114988,"Reported","Silky shark","Industrial",82,20,1,"R","Landings",600868
+"137","sharklg",2010,"India","Carcharhinus falciformis",9,"Sharks & rays","R",2.78294178746231,115708,"Reported","Silky shark","Industrial",82,20,1,"R","Landings",600868
+"138","sharklg",2010,"India","Carcharhinus falciformis",9,"Sharks & rays","R",0.069961769087314,114988,"Reported","Silky shark","Artisanal",82,20,3,"R","Landings",600868
+"139","sharklg",2010,"India","Carcharhinus falciformis",9,"Sharks & rays","R",0.00294096308575453,114988,"Reported","Silky shark","Artisanal",82,20,3,"R","Landings",600868
+"140","sharklg",2010,"India","Carcharhinus falciformis",9,"Sharks & rays","R",0.0688161665121658,114988,"Reported","Silky shark","Artisanal",82,20,3,"R","Landings",600868
+"141","pelagiclg",2010,"India","Thunnus albacares",4,"Tuna & billfishes","R",0.113736157122746,114988,"Reported","Yellowfin tuna","Industrial",82,3,1,"R","Landings",600143
+"142","pelagiclg",2010,"India","Thunnus albacares",4,"Tuna & billfishes","R",0.0492095373498503,114988,"Reported","Yellowfin tuna","Artisanal",82,3,3,"R","Landings",600143
+"143","pelagiclg",2010,"India","Thunnus albacares",4,"Tuna & billfishes","R",0.535618515936923,114988,"Reported","Yellowfin tuna","Artisanal",82,3,3,"R","Landings",600143
+"144","sharklg",2010,"India","Prionace glauca",9,"Sharks & rays","R",0.176256766211815,114988,"Reported","Blue shark","Industrial",82,20,1,"R","Landings",600898
+"145","sharklg",2010,"India","Prionace glauca",9,"Sharks & rays","R",3.46160118336081,115707,"Reported","Blue shark","Industrial",82,20,1,"R","Landings",600898
+"146","sharklg",2010,"India","Prionace glauca",9,"Sharks & rays","R",3.02724217781796,114988,"Reported","Blue shark","Industrial",82,20,1,"R","Landings",600898
+"147","sharklg",2010,"India","Prionace glauca",9,"Sharks & rays","R",4.00009087443134,115708,"Reported","Blue shark","Industrial",82,20,1,"R","Landings",600898
+"148","sharklg",2010,"India","Prionace glauca",9,"Sharks & rays","R",5.5968250700149,114988,"Reported","Blue shark","Artisanal",82,20,3,"R","Landings",600898
+"149","sharklg",2010,"India","Prionace glauca",9,"Sharks & rays","R",0.235272151391666,114988,"Reported","Blue shark","Artisanal",82,20,3,"R","Landings",600898
+"150","sharklg",2010,"India","Prionace glauca",9,"Sharks & rays","R",5.50517877095033,114988,"Reported","Blue shark","Artisanal",82,20,3,"R","Landings",600898
+"151","benthopelagiclg",2010,"India","Chanos chanos",12,"Other fishes & inverts","R",0.406531525850912,115707,"Reported","Milkfish","Industrial",82,15,1,"R","Landings",600080
+"152","benthopelagiclg",2010,"India","Chanos chanos",12,"Other fishes & inverts","R",0.406037210539671,114988,"Reported","Milkfish","Industrial",82,15,1,"R","Landings",600080
+"153","benthopelagiclg",2010,"India","Chanos chanos",12,"Other fishes & inverts","R",0.399683395977549,115708,"Reported","Milkfish","Industrial",82,15,1,"R","Landings",600080
+"154","benthopelagiclg",2010,"India","Chanos chanos",12,"Other fishes & inverts","R",0.0145281965027291,114988,"Reported","Milkfish","Artisanal",82,15,3,"R","Landings",600080
+"155","benthopelagiclg",2010,"India","Chanos chanos",12,"Other fishes & inverts","R",6.21807697008923,114988,"Unreported","Milkfish","Subsistence",82,15,2,"U","Landings",600080
+"156","raylg",2010,"India","Rhynchobatus djiddensis",9,"Sharks & rays","R",3.28332593451914,115707,"Reported","Giant guitarfish","Industrial",82,22,1,"R","Landings",605503
+"157","raylg",2010,"India","Rhynchobatus djiddensis",9,"Sharks & rays","R",8.12436381376326,114988,"Reported","Giant guitarfish","Industrial",82,22,1,"R","Landings",605503
+"158","raylg",2010,"India","Rhynchobatus djiddensis",9,"Sharks & rays","R",3.50625569162593,115708,"Reported","Giant guitarfish","Industrial",82,22,1,"R","Landings",605503
+"159","raylg",2010,"India","Rhynchobatus djiddensis",9,"Sharks & rays","R",0.185526214674921,114988,"Reported","Giant guitarfish","Artisanal",82,22,3,"R","Landings",605503
+"160","raylg",2010,"India","Rhynchobatus djiddensis",9,"Sharks & rays","R",0.0106990133965891,114988,"Reported","Giant guitarfish","Artisanal",82,22,3,"R","Landings",605503
+"161","raylg",2010,"India","Rhynchobatus djiddensis",9,"Sharks & rays","R",0.0603826073410338,114988,"Reported","Giant guitarfish","Artisanal",82,22,3,"R","Landings",605503
+"162","raylg",2010,"India","Rhynchobatus djiddensis",9,"Sharks & rays","R",0.0310650433958078,114988,"Unreported","Giant guitarfish","Artisanal",82,22,3,"U","Landings",605503
+"163","raylg",2010,"India","Rhynchobatus djiddensis",9,"Sharks & rays","R",0.00179147359870269,114988,"Unreported","Giant guitarfish","Artisanal",82,22,3,"U","Landings",605503
+"164","raylg",2010,"India","Rhynchobatus djiddensis",9,"Sharks & rays","R",0.0101106375758703,114988,"Unreported","Giant guitarfish","Artisanal",82,22,3,"U","Landings",605503
+"165","raylg",2010,"India","Rhynchobatus djiddensis",9,"Sharks & rays","D",0.0368867162820088,115707,"Unreported","Giant guitarfish","Industrial",82,22,1,"U","Discards",605503
+"166","raylg",2010,"India","Rhynchobatus djiddensis",9,"Sharks & rays","D",0.0912736380568913,114988,"Unreported","Giant guitarfish","Industrial",82,22,1,"U","Discards",605503
+"167","raylg",2010,"India","Rhynchobatus djiddensis",9,"Sharks & rays","D",0.0393912336114526,115708,"Unreported","Giant guitarfish","Industrial",82,22,1,"U","Discards",605503
+"168","sharklg",2010,"India","Isurus",9,"Sharks & rays","R",0.0915520614184504,114988,"Reported","Mako sharks","Industrial",82,20,1,"R","Landings",500638
+"169","benthopelagicmd",2010,"India","Pampus argenteus",3,"Perch-likes","R",0.359914631887173,114988,"Unreported","Silver pomfret","Artisanal",82,14,3,"U","Landings",600491
+"170","benthopelagicmd",2010,"India","Pampus argenteus",3,"Perch-likes","D",2.45013683739962,114988,"Unreported","Silver pomfret","Industrial",82,14,1,"U","Discards",600491
+"171","benthopelagicmd",2010,"India","Pampus argenteus",3,"Perch-likes","D",1.52037487686908,115708,"Unreported","Silver pomfret","Industrial",82,14,1,"U","Discards",600491
+"172","benthopelagicmd",2010,"India","Pampus argenteus",3,"Perch-likes","D",1.52037487686926,115707,"Unreported","Silver pomfret","Industrial",82,14,1,"U","Discards",600491
+"173","pelagiclg",2010,"India","Scomberomorus commerson",3,"Perch-likes","R",85.088361982552,114988,"Reported","Narrowbarred Spanish mackerel","Industrial",82,3,1,"R","Landings",600121
+"174","pelagiclg",2010,"India","Scomberomorus commerson",3,"Perch-likes","R",85.6717918882379,115708,"Reported","Narrowbarred Spanish mackerel","Industrial",82,3,1,"R","Landings",600121
+"175","pelagiclg",2010,"India","Scomberomorus commerson",3,"Perch-likes","R",86.6656939281395,115707,"Reported","Narrowbarred Spanish mackerel","Industrial",82,3,1,"R","Landings",600121
+"176","pelagiclg",2010,"India","Scomberomorus commerson",3,"Perch-likes","R",1.37104040386427,114988,"Reported","Narrowbarred Spanish mackerel","Artisanal",82,3,3,"R","Landings",600121
+"177","pelagiclg",2010,"India","Scomberomorus commerson",3,"Perch-likes","R",2.97726949760143,114988,"Reported","Narrowbarred Spanish mackerel","Artisanal",82,3,3,"R","Landings",600121
+"178","pelagiclg",2010,"India","Scomberomorus commerson",3,"Perch-likes","R",298.509929830278,114988,"Unreported","Narrowbarred Spanish mackerel","Industrial",82,3,1,"U","Landings",600121
+"179","pelagiclg",2010,"India","Scomberomorus commerson",3,"Perch-likes","R",300.556738772762,115708,"Unreported","Narrowbarred Spanish mackerel","Industrial",82,3,1,"U","Landings",600121
+"180","pelagiclg",2010,"India","Scomberomorus commerson",3,"Perch-likes","R",304.043580231175,115707,"Unreported","Narrowbarred Spanish mackerel","Industrial",82,3,1,"U","Landings",600121
+"181","pelagiclg",2010,"India","Scomberomorus commerson",3,"Perch-likes","R",4.54468629074514,114988,"Unreported","Narrowbarred Spanish mackerel","Artisanal",82,3,3,"U","Landings",600121
+"182","pelagiclg",2010,"India","Scomberomorus commerson",3,"Perch-likes","R",9.86896945667432,114988,"Unreported","Narrowbarred Spanish mackerel","Artisanal",82,3,3,"U","Landings",600121
+"183","pelagiclg",2010,"India","Scomberomorus commerson",3,"Perch-likes","D",1.03437452851547,114988,"Unreported","Narrowbarred Spanish mackerel","Industrial",82,3,1,"U","Discards",600121
+"184","pelagiclg",2010,"India","Scomberomorus commerson",3,"Perch-likes","D",1.04146697946357,115708,"Unreported","Narrowbarred Spanish mackerel","Industrial",82,3,1,"U","Discards",600121
+"185","pelagiclg",2010,"India","Scomberomorus commerson",3,"Perch-likes","D",1.05354932456882,115707,"Unreported","Narrowbarred Spanish mackerel","Industrial",82,3,1,"U","Discards",600121
+"186","reef-associatedmd",2010,"India","Drepane punctata",3,"Perch-likes","R",0.77748995963559,115707,"Reported","Spotted sicklefish","Industrial",82,17,1,"R","Landings",600454
+"187","reef-associatedmd",2010,"India","Drepane punctata",3,"Perch-likes","R",0.854404515925833,114988,"Reported","Spotted sicklefish","Industrial",82,17,1,"R","Landings",600454
+"188","reef-associatedmd",2010,"India","Drepane punctata",3,"Perch-likes","R",0.737780749660321,115708,"Reported","Spotted sicklefish","Industrial",82,17,1,"R","Landings",600454
+"189","reef-associatedmd",2010,"India","Drepane punctata",3,"Perch-likes","R",0.00757789009358355,114988,"Reported","Spotted sicklefish","Artisanal",82,17,3,"R","Landings",600454
+"190","reef-associatedmd",2010,"India","Drepane punctata",3,"Perch-likes","R",0.00289570546154843,114988,"Reported","Spotted sicklefish","Artisanal",82,17,3,"R","Landings",600454
+"191","reef-associatedmd",2010,"India","Drepane punctata",3,"Perch-likes","R",0.0106429849397015,114988,"Reported","Spotted sicklefish","Artisanal",82,17,3,"R","Landings",600454
+"192","reef-associatedmd",2010,"India","Drepane punctata",3,"Perch-likes","R",0.00737353464790185,114988,"Reported","Spotted sicklefish","Artisanal",82,17,3,"R","Landings",600454
+"193","reef-associatedmd",2010,"India","Drepane punctata",3,"Perch-likes","D",12.6516588647321,115707,"Unreported","Spotted sicklefish","Industrial",82,17,1,"U","Discards",600454
+"194","reef-associatedmd",2010,"India","Drepane punctata",3,"Perch-likes","D",13.903246381531,114988,"Unreported","Spotted sicklefish","Industrial",82,17,1,"U","Discards",600454
+"195","reef-associatedmd",2010,"India","Drepane punctata",3,"Perch-likes","D",12.0054931205074,115708,"Unreported","Spotted sicklefish","Industrial",82,17,1,"U","Discards",600454
+"196","demersalmd",2010,"India","Lethrinus nebulosus",3,"Perch-likes","R",0.400123219800786,115707,"Reported","Spangled emperor","Industrial",82,5,1,"R","Landings",601846
+"197","demersalmd",2010,"India","Lethrinus nebulosus",3,"Perch-likes","R",0.419277510099289,114988,"Reported","Spangled emperor","Industrial",82,5,1,"R","Landings",601846
+"198","demersalmd",2010,"India","Lethrinus nebulosus",3,"Perch-likes","R",0.365071880962698,115708,"Reported","Spangled emperor","Industrial",82,5,1,"R","Landings",601846
+"199","demersalmd",2010,"India","Lethrinus nebulosus",3,"Perch-likes","R",0.00378147955499741,114988,"Reported","Spangled emperor","Artisanal",82,5,3,"R","Landings",601846
+"200","demersalmd",2010,"India","Lethrinus nebulosus",3,"Perch-likes","R",0.00144499997557518,114988,"Reported","Spangled emperor","Artisanal",82,5,3,"R","Landings",601846
+"201","demersalmd",2010,"India","Lethrinus nebulosus",3,"Perch-likes","R",0.00531100734592395,114988,"Reported","Spangled emperor","Artisanal",82,5,3,"R","Landings",601846
+"202","demersalmd",2010,"India","Lethrinus nebulosus",3,"Perch-likes","R",0.00367950315652046,114988,"Reported","Spangled emperor","Artisanal",82,5,3,"R","Landings",601846
+"203","pelagiclg",2010,"India","Thunnus tonggol",4,"Tuna & billfishes","R",0.808808470705032,114988,"Reported","Longtail tuna","Artisanal",82,3,3,"R","Landings",600148
+"204","pelagiclg",2010,"India","Thunnus tonggol",4,"Tuna & billfishes","R",3.47573299273585,114988,"Reported","Longtail tuna","Artisanal",82,3,3,"R","Landings",600148
+"205","demersalmd",2010,"India","Marine fishes not identified",12,"Other fishes & inverts","R",1.20609326001421,114988,"Unreported","Marine fishes nei","Artisanal",82,5,3,"U","Landings",100039
+"206","demersalmd",2010,"India","Marine fishes not identified",12,"Other fishes & inverts","R",0.0790724344497545,114988,"Unreported","Marine fishes nei","Artisanal",82,5,3,"U","Landings",100039
+"207","demersalmd",2010,"India","Marine fishes not identified",12,"Other fishes & inverts","D",19.561419512652,115707,"Unreported","Marine fishes nei","Industrial",82,5,1,"U","Discards",100039
+"208","demersalmd",2010,"India","Marine fishes not identified",12,"Other fishes & inverts","D",162.396863619653,114988,"Unreported","Marine fishes nei","Industrial",82,5,1,"U","Discards",100039
+"209","demersalmd",2010,"India","Marine fishes not identified",12,"Other fishes & inverts","D",19.1424290031418,115708,"Unreported","Marine fishes nei","Industrial",82,5,1,"U","Discards",100039
+"210","demersalmd",2010,"India","Marine fishes not identified",12,"Other fishes & inverts","D",1.58353915742291,115707,"Unreported","Marine fishes nei","Industrial",82,5,1,"U","Discards",100039
+"211","demersalmd",2010,"India","Marine fishes not identified",12,"Other fishes & inverts","D",2.88305602171008,114988,"Unreported","Marine fishes nei","Industrial",82,5,1,"U","Discards",100039
+"212","demersalmd",2010,"India","Marine fishes not identified",12,"Other fishes & inverts","D",1.5496209707613,115708,"Unreported","Marine fishes nei","Industrial",82,5,1,"U","Discards",100039
+"213","demersalmd",2010,"India","Marine fishes not identified",12,"Other fishes & inverts","D",5.98225752600469,114988,"Unreported","Marine fishes nei","Industrial",82,5,1,"U","Discards",100039
+"214","demersalmd",2010,"India","Marine fishes not identified",12,"Other fishes & inverts","D",0.705154874408528,115708,"Unreported","Marine fishes nei","Industrial",82,5,1,"U","Discards",100039
+"215","demersalmd",2010,"India","Marine fishes not identified",12,"Other fishes & inverts","D",0.720589342002141,115707,"Unreported","Marine fishes nei","Industrial",82,5,1,"U","Discards",100039
+"216","demersalmd",2010,"India","Marine fishes not identified",12,"Other fishes & inverts","D",7.15796209913667,115707,"Unreported","Marine fishes nei","Industrial",82,5,1,"U","Discards",100039
+"217","demersalmd",2010,"India","Marine fishes not identified",12,"Other fishes & inverts","D",59.4246544355487,114988,"Unreported","Marine fishes nei","Industrial",82,5,1,"U","Discards",100039
+"218","demersalmd",2010,"India","Marine fishes not identified",12,"Other fishes & inverts","D",7.00464407510308,115708,"Unreported","Marine fishes nei","Industrial",82,5,1,"U","Discards",100039
+"219","demersalmd",2010,"India","Marine fishes not identified",12,"Other fishes & inverts","D",0.0548042216529859,114988,"Unreported","Marine fishes nei","Artisanal",82,5,3,"U","Discards",100039
+"220","demersalmd",2010,"India","Marine fishes not identified",12,"Other fishes & inverts","D",0.124579425460352,114988,"Unreported","Marine fishes nei","Artisanal",82,5,3,"U","Discards",100039
+"221","demersalmd",2010,"India","Marine fishes not identified",12,"Other fishes & inverts","D",0.216978511765602,114988,"Unreported","Marine fishes nei","Artisanal",82,5,3,"U","Discards",100039
+"222","demersalmd",2010,"India","Marine fishes not identified",12,"Other fishes & inverts","D",0.286391836403324,114988,"Unreported","Marine fishes nei","Artisanal",82,5,3,"U","Discards",100039
+"223","demersalmd",2010,"India","Marine fishes not identified",12,"Other fishes & inverts","D",0.282370899416694,114988,"Unreported","Marine fishes nei","Artisanal",82,5,3,"U","Discards",100039
+"224","demersalmd",2010,"India","Marine fishes not identified",12,"Other fishes & inverts","D",0.572985060513299,114988,"Unreported","Marine fishes nei","Artisanal",82,5,3,"U","Discards",100039
+"225","demersalmd",2010,"India","Marine fishes not identified",12,"Other fishes & inverts","D",0.837911188381712,114988,"Unreported","Marine fishes nei","Artisanal",82,5,3,"U","Discards",100039
+"226","demersalmd",2010,"India","Marine fishes not identified",12,"Other fishes & inverts","D",0.160627419929709,114988,"Unreported","Marine fishes nei","Artisanal",82,5,3,"U","Discards",100039
+"227","demersalmd",2010,"India","Marine fishes not identified",12,"Other fishes & inverts","D",0.730830110622594,114988,"Unreported","Marine fishes nei","Artisanal",82,5,3,"U","Discards",100039
+"228","demersalmd",2010,"India","Marine fishes not identified",12,"Other fishes & inverts","R",59.8925890320211,114988,"Reported","Marine fishes nei","Industrial",82,5,1,"R","Landings",100039
+"229","demersalmd",2010,"India","Marine fishes not identified",12,"Other fishes & inverts","R",7.05980157378523,115708,"Reported","Marine fishes nei","Industrial",82,5,1,"R","Landings",100039
+"230","demersalmd",2010,"India","Marine fishes not identified",12,"Other fishes & inverts","R",7.21432688809908,115707,"Reported","Marine fishes nei","Industrial",82,5,1,"R","Landings",100039
+"231","demersalmd",2010,"India","Marine fishes not identified",12,"Other fishes & inverts","R",186.330021096664,114988,"Reported","Marine fishes nei","Industrial",82,5,1,"R","Landings",100039
+"232","demersalmd",2010,"India","Marine fishes not identified",12,"Other fishes & inverts","R",21.9635350122929,115708,"Reported","Marine fishes nei","Industrial",82,5,1,"R","Landings",100039
+"233","demersalmd",2010,"India","Marine fishes not identified",12,"Other fishes & inverts","R",22.4442740409676,115707,"Reported","Marine fishes nei","Industrial",82,5,1,"R","Landings",100039
+"234","demersalmd",2010,"India","Marine fishes not identified",12,"Other fishes & inverts","R",521.84391800857,114988,"Reported","Marine fishes nei","Industrial",82,5,1,"R","Landings",100039
+"235","demersalmd",2010,"India","Marine fishes not identified",12,"Other fishes & inverts","R",61.5120263319636,115708,"Reported","Marine fishes nei","Industrial",82,5,1,"R","Landings",100039
+"236","demersalmd",2010,"India","Marine fishes not identified",12,"Other fishes & inverts","R",62.8584048531849,115707,"Reported","Marine fishes nei","Industrial",82,5,1,"R","Landings",100039
+"237","demersalmd",2010,"India","Marine fishes not identified",12,"Other fishes & inverts","R",2.72581668472947,114988,"Reported","Marine fishes nei","Artisanal",82,5,3,"R","Landings",100039
+"238","demersalmd",2010,"India","Marine fishes not identified",12,"Other fishes & inverts","R",0.1429936136801,114988,"Reported","Marine fishes nei","Artisanal",82,5,3,"R","Landings",100039
+"239","demersalmd",2010,"India","Marine fishes not identified",12,"Other fishes & inverts","R",2.76343913248038,114988,"Reported","Marine fishes nei","Artisanal",82,5,3,"R","Landings",100039
+"240","demersalmd",2010,"India","Marine fishes not identified",12,"Other fishes & inverts","R",3.12630337458729,114988,"Reported","Marine fishes nei","Artisanal",82,5,3,"R","Landings",100039
+"241","demersalmd",2010,"India","Marine fishes not identified",12,"Other fishes & inverts","R",4.21188694796623,114988,"Reported","Marine fishes nei","Artisanal",82,5,3,"R","Landings",100039
+"242","demersalmd",2010,"India","Marine fishes not identified",12,"Other fishes & inverts","R",0.835623370545462,114988,"Reported","Marine fishes nei","Artisanal",82,5,3,"R","Landings",100039
+"243","demersalmd",2010,"India","Marine fishes not identified",12,"Other fishes & inverts","R",2.98954041263572,114988,"Reported","Marine fishes nei","Artisanal",82,5,3,"R","Landings",100039
+"244","demersalmd",2010,"India","Marine fishes not identified",12,"Other fishes & inverts","R",0.0764410816027596,114988,"Reported","Marine fishes nei","Artisanal",82,5,3,"R","Landings",100039
+"245","demersalmd",2010,"India","Marine fishes not identified",12,"Other fishes & inverts","R",28.0669143918558,114988,"Unreported","Marine fishes nei","Industrial",82,5,1,"U","Landings",100039
+"246","demersalmd",2010,"India","Marine fishes not identified",12,"Other fishes & inverts","R",3.30837002703258,115708,"Unreported","Marine fishes nei","Industrial",82,5,1,"U","Landings",100039
+"247","demersalmd",2010,"India","Marine fishes not identified",12,"Other fishes & inverts","R",3.38078380707309,115707,"Unreported","Marine fishes nei","Industrial",82,5,1,"U","Landings",100039
+"248","demersalmd",2010,"India","Marine fishes not identified",12,"Other fishes & inverts","R",16.069142823105,114988,"Unreported","Marine fishes nei","Subsistence",82,5,2,"U","Landings",100039
+"249","demersalmd",2010,"India","Marine fishes not identified",12,"Other fishes & inverts","R",0.195068897500948,114988,"Unreported","Marine fishes nei","Artisanal",82,5,3,"U","Landings",100039
+"250","demersalmd",2010,"India","Marine fishes not identified",12,"Other fishes & inverts","R",1.791363768427,114988,"Unreported","Marine fishes nei","Artisanal",82,5,3,"U","Landings",100039
+"251","demersalmd",2010,"India","Marine fishes not identified",12,"Other fishes & inverts","R",0.551614477815989,114988,"Unreported","Marine fishes nei","Artisanal",82,5,3,"U","Landings",100039
+"252","demersalmd",2010,"India","Marine fishes not identified",12,"Other fishes & inverts","R",0.312220857321848,114988,"Unreported","Marine fishes nei","Artisanal",82,5,3,"U","Landings",100039
+"253","demersalmd",2010,"India","Marine fishes not identified",12,"Other fishes & inverts","R",0.70180440146706,114988,"Unreported","Marine fishes nei","Artisanal",82,5,3,"U","Landings",100039
+"254","demersalmd",2010,"India","Marine fishes not identified",12,"Other fishes & inverts","R",0.690445744549586,114988,"Unreported","Marine fishes nei","Artisanal",82,5,3,"U","Landings",100039
+"255","demersalmd",2010,"India","Marine fishes not identified",12,"Other fishes & inverts","R",0.854624470419221,114988,"Unreported","Marine fishes nei","Artisanal",82,5,3,"U","Landings",100039
+"256","demersalmd",2010,"India","Marine fishes not identified",12,"Other fishes & inverts","R",0.538362655433429,114988,"Unreported","Marine fishes nei","Artisanal",82,5,3,"U","Landings",100039
+"257","demersalmd",2010,"Korea (South)","Marine fishes not identified",12,"Other fishes & inverts","R",5.94438292455044,114988,"Reported","Marine fishes nei","Industrial",95,5,1,"R","Landings",100039
+"258","demersalmd",2010,"Korea (South)","Marine fishes not identified",12,"Other fishes & inverts","R",0.70069042938662,115708,"Reported","Marine fishes nei","Industrial",95,5,1,"R","Landings",100039
+"259","demersalmd",2010,"Korea (South)","Marine fishes not identified",12,"Other fishes & inverts","R",0.716027178968892,115707,"Reported","Marine fishes nei","Industrial",95,5,1,"R","Landings",100039
+"260","pelagicmd",2010,"India","Lactarius lactarius",3,"Perch-likes","R",69.2975555975607,115707,"Reported","False trevally","Industrial",82,2,1,"R","Landings",600363
+"261","pelagicmd",2010,"India","Lactarius lactarius",3,"Perch-likes","R",75.9707384307834,114988,"Reported","False trevally","Industrial",82,2,1,"R","Landings",600363
+"262","pelagicmd",2010,"India","Lactarius lactarius",3,"Perch-likes","R",68.6643544914446,115708,"Reported","False trevally","Industrial",82,2,1,"R","Landings",600363
+"263","pelagicmd",2010,"India","Lactarius lactarius",3,"Perch-likes","R",2.48250399173733,114988,"Reported","False trevally","Artisanal",82,2,3,"R","Landings",600363
+"264","pelagicmd",2010,"India","Lactarius lactarius",3,"Perch-likes","R",0.653290524088355,114988,"Reported","False trevally","Artisanal",82,2,3,"R","Landings",600363
+"265","pelagicmd",2010,"India","Lactarius lactarius",3,"Perch-likes","R",10.3471239172982,114988,"Unreported","False trevally","Subsistence",82,2,2,"U","Landings",600363
+"266","pelagicmd",2010,"India","Lactarius lactarius",3,"Perch-likes","R",0.355039084271195,114988,"Unreported","False trevally","Artisanal",82,2,3,"U","Landings",600363
+"267","pelagicmd",2010,"India","Lactarius lactarius",3,"Perch-likes","R",0.0934313379585173,114988,"Unreported","False trevally","Artisanal",82,2,3,"U","Landings",600363
+"268","pelagicmd",2010,"India","Lactarius lactarius",3,"Perch-likes","D",19.7864021871525,115707,"Unreported","False trevally","Industrial",82,2,1,"U","Discards",600363
+"269","pelagicmd",2010,"India","Lactarius lactarius",3,"Perch-likes","D",21.6917836723718,114988,"Unreported","False trevally","Industrial",82,2,1,"U","Discards",600363
+"270","pelagicmd",2010,"India","Lactarius lactarius",3,"Perch-likes","D",19.6056054527955,115708,"Unreported","False trevally","Industrial",82,2,1,"U","Discards",600363
+"271","pelagicmd",2010,"India","Scomberomorus guttatus",3,"Perch-likes","R",27.5744021899,115707,"Reported","Indo-Pacific king mackerel","Industrial",82,2,1,"R","Landings",600123
+"272","pelagicmd",2010,"India","Scomberomorus guttatus",3,"Perch-likes","R",37.7958743228664,114988,"Reported","Indo-Pacific king mackerel","Industrial",82,2,1,"R","Landings",600123
+"273","pelagicmd",2010,"India","Scomberomorus guttatus",3,"Perch-likes","R",32.4405457477317,115708,"Reported","Indo-Pacific king mackerel","Industrial",82,2,1,"R","Landings",600123
+"274","pelagicmd",2010,"India","Scomberomorus guttatus",3,"Perch-likes","R",0.0745473215164398,114988,"Reported","Indo-Pacific king mackerel","Artisanal",82,2,3,"R","Landings",600123
+"275","pelagicmd",2010,"India","Scomberomorus guttatus",3,"Perch-likes","R",1.55918337390384,114988,"Reported","Indo-Pacific king mackerel","Artisanal",82,2,3,"R","Landings",600123
+"276","pelagicmd",2010,"India","Scomberomorus guttatus",3,"Perch-likes","R",55.3853205995398,115707,"Unreported","Indo-Pacific king mackerel","Industrial",82,2,1,"U","Landings",600123
+"277","pelagicmd",2010,"India","Scomberomorus guttatus",3,"Perch-likes","R",75.9159383509181,114988,"Unreported","Indo-Pacific king mackerel","Industrial",82,2,1,"U","Landings",600123
+"278","pelagicmd",2010,"India","Scomberomorus guttatus",3,"Perch-likes","R",65.1593464942014,115708,"Unreported","Indo-Pacific king mackerel","Industrial",82,2,1,"U","Landings",600123
+"279","pelagicmd",2010,"India","Scomberomorus guttatus",3,"Perch-likes","R",0.129927982642611,114988,"Unreported","Indo-Pacific king mackerel","Artisanal",82,2,3,"U","Landings",600123
+"280","pelagicmd",2010,"India","Scomberomorus guttatus",3,"Perch-likes","R",2.7174893238324,114988,"Unreported","Indo-Pacific king mackerel","Artisanal",82,2,3,"U","Landings",600123
+"281","pelagicmd",2010,"India","Scomberomorus guttatus",3,"Perch-likes","D",0.343865014968146,115707,"Unreported","Indo-Pacific king mackerel","Industrial",82,2,1,"U","Discards",600123
+"282","pelagicmd",2010,"India","Scomberomorus guttatus",3,"Perch-likes","D",0.471331302135249,114988,"Unreported","Indo-Pacific king mackerel","Industrial",82,2,1,"U","Discards",600123
+"283","pelagicmd",2010,"India","Scomberomorus guttatus",3,"Perch-likes","D",0.404547981577078,115708,"Unreported","Indo-Pacific king mackerel","Industrial",82,2,1,"U","Discards",600123
+"284","demersalmd",2010,"India","Pomadasys argenteus",3,"Perch-likes","D",0.385312513301525,115707,"Unreported","Silver grunt","Industrial",82,5,1,"U","Discards",600399
+"285","demersalmd",2010,"India","Pomadasys argenteus",3,"Perch-likes","D",1.26910815787796,114988,"Unreported","Silver grunt","Industrial",82,5,1,"U","Discards",600399
+"286","demersalmd",2010,"India","Pomadasys argenteus",3,"Perch-likes","D",0.525088974442247,115708,"Unreported","Silver grunt","Industrial",82,5,1,"U","Discards",600399
+"287","pelagicmd",2010,"India","Marine pelagic fishes not identified",12,"Other fishes & inverts","R",2.54604162621032,114988,"Reported","Pelagic fishes","Industrial",82,2,1,"R","Landings",100339
+"288","pelagicmd",2010,"India","Rastrelliger kanagurta",3,"Perch-likes","R",173.868631476593,115707,"Reported","Indian mackerel","Industrial",82,2,1,"R","Landings",600111
+"289","pelagicmd",2010,"India","Rastrelliger kanagurta",3,"Perch-likes","R",198.086720289105,114988,"Reported","Indian mackerel","Industrial",82,2,1,"R","Landings",600111
+"290","pelagicmd",2010,"India","Rastrelliger kanagurta",3,"Perch-likes","R",172.279920174723,115708,"Reported","Indian mackerel","Industrial",82,2,1,"R","Landings",600111
+"291","pelagicmd",2010,"India","Rastrelliger kanagurta",3,"Perch-likes","R",4.21579225732945,114988,"Reported","Indian mackerel","Artisanal",82,2,3,"R","Landings",600111
+"292","pelagicmd",2010,"India","Rastrelliger kanagurta",3,"Perch-likes","R",2.19403880132307,114988,"Reported","Indian mackerel","Artisanal",82,2,3,"R","Landings",600111
+"293","pelagicmd",2010,"India","Rastrelliger kanagurta",3,"Perch-likes","R",0.0440655007458444,114988,"Reported","Indian mackerel","Artisanal",82,2,3,"R","Landings",600111
+"294","pelagicmd",2010,"India","Rastrelliger kanagurta",3,"Perch-likes","R",3.76766049658431,114988,"Unreported","Indian mackerel","Artisanal",82,2,3,"U","Landings",600111
+"295","pelagicmd",2010,"India","Rastrelliger kanagurta",3,"Perch-likes","R",1.96081609698543,114988,"Unreported","Indian mackerel","Artisanal",82,2,3,"U","Landings",600111
+"296","pelagicmd",2010,"India","Rastrelliger kanagurta",3,"Perch-likes","R",0.0393814107262236,114988,"Unreported","Indian mackerel","Artisanal",82,2,3,"U","Landings",600111
+"297","pelagicmd",2010,"India","Rastrelliger kanagurta",3,"Perch-likes","D",10.4256493222998,115707,"Unreported","Indian mackerel","Industrial",82,2,1,"U","Discards",600111
+"298","pelagicmd",2010,"India","Rastrelliger kanagurta",3,"Perch-likes","D",11.877833647162,114988,"Unreported","Indian mackerel","Industrial",82,2,1,"U","Discards",600111
+"299","pelagicmd",2010,"India","Rastrelliger kanagurta",3,"Perch-likes","D",10.3303857502166,115708,"Unreported","Indian mackerel","Industrial",82,2,1,"U","Discards",600111
+"300","pelagicmd",2010,"India","Auxis",4,"Tuna & billfishes","R",20.9376944990954,114988,"Reported","Bullet and frigate tunas","Artisanal",82,2,3,"R","Landings",501163
+"301","pelagicmd",2010,"India","Auxis",4,"Tuna & billfishes","R",0.348672834005708,114988,"Reported","Bullet and frigate tunas","Artisanal",82,2,3,"R","Landings",501163
+"302","pelagicmd",2010,"India","Auxis",4,"Tuna & billfishes","R",2.5743067007085,114988,"Reported","Bullet and frigate tunas","Artisanal",82,2,3,"R","Landings",501163
+"303","pelagicmd",2010,"India","Auxis",4,"Tuna & billfishes","R",1.83465988570335,114988,"Reported","Bullet and frigate tunas","Artisanal",82,2,3,"R","Landings",501163
+"304","pelagicmd",2010,"India","Auxis",4,"Tuna & billfishes","R",2.63249559361592,115707,"Unreported","Bullet and frigate tunas","Industrial",82,2,1,"U","Landings",501163
+"305","pelagicmd",2010,"India","Auxis",4,"Tuna & billfishes","R",5.41460774291359,114988,"Unreported","Bullet and frigate tunas","Industrial",82,2,1,"U","Landings",501163
+"306","pelagicmd",2010,"India","Auxis",4,"Tuna & billfishes","R",3.93102755239304,115708,"Unreported","Bullet and frigate tunas","Industrial",82,2,1,"U","Landings",501163
+"307","demersallg",2010,"India","Congresox talabonoides",12,"Other fishes & inverts","R",0.00508503106077913,114988,"Unreported","Indian pike conger","Artisanal",82,6,3,"U","Landings",611713
+"308","demersallg",2010,"India","Congresox talabonoides",12,"Other fishes & inverts","R",0.17558061538746,114988,"Unreported","Indian pike conger","Artisanal",82,6,3,"U","Landings",611713
+"309","demersallg",2010,"India","Congresox talabonoides",12,"Other fishes & inverts","R",0.345343062959427,114988,"Unreported","Indian pike conger","Artisanal",82,6,3,"U","Landings",611713
+"310","demersallg",2010,"India","Congresox talabonoides",12,"Other fishes & inverts","D",4.14115546880946,115707,"Unreported","Indian pike conger","Industrial",82,6,1,"U","Discards",611713
+"311","demersallg",2010,"India","Congresox talabonoides",12,"Other fishes & inverts","D",10.24700389451,114988,"Unreported","Indian pike conger","Industrial",82,6,1,"U","Discards",611713
+"312","demersallg",2010,"India","Congresox talabonoides",12,"Other fishes & inverts","D",4.42232974185291,115708,"Unreported","Indian pike conger","Industrial",82,6,1,"U","Discards",611713
+"313","pelagicsm",2010,"India","Anchoviella",1,"Anchovies","R",0.0106605938328857,114988,"Unreported","Anchovies","Artisanal",82,1,3,"U","Landings",505586
+"314","pelagicsm",2010,"India","Anchoviella",1,"Anchovies","R",0.00040468154346836,114988,"Unreported","Anchovies","Artisanal",82,1,3,"U","Landings",505586
+"315","pelagicsm",2010,"India","Anchoviella",1,"Anchovies","R",0.0142501050114203,114988,"Unreported","Anchovies","Artisanal",82,1,3,"U","Landings",505586
+"316","pelagicsm",2010,"India","Anchoviella",1,"Anchovies","R",0.0165420799433271,114988,"Unreported","Anchovies","Artisanal",82,1,3,"U","Landings",505586
+"317","pelagicsm",2010,"India","Anchoviella",1,"Anchovies","R",0.00757353442677122,114988,"Unreported","Anchovies","Artisanal",82,1,3,"U","Landings",505586
+"318","pelagicsm",2010,"India","Anchoviella",1,"Anchovies","R",0.00212169327991367,114988,"Unreported","Anchovies","Artisanal",82,1,3,"U","Landings",505586
+"319","pelagicsm",2010,"India","Anchoviella",1,"Anchovies","R",0.0118705395702121,114988,"Unreported","Anchovies","Artisanal",82,1,3,"U","Landings",505586
+"320","pelagicsm",2010,"India","Anchoviella",1,"Anchovies","D",0.249925454086746,114988,"Unreported","Anchovies","Industrial",82,1,1,"U","Discards",505586
+"321","benthopelagiclg",2010,"India","Chirocentrus dorab",2,"Herring-likes","R",0.0497390941302888,114988,"Unreported","Dorab wolfherring","Artisanal",82,15,3,"U","Landings",606358
+"322","benthopelagiclg",2010,"India","Chirocentrus dorab",2,"Herring-likes","R",0.170275932052444,114988,"Unreported","Dorab wolfherring","Artisanal",82,15,3,"U","Landings",606358
+"323","benthopelagiclg",2010,"India","Chirocentrus dorab",2,"Herring-likes","R",0.212509104561332,114988,"Unreported","Dorab wolfherring","Artisanal",82,15,3,"U","Landings",606358
+"324","benthopelagiclg",2010,"India","Chirocentrus dorab",2,"Herring-likes","D",7.12678705998851,115707,"Unreported","Dorab wolfherring","Industrial",82,15,1,"U","Discards",606358
+"325","benthopelagiclg",2010,"India","Chirocentrus dorab",2,"Herring-likes","D",18.5146377375961,114988,"Unreported","Dorab wolfherring","Industrial",82,15,1,"U","Discards",606358
+"326","benthopelagiclg",2010,"India","Chirocentrus dorab",2,"Herring-likes","D",7.12678705998766,115708,"Unreported","Dorab wolfherring","Industrial",82,15,1,"U","Discards",606358
+"327","pelagicmd",2010,"India","Tenualosa ilisha",2,"Herring-likes","R",24.4683919757478,115707,"Reported","Hilsa shad","Industrial",82,2,1,"R","Landings",601596
+"328","pelagicmd",2010,"India","Tenualosa ilisha",2,"Herring-likes","R",30.0021859795593,114988,"Reported","Hilsa shad","Industrial",82,2,1,"R","Landings",601596
+"329","pelagicmd",2010,"India","Tenualosa ilisha",2,"Herring-likes","R",22.3324752608349,115708,"Reported","Hilsa shad","Industrial",82,2,1,"R","Landings",601596
+"330","pelagicmd",2010,"India","Tenualosa ilisha",2,"Herring-likes","R",0.000926698982287917,114988,"Reported","Hilsa shad","Artisanal",82,2,3,"R","Landings",601596
+"331","pelagicmd",2010,"India","Tenualosa ilisha",2,"Herring-likes","R",0.00046334949114396,114988,"Reported","Hilsa shad","Artisanal",82,2,3,"R","Landings",601596
+"332","pelagicmd",2010,"India","Tenualosa ilisha",2,"Herring-likes","R",0.0753402629980291,114988,"Reported","Hilsa shad","Artisanal",82,2,3,"R","Landings",601596
+"333","pelagicmd",2010,"India","Tenualosa ilisha",2,"Herring-likes","R",0.0874579276760342,114988,"Reported","Hilsa shad","Artisanal",82,2,3,"R","Landings",601596
+"334","pelagicmd",2010,"India","Tenualosa ilisha",2,"Herring-likes","R",0.516721676733769,114988,"Reported","Hilsa shad","Artisanal",82,2,3,"R","Landings",601596
+"335","pelagicmd",2010,"India","Tenualosa ilisha",2,"Herring-likes","R",0.0126118541988778,114988,"Reported","Hilsa shad","Artisanal",82,2,3,"R","Landings",601596
+"336","pelagicmd",2010,"India","Tenualosa ilisha",2,"Herring-likes","R",0.101468878190782,114988,"Reported","Hilsa shad","Artisanal",82,2,3,"R","Landings",601596
+"337","pelagicmd",2010,"India","Tenualosa ilisha",2,"Herring-likes","R",0.000691531998408731,114988,"Unreported","Hilsa shad","Artisanal",82,2,3,"U","Landings",601596
+"338","pelagicmd",2010,"India","Tenualosa ilisha",2,"Herring-likes","R",0.000345765999204364,114988,"Unreported","Hilsa shad","Artisanal",82,2,3,"U","Landings",601596
+"339","pelagicmd",2010,"India","Tenualosa ilisha",2,"Herring-likes","R",0.0562212796468565,114988,"Unreported","Hilsa shad","Artisanal",82,2,3,"U","Landings",601596
+"340","pelagicmd",2010,"India","Tenualosa ilisha",2,"Herring-likes","R",0.0652638630865612,114988,"Unreported","Hilsa shad","Artisanal",82,2,3,"U","Landings",601596
+"341","pelagicmd",2010,"India","Tenualosa ilisha",2,"Herring-likes","R",0.385594006859278,114988,"Unreported","Hilsa shad","Artisanal",82,2,3,"U","Landings",601596
+"342","pelagicmd",2010,"India","Tenualosa ilisha",2,"Herring-likes","R",0.00941136324144556,114988,"Unreported","Hilsa shad","Artisanal",82,2,3,"U","Landings",601596
+"343","pelagicmd",2010,"India","Tenualosa ilisha",2,"Herring-likes","R",0.075719276110916,114988,"Unreported","Hilsa shad","Artisanal",82,2,3,"U","Landings",601596
+"344","pelagicmd",2010,"India","Tenualosa ilisha",2,"Herring-likes","D",1.22509097558174,115707,"Unreported","Hilsa shad","Industrial",82,2,1,"U","Discards",601596
+"345","pelagicmd",2010,"India","Tenualosa ilisha",2,"Herring-likes","D",1.50215867588331,114988,"Unreported","Hilsa shad","Industrial",82,2,1,"U","Discards",601596
+"346","pelagicmd",2010,"India","Tenualosa ilisha",2,"Herring-likes","D",1.11814924052095,115708,"Unreported","Hilsa shad","Industrial",82,2,1,"U","Discards",601596
+"347","reef-associatedmd",2010,"India","Caranx",3,"Perch-likes","R",0.178996479414046,114988,"Unreported","Jacks","Artisanal",82,17,3,"U","Landings",500467
+"348","reef-associatedmd",2010,"India","Caranx",3,"Perch-likes","R",3.31865481760152,114988,"Unreported","Jacks","Artisanal",82,17,3,"U","Landings",500467
+"349","reef-associatedmd",2010,"India","Caranx",3,"Perch-likes","R",6.95562966684681,114988,"Unreported","Jacks","Artisanal",82,17,3,"U","Landings",500467
+"350","reef-associatedmd",2010,"India","Caranx",3,"Perch-likes","R",13.1205701287647,114988,"Unreported","Jacks","Artisanal",82,17,3,"U","Landings",500467
+"351","reef-associatedmd",2010,"India","Caranx",3,"Perch-likes","R",10.358674651118,114988,"Unreported","Jacks","Artisanal",82,17,3,"U","Landings",500467
+"352","reef-associatedmd",2010,"India","Caranx",3,"Perch-likes","R",5.02427381964349,114988,"Unreported","Jacks","Artisanal",82,17,3,"U","Landings",500467
+"353","reef-associatedmd",2010,"India","Caranx",3,"Perch-likes","R",23.9915205671992,114988,"Unreported","Jacks","Artisanal",82,17,3,"U","Landings",500467
+"354","reef-associatedmd",2010,"India","Caranx",3,"Perch-likes","R",8.40305307968879,114988,"Unreported","Jacks","Artisanal",82,17,3,"U","Landings",500467
+"355","reef-associatedmd",2010,"India","Caranx",3,"Perch-likes","D",1.60148177958096,115707,"Unreported","Jacks","Industrial",82,17,1,"U","Discards",500467
+"356","reef-associatedmd",2010,"India","Caranx",3,"Perch-likes","D",1.47486043273006,114988,"Unreported","Jacks","Industrial",82,17,1,"U","Discards",500467
+"357","reef-associatedmd",2010,"India","Caranx",3,"Perch-likes","D",1.76275973775605,115708,"Unreported","Jacks","Industrial",82,17,1,"U","Discards",500467
+"358","cephalopods",2010,"India","Cephalopoda",12,"Other fishes & inverts","R",425.54627423621,115708,"Reported","Squids, cuttlefishes, octopuses","Industrial",82,25,1,"R","Landings",290002
+"359","cephalopods",2010,"India","Cephalopoda",12,"Other fishes & inverts","R",455.796839919789,115707,"Reported","Squids, cuttlefishes, octopuses","Industrial",82,25,1,"R","Landings",290002
+"360","cephalopods",2010,"India","Cephalopoda",12,"Other fishes & inverts","R",451.201569454592,114988,"Reported","Squids, cuttlefishes, octopuses","Industrial",82,25,1,"R","Landings",290002
+"361","cephalopods",2010,"India","Cephalopoda",12,"Other fishes & inverts","R",0.303824843702564,114988,"Reported","Squids, cuttlefishes, octopuses","Artisanal",82,25,3,"R","Landings",290002
+"362","cephalopods",2010,"India","Cephalopoda",12,"Other fishes & inverts","R",3.10185982589633,114988,"Reported","Squids, cuttlefishes, octopuses","Artisanal",82,25,3,"R","Landings",290002
+"363","cephalopods",2010,"India","Cephalopoda",12,"Other fishes & inverts","R",4.10465006220582,114988,"Reported","Squids, cuttlefishes, octopuses","Artisanal",82,25,3,"R","Landings",290002
+"364","cephalopods",2010,"India","Cephalopoda",12,"Other fishes & inverts","R",0.634158882201286,114988,"Reported","Squids, cuttlefishes, octopuses","Artisanal",82,25,3,"R","Landings",290002
+"365","cephalopods",2010,"India","Cephalopoda",12,"Other fishes & inverts","R",5.18203674926557,114988,"Reported","Squids, cuttlefishes, octopuses","Artisanal",82,25,3,"R","Landings",290002
+"366","cephalopods",2010,"India","Cephalopoda",12,"Other fishes & inverts","R",7.53752124390152,114988,"Reported","Squids, cuttlefishes, octopuses","Artisanal",82,25,3,"R","Landings",290002
+"367","sharksm-md",2010,"India","Carcharhinus dussumieri",9,"Sharks & rays","R",0.62686814857492,115707,"Reported","Whitecheek shark","Industrial",82,19,1,"R","Landings",600867
+"368","sharksm-md",2010,"India","Carcharhinus dussumieri",9,"Sharks & rays","R",2.67175415211807,114988,"Reported","Whitecheek shark","Industrial",82,19,1,"R","Landings",600867
+"369","sharksm-md",2010,"India","Carcharhinus dussumieri",9,"Sharks & rays","R",2.13927661160507,115708,"Reported","Whitecheek shark","Industrial",82,19,1,"R","Landings",600867
+"370","sharksm-md",2010,"India","Carcharhinus dussumieri",9,"Sharks & rays","R",0.0390193502836662,114988,"Reported","Whitecheek shark","Artisanal",82,19,3,"R","Landings",600867
+"371","sharksm-md",2010,"India","Carcharhinus dussumieri",9,"Sharks & rays","R",0.00164024538417791,114988,"Reported","Whitecheek shark","Artisanal",82,19,3,"R","Landings",600867
+"372","sharksm-md",2010,"India","Carcharhinus dussumieri",9,"Sharks & rays","R",0.0383804203545247,114988,"Reported","Whitecheek shark","Artisanal",82,19,3,"R","Landings",600867
+"373","shrimp",2010,"India","Miscellaneous marine crustaceans",10,"Crustaceans","R",26.5144094628783,115707,"Reported","Marine crabs, shrimps, lobsters nei","Industrial",82,26,1,"R","Landings",100047
+"374","shrimp",2010,"India","Miscellaneous marine crustaceans",10,"Crustaceans","R",32.0548767301499,114988,"Reported","Marine crabs, shrimps, lobsters nei","Industrial",82,26,1,"R","Landings",100047
+"375","shrimp",2010,"India","Miscellaneous marine crustaceans",10,"Crustaceans","R",29.6513627664368,115708,"Reported","Marine crabs, shrimps, lobsters nei","Industrial",82,26,1,"R","Landings",100047
+"376","shrimp",2010,"India","Miscellaneous marine crustaceans",10,"Crustaceans","R",0.00233050238451616,114988,"Reported","Marine crabs, shrimps, lobsters nei","Artisanal",82,26,3,"R","Landings",100047
+"377","shrimp",2010,"India","Miscellaneous marine crustaceans",10,"Crustaceans","R",0.0509887413629046,114988,"Reported","Marine crabs, shrimps, lobsters nei","Artisanal",82,26,3,"R","Landings",100047
+"378","shrimp",2010,"India","Miscellaneous marine crustaceans",10,"Crustaceans","R",0.00806154174984776,114988,"Reported","Marine crabs, shrimps, lobsters nei","Artisanal",82,26,3,"R","Landings",100047
+"379","shrimp",2010,"India","Miscellaneous marine crustaceans",10,"Crustaceans","R",0.37216081707175,114988,"Reported","Marine crabs, shrimps, lobsters nei","Artisanal",82,26,3,"R","Landings",100047
+"380","shrimp",2010,"India","Miscellaneous marine crustaceans",10,"Crustaceans","R",0.476806209373517,114988,"Reported","Marine crabs, shrimps, lobsters nei","Artisanal",82,26,3,"R","Landings",100047
+"381","shrimp",2010,"India","Miscellaneous marine crustaceans",10,"Crustaceans","R",0.0645458335786003,114988,"Reported","Marine crabs, shrimps, lobsters nei","Artisanal",82,26,3,"R","Landings",100047
+"382","shrimp",2010,"India","Miscellaneous marine crustaceans",10,"Crustaceans","R",0.430833829399643,114988,"Reported","Marine crabs, shrimps, lobsters nei","Artisanal",82,26,3,"R","Landings",100047
+"383","benthopelagicsm",2010,"India","Leiognathidae",3,"Perch-likes","R",69.8095549098484,115707,"Reported","Slipmouths, ponyfishes","Industrial",82,13,1,"R","Landings",400318
+"384","benthopelagicsm",2010,"India","Leiognathidae",3,"Perch-likes","R",85.2812318949962,114988,"Reported","Slipmouths, ponyfishes","Industrial",82,13,1,"R","Landings",400318
+"385","benthopelagicsm",2010,"India","Leiognathidae",3,"Perch-likes","R",73.6721368263536,115708,"Reported","Slipmouths, ponyfishes","Industrial",82,13,1,"R","Landings",400318
+"386","benthopelagicsm",2010,"India","Leiognathidae",3,"Perch-likes","R",0.0464907913984668,114988,"Reported","Slipmouths, ponyfishes","Artisanal",82,13,3,"R","Landings",400318
+"387","benthopelagicsm",2010,"India","Leiognathidae",3,"Perch-likes","R",0.0132830832567048,114988,"Reported","Slipmouths, ponyfishes","Artisanal",82,13,3,"R","Landings",400318
+"388","benthopelagicsm",2010,"India","Leiognathidae",3,"Perch-likes","R",0.0464907913984668,114988,"Reported","Slipmouths, ponyfishes","Artisanal",82,13,3,"R","Landings",400318
+"389","benthopelagicsm",2010,"India","Leiognathidae",3,"Perch-likes","R",1.27350226123564,114988,"Reported","Slipmouths, ponyfishes","Artisanal",82,13,3,"R","Landings",400318
+"390","benthopelagicsm",2010,"India","Leiognathidae",3,"Perch-likes","R",1.01615586913797,114988,"Reported","Slipmouths, ponyfishes","Artisanal",82,13,3,"R","Landings",400318
+"391","benthopelagicsm",2010,"India","Leiognathidae",3,"Perch-likes","R",0.0132830832567048,114988,"Reported","Slipmouths, ponyfishes","Artisanal",82,13,3,"R","Landings",400318
+"392","benthopelagicsm",2010,"India","Leiognathidae",3,"Perch-likes","R",0.099623124425293,114988,"Reported","Slipmouths, ponyfishes","Artisanal",82,13,3,"R","Landings",400318
+"393","benthopelagicsm",2010,"India","Leiognathidae",3,"Perch-likes","R",4.64307693307901,114988,"Unreported","Slipmouths, ponyfishes","Subsistence",82,13,2,"U","Landings",400318
+"394","benthopelagicsm",2010,"India","Leiognathidae",3,"Perch-likes","R",0.0237698884601522,114988,"Unreported","Slipmouths, ponyfishes","Artisanal",82,13,3,"U","Landings",400318
+"395","benthopelagicsm",2010,"India","Leiognathidae",3,"Perch-likes","R",0.00679139670290063,114988,"Unreported","Slipmouths, ponyfishes","Artisanal",82,13,3,"U","Landings",400318
+"396","benthopelagicsm",2010,"India","Leiognathidae",3,"Perch-likes","R",0.0237698884601522,114988,"Unreported","Slipmouths, ponyfishes","Artisanal",82,13,3,"U","Landings",400318
+"397","benthopelagicsm",2010,"India","Leiognathidae",3,"Perch-likes","R",0.651118335325243,114988,"Unreported","Slipmouths, ponyfishes","Artisanal",82,13,3,"U","Landings",400318
+"398","benthopelagicsm",2010,"India","Leiognathidae",3,"Perch-likes","R",0.519541847771928,114988,"Unreported","Slipmouths, ponyfishes","Artisanal",82,13,3,"U","Landings",400318
+"399","benthopelagicsm",2010,"India","Leiognathidae",3,"Perch-likes","R",0.00679139670290063,114988,"Unreported","Slipmouths, ponyfishes","Artisanal",82,13,3,"U","Landings",400318
+"400","benthopelagicsm",2010,"India","Leiognathidae",3,"Perch-likes","R",0.0509354752717584,114988,"Unreported","Slipmouths, ponyfishes","Artisanal",82,13,3,"U","Landings",400318
+"401","benthopelagicsm",2010,"India","Leiognathidae",3,"Perch-likes","D",35.9709498339582,115707,"Unreported","Slipmouths, ponyfishes","Industrial",82,13,1,"U","Discards",400318
+"402","benthopelagicsm",2010,"India","Leiognathidae",3,"Perch-likes","D",43.9430808323388,114988,"Unreported","Slipmouths, ponyfishes","Industrial",82,13,1,"U","Discards",400318
+"403","benthopelagicsm",2010,"India","Leiognathidae",3,"Perch-likes","D",37.9612324038384,115708,"Unreported","Slipmouths, ponyfishes","Industrial",82,13,1,"U","Discards",400318
+"404","benthopelagicsm",2010,"India","Leiognathidae",3,"Perch-likes","D",16.7999691880202,115707,"Unreported","Slipmouths, ponyfishes","Industrial",82,13,1,"U","Discards",400318
+"405","benthopelagicsm",2010,"India","Leiognathidae",3,"Perch-likes","D",20.5232946980188,114988,"Unreported","Slipmouths, ponyfishes","Industrial",82,13,1,"U","Discards",400318
+"406","benthopelagicsm",2010,"India","Leiognathidae",3,"Perch-likes","D",17.7295161141866,115708,"Unreported","Slipmouths, ponyfishes","Industrial",82,13,1,"U","Discards",400318
+"407","reef-associatedmd",2010,"India","Mugilidae",3,"Perch-likes","R",6.24546313165249,114988,"Reported","Mullets, grey mullets","Industrial",82,17,1,"R","Landings",400359
+"408","reef-associatedmd",2010,"India","Mugilidae",3,"Perch-likes","R",5.5877839738767,115708,"Reported","Mullets, grey mullets","Industrial",82,17,1,"R","Landings",400359
+"409","reef-associatedmd",2010,"India","Mugilidae",3,"Perch-likes","R",6.0490957182019,115707,"Reported","Mullets, grey mullets","Industrial",82,17,1,"R","Landings",400359
+"410","reef-associatedmd",2010,"India","Mugilidae",3,"Perch-likes","R",0.0120786661802966,114988,"Reported","Mullets, grey mullets","Artisanal",82,17,3,"R","Landings",400359
+"411","reef-associatedmd",2010,"India","Mugilidae",3,"Perch-likes","R",0.00159895690073841,114988,"Reported","Mullets, grey mullets","Artisanal",82,17,3,"R","Landings",400359
+"412","reef-associatedmd",2010,"India","Mugilidae",3,"Perch-likes","R",0.0221149095865269,114988,"Reported","Mullets, grey mullets","Artisanal",82,17,3,"R","Landings",400359
+"413","reef-associatedmd",2010,"India","Mugilidae",3,"Perch-likes","R",0.00834429250684914,114988,"Reported","Mullets, grey mullets","Artisanal",82,17,3,"R","Landings",400359
+"414","reef-associatedmd",2010,"India","Mugilidae",3,"Perch-likes","R",0.144079613112339,114988,"Reported","Mullets, grey mullets","Artisanal",82,17,3,"R","Landings",400359
+"415","reef-associatedmd",2010,"India","Mugilidae",3,"Perch-likes","R",0.00191533964952966,114988,"Reported","Mullets, grey mullets","Artisanal",82,17,3,"R","Landings",400359
+"416","reef-associatedmd",2010,"India","Mugilidae",3,"Perch-likes","R",0.044380950450526,114988,"Reported","Mullets, grey mullets","Artisanal",82,17,3,"R","Landings",400359
+"417","reef-associatedmd",2010,"India","Mugilidae",3,"Perch-likes","R",0.00901417646316481,114988,"Reported","Mullets, grey mullets","Artisanal",82,17,3,"R","Landings",400359
+"418","otherdeminvert",2010,"India","Veneridae",11,"Molluscs","R",4.40788757985355,114988,"Unreported","Venus clams","Subsistence",82,29,2,"U","Landings",490060
+"419","lobsters,crab",2010,"India","Charybdis",10,"Crustaceans","R",0.206290927473362,114988,"Unreported","Whirlpool swimming crabs","Artisanal",82,27,3,"U","Landings",590272
+"420","lobsters,crab",2010,"India","Charybdis",10,"Crustaceans","D",15.8828066547612,114988,"Unreported","Whirlpool swimming crabs","Industrial",82,27,1,"U","Discards",590272
+"421","lobsters,crab",2010,"India","Portunidae",10,"Crustaceans","R",4.92989103603347,114988,"Unreported","Swimming crabs","Subsistence",82,27,2,"U","Landings",490031
+"422","pelagicmd",2010,"India","Carangidae",3,"Perch-likes","R",604.787767441498,114988,"Reported","Jacks, pompanos","Industrial",82,2,1,"R","Landings",400314
+"423","pelagicmd",2010,"India","Carangidae",3,"Perch-likes","R",596.26768696943,115708,"Reported","Jacks, pompanos","Industrial",82,2,1,"R","Landings",400314
+"424","pelagicmd",2010,"India","Carangidae",3,"Perch-likes","R",605.768075237141,115707,"Reported","Jacks, pompanos","Industrial",82,2,1,"R","Landings",400314
+"425","pelagicmd",2010,"India","Carangidae",3,"Perch-likes","R",0.064632201785944,114988,"Reported","Jacks, pompanos","Artisanal",82,2,3,"R","Landings",400314
+"426","pelagicmd",2010,"India","Carangidae",3,"Perch-likes","R",1.19830271819461,114988,"Reported","Jacks, pompanos","Artisanal",82,2,3,"R","Landings",400314
+"427","pelagicmd",2010,"India","Carangidae",3,"Perch-likes","R",2.51154470550254,114988,"Reported","Jacks, pompanos","Artisanal",82,2,3,"R","Landings",400314
+"428","pelagicmd",2010,"India","Carangidae",3,"Perch-likes","R",4.73758667703942,114988,"Reported","Jacks, pompanos","Artisanal",82,2,3,"R","Landings",400314
+"429","pelagicmd",2010,"India","Carangidae",3,"Perch-likes","R",3.74031909721163,114988,"Reported","Jacks, pompanos","Artisanal",82,2,3,"R","Landings",400314
+"430","pelagicmd",2010,"India","Carangidae",3,"Perch-likes","R",1.81416908534767,114988,"Reported","Jacks, pompanos","Artisanal",82,2,3,"R","Landings",400314
+"431","pelagicmd",2010,"India","Carangidae",3,"Perch-likes","R",8.66287875340841,114988,"Reported","Jacks, pompanos","Artisanal",82,2,3,"R","Landings",400314
+"432","pelagicmd",2010,"India","Carangidae",3,"Perch-likes","R",3.03418158861188,114988,"Reported","Jacks, pompanos","Artisanal",82,2,3,"R","Landings",400314
+"433","pelagicmd",2010,"India","Carangidae",3,"Perch-likes","R",0.000688194245861013,114988,"Unreported","Jacks, pompanos","Artisanal",82,2,3,"U","Landings",400314
+"434","pelagicmd",2010,"India","Carangidae",3,"Perch-likes","R",0.0127593523456365,114988,"Unreported","Jacks, pompanos","Artisanal",82,2,3,"U","Landings",400314
+"435","pelagicmd",2010,"India","Carangidae",3,"Perch-likes","R",0.026742561243294,114988,"Unreported","Jacks, pompanos","Artisanal",82,2,3,"U","Landings",400314
+"436","pelagicmd",2010,"India","Carangidae",3,"Perch-likes","R",0.050445131069562,114988,"Unreported","Jacks, pompanos","Artisanal",82,2,3,"U","Landings",400314
+"437","pelagicmd",2010,"India","Carangidae",3,"Perch-likes","R",0.0398263715184912,114988,"Unreported","Jacks, pompanos","Artisanal",82,2,3,"U","Landings",400314
+"438","pelagicmd",2010,"India","Carangidae",3,"Perch-likes","R",0.0193170074832067,114988,"Unreported","Jacks, pompanos","Artisanal",82,2,3,"U","Landings",400314
+"439","pelagicmd",2010,"India","Carangidae",3,"Perch-likes","R",0.0922410678570421,114988,"Unreported","Jacks, pompanos","Artisanal",82,2,3,"U","Landings",400314
+"440","pelagicmd",2010,"India","Carangidae",3,"Perch-likes","R",0.0323075224498113,114988,"Unreported","Jacks, pompanos","Artisanal",82,2,3,"U","Landings",400314
+"441","pelagicmd",2010,"India","Carangidae",3,"Perch-likes","D",21.5312176037112,114988,"Unreported","Jacks, pompanos","Industrial",82,2,1,"U","Discards",400314
+"442","pelagicmd",2010,"India","Carangidae",3,"Perch-likes","D",21.2278918479319,115708,"Unreported","Jacks, pompanos","Industrial",82,2,1,"U","Discards",400314
+"443","pelagicmd",2010,"India","Carangidae",3,"Perch-likes","D",21.5661178143353,115707,"Unreported","Jacks, pompanos","Industrial",82,2,1,"U","Discards",400314
+"444","otherdeminvert",2010,"India","Bivalvia",11,"Molluscs","R",0.0520340637984413,114988,"Unreported","Clams","Artisanal",82,29,3,"U","Landings",290004
+"445","otherdeminvert",2010,"India","Bivalvia",11,"Molluscs","R",1.20217042643556,114988,"Unreported","Clams","Artisanal",82,29,3,"U","Landings",290004
+"446","otherdeminvert",2010,"India","Bivalvia",11,"Molluscs","R",0.0192733239972448,114988,"Unreported","Clams","Artisanal",82,29,3,"U","Landings",290004
+"447","benthopelagicmd",2010,"India","Sparidae",3,"Perch-likes","R",5.78597499739593,114988,"Unreported","Porgies, seabreams","Subsistence",82,14,2,"U","Landings",400330
+"448","demersalmd",2010,"India","Marine groundfishes not identified",12,"Other fishes & inverts","R",0.0629983314232013,115708,"Reported","Groundfishes","Industrial",82,5,1,"R","Landings",100239
+"449","demersalmd",2010,"India","Marine groundfishes not identified",12,"Other fishes & inverts","R",0.064377242269728,115707,"Reported","Groundfishes","Industrial",82,5,1,"R","Landings",100239
+"450","demersalmd",2010,"India","Marine groundfishes not identified",12,"Other fishes & inverts","R",0.534453147754665,114988,"Reported","Groundfishes","Industrial",82,5,1,"R","Landings",100239
+"451","demersalmd",2010,"India","Marine groundfishes not identified",12,"Other fishes & inverts","R",0.00024974827123335,114988,"Reported","Groundfishes","Artisanal",82,5,3,"R","Landings",100239
+"452","demersalmd",2010,"India","Marine groundfishes not identified",12,"Other fishes & inverts","R",0.00027675196411853,114988,"Reported","Groundfishes","Artisanal",82,5,3,"R","Landings",100239
+"453","demersalmd",2010,"India","Marine groundfishes not identified",12,"Other fishes & inverts","R",0.0022224205944735,114988,"Reported","Groundfishes","Artisanal",82,5,3,"R","Landings",100239
+"454","demersalmd",2010,"India","Marine groundfishes not identified",12,"Other fishes & inverts","R",0.00437477235611817,114988,"Reported","Groundfishes","Artisanal",82,5,3,"R","Landings",100239
+"455","demersalmd",2010,"India","Marine groundfishes not identified",12,"Other fishes & inverts","R",0.000549463249243131,114988,"Reported","Groundfishes","Artisanal",82,5,3,"R","Landings",100239
+"456","demersalmd",2010,"India","Marine groundfishes not identified",12,"Other fishes & inverts","R",0.00339901694061149,114988,"Reported","Groundfishes","Artisanal",82,5,3,"R","Landings",100239
+"457","demersalmd",2010,"India","Marine groundfishes not identified",12,"Other fishes & inverts","R",0.00144271751879189,114988,"Reported","Groundfishes","Artisanal",82,5,3,"R","Landings",100239
+"458","jellyfish",2010,"India","Scyphozoa",12,"Other fishes & inverts","R",1445.40675128934,114988,"Unreported","True jellyfishes","Artisanal",82,28,3,"U","Landings",290013
+"459","pelagiclg",2010,"India","Scomberomorus lineolatus",3,"Perch-likes","R",0.0352409396863844,115707,"Reported","Streaked seerfish","Industrial",82,3,1,"R","Landings",600125
+"460","pelagiclg",2010,"India","Scomberomorus lineolatus",3,"Perch-likes","R",0.0845563834737287,114988,"Reported","Streaked seerfish","Industrial",82,3,1,"R","Landings",600125
+"461","pelagiclg",2010,"India","Scomberomorus lineolatus",3,"Perch-likes","R",0.0480249881317089,115708,"Reported","Streaked seerfish","Industrial",82,3,1,"R","Landings",600125
+"462","pelagiclg",2010,"India","Scomberomorus lineolatus",3,"Perch-likes","R",0.000962096602535245,114988,"Reported","Streaked seerfish","Artisanal",82,3,3,"R","Landings",600125
+"463","pelagiclg",2010,"India","Scomberomorus lineolatus",3,"Perch-likes","R",0.00208923155028896,114988,"Reported","Streaked seerfish","Artisanal",82,3,3,"R","Landings",600125
+"464","pelagiclg",2010,"India","Scomberomorus lineolatus",3,"Perch-likes","R",2.20013895028493,115707,"Unreported","Streaked seerfish","Industrial",82,3,1,"U","Landings",600125
+"465","pelagiclg",2010,"India","Scomberomorus lineolatus",3,"Perch-likes","R",5.27896799663535,114988,"Unreported","Streaked seerfish","Industrial",82,3,1,"U","Landings",600125
+"466","pelagiclg",2010,"India","Scomberomorus lineolatus",3,"Perch-likes","R",2.99826417558234,115708,"Unreported","Streaked seerfish","Industrial",82,3,1,"U","Landings",600125
+"467","pelagiclg",2010,"India","Scomberomorus lineolatus",3,"Perch-likes","R",0.0656321664932411,114988,"Unreported","Streaked seerfish","Artisanal",82,3,3,"U","Landings",600125
+"468","pelagiclg",2010,"India","Scomberomorus lineolatus",3,"Perch-likes","R",0.142522894884118,114988,"Unreported","Streaked seerfish","Artisanal",82,3,3,"U","Landings",600125
+"469","pelagiclg",2010,"India","Scomberomorus lineolatus",3,"Perch-likes","D",0.0818323340404657,115707,"Unreported","Streaked seerfish","Industrial",82,3,1,"U","Discards",600125
+"470","pelagiclg",2010,"India","Scomberomorus lineolatus",3,"Perch-likes","D",0.196346813656313,114988,"Unreported","Streaked seerfish","Industrial",82,3,1,"U","Discards",600125
+"471","pelagiclg",2010,"India","Scomberomorus lineolatus",3,"Perch-likes","D",0.11151793641308,115708,"Unreported","Streaked seerfish","Industrial",82,3,1,"U","Discards",600125
+"472","pelagicsm",2010,"India","Clupeidae",2,"Herring-likes","R",148.677081932138,115708,"Reported","Herrings, sardines, menhadens","Industrial",82,1,1,"R","Landings",400043
+"473","pelagicsm",2010,"India","Clupeidae",2,"Herring-likes","R",146.794204497315,115707,"Reported","Herrings, sardines, menhadens","Industrial",82,1,1,"R","Landings",400043
+"474","pelagicsm",2010,"India","Clupeidae",2,"Herring-likes","R",160.831631723744,114988,"Reported","Herrings, sardines, menhadens","Industrial",82,1,1,"R","Landings",400043
+"475","pelagicsm",2010,"India","Clupeidae",2,"Herring-likes","R",0.00884010572365708,114988,"Reported","Herrings, sardines, menhadens","Artisanal",82,1,3,"R","Landings",400043
+"476","pelagicsm",2010,"India","Clupeidae",2,"Herring-likes","R",0.00442005286182854,114988,"Reported","Herrings, sardines, menhadens","Artisanal",82,1,3,"R","Landings",400043
+"477","pelagicsm",2010,"India","Clupeidae",2,"Herring-likes","R",0.718697120510897,114988,"Reported","Herrings, sardines, menhadens","Artisanal",82,1,3,"R","Landings",400043
+"478","pelagicsm",2010,"India","Clupeidae",2,"Herring-likes","R",0.834291762271396,114988,"Reported","Herrings, sardines, menhadens","Artisanal",82,1,3,"R","Landings",400043
+"479","pelagicsm",2010,"India","Clupeidae",2,"Herring-likes","R",4.9291888081654,114988,"Reported","Herrings, sardines, menhadens","Artisanal",82,1,3,"R","Landings",400043
+"480","pelagicsm",2010,"India","Clupeidae",2,"Herring-likes","R",0.12030888845283,114988,"Reported","Herrings, sardines, menhadens","Artisanal",82,1,3,"R","Landings",400043
+"481","pelagicsm",2010,"India","Clupeidae",2,"Herring-likes","R",0.967947119843398,114988,"Reported","Herrings, sardines, menhadens","Artisanal",82,1,3,"R","Landings",400043
+"482","pelagicsm",2010,"India","Clupeidae",2,"Herring-likes","D",18.8528633059987,115708,"Unreported","Herrings, sardines, menhadens","Industrial",82,1,1,"U","Discards",400043
+"483","pelagicsm",2010,"India","Clupeidae",2,"Herring-likes","D",18.614106730746,115707,"Unreported","Herrings, sardines, menhadens","Industrial",82,1,1,"U","Discards",400043
+"484","pelagicsm",2010,"India","Clupeidae",2,"Herring-likes","D",20.3941100320522,114988,"Unreported","Herrings, sardines, menhadens","Industrial",82,1,1,"U","Discards",400043
+"485","pelagiclg",2010,"India","Scombroidea",4,"Tuna & billfishes","R",0.144139876905848,115707,"Reported","Tunas, bonitos, billfishes","Industrial",82,3,1,"R","Landings",300036
+"486","pelagiclg",2010,"India","Scombroidea",4,"Tuna & billfishes","R",2.26111108106402,114988,"Reported","Tunas, bonitos, billfishes","Industrial",82,3,1,"R","Landings",300036
+"487","pelagiclg",2010,"India","Scombroidea",4,"Tuna & billfishes","R",0.142604145665095,115708,"Reported","Tunas, bonitos, billfishes","Industrial",82,3,1,"R","Landings",300036
+"488","pelagiclg",2010,"India","Istiophoridae",4,"Tuna & billfishes","R",0.595706076539044,114988,"Reported","Billfishes","Industrial",82,3,1,"R","Landings",400419
+"489","pelagiclg",2010,"India","Istiophoridae",4,"Tuna & billfishes","R",2.88788113961369,114988,"Reported","Billfishes","Artisanal",82,3,3,"R","Landings",400419
+"490","sharklg",2010,"India","Carcharhinidae",9,"Sharks & rays","R",5.43298288063599,115707,"Reported","Requiem sharks","Industrial",82,20,1,"R","Landings",400011
+"491","sharklg",2010,"India","Carcharhinidae",9,"Sharks & rays","R",4.74158402877752,114988,"Reported","Requiem sharks","Industrial",82,20,1,"R","Landings",400011
+"492","sharklg",2010,"India","Carcharhinidae",9,"Sharks & rays","R",6.27010823424135,115708,"Reported","Requiem sharks","Industrial",82,20,1,"R","Landings",400011
+"493","sharklg",2010,"India","Carcharhinidae",9,"Sharks & rays","R",10.8563591449948,114988,"Reported","Requiem sharks","Artisanal",82,20,3,"R","Landings",400011
+"494","sharklg",2010,"India","Carcharhinidae",9,"Sharks & rays","R",0.456365696688949,114988,"Reported","Requiem sharks","Artisanal",82,20,3,"R","Landings",400011
+"495","sharklg",2010,"India","Carcharhinidae",9,"Sharks & rays","R",10.678589583769,114988,"Reported","Requiem sharks","Artisanal",82,20,3,"R","Landings",400011
+"496","sharklg",2010,"India","Sphyrna mokarran",9,"Sharks & rays","R",2.93076914642564,115707,"Reported","Great hammerhead","Industrial",82,20,1,"R","Landings",600914
+"497","sharklg",2010,"India","Sphyrna mokarran",9,"Sharks & rays","R",2.89349576552437,114988,"Reported","Great hammerhead","Industrial",82,20,1,"R","Landings",600914
+"498","sharklg",2010,"India","Sphyrna mokarran",9,"Sharks & rays","R",3.41338641166092,115708,"Reported","Great hammerhead","Industrial",82,20,1,"R","Landings",600914
+"499","sharklg",2010,"India","Sphyrna mokarran",9,"Sharks & rays","R",4.1437922248589,114988,"Reported","Great hammerhead","Artisanal",82,20,3,"R","Landings",600914
+"500","sharklg",2010,"India","Sphyrna mokarran",9,"Sharks & rays","R",0.174191420933586,114988,"Reported","Great hammerhead","Artisanal",82,20,3,"R","Landings",600914
+"501","sharklg",2010,"India","Sphyrna mokarran",9,"Sharks & rays","R",4.07593889430986,114988,"Reported","Great hammerhead","Artisanal",82,20,3,"R","Landings",600914
+"502","demersalmd",2010,"India","Perciformes",3,"Perch-likes","R",172.236787417906,114988,"Reported","Perch-likes","Industrial",82,5,1,"R","Landings",300060
+"503","demersalmd",2010,"India","Perciformes",3,"Perch-likes","R",227.76150773385,115708,"Reported","Perch-likes","Industrial",82,5,1,"R","Landings",300060
+"504","demersalmd",2010,"India","Perciformes",3,"Perch-likes","R",197.515438297619,115707,"Reported","Perch-likes","Industrial",82,5,1,"R","Landings",300060
+"505","demersalmd",2010,"India","Perciformes",3,"Perch-likes","R",176.467338624801,114988,"Reported","Perch-likes","Artisanal",82,5,3,"R","Landings",300060
+"506","demersalmd",2010,"India","Perciformes",3,"Perch-likes","R",149.950685373168,114988,"Reported","Perch-likes","Artisanal",82,5,3,"R","Landings",300060
+"507","demersalmd",2010,"India","Perciformes",3,"Perch-likes","R",171.457403071168,114988,"Reported","Perch-likes","Artisanal",82,5,3,"R","Landings",300060
+"508","demersalmd",2010,"India","Perciformes",3,"Perch-likes","R",69.0432824785687,114988,"Reported","Perch-likes","Artisanal",82,5,3,"R","Landings",300060
+"509","demersalmd",2010,"India","Perciformes",3,"Perch-likes","R",188.215495469187,114988,"Reported","Perch-likes","Artisanal",82,5,3,"R","Landings",300060
+"510","demersalmd",2010,"India","Perciformes",3,"Perch-likes","D",0.298956956117343,114988,"Unreported","Perch-likes","Industrial",82,5,1,"U","Discards",300060
+"511","demersalmd",2010,"India","Perciformes",3,"Perch-likes","D",0.395333006923757,115708,"Unreported","Perch-likes","Industrial",82,5,1,"U","Discards",300060
+"512","demersalmd",2010,"India","Perciformes",3,"Perch-likes","D",0.342833927088799,115707,"Unreported","Perch-likes","Industrial",82,5,1,"U","Discards",300060
+"513","sharklg",2010,"India","Carcharhinus",9,"Sharks & rays","R",1.91858156391136,115707,"Reported","Sharp-nosed sharks","Industrial",82,20,1,"R","Landings",500816
+"514","sharklg",2010,"India","Carcharhinus",9,"Sharks & rays","R",2.21420061985103,115708,"Reported","Sharp-nosed sharks","Industrial",82,20,1,"R","Landings",500816
+"515","sharklg",2010,"India","Carcharhinus",9,"Sharks & rays","R",1.67442377441914,114988,"Reported","Sharp-nosed sharks","Industrial",82,20,1,"R","Landings",500816
+"516","sharklg",2010,"India","Carcharhinus",9,"Sharks & rays","R",1.22613561682159,114988,"Reported","Sharp-nosed sharks","Artisanal",82,20,3,"R","Landings",500816
+"517","sharklg",2010,"India","Carcharhinus",9,"Sharks & rays","R",0.0515427158895989,114988,"Reported","Sharp-nosed sharks","Artisanal",82,20,3,"R","Landings",500816
+"518","sharklg",2010,"India","Carcharhinus",9,"Sharks & rays","R",1.20605802103697,114988,"Reported","Sharp-nosed sharks","Artisanal",82,20,3,"R","Landings",500816
+"519","sharklg",2010,"India","Alopias",9,"Sharks & rays","R",0.00909091017105845,114988,"Reported","Thresher sharks","Industrial",82,20,1,"R","Landings",500639
+"520","sharklg",2010,"India","Alopias",9,"Sharks & rays","R",1.97309517434537,114988,"Reported","Thresher sharks","Industrial",82,20,1,"R","Landings",500639
+"521","sharklg",2010,"India","Alopias",9,"Sharks & rays","R",2.64231986031421,115708,"Reported","Thresher sharks","Industrial",82,20,1,"R","Landings",500639
+"522","sharklg",2010,"India","Alopias",9,"Sharks & rays","R",2.28346604714648,115707,"Reported","Thresher sharks","Industrial",82,20,1,"R","Landings",500639
+"523","sharklg",2010,"India","Alopias",9,"Sharks & rays","R",4.01554415637301,114988,"Reported","Thresher sharks","Artisanal",82,20,3,"R","Landings",500639
+"524","sharklg",2010,"India","Alopias",9,"Sharks & rays","R",0.168800293176859,114988,"Reported","Thresher sharks","Artisanal",82,20,3,"R","Landings",500639
+"525","sharklg",2010,"India","Alopias",9,"Sharks & rays","R",3.94979084872837,114988,"Reported","Thresher sharks","Artisanal",82,20,3,"R","Landings",500639
+"526","otherdeminvert",2010,"India","Mollusca",11,"Molluscs","R",2.48887226016805,115708,"Reported","Clams, seasnails, squids, octopuses","Industrial",82,29,1,"R","Landings",190195
+"527","otherdeminvert",2010,"India","Mollusca",11,"Molluscs","R",2.17647191495816,115707,"Reported","Clams, seasnails, squids, octopuses","Industrial",82,29,1,"R","Landings",190195
+"528","otherdeminvert",2010,"India","Mollusca",11,"Molluscs","R",2.71661627513742,114988,"Reported","Clams, seasnails, squids, octopuses","Industrial",82,29,1,"R","Landings",190195
+"529","otherdeminvert",2010,"India","Mollusca",11,"Molluscs","R",0.00718471615032449,114988,"Reported","Clams, seasnails, squids, octopuses","Artisanal",82,29,3,"R","Landings",190195
+"530","otherdeminvert",2010,"India","Mollusca",11,"Molluscs","R",0.0179824592501168,114988,"Reported","Clams, seasnails, squids, octopuses","Artisanal",82,29,3,"R","Landings",190195
+"531","otherdeminvert",2010,"India","Mollusca",11,"Molluscs","R",0.112880223639201,114988,"Reported","Clams, seasnails, squids, octopuses","Artisanal",82,29,3,"R","Landings",190195
+"532","otherdeminvert",2010,"India","Mollusca",11,"Molluscs","R",0.0238066276629979,114988,"Reported","Clams, seasnails, squids, octopuses","Artisanal",82,29,3,"R","Landings",190195
+"533","otherdeminvert",2010,"India","Mollusca",11,"Molluscs","R",0.00556249797846507,114988,"Reported","Clams, seasnails, squids, octopuses","Artisanal",82,29,3,"R","Landings",190195
+"534","otherdeminvert",2010,"India","Mollusca",11,"Molluscs","R",0.0300589931926174,114988,"Reported","Clams, seasnails, squids, octopuses","Artisanal",82,29,3,"R","Landings",190195
+"535","otherdeminvert",2010,"India","Mollusca",11,"Molluscs","R",0.0442012096286677,114988,"Reported","Clams, seasnails, squids, octopuses","Artisanal",82,29,3,"R","Landings",190195
+"536","pelagicmd",2010,"India","Scombridae",3,"Perch-likes","R",15.6586255125631,115708,"Reported","Mackerels, tunas, bonitos","Industrial",82,2,1,"R","Landings",400416
+"537","pelagicmd",2010,"India","Scombridae",3,"Perch-likes","R",15.837097092577,115707,"Reported","Mackerels, tunas, bonitos","Industrial",82,2,1,"R","Landings",400416
+"538","pelagicmd",2010,"India","Scombridae",3,"Perch-likes","R",15.491129002914,114988,"Reported","Mackerels, tunas, bonitos","Industrial",82,2,1,"R","Landings",400416
+"539","pelagicmd",2010,"India","Scombridae",3,"Perch-likes","R",0.131526218493599,114988,"Reported","Mackerels, tunas, bonitos","Artisanal",82,2,3,"R","Landings",400416
+"540","pelagicmd",2010,"India","Scombridae",3,"Perch-likes","R",0.317979638679845,114988,"Reported","Mackerels, tunas, bonitos","Artisanal",82,2,3,"R","Landings",400416
+"541","pelagicmd",2010,"India","Scombridae",3,"Perch-likes","R",0.088357153247434,114988,"Reported","Mackerels, tunas, bonitos","Artisanal",82,2,3,"R","Landings",400416
+"542","pelagicmd",2010,"India","Scombridae",3,"Perch-likes","R",0.0423883923679668,114988,"Reported","Mackerels, tunas, bonitos","Artisanal",82,2,3,"R","Landings",400416
+"543","pelagicmd",2010,"India","Scombridae",3,"Perch-likes","R",0.0913982633178302,114988,"Reported","Mackerels, tunas, bonitos","Artisanal",82,2,3,"R","Landings",400416
+"544","pelagicmd",2010,"India","Scombridae",3,"Perch-likes","R",0.0790185638427652,114988,"Reported","Mackerels, tunas, bonitos","Artisanal",82,2,3,"R","Landings",400416
+"545","pelagicmd",2010,"India","Hemiramphidae",12,"Other fishes & inverts","R",0.584110540845857,115707,"Reported","Halfbeaks, garfishes","Industrial",82,2,1,"R","Landings",400475
+"546","pelagicmd",2010,"India","Hemiramphidae",12,"Other fishes & inverts","R",0.684056925674503,114988,"Reported","Halfbeaks, garfishes","Industrial",82,2,1,"R","Landings",400475
+"547","pelagicmd",2010,"India","Hemiramphidae",12,"Other fishes & inverts","R",0.592816510073553,115708,"Reported","Halfbeaks, garfishes","Industrial",82,2,1,"R","Landings",400475
+"548","pelagicmd",2010,"India","Hemiramphidae",12,"Other fishes & inverts","R",0.00551806691547906,114988,"Reported","Halfbeaks, garfishes","Artisanal",82,2,3,"R","Landings",400475
+"549","pelagicmd",2010,"India","Hemiramphidae",12,"Other fishes & inverts","R",0.0152693844606712,114988,"Reported","Halfbeaks, garfishes","Artisanal",82,2,3,"R","Landings",400475
+"550","pelagicmd",2010,"India","Hemiramphidae",12,"Other fishes & inverts","R",5.0374676870823,114988,"Unreported","Halfbeaks, garfishes","Subsistence",82,2,2,"U","Landings",400475

@@ -1,0 +1,15 @@
+There are a couple of things to note about our field site/conditions:
+
+1. The "mudflat" that we sampled is more of a sandy/muddy bottom. 
+
+2. We has a massive algal bloom form during the first two deployments. The flats in the estuary had about 95% cover throughout the entire estuary. So deploying and seining in the algal covered mudflats was unavoidable. Our last deployment had less algae, but still it was about 50% cover. When retrieving squid pops there was at times a thin sheet of Ulva covering the pops in the flats. We think that there was likely still some time during the 24 hour deployments that the pops were not covered, but it is difficult to say for how long. The first deployment in the flats had all poles covered with a thin sheet of Ulva, the second had 50%, and the third had none. The eelgrass poles were never covered with algae. So the flats we sampled were really macroalgal flats instead of unvegetated. You'll see in some of the photos. My back is still sore from sweeping the seine though the algae. 
+
+3. For our first deployment our YSI crapped out, so we used data from a permanent YSI NERR station which was about 150m away from our seagrass bed and 250m from our mudflat site. I recorded the data that was within 5 minutes from the time the pops were deployed. I made notes in the data sheet. You just might want to flag the physical data from 06/22/2016.
+
+You might want to throw this in the metadata.
+
+Other than that we had a lot of fun, it was very cool to see the striking differences between the eelgrass and flats, it was nearly 100% consumed v. 0% consumed. 
+
+Cheers,
+
+Brent

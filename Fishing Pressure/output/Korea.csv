@@ -1,0 +1,963 @@
+"","functional_group_name","year","fishing_entity_name","taxon_scientific_name","commercial_group_id","commercial_group_name","catch_status","catch_sum","cell_id","reporting_status_name","taxon_common_name","sector_type_name","fishing_entity_id","functional_group_id","sector_type_id","reporting_status","catch_status_name","taxon_key"
+"1","pelagiclg",2010,"Unknown Fishing Country","Coryphaena hippurus",3,"Perch-likes","D",0.0284310975495129,80537,"Unreported","Common dolphinfish","Industrial",213,3,1,"U","Discards",600006
+"2","pelagiclg",2010,"Unknown Fishing Country","Coryphaena hippurus",3,"Perch-likes","D",0.0161529275372454,79818,"Unreported","Common dolphinfish","Industrial",213,3,1,"U","Discards",600006
+"3","pelagiclg",2010,"Korea (South)","Coryphaena hippurus",3,"Perch-likes","D",0.00104218357061719,79818,"Unreported","Common dolphinfish","Industrial",95,3,1,"U","Discards",600006
+"4","pelagiclg",2010,"Korea (South)","Coryphaena hippurus",3,"Perch-likes","D",0.00183436858070434,80537,"Unreported","Common dolphinfish","Industrial",95,3,1,"U","Discards",600006
+"5","pelagiclg",2010,"China","Coryphaena hippurus",3,"Perch-likes","D",0.000199949394173466,79818,"Unreported","Common dolphinfish","Industrial",31,3,1,"U","Discards",600006
+"6","pelagiclg",2010,"China","Coryphaena hippurus",3,"Perch-likes","D",0.000351935011012948,80537,"Unreported","Common dolphinfish","Industrial",31,3,1,"U","Discards",600006
+"7","pelagicmd",2010,"Korea (South)","Cololabis saira",12,"Other fishes & inverts","R",4.53941805415363,79818,"Reported","Pacific saury","Industrial",95,2,1,"R","Landings",600303
+"8","pelagicmd",2010,"Korea (South)","Cololabis saira",12,"Other fishes & inverts","R",11.0613044503428,80537,"Reported","Pacific saury","Industrial",95,2,1,"R","Landings",600303
+"9","pelagicmd",2010,"Korea (South)","Cololabis saira",12,"Other fishes & inverts","R",0.998483683254768,79818,"Reported","Pacific saury","Industrial",95,2,1,"R","Landings",600303
+"10","pelagicmd",2010,"Korea (South)","Cololabis saira",12,"Other fishes & inverts","R",2.43302817176638,80537,"Reported","Pacific saury","Industrial",95,2,1,"R","Landings",600303
+"11","pelagicmd",2010,"Korea (South)","Cololabis saira",12,"Other fishes & inverts","R",9.37698113925556,79818,"Reported","Pacific saury","Artisanal",95,2,3,"R","Landings",600303
+"12","pelagicmd",2010,"Korea (South)","Cololabis saira",12,"Other fishes & inverts","R",18.6405925170507,80537,"Reported","Pacific saury","Artisanal",95,2,3,"R","Landings",600303
+"13","pelagicmd",2010,"Korea (South)","Cololabis saira",12,"Other fishes & inverts","R",0.540756178334386,79818,"Reported","Pacific saury","Artisanal",95,2,3,"R","Landings",600303
+"14","pelagicmd",2010,"Korea (South)","Cololabis saira",12,"Other fishes & inverts","R",1.07497449570525,80537,"Reported","Pacific saury","Artisanal",95,2,3,"R","Landings",600303
+"15","pelagicmd",2010,"Korea (South)","Cololabis saira",12,"Other fishes & inverts","R",3.05189523307015,79818,"Reported","Pacific saury","Artisanal",95,2,3,"R","Landings",600303
+"16","pelagicmd",2010,"Korea (South)","Cololabis saira",12,"Other fishes & inverts","R",6.06689238247809,80537,"Reported","Pacific saury","Artisanal",95,2,3,"R","Landings",600303
+"17","pelagiclg",2010,"Unknown Fishing Country","Thunnus obesus",4,"Tuna & billfishes","D",3.23749263279465e-05,80537,"Unreported","Bigeye tuna","Industrial",213,3,1,"U","Discards",600146
+"18","pelagiclg",2010,"Unknown Fishing Country","Thunnus obesus",4,"Tuna & billfishes","D",0.00717163261581394,80537,"Unreported","Bigeye tuna","Industrial",213,3,1,"U","Discards",600146
+"19","pelagiclg",2010,"Unknown Fishing Country","Thunnus obesus",4,"Tuna & billfishes","D",3.84417182706223e-05,80537,"Unreported","Bigeye tuna","Industrial",213,3,1,"U","Discards",600146
+"20","pelagiclg",2010,"Unknown Fishing Country","Thunnus obesus",4,"Tuna & billfishes","D",0.000529720719054713,80537,"Unreported","Bigeye tuna","Industrial",213,3,1,"U","Discards",600146
+"21","pelagiclg",2010,"Unknown Fishing Country","Thunnus obesus",4,"Tuna & billfishes","R",0.307831925618582,80537,"Reported","Bigeye tuna","Industrial",213,3,1,"R","Landings",600146
+"22","pelagiclg",2010,"Unknown Fishing Country","Thunnus obesus",4,"Tuna & billfishes","R",0.0926208243855612,80537,"Reported","Bigeye tuna","Industrial",213,3,1,"R","Landings",600146
+"23","pelagiclg",2010,"Korea (South)","Thunnus obesus",4,"Tuna & billfishes","D",0.000308202229026278,80537,"Unreported","Bigeye tuna","Industrial",95,3,1,"U","Discards",600146
+"24","pelagiclg",2010,"China","Thunnus obesus",4,"Tuna & billfishes","D",5.91305128138044e-05,80537,"Unreported","Bigeye tuna","Industrial",31,3,1,"U","Discards",600146
+"25","demersalmd",2010,"Korea (South)","Trachurus japonicus",3,"Perch-likes","R",0.0102534636575125,79818,"Reported","Japanese jack mackerel","Industrial",95,5,1,"R","Landings",600366
+"26","demersalmd",2010,"Korea (South)","Trachurus japonicus",3,"Perch-likes","R",0.530111804374176,80537,"Reported","Japanese jack mackerel","Industrial",95,5,1,"R","Landings",600366
+"27","demersalmd",2010,"Korea (South)","Trachurus japonicus",3,"Perch-likes","R",1.02637273850839e-06,79818,"Reported","Japanese jack mackerel","Industrial",95,5,1,"R","Landings",600366
+"28","demersalmd",2010,"Korea (South)","Trachurus japonicus",3,"Perch-likes","R",5.30642446830638e-05,80537,"Reported","Japanese jack mackerel","Industrial",95,5,1,"R","Landings",600366
+"29","demersalmd",2010,"Korea (South)","Trachurus japonicus",3,"Perch-likes","R",8.21098190791237e-06,79818,"Reported","Japanese jack mackerel","Industrial",95,5,1,"R","Landings",600366
+"30","demersalmd",2010,"Korea (South)","Trachurus japonicus",3,"Perch-likes","R",0.000424513957456511,80537,"Reported","Japanese jack mackerel","Industrial",95,5,1,"R","Landings",600366
+"31","demersalmd",2010,"Korea (South)","Trachurus japonicus",3,"Perch-likes","R",0.277164220188892,79818,"Reported","Japanese jack mackerel","Artisanal",95,5,3,"R","Landings",600366
+"32","demersalmd",2010,"Korea (South)","Trachurus japonicus",3,"Perch-likes","R",11.6902701962015,80537,"Reported","Japanese jack mackerel","Artisanal",95,5,3,"R","Landings",600366
+"33","demersalmd",2010,"Korea (South)","Trachurus japonicus",3,"Perch-likes","R",0.0159836371913909,79818,"Reported","Japanese jack mackerel","Artisanal",95,5,3,"R","Landings",600366
+"34","demersalmd",2010,"Korea (South)","Trachurus japonicus",3,"Perch-likes","R",0.674160024544548,80537,"Reported","Japanese jack mackerel","Artisanal",95,5,3,"R","Landings",600366
+"35","demersalmd",2010,"Korea (South)","Trachurus japonicus",3,"Perch-likes","R",0.443693571308276,79818,"Reported","Japanese jack mackerel","Artisanal",95,5,3,"R","Landings",600366
+"36","demersalmd",2010,"Korea (South)","Trachurus japonicus",3,"Perch-likes","R",18.7141678293698,80537,"Reported","Japanese jack mackerel","Artisanal",95,5,3,"R","Landings",600366
+"37","demersalmd",2010,"China","Trachurus japonicus",3,"Perch-likes","R",0.0860075160249002,80537,"Reported","Japanese jack mackerel","Industrial",31,5,1,"R","Landings",600366
+"38","demersalmd",2010,"China","Trachurus japonicus",3,"Perch-likes","R",0.00166356404923927,79818,"Reported","Japanese jack mackerel","Industrial",31,5,1,"R","Landings",600366
+"39","demersalmd",2010,"China","Trachurus japonicus",3,"Perch-likes","R",0.0740186449779372,80537,"Reported","Japanese jack mackerel","Industrial",31,5,1,"R","Landings",600366
+"40","demersalmd",2010,"China","Trachurus japonicus",3,"Perch-likes","R",0.00143167437509824,79818,"Reported","Japanese jack mackerel","Industrial",31,5,1,"R","Landings",600366
+"41","demersalmd",2010,"China","Trachurus japonicus",3,"Perch-likes","R",0.243524165815867,80537,"Reported","Japanese jack mackerel","Industrial",31,5,1,"R","Landings",600366
+"42","demersalmd",2010,"China","Trachurus japonicus",3,"Perch-likes","R",0.00471026331297571,79818,"Reported","Japanese jack mackerel","Industrial",31,5,1,"R","Landings",600366
+"43","pelagicmd",2010,"Korea (South)","Scomber japonicus",3,"Perch-likes","R",190.745478479317,79818,"Reported","Chub mackerel","Industrial",95,2,1,"R","Landings",600117
+"44","pelagicmd",2010,"Korea (South)","Scomber japonicus",3,"Perch-likes","R",406.670566772873,80537,"Reported","Chub mackerel","Industrial",95,2,1,"R","Landings",600117
+"45","pelagicmd",2010,"Korea (South)","Scomber japonicus",3,"Perch-likes","R",0.210051082518136,79818,"Reported","Chub mackerel","Industrial",95,2,1,"R","Landings",600117
+"46","pelagicmd",2010,"Korea (South)","Scomber japonicus",3,"Perch-likes","R",0.447830236710792,80537,"Reported","Chub mackerel","Industrial",95,2,1,"R","Landings",600117
+"47","pelagicmd",2010,"Korea (South)","Scomber japonicus",3,"Perch-likes","R",106.912522347229,79818,"Reported","Chub mackerel","Artisanal",95,2,3,"R","Landings",600117
+"48","pelagicmd",2010,"Korea (South)","Scomber japonicus",3,"Perch-likes","R",185.954875643801,80537,"Reported","Chub mackerel","Artisanal",95,2,3,"R","Landings",600117
+"49","pelagicmd",2010,"Korea (South)","Scomber japonicus",3,"Perch-likes","R",12.7579031479418,79818,"Reported","Chub mackerel","Artisanal",95,2,3,"R","Landings",600117
+"50","pelagicmd",2010,"Korea (South)","Scomber japonicus",3,"Perch-likes","R",22.1900507187189,80537,"Reported","Chub mackerel","Artisanal",95,2,3,"R","Landings",600117
+"51","pelagicmd",2010,"Korea (South)","Scomber japonicus",3,"Perch-likes","R",354.149655822037,79818,"Reported","Chub mackerel","Artisanal",95,2,3,"R","Landings",600117
+"52","pelagicmd",2010,"Korea (South)","Scomber japonicus",3,"Perch-likes","R",615.978874708392,80537,"Reported","Chub mackerel","Artisanal",95,2,3,"R","Landings",600117
+"53","pelagicmd",2010,"China","Scomber japonicus",3,"Perch-likes","R",151.483619643927,80537,"Reported","Chub mackerel","Industrial",31,2,1,"R","Landings",600117
+"54","pelagicmd",2010,"China","Scomber japonicus",3,"Perch-likes","R",71.0521436061972,79818,"Reported","Chub mackerel","Industrial",31,2,1,"R","Landings",600117
+"55","pelagicmd",2010,"China","Scomber japonicus",3,"Perch-likes","R",130.367818778255,80537,"Reported","Chub mackerel","Industrial",31,2,1,"R","Landings",600117
+"56","pelagicmd",2010,"China","Scomber japonicus",3,"Perch-likes","R",61.147951199162,79818,"Reported","Chub mackerel","Industrial",31,2,1,"R","Landings",600117
+"57","pelagicmd",2010,"China","Scomber japonicus",3,"Perch-likes","R",201.179092215032,79818,"Reported","Chub mackerel","Industrial",31,2,1,"R","Landings",600117
+"58","pelagicmd",2010,"China","Scomber japonicus",3,"Perch-likes","R",428.915097260407,80537,"Reported","Chub mackerel","Industrial",31,2,1,"R","Landings",600117
+"59","pelagicsm",2010,"Korea (South)","Engraulis japonicus",1,"Anchovies","R",348.283003092825,79818,"Reported","Japanese anchovy","Industrial",95,1,1,"R","Landings",601663
+"60","pelagicsm",2010,"Korea (South)","Engraulis japonicus",1,"Anchovies","R",777.429462860547,80537,"Reported","Japanese anchovy","Industrial",95,1,1,"R","Landings",601663
+"61","pelagicsm",2010,"Korea (South)","Engraulis japonicus",1,"Anchovies","R",156.255607790596,79818,"Reported","Japanese anchovy","Industrial",95,1,1,"R","Landings",601663
+"62","pelagicsm",2010,"Korea (South)","Engraulis japonicus",1,"Anchovies","R",348.790242862397,80537,"Reported","Japanese anchovy","Industrial",95,1,1,"R","Landings",601663
+"63","pelagicsm",2010,"Korea (South)","Engraulis japonicus",1,"Anchovies","R",516.460574426999,79818,"Reported","Japanese anchovy","Artisanal",95,1,3,"R","Landings",601663
+"64","pelagicsm",2010,"Korea (South)","Engraulis japonicus",1,"Anchovies","R",940.494789557633,80537,"Reported","Japanese anchovy","Artisanal",95,1,3,"R","Landings",601663
+"65","pelagicsm",2010,"Korea (South)","Engraulis japonicus",1,"Anchovies","R",29.7834923991004,79818,"Reported","Japanese anchovy","Artisanal",95,1,3,"R","Landings",601663
+"66","pelagicsm",2010,"Korea (South)","Engraulis japonicus",1,"Anchovies","R",54.2368978450312,80537,"Reported","Japanese anchovy","Artisanal",95,1,3,"R","Landings",601663
+"67","pelagicsm",2010,"Korea (South)","Engraulis japonicus",1,"Anchovies","R",826.76702119512,79818,"Reported","Japanese anchovy","Artisanal",95,1,3,"R","Landings",601663
+"68","pelagicsm",2010,"Korea (South)","Engraulis japonicus",1,"Anchovies","R",1505.57489596334,80537,"Reported","Japanese anchovy","Artisanal",95,1,3,"R","Landings",601663
+"69","pelagicsm",2010,"China","Engraulis japonicus",1,"Anchovies","R",130.352018136559,80537,"Reported","Japanese anchovy","Industrial",31,1,1,"R","Landings",601663
+"70","pelagicsm",2010,"China","Engraulis japonicus",1,"Anchovies","R",58.3967993298894,79818,"Reported","Japanese anchovy","Industrial",31,1,1,"R","Landings",601663
+"71","pelagicsm",2010,"China","Engraulis japonicus",1,"Anchovies","R",112.18182083804,80537,"Reported","Japanese anchovy","Industrial",31,1,1,"R","Landings",601663
+"72","pelagicsm",2010,"China","Engraulis japonicus",1,"Anchovies","R",50.2566770625495,79818,"Reported","Japanese anchovy","Industrial",31,1,1,"R","Landings",601663
+"73","pelagicsm",2010,"China","Engraulis japonicus",1,"Anchovies","R",369.08247026613,80537,"Reported","Japanese anchovy","Industrial",31,1,1,"R","Landings",601663
+"74","pelagicsm",2010,"China","Engraulis japonicus",1,"Anchovies","R",165.346384815704,79818,"Reported","Japanese anchovy","Industrial",31,1,1,"R","Landings",601663
+"75","pelagicmd",2010,"Korea (South)","Clupea pallasii pallasii",2,"Herring-likes","R",92.7612108881488,79818,"Reported","Pacific herring","Industrial",95,2,1,"R","Landings",601520
+"76","pelagicmd",2010,"Korea (South)","Clupea pallasii pallasii",2,"Herring-likes","R",105.606164492333,80537,"Reported","Pacific herring","Industrial",95,2,1,"R","Landings",601520
+"77","pelagicmd",2010,"Korea (South)","Clupea pallasii pallasii",2,"Herring-likes","R",0.148640898769086,79818,"Reported","Pacific herring","Industrial",95,2,1,"R","Landings",601520
+"78","pelagicmd",2010,"Korea (South)","Clupea pallasii pallasii",2,"Herring-likes","R",0.169223698735716,80537,"Reported","Pacific herring","Industrial",95,2,1,"R","Landings",601520
+"79","pelagicmd",2010,"Korea (South)","Clupea pallasii pallasii",2,"Herring-likes","R",59.5417967213804,79818,"Reported","Pacific herring","Artisanal",95,2,3,"R","Landings",601520
+"80","pelagicmd",2010,"Korea (South)","Clupea pallasii pallasii",2,"Herring-likes","R",55.3012949910531,80537,"Reported","Pacific herring","Artisanal",95,2,3,"R","Landings",601520
+"81","pelagicmd",2010,"Korea (South)","Clupea pallasii pallasii",2,"Herring-likes","R",3.43368446284117,79818,"Reported","Pacific herring","Artisanal",95,2,3,"R","Landings",601520
+"82","pelagicmd",2010,"Korea (South)","Clupea pallasii pallasii",2,"Herring-likes","R",3.1891412057035,80537,"Reported","Pacific herring","Artisanal",95,2,3,"R","Landings",601520
+"83","pelagicmd",2010,"Korea (South)","Clupea pallasii pallasii",2,"Herring-likes","R",95.3164604414527,79818,"Reported","Pacific herring","Artisanal",95,2,3,"R","Landings",601520
+"84","pelagicmd",2010,"Korea (South)","Clupea pallasii pallasii",2,"Herring-likes","R",88.5281262344416,80537,"Reported","Pacific herring","Artisanal",95,2,3,"R","Landings",601520
+"85","pelagicmd",2010,"China","Clupea pallasii pallasii",2,"Herring-likes","R",0.258613068709051,80537,"Reported","Pacific herring","Industrial",31,2,1,"R","Landings",601520
+"86","pelagicmd",2010,"China","Clupea pallasii pallasii",2,"Herring-likes","R",0.227157775497974,79818,"Reported","Pacific herring","Industrial",31,2,1,"R","Landings",601520
+"87","pelagicmd",2010,"China","Clupea pallasii pallasii",2,"Herring-likes","R",0.222564140929218,80537,"Reported","Pacific herring","Industrial",31,2,1,"R","Landings",601520
+"88","pelagicmd",2010,"China","Clupea pallasii pallasii",2,"Herring-likes","R",0.195493504684318,79818,"Reported","Pacific herring","Industrial",31,2,1,"R","Landings",601520
+"89","pelagicmd",2010,"China","Clupea pallasii pallasii",2,"Herring-likes","R",0.732244514437608,80537,"Reported","Pacific herring","Industrial",31,2,1,"R","Landings",601520
+"90","pelagicmd",2010,"China","Clupea pallasii pallasii",2,"Herring-likes","R",0.643181088452163,79818,"Reported","Pacific herring","Industrial",31,2,1,"R","Landings",601520
+"91","cephalopods",2010,"Korea (South)","Todarodes pacificus",12,"Other fishes & inverts","R",0.0396825716528635,79818,"Reported","Japanese flying squid","Industrial",95,25,1,"R","Landings",690198
+"92","cephalopods",2010,"Korea (South)","Todarodes pacificus",12,"Other fishes & inverts","R",1.88612199534651,80537,"Reported","Japanese flying squid","Industrial",95,25,1,"R","Landings",690198
+"93","cephalopods",2010,"Korea (South)","Todarodes pacificus",12,"Other fishes & inverts","R",0.000143387792783602,79818,"Reported","Japanese flying squid","Industrial",95,25,1,"R","Landings",690198
+"94","cephalopods",2010,"Korea (South)","Todarodes pacificus",12,"Other fishes & inverts","R",0.00681525562907472,80537,"Reported","Japanese flying squid","Industrial",95,25,1,"R","Landings",690198
+"95","cephalopods",2010,"Korea (South)","Todarodes pacificus",12,"Other fishes & inverts","R",2.81921947645878,79818,"Reported","Japanese flying squid","Artisanal",95,25,3,"R","Landings",690198
+"96","cephalopods",2010,"Korea (South)","Todarodes pacificus",12,"Other fishes & inverts","R",109.317417311375,80537,"Reported","Japanese flying squid","Artisanal",95,25,3,"R","Landings",690198
+"97","cephalopods",2010,"Korea (South)","Todarodes pacificus",12,"Other fishes & inverts","R",0.16258008066088,79818,"Reported","Japanese flying squid","Artisanal",95,25,3,"R","Landings",690198
+"98","cephalopods",2010,"Korea (South)","Todarodes pacificus",12,"Other fishes & inverts","R",6.30416846667324,80537,"Reported","Japanese flying squid","Artisanal",95,25,3,"R","Landings",690198
+"99","cephalopods",2010,"Korea (South)","Todarodes pacificus",12,"Other fishes & inverts","R",0.917562097375205,79818,"Reported","Japanese flying squid","Artisanal",95,25,3,"R","Landings",690198
+"100","cephalopods",2010,"Korea (South)","Todarodes pacificus",12,"Other fishes & inverts","R",35.5791805304424,80537,"Reported","Japanese flying squid","Artisanal",95,25,3,"R","Landings",690198
+"101","pelagiclg",2010,"Unknown Fishing Country","Istiompax indica",4,"Tuna & billfishes","R",0.00376663286249589,80537,"Reported","Black marlin","Industrial",213,3,1,"R","Landings",600217
+"102","pelagiclg",2010,"Unknown Fishing Country","Istiompax indica",4,"Tuna & billfishes","R",0.00188479941315385,79818,"Reported","Black marlin","Industrial",213,3,1,"R","Landings",600217
+"103","pelagiclg",2010,"Korea (South)","Istiompax indica",4,"Tuna & billfishes","R",0.00060583555006491,80537,"Reported","Black marlin","Industrial",95,3,1,"R","Landings",600217
+"104","pelagiclg",2010,"Korea (South)","Istiompax indica",4,"Tuna & billfishes","R",0.000303156301905527,79818,"Reported","Black marlin","Industrial",95,3,1,"R","Landings",600217
+"105","pelagiclg",2010,"China","Istiompax indica",4,"Tuna & billfishes","R",6.06312603811055e-05,79818,"Reported","Black marlin","Industrial",31,3,1,"R","Landings",600217
+"106","pelagiclg",2010,"China","Istiompax indica",4,"Tuna & billfishes","R",0.000121167110012982,80537,"Reported","Black marlin","Industrial",31,3,1,"R","Landings",600217
+"107","otherdeminvert",2010,"Korea (South)","Crassostrea gigas",11,"Molluscs","R",82.1945422151339,79818,"Reported","Pacific cupped oyster","Industrial",95,29,1,"R","Landings",690283
+"108","otherdeminvert",2010,"Korea (South)","Crassostrea gigas",11,"Molluscs","R",133.233924974731,80537,"Reported","Pacific cupped oyster","Industrial",95,29,1,"R","Landings",690283
+"109","otherdeminvert",2010,"Korea (South)","Crassostrea gigas",11,"Molluscs","R",139.927046995913,79818,"Reported","Pacific cupped oyster","Artisanal",95,29,3,"R","Landings",690283
+"110","otherdeminvert",2010,"Korea (South)","Crassostrea gigas",11,"Molluscs","R",185.039316285111,80537,"Reported","Pacific cupped oyster","Artisanal",95,29,3,"R","Landings",690283
+"111","otherdeminvert",2010,"Korea (South)","Crassostrea gigas",11,"Molluscs","R",18.5029346535342,79818,"Reported","Pacific cupped oyster","Artisanal",95,29,3,"R","Landings",690283
+"112","otherdeminvert",2010,"Korea (South)","Crassostrea gigas",11,"Molluscs","R",24.4682529293858,80537,"Reported","Pacific cupped oyster","Artisanal",95,29,3,"R","Landings",690283
+"113","shrimp",2010,"Korea (South)","Metapenaeus joyneri",10,"Crustaceans","R",15.0081787794225,79818,"Reported","Shiba shrimp","Industrial",95,26,1,"R","Landings",690356
+"114","shrimp",2010,"Korea (South)","Metapenaeus joyneri",10,"Crustaceans","R",1.79815302436868,79818,"Reported","Shiba shrimp","Artisanal",95,26,3,"R","Landings",690356
+"115","shrimp",2010,"Korea (South)","Metapenaeus joyneri",10,"Crustaceans","R",0.214574136185542,79818,"Reported","Shiba shrimp","Artisanal",95,26,3,"R","Landings",690356
+"116","shrimp",2010,"Korea (South)","Metapenaeus joyneri",10,"Crustaceans","R",5.95641427883707,79818,"Reported","Shiba shrimp","Artisanal",95,26,3,"R","Landings",690356
+"117","otherdeminvert",2010,"Korea (South)","Tegillarca granosa",11,"Molluscs","R",26.9781768312038,79818,"Reported","Granular ark","Industrial",95,29,1,"R","Landings",690050
+"118","otherdeminvert",2010,"Korea (South)","Tegillarca granosa",11,"Molluscs","R",46.2387900711502,80537,"Reported","Granular ark","Industrial",95,29,1,"R","Landings",690050
+"119","otherdeminvert",2010,"Korea (South)","Tegillarca granosa",11,"Molluscs","R",45.4891125470117,79818,"Reported","Granular ark","Artisanal",95,29,3,"R","Landings",690050
+"120","otherdeminvert",2010,"Korea (South)","Tegillarca granosa",11,"Molluscs","R",63.6050844626914,80537,"Reported","Granular ark","Artisanal",95,29,3,"R","Landings",690050
+"121","otherdeminvert",2010,"Korea (South)","Tegillarca granosa",11,"Molluscs","R",6.01514928653645,79818,"Reported","Granular ark","Artisanal",95,29,3,"R","Landings",690050
+"122","otherdeminvert",2010,"Korea (South)","Tegillarca granosa",11,"Molluscs","R",8.41067360965657,80537,"Reported","Granular ark","Artisanal",95,29,3,"R","Landings",690050
+"123","cephalopods",2010,"Korea (South)","Ommastrephidae",12,"Other fishes & inverts","R",0.0799271587071747,79818,"Unreported","Arrow squids","Subsistence",95,25,2,"U","Landings",490004
+"124","cephalopods",2010,"Korea (South)","Ommastrephidae",12,"Other fishes & inverts","R",3.20798261696321,80537,"Unreported","Arrow squids","Subsistence",95,25,2,"U","Landings",490004
+"125","lobsters,crab",2010,"Korea (South)","Portunus trituberculatus",10,"Crustaceans","R",247.8704096399,79818,"Reported","Gazami crab","Industrial",95,27,1,"R","Landings",690143
+"126","lobsters,crab",2010,"Korea (South)","Portunus trituberculatus",10,"Crustaceans","R",9.29296910703283,79818,"Reported","Gazami crab","Industrial",95,27,1,"R","Landings",690143
+"127","lobsters,crab",2010,"Korea (South)","Portunus trituberculatus",10,"Crustaceans","R",609.080302314167,79818,"Reported","Gazami crab","Industrial",95,27,1,"R","Landings",690143
+"128","lobsters,crab",2010,"Korea (South)","Portunus trituberculatus",10,"Crustaceans","R",2.34495482139906,79818,"Reported","Gazami crab","Industrial",95,27,1,"R","Landings",690143
+"129","lobsters,crab",2010,"Korea (South)","Portunus trituberculatus",10,"Crustaceans","R",93.4084847099205,79818,"Reported","Gazami crab","Artisanal",95,27,3,"R","Landings",690143
+"130","lobsters,crab",2010,"Korea (South)","Portunus trituberculatus",10,"Crustaceans","R",11.1464623129439,79818,"Reported","Gazami crab","Artisanal",95,27,3,"R","Landings",690143
+"131","lobsters,crab",2010,"Korea (South)","Portunus trituberculatus",10,"Crustaceans","R",309.417287934127,79818,"Reported","Gazami crab","Artisanal",95,27,3,"R","Landings",690143
+"132","lobsters,crab",2010,"Korea (South)","Portunus trituberculatus",10,"Crustaceans","D",82.3120015594815,79818,"Unreported","Gazami crab","Industrial",95,27,1,"U","Discards",690143
+"133","lobsters,crab",2010,"China","Portunus trituberculatus",10,"Crustaceans","R",1544.29866878106,79818,"Reported","Gazami crab","Industrial",31,27,1,"R","Landings",690143
+"134","sharklg",2010,"Unknown Fishing Country","Elasmobranchii",9,"Sharks & rays","D",0.0012550443365929,80537,"Unreported","Sharks, rays, skates","Industrial",213,20,1,"U","Discards",200004
+"135","sharklg",2010,"Unknown Fishing Country","Elasmobranchii",9,"Sharks & rays","D",3.43278580642082e-05,79818,"Unreported","Sharks, rays, skates","Industrial",213,20,1,"U","Discards",200004
+"136","sharklg",2010,"Unknown Fishing Country","Elasmobranchii",9,"Sharks & rays","D",6.48849826151325e-06,79818,"Unreported","Sharks, rays, skates","Industrial",213,20,1,"U","Discards",200004
+"137","sharklg",2010,"Unknown Fishing Country","Elasmobranchii",9,"Sharks & rays","D",0.000237222869567727,80537,"Unreported","Sharks, rays, skates","Industrial",213,20,1,"U","Discards",200004
+"138","sharklg",2010,"Korea (South)","Elasmobranchii",9,"Sharks & rays","R",0.00648531945305046,80537,"Reported","Sharks, rays, skates","Industrial",95,20,1,"R","Landings",200004
+"139","sharklg",2010,"Korea (South)","Elasmobranchii",9,"Sharks & rays","R",0.000177333452768494,79818,"Reported","Sharks, rays, skates","Industrial",95,20,1,"R","Landings",200004
+"140","sharklg",2010,"Korea (South)","Elasmobranchii",9,"Sharks & rays","R",0.0155368819686353,79818,"Reported","Sharks, rays, skates","Artisanal",95,20,3,"R","Landings",200004
+"141","sharklg",2010,"Korea (South)","Elasmobranchii",9,"Sharks & rays","R",0.4635483876433,80537,"Reported","Sharks, rays, skates","Artisanal",95,20,3,"R","Landings",200004
+"142","sharklg",2010,"Korea (South)","Elasmobranchii",9,"Sharks & rays","R",0.000895988249503795,79818,"Reported","Sharks, rays, skates","Artisanal",95,20,3,"R","Landings",200004
+"143","sharklg",2010,"Korea (South)","Elasmobranchii",9,"Sharks & rays","R",0.0267321274141923,80537,"Reported","Sharks, rays, skates","Artisanal",95,20,3,"R","Landings",200004
+"144","sharklg",2010,"Korea (South)","Elasmobranchii",9,"Sharks & rays","R",0.00505673791091962,79818,"Reported","Sharks, rays, skates","Artisanal",95,20,3,"R","Landings",200004
+"145","sharklg",2010,"Korea (South)","Elasmobranchii",9,"Sharks & rays","R",0.150869570231241,80537,"Reported","Sharks, rays, skates","Artisanal",95,20,3,"R","Landings",200004
+"146","sharklg",2010,"Korea (South)","Elasmobranchii",9,"Sharks & rays","D",3.53138792929095e-06,79818,"Unreported","Sharks, rays, skates","Industrial",95,20,1,"U","Discards",200004
+"147","sharklg",2010,"Korea (South)","Elasmobranchii",9,"Sharks & rays","D",0.000129109378530967,80537,"Unreported","Sharks, rays, skates","Industrial",95,20,1,"U","Discards",200004
+"148","sharklg",2010,"China","Elasmobranchii",9,"Sharks & rays","D",8.7109549502542e-07,79818,"Unreported","Sharks, rays, skates","Industrial",31,20,1,"U","Discards",200004
+"149","sharklg",2010,"China","Elasmobranchii",9,"Sharks & rays","D",3.18477041479944e-05,80537,"Unreported","Sharks, rays, skates","Industrial",31,20,1,"U","Discards",200004
+"150","lobsters,crab",2010,"China","Portunus pelagicus",10,"Crustaceans","R",227.048191813726,79818,"Reported","Blue swimming crab","Industrial",31,27,1,"R","Landings",690055
+"151","demersalsm",2010,"Korea (South)","Ammodytes personatus",3,"Perch-likes","R",253.046994445521,79818,"Reported","Pacific sandlance","Industrial",95,4,1,"R","Landings",600487
+"152","demersalsm",2010,"Korea (South)","Ammodytes personatus",3,"Perch-likes","R",104.624239408196,79818,"Reported","Pacific sandlance","Artisanal",95,4,3,"R","Landings",600487
+"153","demersalsm",2010,"Korea (South)","Ammodytes personatus",3,"Perch-likes","R",6.03352006614036,79818,"Reported","Pacific sandlance","Artisanal",95,4,3,"R","Landings",600487
+"154","demersalsm",2010,"Korea (South)","Ammodytes personatus",3,"Perch-likes","R",34.0517073428617,79818,"Reported","Pacific sandlance","Artisanal",95,4,3,"R","Landings",600487
+"155","demersalsm",2010,"China","Ammodytes personatus",3,"Perch-likes","R",71.6928268675916,79818,"Reported","Pacific sandlance","Industrial",31,4,1,"R","Landings",600487
+"156","demersalsm",2010,"China","Ammodytes personatus",3,"Perch-likes","R",61.699327510391,79818,"Reported","Pacific sandlance","Industrial",31,4,1,"R","Landings",600487
+"157","demersalsm",2010,"China","Ammodytes personatus",3,"Perch-likes","R",202.99314134273,79818,"Reported","Pacific sandlance","Industrial",31,4,1,"R","Landings",600487
+"158","otherdeminvert",2010,"Korea (South)","Ruditapes philippinarum",11,"Molluscs","R",51.2101730661346,79818,"Reported","Japanese carpet shell","Industrial",95,29,1,"R","Landings",690196
+"159","otherdeminvert",2010,"Korea (South)","Ruditapes philippinarum",11,"Molluscs","R",79.3701569099064,80537,"Reported","Japanese carpet shell","Industrial",95,29,1,"R","Landings",690196
+"160","otherdeminvert",2010,"Korea (South)","Ruditapes philippinarum",11,"Molluscs","R",79.4885136367458,79818,"Reported","Japanese carpet shell","Artisanal",95,29,3,"R","Landings",690196
+"161","otherdeminvert",2010,"Korea (South)","Ruditapes philippinarum",11,"Molluscs","R",100.506899664596,80537,"Reported","Japanese carpet shell","Artisanal",95,29,3,"R","Landings",690196
+"162","otherdeminvert",2010,"Korea (South)","Ruditapes philippinarum",11,"Molluscs","R",10.5109827235204,79818,"Reported","Japanese carpet shell","Artisanal",95,29,3,"R","Landings",690196
+"163","otherdeminvert",2010,"Korea (South)","Ruditapes philippinarum",11,"Molluscs","R",13.2903011722791,80537,"Reported","Japanese carpet shell","Artisanal",95,29,3,"R","Landings",690196
+"164","otherdeminvert",2010,"Korea (South)","Mytilus coruscus",11,"Molluscs","R",11.2581968777664,79818,"Reported","Korean mussel","Industrial",95,29,1,"R","Landings",690218
+"165","otherdeminvert",2010,"Korea (South)","Mytilus coruscus",11,"Molluscs","R",18.3775957057741,80537,"Reported","Korean mussel","Industrial",95,29,1,"R","Landings",690218
+"166","otherdeminvert",2010,"Korea (South)","Mytilus coruscus",11,"Molluscs","R",21.1626619601203,79818,"Reported","Korean mussel","Artisanal",95,29,3,"R","Landings",690218
+"167","otherdeminvert",2010,"Korea (South)","Mytilus coruscus",11,"Molluscs","R",28.1825738608438,80537,"Reported","Korean mussel","Artisanal",95,29,3,"R","Landings",690218
+"168","otherdeminvert",2010,"Korea (South)","Mytilus coruscus",11,"Molluscs","R",2.79839644836052,79818,"Reported","Korean mussel","Artisanal",95,29,3,"R","Landings",690218
+"169","otherdeminvert",2010,"Korea (South)","Mytilus coruscus",11,"Molluscs","R",3.72665852464409,80537,"Reported","Korean mussel","Artisanal",95,29,3,"R","Landings",690218
+"170","benthopelagiclg",2010,"Korea (South)","Mugil cephalus",3,"Perch-likes","R",34.8385049698869,80537,"Reported","Flathead grey mullet","Industrial",95,15,1,"R","Landings",600785
+"171","benthopelagiclg",2010,"Korea (South)","Mugil cephalus",3,"Perch-likes","R",21.3369755942088,79818,"Reported","Flathead grey mullet","Industrial",95,15,1,"R","Landings",600785
+"172","benthopelagiclg",2010,"Korea (South)","Mugil cephalus",3,"Perch-likes","R",3.56321765378866,79818,"Reported","Flathead grey mullet","Industrial",95,15,1,"R","Landings",600785
+"173","benthopelagiclg",2010,"Korea (South)","Mugil cephalus",3,"Perch-likes","R",5.81793682015542,80537,"Reported","Flathead grey mullet","Industrial",95,15,1,"R","Landings",600785
+"174","benthopelagiclg",2010,"Korea (South)","Mugil cephalus",3,"Perch-likes","R",5.05342719310407,79818,"Reported","Flathead grey mullet","Artisanal",95,15,3,"R","Landings",600785
+"175","benthopelagiclg",2010,"Korea (South)","Mugil cephalus",3,"Perch-likes","R",6.73136542010956,80537,"Reported","Flathead grey mullet","Artisanal",95,15,3,"R","Landings",600785
+"176","benthopelagiclg",2010,"Korea (South)","Mugil cephalus",3,"Perch-likes","R",5.59982215018193,79818,"Reported","Flathead grey mullet","Artisanal",95,15,3,"R","Landings",600785
+"177","benthopelagiclg",2010,"Korea (South)","Mugil cephalus",3,"Perch-likes","R",7.45918517079582,80537,"Reported","Flathead grey mullet","Artisanal",95,15,3,"R","Landings",600785
+"178","benthopelagiclg",2010,"Korea (South)","Mugil cephalus",3,"Perch-likes","R",3.49105389882531,79818,"Reported","Flathead grey mullet","Artisanal",95,15,3,"R","Landings",600785
+"179","benthopelagiclg",2010,"Korea (South)","Mugil cephalus",3,"Perch-likes","R",4.65022223459734,80537,"Reported","Flathead grey mullet","Artisanal",95,15,3,"R","Landings",600785
+"180","benthopelagiclg",2010,"Korea (South)","Mugil cephalus",3,"Perch-likes","R",11.5874136688984,79818,"Reported","Flathead grey mullet","Artisanal",95,15,3,"R","Landings",600785
+"181","benthopelagiclg",2010,"Korea (South)","Mugil cephalus",3,"Perch-likes","R",15.4348945178761,80537,"Reported","Flathead grey mullet","Artisanal",95,15,3,"R","Landings",600785
+"182","benthopelagiclg",2010,"Korea (South)","Mugil cephalus",3,"Perch-likes","R",0.668228445735213,79818,"Reported","Flathead grey mullet","Artisanal",95,15,3,"R","Landings",600785
+"183","benthopelagiclg",2010,"Korea (South)","Mugil cephalus",3,"Perch-likes","R",0.890106789011166,80537,"Reported","Flathead grey mullet","Artisanal",95,15,3,"R","Landings",600785
+"184","benthopelagiclg",2010,"Korea (South)","Mugil cephalus",3,"Perch-likes","R",18.5495117280146,79818,"Reported","Flathead grey mullet","Artisanal",95,15,3,"R","Landings",600785
+"185","benthopelagiclg",2010,"Korea (South)","Mugil cephalus",3,"Perch-likes","R",24.7086852218359,80537,"Reported","Flathead grey mullet","Artisanal",95,15,3,"R","Landings",600785
+"186","benthopelagiclg",2010,"Korea (South)","Mugil cephalus",3,"Perch-likes","R",3.77131744370029,79818,"Reported","Flathead grey mullet","Artisanal",95,15,3,"R","Landings",600785
+"187","benthopelagiclg",2010,"Korea (South)","Mugil cephalus",3,"Perch-likes","R",5.02354439051227,80537,"Reported","Flathead grey mullet","Artisanal",95,15,3,"R","Landings",600785
+"188","benthopelagiclg",2010,"China","Mugil cephalus",3,"Perch-likes","R",66.0084520864227,80537,"Reported","Flathead grey mullet","Industrial",31,15,1,"R","Landings",600785
+"189","benthopelagiclg",2010,"China","Mugil cephalus",3,"Perch-likes","R",40.427128902256,79818,"Reported","Flathead grey mullet","Industrial",31,15,1,"R","Landings",600785
+"190","benthopelagiclg",2010,"China","Mugil cephalus",3,"Perch-likes","R",20.840687065358,80537,"Reported","Flathead grey mullet","Industrial",31,15,1,"R","Landings",600785
+"191","benthopelagiclg",2010,"China","Mugil cephalus",3,"Perch-likes","R",12.7639584897357,79818,"Reported","Flathead grey mullet","Industrial",31,15,1,"R","Landings",600785
+"192","pelagicmd",2010,"Korea (South)","Sardinops sagax",2,"Herring-likes","R",0.314886779104852,79818,"Reported","Pacific sardine","Industrial",95,2,1,"R","Landings",601477
+"193","pelagicmd",2010,"Korea (South)","Sardinops sagax",2,"Herring-likes","R",0.513758497343813,80537,"Reported","Pacific sardine","Industrial",95,2,1,"R","Landings",601477
+"194","pelagicmd",2010,"Korea (South)","Sardinops sagax",2,"Herring-likes","R",0.174391029907892,79818,"Reported","Pacific sardine","Artisanal",95,2,3,"R","Landings",601477
+"195","pelagicmd",2010,"Korea (South)","Sardinops sagax",2,"Herring-likes","R",0.232123568721467,80537,"Reported","Pacific sardine","Artisanal",95,2,3,"R","Landings",601477
+"196","pelagicmd",2010,"Korea (South)","Sardinops sagax",2,"Herring-likes","R",0.0100568643008144,79818,"Reported","Pacific sardine","Artisanal",95,2,3,"R","Landings",601477
+"197","pelagicmd",2010,"Korea (South)","Sardinops sagax",2,"Herring-likes","R",0.013386211623875,80537,"Reported","Pacific sardine","Artisanal",95,2,3,"R","Landings",601477
+"198","pelagicmd",2010,"Korea (South)","Sardinops sagax",2,"Herring-likes","R",0.279170878590417,79818,"Reported","Pacific sardine","Artisanal",95,2,3,"R","Landings",601477
+"199","pelagicmd",2010,"Korea (South)","Sardinops sagax",2,"Herring-likes","R",0.371591019651307,80537,"Reported","Pacific sardine","Artisanal",95,2,3,"R","Landings",601477
+"200","pelagicmd",2010,"China","Sardinops sagax",2,"Herring-likes","R",53.7876562936029,80537,"Reported","Pacific sardine","Industrial",31,2,1,"R","Landings",601477
+"201","pelagicmd",2010,"China","Sardinops sagax",2,"Herring-likes","R",32.9668938488759,79818,"Reported","Pacific sardine","Industrial",31,2,1,"R","Landings",601477
+"202","pelagicmd",2010,"China","Sardinops sagax",2,"Herring-likes","R",46.2900176556462,80537,"Reported","Pacific sardine","Industrial",31,2,1,"R","Landings",601477
+"203","pelagicmd",2010,"China","Sardinops sagax",2,"Herring-likes","R",28.371529891288,79818,"Reported","Pacific sardine","Industrial",31,2,1,"R","Landings",601477
+"204","pelagicmd",2010,"China","Sardinops sagax",2,"Herring-likes","R",152.295924075094,80537,"Reported","Pacific sardine","Industrial",31,2,1,"R","Landings",601477
+"205","pelagicmd",2010,"China","Sardinops sagax",2,"Herring-likes","R",93.3434157308174,79818,"Reported","Pacific sardine","Industrial",31,2,1,"R","Landings",601477
+"206","otherdeminvert",2010,"Korea (South)","Apostichopus japonicus",12,"Other fishes & inverts","R",0.379754964172096,79818,"Reported","Japanese sea cucumber","Industrial",95,29,1,"R","Landings",690201
+"207","otherdeminvert",2010,"Korea (South)","Apostichopus japonicus",12,"Other fishes & inverts","R",0.571715649380578,80537,"Reported","Japanese sea cucumber","Industrial",95,29,1,"R","Landings",690201
+"208","otherdeminvert",2010,"Korea (South)","Apostichopus japonicus",12,"Other fishes & inverts","R",0.0181797589229465,79818,"Reported","Japanese sea cucumber","Industrial",95,29,1,"R","Landings",690201
+"209","otherdeminvert",2010,"Korea (South)","Apostichopus japonicus",12,"Other fishes & inverts","R",0.0273693661934714,80537,"Reported","Japanese sea cucumber","Industrial",95,29,1,"R","Landings",690201
+"210","otherdeminvert",2010,"Korea (South)","Apostichopus japonicus",12,"Other fishes & inverts","R",19.7815976815752,79818,"Reported","Japanese sea cucumber","Industrial",95,29,1,"R","Landings",690201
+"211","otherdeminvert",2010,"Korea (South)","Apostichopus japonicus",12,"Other fishes & inverts","R",29.7809114594798,80537,"Reported","Japanese sea cucumber","Industrial",95,29,1,"R","Landings",690201
+"212","otherdeminvert",2010,"Korea (South)","Apostichopus japonicus",12,"Other fishes & inverts","R",0.0181797589229465,79818,"Reported","Japanese sea cucumber","Industrial",95,29,1,"R","Landings",690201
+"213","otherdeminvert",2010,"Korea (South)","Apostichopus japonicus",12,"Other fishes & inverts","R",0.0273693661934714,80537,"Reported","Japanese sea cucumber","Industrial",95,29,1,"R","Landings",690201
+"214","otherdeminvert",2010,"Korea (South)","Apostichopus japonicus",12,"Other fishes & inverts","R",29.6113893773564,79818,"Reported","Japanese sea cucumber","Artisanal",95,29,3,"R","Landings",690201
+"215","otherdeminvert",2010,"Korea (South)","Apostichopus japonicus",12,"Other fishes & inverts","R",36.368543669376,80537,"Reported","Japanese sea cucumber","Artisanal",95,29,3,"R","Landings",690201
+"216","demersalmd",2010,"Korea (South)","Pleurogrammus azonus",8,"Scorpionfishes","R",7.51884768812571,79818,"Reported","Okhostk atka mackerel","Industrial",95,5,1,"R","Landings",600510
+"217","demersalmd",2010,"Korea (South)","Pleurogrammus azonus",8,"Scorpionfishes","R",8.88978700293314,80537,"Reported","Okhostk atka mackerel","Industrial",95,5,1,"R","Landings",600510
+"218","demersalmd",2010,"Korea (South)","Pleurogrammus azonus",8,"Scorpionfishes","R",2.08581910018441,79818,"Reported","Okhostk atka mackerel","Artisanal",95,5,3,"R","Landings",600510
+"219","demersalmd",2010,"Korea (South)","Pleurogrammus azonus",8,"Scorpionfishes","R",2.01190381118965,80537,"Reported","Okhostk atka mackerel","Artisanal",95,5,3,"R","Landings",600510
+"220","demersalmd",2010,"Korea (South)","Pleurogrammus azonus",8,"Scorpionfishes","R",6.3424269374102,79818,"Reported","Okhostk atka mackerel","Artisanal",95,5,3,"R","Landings",600510
+"221","demersalmd",2010,"Korea (South)","Pleurogrammus azonus",8,"Scorpionfishes","R",6.11766999661635,80537,"Reported","Okhostk atka mackerel","Artisanal",95,5,3,"R","Landings",600510
+"222","demersalmd",2010,"Korea (South)","Pleurogrammus azonus",8,"Scorpionfishes","R",0.365758072998672,79818,"Reported","Okhostk atka mackerel","Artisanal",95,5,3,"R","Landings",600510
+"223","demersalmd",2010,"Korea (South)","Pleurogrammus azonus",8,"Scorpionfishes","R",0.352796683554365,80537,"Reported","Okhostk atka mackerel","Artisanal",95,5,3,"R","Landings",600510
+"224","bathydemersalsm",2010,"Korea (South)","Arctoscopus japonicus",3,"Perch-likes","R",22.5212714182617,79818,"Reported","Japanese sandfish","Industrial",95,10,1,"R","Landings",600463
+"225","bathydemersalsm",2010,"Korea (South)","Arctoscopus japonicus",3,"Perch-likes","R",26.9127392271227,80537,"Reported","Japanese sandfish","Industrial",95,10,1,"R","Landings",600463
+"226","bathydemersalsm",2010,"Korea (South)","Arctoscopus japonicus",3,"Perch-likes","R",0.426834775198291,79818,"Reported","Japanese sandfish","Industrial",95,10,1,"R","Landings",600463
+"227","bathydemersalsm",2010,"Korea (South)","Arctoscopus japonicus",3,"Perch-likes","R",0.51006414267822,80537,"Reported","Japanese sandfish","Industrial",95,10,1,"R","Landings",600463
+"228","bathydemersalsm",2010,"Korea (South)","Arctoscopus japonicus",3,"Perch-likes","R",19.8692153828976,79818,"Reported","Japanese sandfish","Artisanal",95,10,3,"R","Landings",600463
+"229","bathydemersalsm",2010,"Korea (South)","Arctoscopus japonicus",3,"Perch-likes","R",19.3702943954661,80537,"Reported","Japanese sandfish","Artisanal",95,10,3,"R","Landings",600463
+"230","bathydemersalsm",2010,"Korea (South)","Arctoscopus japonicus",3,"Perch-likes","R",1.14582729957496,79818,"Reported","Japanese sandfish","Artisanal",95,10,3,"R","Landings",600463
+"231","bathydemersalsm",2010,"Korea (South)","Arctoscopus japonicus",3,"Perch-likes","R",1.11705528836499,80537,"Reported","Japanese sandfish","Artisanal",95,10,3,"R","Landings",600463
+"232","bathydemersalsm",2010,"Korea (South)","Arctoscopus japonicus",3,"Perch-likes","R",6.46676822864158,79818,"Reported","Japanese sandfish","Artisanal",95,10,3,"R","Landings",600463
+"233","bathydemersalsm",2010,"Korea (South)","Arctoscopus japonicus",3,"Perch-likes","R",6.30438605461262,80537,"Reported","Japanese sandfish","Artisanal",95,10,3,"R","Landings",600463
+"234","benthopelagiclg",2010,"Korea (South)","Trichiurus lepturus",3,"Perch-likes","R",490.916623698297,80537,"Reported","Largehead hairtail","Industrial",95,15,1,"R","Landings",601288
+"235","benthopelagiclg",2010,"Korea (South)","Trichiurus lepturus",3,"Perch-likes","R",301.66441254042,79818,"Reported","Largehead hairtail","Industrial",95,15,1,"R","Landings",601288
+"236","benthopelagiclg",2010,"Korea (South)","Trichiurus lepturus",3,"Perch-likes","R",7.03842468882717,79818,"Reported","Largehead hairtail","Industrial",95,15,1,"R","Landings",601288
+"237","benthopelagiclg",2010,"Korea (South)","Trichiurus lepturus",3,"Perch-likes","R",11.4540513920607,80537,"Reported","Largehead hairtail","Industrial",95,15,1,"R","Landings",601288
+"238","benthopelagiclg",2010,"Korea (South)","Trichiurus lepturus",3,"Perch-likes","R",65.3667470298419,79818,"Reported","Largehead hairtail","Artisanal",95,15,3,"R","Landings",601288
+"239","benthopelagiclg",2010,"Korea (South)","Trichiurus lepturus",3,"Perch-likes","R",86.7822762561866,80537,"Reported","Largehead hairtail","Artisanal",95,15,3,"R","Landings",601288
+"240","benthopelagiclg",2010,"Korea (South)","Trichiurus lepturus",3,"Perch-likes","R",40.7510865438188,79818,"Reported","Largehead hairtail","Artisanal",95,15,3,"R","Landings",601288
+"241","benthopelagiclg",2010,"Korea (South)","Trichiurus lepturus",3,"Perch-likes","R",54.1020046258527,80537,"Reported","Largehead hairtail","Artisanal",95,15,3,"R","Landings",601288
+"242","benthopelagiclg",2010,"Korea (South)","Trichiurus lepturus",3,"Perch-likes","R",135.259927496163,79818,"Reported","Largehead hairtail","Artisanal",95,15,3,"R","Landings",601288
+"243","benthopelagiclg",2010,"Korea (South)","Trichiurus lepturus",3,"Perch-likes","R",179.573941303902,80537,"Reported","Largehead hairtail","Artisanal",95,15,3,"R","Landings",601288
+"244","benthopelagiclg",2010,"Korea (South)","Trichiurus lepturus",3,"Perch-likes","R",7.8002334001088,79818,"Reported","Largehead hairtail","Artisanal",95,15,3,"R","Landings",601288
+"245","benthopelagiclg",2010,"Korea (South)","Trichiurus lepturus",3,"Perch-likes","R",10.3557548837781,80537,"Reported","Largehead hairtail","Artisanal",95,15,3,"R","Landings",601288
+"246","benthopelagiclg",2010,"Korea (South)","Trichiurus lepturus",3,"Perch-likes","R",216.52852682345,79818,"Reported","Largehead hairtail","Artisanal",95,15,3,"R","Landings",601288
+"247","benthopelagiclg",2010,"Korea (South)","Trichiurus lepturus",3,"Perch-likes","R",287.467853089877,80537,"Reported","Largehead hairtail","Artisanal",95,15,3,"R","Landings",601288
+"248","benthopelagiclg",2010,"Korea (South)","Trichiurus lepturus",3,"Perch-likes","R",44.0226040578052,79818,"Reported","Largehead hairtail","Artisanal",95,15,3,"R","Landings",601288
+"249","benthopelagiclg",2010,"Korea (South)","Trichiurus lepturus",3,"Perch-likes","R",58.4453404896691,80537,"Reported","Largehead hairtail","Artisanal",95,15,3,"R","Landings",601288
+"250","benthopelagiclg",2010,"China","Trichiurus lepturus",3,"Perch-likes","R",1149.43162449904,79818,"Reported","Largehead hairtail","Industrial",31,15,1,"R","Landings",601288
+"251","benthopelagiclg",2010,"China","Trichiurus lepturus",3,"Perch-likes","R",1870.53914487017,80537,"Reported","Largehead hairtail","Industrial",31,15,1,"R","Landings",601288
+"252","benthopelagiclg",2010,"China","Trichiurus lepturus",3,"Perch-likes","R",362.907234415802,79818,"Reported","Largehead hairtail","Industrial",31,15,1,"R","Landings",601288
+"253","benthopelagiclg",2010,"China","Trichiurus lepturus",3,"Perch-likes","R",590.580747443056,80537,"Reported","Largehead hairtail","Industrial",31,15,1,"R","Landings",601288
+"254","pelagiclg",2010,"Unknown Fishing Country","Thunnus albacares",4,"Tuna & billfishes","R",0.0189789860277631,80537,"Reported","Yellowfin tuna","Industrial",213,3,1,"R","Landings",600143
+"255","pelagiclg",2010,"Unknown Fishing Country","Thunnus albacares",4,"Tuna & billfishes","R",0.302431294277049,80537,"Reported","Yellowfin tuna","Industrial",213,3,1,"R","Landings",600143
+"256","pelagiclg",2010,"Unknown Fishing Country","Thunnus albacares",4,"Tuna & billfishes","D",0.0109391571050029,80537,"Unreported","Yellowfin tuna","Industrial",213,3,1,"U","Discards",600143
+"257","pelagiclg",2010,"Unknown Fishing Country","Thunnus albacares",4,"Tuna & billfishes","D",0.0077436537859553,80537,"Unreported","Yellowfin tuna","Industrial",213,3,1,"U","Discards",600143
+"258","pelagiclg",2010,"Unknown Fishing Country","Thunnus albacares",4,"Tuna & billfishes","D",0.00255700152526756,80537,"Unreported","Yellowfin tuna","Industrial",213,3,1,"U","Discards",600143
+"259","pelagiclg",2010,"Unknown Fishing Country","Thunnus albacares",4,"Tuna & billfishes","D",0.000705565041580528,80537,"Unreported","Yellowfin tuna","Industrial",213,3,1,"U","Discards",600143
+"260","pelagiclg",2010,"Unknown Fishing Country","Thunnus albacares",4,"Tuna & billfishes","R",0.021940521835347,80537,"Reported","Yellowfin tuna","Industrial",213,3,1,"R","Landings",600143
+"261","pelagiclg",2010,"Unknown Fishing Country","Thunnus albacares",4,"Tuna & billfishes","R",0.00459355068691212,80537,"Reported","Yellowfin tuna","Industrial",213,3,1,"R","Landings",600143
+"262","pelagiclg",2010,"Unknown Fishing Country","Thunnus albacares",4,"Tuna & billfishes","D",0.0174434402157606,80537,"Unreported","Yellowfin tuna","Industrial",213,3,1,"U","Discards",600143
+"263","pelagiclg",2010,"Unknown Fishing Country","Thunnus albacares",4,"Tuna & billfishes","R",0.844356267071337,80537,"Reported","Yellowfin tuna","Industrial",213,3,1,"R","Landings",600143
+"264","pelagiclg",2010,"Korea (South)","Thunnus albacares",4,"Tuna & billfishes","D",0.00398520900658995,80537,"Unreported","Yellowfin tuna","Industrial",95,3,1,"U","Discards",600143
+"265","pelagiclg",2010,"China","Thunnus albacares",4,"Tuna & billfishes","D",0.000700871519412722,80537,"Unreported","Yellowfin tuna","Industrial",31,3,1,"U","Discards",600143
+"266","reef-associatedmd",2010,"Korea (South)","Oplegnathus fasciatus",3,"Perch-likes","R",114.82084768346,79818,"Unreported","Barred knifejaw","Recreational",95,17,4,"U","Landings",606532
+"267","reef-associatedmd",2010,"Korea (South)","Oplegnathus fasciatus",3,"Perch-likes","R",156.455900701636,80537,"Unreported","Barred knifejaw","Recreational",95,17,4,"U","Landings",606532
+"268","benthopelagiclg",2010,"Korea (South)","Chanos chanos",12,"Other fishes & inverts","R",0.162160806605031,79818,"Unreported","Milkfish","Subsistence",95,15,2,"U","Landings",600080
+"269","benthopelagiclg",2010,"Korea (South)","Chanos chanos",12,"Other fishes & inverts","R",0.210458224807363,80537,"Unreported","Milkfish","Subsistence",95,15,2,"U","Landings",600080
+"270","benthopelagiclg",2010,"Korea (South)","Chanos chanos",12,"Other fishes & inverts","R",33.2582267197569,79818,"Unreported","Milkfish","Recreational",95,15,4,"U","Landings",600080
+"271","benthopelagiclg",2010,"Korea (South)","Chanos chanos",12,"Other fishes & inverts","R",43.163742844035,80537,"Unreported","Milkfish","Recreational",95,15,4,"U","Landings",600080
+"272","reef-associatedmd",2010,"Korea (South)","Lateolabrax japonicus",3,"Perch-likes","R",2.91282239519721,79818,"Reported","Japanese seaperch","Industrial",95,17,1,"R","Landings",604589
+"273","reef-associatedmd",2010,"Korea (South)","Lateolabrax japonicus",3,"Perch-likes","R",5.08212089413566,80537,"Reported","Japanese seaperch","Industrial",95,17,1,"R","Landings",604589
+"274","reef-associatedmd",2010,"Korea (South)","Lateolabrax japonicus",3,"Perch-likes","R",0.728205598799188,79818,"Reported","Japanese seaperch","Industrial",95,17,1,"R","Landings",604589
+"275","reef-associatedmd",2010,"Korea (South)","Lateolabrax japonicus",3,"Perch-likes","R",1.27053022353372,80537,"Reported","Japanese seaperch","Industrial",95,17,1,"R","Landings",604589
+"276","reef-associatedmd",2010,"Korea (South)","Lateolabrax japonicus",3,"Perch-likes","R",1.99976898661354,79818,"Reported","Japanese seaperch","Artisanal",95,17,3,"R","Landings",604589
+"277","reef-associatedmd",2010,"Korea (South)","Lateolabrax japonicus",3,"Perch-likes","R",2.84643532688387,80537,"Reported","Japanese seaperch","Artisanal",95,17,3,"R","Landings",604589
+"278","reef-associatedmd",2010,"Korea (South)","Lateolabrax japonicus",3,"Perch-likes","R",4.13801543489593,79818,"Reported","Japanese seaperch","Artisanal",95,17,3,"R","Landings",604589
+"279","reef-associatedmd",2010,"Korea (South)","Lateolabrax japonicus",3,"Perch-likes","R",5.88997699030459,80537,"Reported","Japanese seaperch","Artisanal",95,17,3,"R","Landings",604589
+"280","reef-associatedmd",2010,"Korea (South)","Lateolabrax japonicus",3,"Perch-likes","R",1.34678628362179,79818,"Reported","Japanese seaperch","Artisanal",95,17,3,"R","Landings",604589
+"281","reef-associatedmd",2010,"Korea (South)","Lateolabrax japonicus",3,"Perch-likes","R",1.91699145307554,80537,"Reported","Japanese seaperch","Artisanal",95,17,3,"R","Landings",604589
+"282","benthopelagicmd",2010,"Korea (South)","Pampus argenteus",3,"Perch-likes","D",16.1652699688938,79818,"Unreported","Silver pomfret","Industrial",95,14,1,"U","Discards",600491
+"283","benthopelagicmd",2010,"Korea (South)","Pampus argenteus",3,"Perch-likes","D",24.6594553722153,80537,"Unreported","Silver pomfret","Industrial",95,14,1,"U","Discards",600491
+"284","pelagicmd",2010,"China","Ilisha elongata",2,"Herring-likes","R",19.3782588241353,80537,"Reported","Elongate ilisha","Industrial",31,2,1,"R","Landings",601627
+"285","pelagicmd",2010,"China","Ilisha elongata",2,"Herring-likes","R",12.0580636407822,79818,"Reported","Elongate ilisha","Industrial",31,2,1,"R","Landings",601627
+"286","pelagicmd",2010,"China","Ilisha elongata",2,"Herring-likes","R",16.6770594765497,80537,"Reported","Elongate ilisha","Industrial",31,2,1,"R","Landings",601627
+"287","pelagicmd",2010,"China","Ilisha elongata",2,"Herring-likes","R",10.3772504193663,79818,"Reported","Elongate ilisha","Industrial",31,2,1,"R","Landings",601627
+"288","pelagicmd",2010,"China","Ilisha elongata",2,"Herring-likes","R",54.8681619128907,80537,"Reported","Elongate ilisha","Industrial",31,2,1,"R","Landings",601627
+"289","pelagicmd",2010,"China","Ilisha elongata",2,"Herring-likes","R",34.1415497750688,79818,"Reported","Elongate ilisha","Industrial",31,2,1,"R","Landings",601627
+"290","pelagicsm",2010,"Korea (South)","Sardinella zunasi",2,"Herring-likes","R",5.86863495472581,79818,"Reported","Japanese sardinella","Industrial",95,1,1,"R","Landings",601519
+"291","pelagicsm",2010,"Korea (South)","Sardinella zunasi",2,"Herring-likes","R",9.81283529721676,80537,"Reported","Japanese sardinella","Industrial",95,1,1,"R","Landings",601519
+"292","pelagicsm",2010,"Korea (South)","Sardinella zunasi",2,"Herring-likes","R",0.220423931688387,79818,"Reported","Japanese sardinella","Industrial",95,1,1,"R","Landings",601519
+"293","pelagicsm",2010,"Korea (South)","Sardinella zunasi",2,"Herring-likes","R",0.368566754263923,80537,"Reported","Japanese sardinella","Industrial",95,1,1,"R","Landings",601519
+"294","pelagicsm",2010,"Korea (South)","Sardinella zunasi",2,"Herring-likes","R",5.02989275053984,79818,"Reported","Japanese sardinella","Artisanal",95,1,3,"R","Landings",601519
+"295","pelagicsm",2010,"Korea (South)","Sardinella zunasi",2,"Herring-likes","R",6.86130371042056,80537,"Reported","Japanese sardinella","Artisanal",95,1,3,"R","Landings",601519
+"296","pelagicsm",2010,"Korea (South)","Sardinella zunasi",2,"Herring-likes","R",0.290066231425703,79818,"Reported","Japanese sardinella","Artisanal",95,1,3,"R","Landings",601519
+"297","pelagicsm",2010,"Korea (South)","Sardinella zunasi",2,"Herring-likes","R",0.39568090387917,80537,"Reported","Japanese sardinella","Artisanal",95,1,3,"R","Landings",601519
+"298","pelagicsm",2010,"Korea (South)","Sardinella zunasi",2,"Herring-likes","R",8.05201723463319,79818,"Reported","Japanese sardinella","Artisanal",95,1,3,"R","Landings",601519
+"299","pelagicsm",2010,"Korea (South)","Sardinella zunasi",2,"Herring-likes","R",10.9837999473109,80537,"Reported","Japanese sardinella","Artisanal",95,1,3,"R","Landings",601519
+"300","shrimp",2010,"Korea (South)","Oratosquilla oratoria",10,"Crustaceans","D",9.8774696275395,79818,"Unreported","Japanese squillid mantis shrimp","Artisanal",95,26,3,"U","Discards",690798
+"301","shrimp",2010,"Korea (South)","Oratosquilla oratoria",10,"Crustaceans","D",13.1624015799274,80537,"Unreported","Japanese squillid mantis shrimp","Artisanal",95,26,3,"U","Discards",690798
+"302","flatfishlg",2010,"Korea (South)","Paralichthys olivaceus",7,"Flatfishes","R",31.4329168951085,79818,"Reported","Bastard halibut","Industrial",95,24,1,"R","Landings",601351
+"303","flatfishlg",2010,"Korea (South)","Paralichthys olivaceus",7,"Flatfishes","R",51.8164319794852,80537,"Reported","Bastard halibut","Industrial",95,24,1,"R","Landings",601351
+"304","flatfishlg",2010,"Korea (South)","Paralichthys olivaceus",7,"Flatfishes","R",9.20379464588619,79818,"Reported","Bastard halibut","Artisanal",95,24,3,"R","Landings",601351
+"305","flatfishlg",2010,"Korea (South)","Paralichthys olivaceus",7,"Flatfishes","R",12.3777083540879,80537,"Reported","Bastard halibut","Artisanal",95,24,3,"R","Landings",601351
+"306","flatfishlg",2010,"Korea (South)","Paralichthys olivaceus",7,"Flatfishes","R",30.5489915012088,79818,"Reported","Bastard halibut","Artisanal",95,24,3,"R","Landings",601351
+"307","flatfishlg",2010,"Korea (South)","Paralichthys olivaceus",7,"Flatfishes","R",41.0837618462599,80537,"Reported","Bastard halibut","Artisanal",95,24,3,"R","Landings",601351
+"308","flatfishlg",2010,"Korea (South)","Paralichthys olivaceus",7,"Flatfishes","R",1.76171367424493,79818,"Reported","Bastard halibut","Artisanal",95,24,3,"R","Landings",601351
+"309","flatfishlg",2010,"Korea (South)","Paralichthys olivaceus",7,"Flatfishes","R",2.36923778747702,80537,"Reported","Bastard halibut","Artisanal",95,24,3,"R","Landings",601351
+"310","flatfishlg",2010,"Korea (South)","Paralichthys olivaceus",7,"Flatfishes","R",9.94267986178772,79818,"Reported","Bastard halibut","Artisanal",95,24,3,"R","Landings",601351
+"311","flatfishlg",2010,"Korea (South)","Paralichthys olivaceus",7,"Flatfishes","R",13.3713969424859,80537,"Reported","Bastard halibut","Artisanal",95,24,3,"R","Landings",601351
+"312","shrimp",2010,"Korea (South)","Acetes japonicus",10,"Crustaceans","R",180.260795507652,79818,"Reported","Akiami paste shrimp","Industrial",95,26,1,"R","Landings",690005
+"313","shrimp",2010,"Korea (South)","Acetes japonicus",10,"Crustaceans","R",299.336427578854,80537,"Reported","Akiami paste shrimp","Industrial",95,26,1,"R","Landings",690005
+"314","shrimp",2010,"Korea (South)","Acetes japonicus",10,"Crustaceans","R",32.5663820554357,79818,"Reported","Akiami paste shrimp","Artisanal",95,26,3,"R","Landings",690005
+"315","shrimp",2010,"Korea (South)","Acetes japonicus",10,"Crustaceans","R",44.1182529667851,80537,"Reported","Akiami paste shrimp","Artisanal",95,26,3,"R","Landings",690005
+"316","shrimp",2010,"Korea (South)","Acetes japonicus",10,"Crustaceans","R",3.88615607433459,79818,"Reported","Akiami paste shrimp","Artisanal",95,26,3,"R","Landings",690005
+"317","shrimp",2010,"Korea (South)","Acetes japonicus",10,"Crustaceans","R",5.26464427224532,80537,"Reported","Akiami paste shrimp","Artisanal",95,26,3,"R","Landings",690005
+"318","shrimp",2010,"Korea (South)","Acetes japonicus",10,"Crustaceans","R",107.876727095107,79818,"Reported","Akiami paste shrimp","Artisanal",95,26,3,"R","Landings",690005
+"319","shrimp",2010,"Korea (South)","Acetes japonicus",10,"Crustaceans","R",146.142507543799,80537,"Reported","Akiami paste shrimp","Artisanal",95,26,3,"R","Landings",690005
+"320","shrimp",2010,"China","Acetes japonicus",10,"Crustaceans","R",885.711674862418,79818,"Reported","Akiami paste shrimp","Industrial",31,26,1,"R","Landings",690005
+"321","shrimp",2010,"China","Acetes japonicus",10,"Crustaceans","R",1470.78996224082,80537,"Reported","Akiami paste shrimp","Industrial",31,26,1,"R","Landings",690005
+"322","demersallg",2010,"Korea (South)","Gadus macrocephalus",5,"Cod-likes","R",40.4599910667892,79818,"Reported","Pacific cod","Industrial",95,6,1,"R","Landings",600308
+"323","demersallg",2010,"Korea (South)","Gadus macrocephalus",5,"Cod-likes","R",51.2145133385076,80537,"Reported","Pacific cod","Industrial",95,6,1,"R","Landings",600308
+"324","demersallg",2010,"Korea (South)","Gadus macrocephalus",5,"Cod-likes","R",34.6670342449546,79818,"Reported","Pacific cod","Artisanal",95,6,3,"R","Landings",600308
+"325","demersallg",2010,"Korea (South)","Gadus macrocephalus",5,"Cod-likes","R",35.799294017428,80537,"Reported","Pacific cod","Artisanal",95,6,3,"R","Landings",600308
+"326","demersallg",2010,"Korea (South)","Gadus macrocephalus",5,"Cod-likes","R",1.99919490869075,79818,"Reported","Pacific cod","Artisanal",95,6,3,"R","Landings",600308
+"327","demersallg",2010,"Korea (South)","Gadus macrocephalus",5,"Cod-likes","R",2.06449060016669,80537,"Reported","Pacific cod","Artisanal",95,6,3,"R","Landings",600308
+"328","demersallg",2010,"Korea (South)","Gadus macrocephalus",5,"Cod-likes","R",11.282965699263,79818,"Reported","Pacific cod","Artisanal",95,6,3,"R","Landings",600308
+"329","demersallg",2010,"Korea (South)","Gadus macrocephalus",5,"Cod-likes","R",11.6514785661325,80537,"Reported","Pacific cod","Artisanal",95,6,3,"R","Landings",600308
+"330","demersallg",2010,"Korea (South)","Gadus macrocephalus",5,"Cod-likes","R",0.854771094938576,79818,"Unreported","Pacific cod","Subsistence",95,6,2,"U","Landings",600308
+"331","demersallg",2010,"Korea (South)","Gadus macrocephalus",5,"Cod-likes","R",0.882688767925352,80537,"Unreported","Pacific cod","Subsistence",95,6,2,"U","Landings",600308
+"332","pelagiclg",2010,"Korea (South)","Scomberomorus niphonius",3,"Perch-likes","R",136.094243011752,79818,"Reported","Japanese Spanish mackerel","Industrial",95,3,1,"R","Landings",600131
+"333","pelagiclg",2010,"Korea (South)","Scomberomorus niphonius",3,"Perch-likes","R",206.839681275969,80537,"Reported","Japanese Spanish mackerel","Industrial",95,3,1,"R","Landings",600131
+"334","pelagiclg",2010,"Korea (South)","Scomberomorus niphonius",3,"Perch-likes","R",0.0410458157267506,79818,"Reported","Japanese Spanish mackerel","Industrial",95,3,1,"R","Landings",600131
+"335","pelagiclg",2010,"Korea (South)","Scomberomorus niphonius",3,"Perch-likes","R",0.0623825318011443,80537,"Reported","Japanese Spanish mackerel","Industrial",95,3,1,"R","Landings",600131
+"336","pelagiclg",2010,"Korea (South)","Scomberomorus niphonius",3,"Perch-likes","R",0.67041499020582,79818,"Reported","Japanese Spanish mackerel","Industrial",95,3,1,"R","Landings",600131
+"337","pelagiclg",2010,"Korea (South)","Scomberomorus niphonius",3,"Perch-likes","R",1.01891468608874,80537,"Reported","Japanese Spanish mackerel","Industrial",95,3,1,"R","Landings",600131
+"338","pelagiclg",2010,"Korea (South)","Scomberomorus niphonius",3,"Perch-likes","R",0.0136819385755836,79818,"Reported","Japanese Spanish mackerel","Industrial",95,3,1,"R","Landings",600131
+"339","pelagiclg",2010,"Korea (South)","Scomberomorus niphonius",3,"Perch-likes","R",0.0207941772670481,80537,"Reported","Japanese Spanish mackerel","Industrial",95,3,1,"R","Landings",600131
+"340","pelagiclg",2010,"Korea (South)","Scomberomorus niphonius",3,"Perch-likes","R",96.5813128701053,79818,"Reported","Japanese Spanish mackerel","Artisanal",95,3,3,"R","Landings",600131
+"341","pelagiclg",2010,"Korea (South)","Scomberomorus niphonius",3,"Perch-likes","R",119.750604741547,80537,"Reported","Japanese Spanish mackerel","Artisanal",95,3,3,"R","Landings",600131
+"342","pelagiclg",2010,"Korea (South)","Scomberomorus niphonius",3,"Perch-likes","R",5.56969677879741,79818,"Reported","Japanese Spanish mackerel","Artisanal",95,3,3,"R","Landings",600131
+"343","pelagiclg",2010,"Korea (South)","Scomberomorus niphonius",3,"Perch-likes","R",6.90583444837892,80537,"Reported","Japanese Spanish mackerel","Artisanal",95,3,3,"R","Landings",600131
+"344","pelagiclg",2010,"Korea (South)","Scomberomorus niphonius",3,"Perch-likes","R",154.610532339904,79818,"Reported","Japanese Spanish mackerel","Artisanal",95,3,3,"R","Landings",600131
+"345","pelagiclg",2010,"Korea (South)","Scomberomorus niphonius",3,"Perch-likes","R",191.700694439895,80537,"Reported","Japanese Spanish mackerel","Artisanal",95,3,3,"R","Landings",600131
+"346","otherdeminvert",2010,"Korea (South)","Meretrix lusoria",11,"Molluscs","R",4.05648608496938,79818,"Reported","Japanese hard clam","Industrial",95,29,1,"R","Landings",690199
+"347","otherdeminvert",2010,"Korea (South)","Meretrix lusoria",11,"Molluscs","R",7.01940055957177,80537,"Reported","Japanese hard clam","Industrial",95,29,1,"R","Landings",690199
+"348","otherdeminvert",2010,"Korea (South)","Meretrix lusoria",11,"Molluscs","R",7.29252138964838,79818,"Reported","Japanese hard clam","Artisanal",95,29,3,"R","Landings",690199
+"349","otherdeminvert",2010,"Korea (South)","Meretrix lusoria",11,"Molluscs","R",10.2948080172638,80537,"Reported","Japanese hard clam","Artisanal",95,29,3,"R","Landings",690199
+"350","otherdeminvert",2010,"Korea (South)","Meretrix lusoria",11,"Molluscs","R",0.964309971724803,79818,"Reported","Japanese hard clam","Artisanal",95,29,3,"R","Landings",690199
+"351","otherdeminvert",2010,"Korea (South)","Meretrix lusoria",11,"Molluscs","R",1.36131051218193,80537,"Reported","Japanese hard clam","Artisanal",95,29,3,"R","Landings",690199
+"352","demersalmd",2010,"Unknown Fishing Country","Marine fishes not identified",12,"Other fishes & inverts","D",0.00117521872836196,79818,"Unreported","Marine fishes nei","Industrial",213,5,1,"U","Discards",100039
+"353","demersalmd",2010,"Unknown Fishing Country","Marine fishes not identified",12,"Other fishes & inverts","D",0.0820500846278785,80537,"Unreported","Marine fishes nei","Industrial",213,5,1,"U","Discards",100039
+"354","demersalmd",2010,"Unknown Fishing Country","Marine fishes not identified",12,"Other fishes & inverts","D",0.00179996080180405,80537,"Unreported","Marine fishes nei","Industrial",213,5,1,"U","Discards",100039
+"355","demersalmd",2010,"Unknown Fishing Country","Marine fishes not identified",12,"Other fishes & inverts","D",0.0535716089048831,79818,"Unreported","Marine fishes nei","Industrial",213,5,1,"U","Discards",100039
+"356","demersalmd",2010,"Unknown Fishing Country","Marine fishes not identified",12,"Other fishes & inverts","D",0.00899288076037415,79818,"Unreported","Marine fishes nei","Industrial",213,5,1,"U","Discards",100039
+"357","demersalmd",2010,"Unknown Fishing Country","Marine fishes not identified",12,"Other fishes & inverts","D",0.0137734640142544,80537,"Unreported","Marine fishes nei","Industrial",213,5,1,"U","Discards",100039
+"358","demersalmd",2010,"Korea (South)","Marine fishes not identified",12,"Other fishes & inverts","R",212.930490536079,80537,"Reported","Marine fishes nei","Industrial",95,5,1,"R","Landings",100039
+"359","demersalmd",2010,"Korea (South)","Marine fishes not identified",12,"Other fishes & inverts","R",138.984116300099,79818,"Reported","Marine fishes nei","Industrial",95,5,1,"R","Landings",100039
+"360","demersalmd",2010,"Korea (South)","Marine fishes not identified",12,"Other fishes & inverts","R",0.394905712505002,79818,"Reported","Marine fishes nei","Industrial",95,5,1,"R","Landings",100039
+"361","demersalmd",2010,"Korea (South)","Marine fishes not identified",12,"Other fishes & inverts","R",0.60501494212206,80537,"Reported","Marine fishes nei","Industrial",95,5,1,"R","Landings",100039
+"362","demersalmd",2010,"Korea (South)","Marine fishes not identified",12,"Other fishes & inverts","D",0.00194711156021243,79818,"Unreported","Marine fishes nei","Industrial",95,5,1,"U","Discards",100039
+"363","demersalmd",2010,"Korea (South)","Marine fishes not identified",12,"Other fishes & inverts","D",0.00298218910279524,80537,"Unreported","Marine fishes nei","Industrial",95,5,1,"U","Discards",100039
+"364","demersalmd",2010,"Korea (South)","Marine fishes not identified",12,"Other fishes & inverts","D",43.3990244925756,79818,"Unreported","Marine fishes nei","Artisanal",95,5,3,"U","Discards",100039
+"365","demersalmd",2010,"Korea (South)","Marine fishes not identified",12,"Other fishes & inverts","D",54.2429321023066,80537,"Unreported","Marine fishes nei","Artisanal",95,5,3,"U","Discards",100039
+"366","demersalmd",2010,"Korea (South)","Marine fishes not identified",12,"Other fishes & inverts","D",39.1644242697682,79818,"Unreported","Marine fishes nei","Artisanal",95,5,3,"U","Discards",100039
+"367","demersalmd",2010,"Korea (South)","Marine fishes not identified",12,"Other fishes & inverts","D",48.950252484463,80537,"Unreported","Marine fishes nei","Artisanal",95,5,3,"U","Discards",100039
+"368","demersalmd",2010,"Korea (South)","Marine fishes not identified",12,"Other fishes & inverts","D",27.0559188482618,79818,"Unreported","Marine fishes nei","Artisanal",95,5,3,"U","Discards",100039
+"369","demersalmd",2010,"Korea (South)","Marine fishes not identified",12,"Other fishes & inverts","D",33.8162524667541,80537,"Unreported","Marine fishes nei","Artisanal",95,5,3,"U","Discards",100039
+"370","demersalmd",2010,"Korea (South)","Marine fishes not identified",12,"Other fishes & inverts","D",29.5333975964548,79818,"Unreported","Marine fishes nei","Artisanal",95,5,3,"U","Discards",100039
+"371","demersalmd",2010,"Korea (South)","Marine fishes not identified",12,"Other fishes & inverts","D",36.9127670334843,80537,"Unreported","Marine fishes nei","Artisanal",95,5,3,"U","Discards",100039
+"372","demersalmd",2010,"Korea (South)","Marine fishes not identified",12,"Other fishes & inverts","D",89.8032894858618,79818,"Unreported","Marine fishes nei","Artisanal",95,5,3,"U","Discards",100039
+"373","demersalmd",2010,"Korea (South)","Marine fishes not identified",12,"Other fishes & inverts","D",112.242009840076,80537,"Unreported","Marine fishes nei","Artisanal",95,5,3,"U","Discards",100039
+"374","demersalmd",2010,"Korea (South)","Marine fishes not identified",12,"Other fishes & inverts","D",343.38262751731,79818,"Unreported","Marine fishes nei","Artisanal",95,5,3,"U","Discards",100039
+"375","demersalmd",2010,"Korea (South)","Marine fishes not identified",12,"Other fishes & inverts","D",429.182009672118,80537,"Unreported","Marine fishes nei","Artisanal",95,5,3,"U","Discards",100039
+"376","demersalmd",2010,"Korea (South)","Marine fishes not identified",12,"Other fishes & inverts","D",183.035991336526,79818,"Unreported","Marine fishes nei","Artisanal",95,5,3,"U","Discards",100039
+"377","demersalmd",2010,"Korea (South)","Marine fishes not identified",12,"Other fishes & inverts","D",228.770322983735,80537,"Unreported","Marine fishes nei","Artisanal",95,5,3,"U","Discards",100039
+"378","demersalmd",2010,"Korea (South)","Marine fishes not identified",12,"Other fishes & inverts","D",29.2279814820742,79818,"Unreported","Marine fishes nei","Artisanal",95,5,3,"U","Discards",100039
+"379","demersalmd",2010,"Korea (South)","Marine fishes not identified",12,"Other fishes & inverts","D",36.5310380488125,80537,"Unreported","Marine fishes nei","Artisanal",95,5,3,"U","Discards",100039
+"380","demersalmd",2010,"Korea (South)","Marine fishes not identified",12,"Other fishes & inverts","R",11.7787583455224,79818,"Reported","Marine fishes nei","Industrial",95,5,1,"R","Landings",100039
+"381","demersalmd",2010,"Korea (South)","Marine fishes not identified",12,"Other fishes & inverts","R",18.0456361430722,80537,"Reported","Marine fishes nei","Industrial",95,5,1,"R","Landings",100039
+"382","demersalmd",2010,"Korea (South)","Marine fishes not identified",12,"Other fishes & inverts","R",0.205321985948182,79818,"Reported","Marine fishes nei","Industrial",95,5,1,"R","Landings",100039
+"383","demersalmd",2010,"Korea (South)","Marine fishes not identified",12,"Other fishes & inverts","R",0.314563364142908,80537,"Reported","Marine fishes nei","Industrial",95,5,1,"R","Landings",100039
+"384","demersalmd",2010,"Korea (South)","Marine fishes not identified",12,"Other fishes & inverts","R",41.8589867153823,79818,"Reported","Marine fishes nei","Industrial",95,5,1,"R","Landings",100039
+"385","demersalmd",2010,"Korea (South)","Marine fishes not identified",12,"Other fishes & inverts","R",64.1300229977663,80537,"Reported","Marine fishes nei","Industrial",95,5,1,"R","Landings",100039
+"386","demersalmd",2010,"Korea (South)","Marine fishes not identified",12,"Other fishes & inverts","R",10.0384081844557,79818,"Reported","Marine fishes nei","Artisanal",95,5,3,"R","Landings",100039
+"387","demersalmd",2010,"Korea (South)","Marine fishes not identified",12,"Other fishes & inverts","R",12.5466574406027,80537,"Reported","Marine fishes nei","Artisanal",95,5,3,"R","Landings",100039
+"388","demersalmd",2010,"Korea (South)","Marine fishes not identified",12,"Other fishes & inverts","R",32.3815481956582,80537,"Reported","Marine fishes nei","Artisanal",95,5,3,"R","Landings",100039
+"389","demersalmd",2010,"Korea (South)","Marine fishes not identified",12,"Other fishes & inverts","R",25.9080316786771,79818,"Reported","Marine fishes nei","Artisanal",95,5,3,"R","Landings",100039
+"390","demersalmd",2010,"Korea (South)","Marine fishes not identified",12,"Other fishes & inverts","R",13.3416828780032,79818,"Reported","Marine fishes nei","Artisanal",95,5,3,"R","Landings",100039
+"391","demersalmd",2010,"Korea (South)","Marine fishes not identified",12,"Other fishes & inverts","R",16.6753056536061,80537,"Reported","Marine fishes nei","Artisanal",95,5,3,"R","Landings",100039
+"392","demersalmd",2010,"Korea (South)","Marine fishes not identified",12,"Other fishes & inverts","R",22.9850173711146,79818,"Reported","Marine fishes nei","Artisanal",95,5,3,"R","Landings",100039
+"393","demersalmd",2010,"Korea (South)","Marine fishes not identified",12,"Other fishes & inverts","R",28.7281742207131,80537,"Reported","Marine fishes nei","Artisanal",95,5,3,"R","Landings",100039
+"394","demersalmd",2010,"Korea (South)","Marine fishes not identified",12,"Other fishes & inverts","R",10.0607945192249,79818,"Reported","Marine fishes nei","Artisanal",95,5,3,"R","Landings",100039
+"395","demersalmd",2010,"Korea (South)","Marine fishes not identified",12,"Other fishes & inverts","R",12.5746373422502,80537,"Reported","Marine fishes nei","Artisanal",95,5,3,"R","Landings",100039
+"396","demersalmd",2010,"Korea (South)","Marine fishes not identified",12,"Other fishes & inverts","R",139.787957983246,79818,"Reported","Marine fishes nei","Artisanal",95,5,3,"R","Landings",100039
+"397","demersalmd",2010,"Korea (South)","Marine fishes not identified",12,"Other fishes & inverts","R",174.71610945777,80537,"Reported","Marine fishes nei","Artisanal",95,5,3,"R","Landings",100039
+"398","demersalmd",2010,"Korea (South)","Marine fishes not identified",12,"Other fishes & inverts","R",8.06135800142911,79818,"Reported","Marine fishes nei","Artisanal",95,5,3,"R","Landings",100039
+"399","demersalmd",2010,"Korea (South)","Marine fishes not identified",12,"Other fishes & inverts","R",10.0756111418751,80537,"Reported","Marine fishes nei","Artisanal",95,5,3,"R","Landings",100039
+"400","demersalmd",2010,"Korea (South)","Marine fishes not identified",12,"Other fishes & inverts","R",118.842185146536,79818,"Reported","Marine fishes nei","Artisanal",95,5,3,"R","Landings",100039
+"401","demersalmd",2010,"Korea (South)","Marine fishes not identified",12,"Other fishes & inverts","R",148.53671609361,80537,"Reported","Marine fishes nei","Artisanal",95,5,3,"R","Landings",100039
+"402","demersalmd",2010,"Korea (South)","Marine fishes not identified",12,"Other fishes & inverts","R",33.3192140550912,79818,"Reported","Marine fishes nei","Artisanal",95,5,3,"R","Landings",100039
+"403","demersalmd",2010,"Korea (South)","Marine fishes not identified",12,"Other fishes & inverts","R",41.6445274248438,80537,"Reported","Marine fishes nei","Artisanal",95,5,3,"R","Landings",100039
+"404","demersalmd",2010,"Korea (South)","Marine fishes not identified",12,"Other fishes & inverts","R",1.74353787710897,79818,"Unreported","Marine fishes nei","Subsistence",95,5,2,"U","Landings",100039
+"405","demersalmd",2010,"Korea (South)","Marine fishes not identified",12,"Other fishes & inverts","R",2.17918738477638,80537,"Unreported","Marine fishes nei","Subsistence",95,5,2,"U","Landings",100039
+"406","demersalmd",2010,"Korea (South)","Marine fishes not identified",12,"Other fishes & inverts","R",95.9126448429726,79818,"Unreported","Marine fishes nei","Artisanal",95,5,3,"U","Landings",100039
+"407","demersalmd",2010,"Korea (South)","Marine fishes not identified",12,"Other fishes & inverts","R",119.877880731168,80537,"Unreported","Marine fishes nei","Artisanal",95,5,3,"U","Landings",100039
+"408","demersalmd",2010,"Korea (South)","Marine fishes not identified",12,"Other fishes & inverts","R",278.672416287638,79818,"Unreported","Marine fishes nei","Recreational",95,5,4,"U","Landings",100039
+"409","demersalmd",2010,"Korea (South)","Marine fishes not identified",12,"Other fishes & inverts","R",348.302966073857,80537,"Unreported","Marine fishes nei","Recreational",95,5,4,"U","Landings",100039
+"410","demersalmd",2010,"Korea (South)","Marine fishes not identified",12,"Other fishes & inverts","D",681.168095662355,79818,"Unreported","Marine fishes nei","Industrial",95,5,1,"U","Discards",100039
+"411","demersalmd",2010,"Korea (South)","Marine fishes not identified",12,"Other fishes & inverts","D",1043.58296910515,80537,"Unreported","Marine fishes nei","Industrial",95,5,1,"U","Discards",100039
+"412","demersalmd",2010,"China","Marine fishes not identified",12,"Other fishes & inverts","D",62.879158887572,79818,"Unreported","Marine fishes nei","Industrial",31,5,1,"U","Discards",100039
+"413","demersalmd",2010,"China","Marine fishes not identified",12,"Other fishes & inverts","D",96.3339588929503,80537,"Unreported","Marine fishes nei","Industrial",31,5,1,"U","Discards",100039
+"414","demersalmd",2010,"China","Marine fishes not identified",12,"Other fishes & inverts","R",200.547972632857,80537,"Reported","Marine fishes nei","Industrial",31,5,1,"R","Landings",100039
+"415","demersalmd",2010,"China","Marine fishes not identified",12,"Other fishes & inverts","R",130.90179185696,79818,"Reported","Marine fishes nei","Industrial",31,5,1,"R","Landings",100039
+"416","demersalmd",2010,"China","Marine fishes not identified",12,"Other fishes & inverts","R",172.592929857372,80537,"Reported","Marine fishes nei","Industrial",31,5,1,"R","Landings",100039
+"417","demersalmd",2010,"China","Marine fishes not identified",12,"Other fishes & inverts","R",112.654959726434,79818,"Reported","Marine fishes nei","Industrial",31,5,1,"R","Landings",100039
+"418","demersalmd",2010,"China","Marine fishes not identified",12,"Other fishes & inverts","R",567.837323740769,80537,"Reported","Marine fishes nei","Industrial",31,5,1,"R","Landings",100039
+"419","demersalmd",2010,"China","Marine fishes not identified",12,"Other fishes & inverts","R",370.639115345257,79818,"Reported","Marine fishes nei","Industrial",31,5,1,"R","Landings",100039
+"420","demersalmd",2010,"China","Marine fishes not identified",12,"Other fishes & inverts","D",82.906018753321,80537,"Unreported","Marine fishes nei","Industrial",31,5,1,"U","Discards",100039
+"421","demersalmd",2010,"China","Marine fishes not identified",12,"Other fishes & inverts","D",54.114465892081,79818,"Unreported","Marine fishes nei","Industrial",31,5,1,"U","Discards",100039
+"422","demersalmd",2010,"China","Marine fishes not identified",12,"Other fishes & inverts","D",272.762754485543,80537,"Unreported","Marine fishes nei","Industrial",31,5,1,"U","Discards",100039
+"423","demersalmd",2010,"China","Marine fishes not identified",12,"Other fishes & inverts","D",178.037867175864,79818,"Unreported","Marine fishes nei","Industrial",31,5,1,"U","Discards",100039
+"424","shrimp",2010,"Korea (South)","Trachysalambria curvirostris",10,"Crustaceans","R",15.4256314664723,79818,"Reported","Southern rough shrimp","Industrial",95,26,1,"R","Landings",690379
+"425","shrimp",2010,"Korea (South)","Trachysalambria curvirostris",10,"Crustaceans","R",24.3322282279854,80537,"Reported","Southern rough shrimp","Industrial",95,26,1,"R","Landings",690379
+"426","shrimp",2010,"Korea (South)","Trachysalambria curvirostris",10,"Crustaceans","R",5.19421215767084,79818,"Reported","Southern rough shrimp","Artisanal",95,26,3,"R","Landings",690379
+"427","shrimp",2010,"Korea (South)","Trachysalambria curvirostris",10,"Crustaceans","R",6.68419512568266,80537,"Reported","Southern rough shrimp","Artisanal",95,26,3,"R","Landings",690379
+"428","shrimp",2010,"Korea (South)","Trachysalambria curvirostris",10,"Crustaceans","R",0.619826884471066,79818,"Reported","Southern rough shrimp","Artisanal",95,26,3,"R","Landings",690379
+"429","shrimp",2010,"Korea (South)","Trachysalambria curvirostris",10,"Crustaceans","R",0.79762699600749,80537,"Reported","Southern rough shrimp","Artisanal",95,26,3,"R","Landings",690379
+"430","shrimp",2010,"Korea (South)","Trachysalambria curvirostris",10,"Crustaceans","R",17.2059213225872,79818,"Reported","Southern rough shrimp","Artisanal",95,26,3,"R","Landings",690379
+"431","shrimp",2010,"Korea (South)","Trachysalambria curvirostris",10,"Crustaceans","R",22.1415167394487,80537,"Reported","Southern rough shrimp","Artisanal",95,26,3,"R","Landings",690379
+"432","shrimp",2010,"Korea (South)","Trachysalambria curvirostris",10,"Crustaceans","D",21.8820916849272,79818,"Unreported","Southern rough shrimp","Industrial",95,26,1,"U","Discards",690379
+"433","shrimp",2010,"Korea (South)","Trachysalambria curvirostris",10,"Crustaceans","D",34.5165804162124,80537,"Unreported","Southern rough shrimp","Industrial",95,26,1,"U","Discards",690379
+"434","shrimp",2010,"China","Trachysalambria curvirostris",10,"Crustaceans","R",315.826636210586,79818,"Reported","Southern rough shrimp","Industrial",31,26,1,"R","Landings",690379
+"435","shrimp",2010,"China","Trachysalambria curvirostris",10,"Crustaceans","R",498.181601800597,80537,"Reported","Southern rough shrimp","Industrial",31,26,1,"R","Landings",690379
+"436","demersalmd",2010,"Korea (South)","Acanthopagrus schlegelii",3,"Perch-likes","R",122.812146489095,79818,"Unreported","Blackhead seabream","Recreational",95,5,4,"U","Landings",606531
+"437","demersalmd",2010,"Korea (South)","Acanthopagrus schlegelii",3,"Perch-likes","R",177.634250450671,80537,"Unreported","Blackhead seabream","Recreational",95,5,4,"U","Landings",606531
+"438","pelagicmd",2010,"Unknown Fishing Country","Marine pelagic fishes not identified",12,"Other fishes & inverts","R",0.0004187975606068,80537,"Reported","Pelagic fishes","Industrial",213,2,1,"R","Landings",100339
+"439","pelagicmd",2010,"Unknown Fishing Country","Marine pelagic fishes not identified",12,"Other fishes & inverts","R",0.000273438586064828,79818,"Reported","Pelagic fishes","Industrial",213,2,1,"R","Landings",100339
+"440","pelagicmd",2010,"Unknown Fishing Country","Marine pelagic fishes not identified",12,"Other fishes & inverts","R",0.0080220374950304,80537,"Reported","Pelagic fishes","Industrial",213,2,1,"R","Landings",100339
+"441","pelagicmd",2010,"Unknown Fishing Country","Marine pelagic fishes not identified",12,"Other fishes & inverts","R",0.00523769667335673,79818,"Reported","Pelagic fishes","Industrial",213,2,1,"R","Landings",100339
+"442","pelagicmd",2010,"Korea (South)","Marine pelagic fishes not identified",12,"Other fishes & inverts","R",0.000666962358513776,79818,"Reported","Pelagic fishes","Industrial",95,2,1,"R","Landings",100339
+"443","pelagicmd",2010,"Korea (South)","Marine pelagic fishes not identified",12,"Other fishes & inverts","R",0.00102151716325766,80537,"Reported","Pelagic fishes","Industrial",95,2,1,"R","Landings",100339
+"444","pelagicmd",2010,"China","Marine pelagic fishes not identified",12,"Other fishes & inverts","R",0.000190560673861079,79818,"Reported","Pelagic fishes","Industrial",31,2,1,"R","Landings",100339
+"445","pelagicmd",2010,"China","Marine pelagic fishes not identified",12,"Other fishes & inverts","R",0.000291862046645045,80537,"Reported","Pelagic fishes","Industrial",31,2,1,"R","Landings",100339
+"446","reef-associatedmd",2010,"China","Monacanthidae",12,"Other fishes & inverts","R",47.8449409996032,79818,"Reported","Filefishes","Industrial",31,17,1,"R","Landings",400517
+"447","reef-associatedmd",2010,"China","Monacanthidae",12,"Other fishes & inverts","R",79.5904357103121,80537,"Reported","Filefishes","Industrial",31,17,1,"R","Landings",400517
+"448","reef-associatedmd",2010,"China","Monacanthidae",12,"Other fishes & inverts","R",15.1059661541251,79818,"Reported","Filefishes","Industrial",31,17,1,"R","Landings",400517
+"449","reef-associatedmd",2010,"China","Monacanthidae",12,"Other fishes & inverts","R",25.1288935238109,80537,"Reported","Filefishes","Industrial",31,17,1,"R","Landings",400517
+"450","reef-associatedmd",2010,"China","Monacanthidae",12,"Other fishes & inverts","R",41.1756770234512,79818,"Reported","Filefishes","Industrial",31,17,1,"R","Landings",400517
+"451","reef-associatedmd",2010,"China","Monacanthidae",12,"Other fishes & inverts","R",68.496062624275,80537,"Reported","Filefishes","Industrial",31,17,1,"R","Landings",400517
+"452","reef-associatedmd",2010,"China","Monacanthidae",12,"Other fishes & inverts","R",135.46954823972,79818,"Reported","Filefishes","Industrial",31,17,1,"R","Landings",400517
+"453","reef-associatedmd",2010,"China","Monacanthidae",12,"Other fishes & inverts","R",225.354659126195,80537,"Reported","Filefishes","Industrial",31,17,1,"R","Landings",400517
+"454","demersalmd",2010,"Korea (South)","Liparis tanakae",8,"Scorpionfishes","D",11.5236374057652,79818,"Unreported","Tanaka's snailfish","Industrial",95,5,1,"U","Discards",624115
+"455","demersalmd",2010,"Korea (South)","Liparis tanakae",8,"Scorpionfishes","D",19.2510744460187,80537,"Unreported","Tanaka's snailfish","Industrial",95,5,1,"U","Discards",624115
+"456","pelagiclg",2010,"China","Scomberomorus",3,"Perch-likes","R",35.7849503799272,80537,"Reported","Spanish mackerels","Industrial",31,3,1,"R","Landings",500487
+"457","pelagiclg",2010,"China","Scomberomorus",3,"Perch-likes","R",21.8186867978715,79818,"Reported","Spanish mackerels","Industrial",31,3,1,"R","Landings",500487
+"458","pelagiclg",2010,"China","Scomberomorus",3,"Perch-likes","R",11.2982948249233,80537,"Reported","Spanish mackerels","Industrial",31,3,1,"R","Landings",500487
+"459","pelagiclg",2010,"China","Scomberomorus",3,"Perch-likes","R",6.88876059678125,79818,"Reported","Spanish mackerels","Industrial",31,3,1,"R","Landings",500487
+"460","pelagiclg",2010,"China","Scomberomorus",3,"Perch-likes","R",30.7967682346774,80537,"Reported","Spanish mackerels","Industrial",31,3,1,"R","Landings",500487
+"461","pelagiclg",2010,"China","Scomberomorus",3,"Perch-likes","R",18.7773081523114,79818,"Reported","Spanish mackerels","Industrial",31,3,1,"R","Landings",500487
+"462","pelagiclg",2010,"China","Scomberomorus",3,"Perch-likes","R",101.322542399738,80537,"Reported","Spanish mackerels","Industrial",31,3,1,"R","Landings",500487
+"463","pelagiclg",2010,"China","Scomberomorus",3,"Perch-likes","R",61.7780601820815,79818,"Reported","Spanish mackerels","Industrial",31,3,1,"R","Landings",500487
+"464","otherdeminvert",2010,"Korea (South)","Echinoidea",12,"Other fishes & inverts","D",10.1536422157473,79818,"Unreported","Sea urchins, sea hedgehogs","Artisanal",95,29,3,"U","Discards",290011
+"465","otherdeminvert",2010,"Korea (South)","Echinoidea",12,"Other fishes & inverts","D",13.8292021851113,80537,"Unreported","Sea urchins, sea hedgehogs","Artisanal",95,29,3,"U","Discards",290011
+"466","otherdeminvert",2010,"China","Echinoidea",12,"Other fishes & inverts","R",0.104751885794883,80537,"Reported","Sea urchins, sea hedgehogs","Industrial",31,29,1,"R","Landings",290011
+"467","otherdeminvert",2010,"China","Echinoidea",12,"Other fishes & inverts","R",0.0627447054804858,79818,"Reported","Sea urchins, sea hedgehogs","Industrial",31,29,1,"R","Landings",290011
+"468","cephalopods",2010,"China","Cephalopoda",12,"Other fishes & inverts","R",9.07702877457278,80537,"Reported","Squids, cuttlefishes, octopuses","Industrial",31,25,1,"R","Landings",290002
+"469","cephalopods",2010,"China","Cephalopoda",12,"Other fishes & inverts","R",6.03595593160636,79818,"Reported","Squids, cuttlefishes, octopuses","Industrial",31,25,1,"R","Landings",290002
+"470","cephalopods",2010,"Korea (South)","Teuthida",12,"Other fishes & inverts","R",9.56735280608019,80537,"Reported","Squids","Industrial",95,25,1,"R","Landings",390002
+"471","cephalopods",2010,"Korea (South)","Teuthida",12,"Other fishes & inverts","R",6.41958164801127,79818,"Reported","Squids","Industrial",95,25,1,"R","Landings",390002
+"472","cephalopods",2010,"Korea (South)","Teuthida",12,"Other fishes & inverts","R",0.347599006300695,79818,"Reported","Squids","Industrial",95,25,1,"R","Landings",390002
+"473","cephalopods",2010,"Korea (South)","Teuthida",12,"Other fishes & inverts","R",0.518040350706012,80537,"Reported","Squids","Industrial",95,25,1,"R","Landings",390002
+"474","cephalopods",2010,"Korea (South)","Teuthida",12,"Other fishes & inverts","R",0.493531922448101,79818,"Reported","Squids","Industrial",95,25,1,"R","Landings",390002
+"475","cephalopods",2010,"Korea (South)","Teuthida",12,"Other fishes & inverts","R",0.735529865032055,80537,"Reported","Squids","Industrial",95,25,1,"R","Landings",390002
+"476","cephalopods",2010,"Korea (South)","Teuthida",12,"Other fishes & inverts","R",0.0733331236921052,79818,"Reported","Squids","Industrial",95,25,1,"R","Landings",390002
+"477","cephalopods",2010,"Korea (South)","Teuthida",12,"Other fishes & inverts","R",0.10929121322908,80537,"Reported","Squids","Industrial",95,25,1,"R","Landings",390002
+"478","cephalopods",2010,"Korea (South)","Teuthida",12,"Other fishes & inverts","R",11.9134391370854,79818,"Reported","Squids","Artisanal",95,25,3,"R","Landings",390002
+"479","cephalopods",2010,"Korea (South)","Teuthida",12,"Other fishes & inverts","R",14.4848071688725,80537,"Reported","Squids","Artisanal",95,25,3,"R","Landings",390002
+"480","cephalopods",2010,"Korea (South)","Teuthida",12,"Other fishes & inverts","R",0.687029836459823,79818,"Reported","Squids","Artisanal",95,25,3,"R","Landings",390002
+"481","cephalopods",2010,"Korea (South)","Teuthida",12,"Other fishes & inverts","R",0.835316702916163,80537,"Reported","Squids","Artisanal",95,25,3,"R","Landings",390002
+"482","cephalopods",2010,"Korea (South)","Teuthida",12,"Other fishes & inverts","R",3.87742788131796,79818,"Reported","Squids","Artisanal",95,25,3,"R","Landings",390002
+"483","cephalopods",2010,"Korea (South)","Teuthida",12,"Other fishes & inverts","R",4.71432258358278,80537,"Reported","Squids","Artisanal",95,25,3,"R","Landings",390002
+"484","cephalopods",2010,"China","Teuthida",12,"Other fishes & inverts","R",75.3335244509771,80537,"Reported","Squids","Industrial",31,25,1,"R","Landings",390002
+"485","cephalopods",2010,"China","Teuthida",12,"Other fishes & inverts","R",50.547912348143,79818,"Reported","Squids","Industrial",31,25,1,"R","Landings",390002
+"486","demersallg",2010,"Korea (South)","Lateolabracidae",3,"Perch-likes","R",0.231200023419589,79818,"Unreported","Asian seaperches","Subsistence",95,6,2,"U","Landings",400627
+"487","demersallg",2010,"Korea (South)","Lateolabracidae",3,"Perch-likes","R",47.4177636229347,79818,"Unreported","Asian seaperches","Recreational",95,6,4,"U","Landings",400627
+"488","otherdeminvert",2010,"Korea (South)","Holothuriidae",12,"Other fishes & inverts","R",0.051266527261965,79818,"Unreported","Fleshy sea cucumbers","Recreational",95,29,4,"U","Landings",490132
+"489","otherdeminvert",2010,"Korea (South)","Holothuriidae",12,"Other fishes & inverts","R",0.065119654768225,80537,"Unreported","Fleshy sea cucumbers","Recreational",95,29,4,"U","Landings",490132
+"490","reef-associatedmd",2010,"Korea (South)","Kyphosidae",3,"Perch-likes","R",249.570410744259,79818,"Unreported","Sea chubs, knifefishes, niblers","Recreational",95,17,4,"U","Landings",400339
+"491","demersalmd",2010,"Korea (South)","Sillaginidae",3,"Perch-likes","R",0.0242153823555713,79818,"Reported","Smelt-whitings","Industrial",95,5,1,"R","Landings",400307
+"492","demersalmd",2010,"Korea (South)","Sillaginidae",3,"Perch-likes","R",0.00739092878466463,79818,"Reported","Smelt-whitings","Artisanal",95,5,3,"R","Landings",400307
+"493","demersalmd",2010,"Korea (South)","Sillaginidae",3,"Perch-likes","R",0.00497757569851512,79818,"Reported","Smelt-whitings","Artisanal",95,5,3,"R","Landings",400307
+"494","otherdeminvert",2010,"Korea (South)","Rapana",11,"Molluscs","D",10.1778455557259,79818,"Unreported","Rapa whelks","Artisanal",95,29,3,"U","Discards",590111
+"495","otherdeminvert",2010,"Korea (South)","Miscellaneous aquatic invertebrates",12,"Other fishes & inverts","R",0.00872067801824207,79818,"Reported","Aquatic invertebrates","Artisanal",95,29,3,"R","Landings",100077
+"496","otherdeminvert",2010,"Korea (South)","Miscellaneous aquatic invertebrates",12,"Other fishes & inverts","R",0.0515542046820092,80537,"Reported","Aquatic invertebrates","Artisanal",95,29,3,"R","Landings",100077
+"497","otherdeminvert",2010,"Korea (South)","Miscellaneous aquatic invertebrates",12,"Other fishes & inverts","R",0.0484320738698577,79818,"Unreported","Aquatic invertebrates","Artisanal",95,29,3,"U","Landings",100077
+"498","otherdeminvert",2010,"Korea (South)","Miscellaneous aquatic invertebrates",12,"Other fishes & inverts","R",0.286316848786048,80537,"Unreported","Aquatic invertebrates","Artisanal",95,29,3,"U","Landings",100077
+"499","otherdeminvert",2010,"Korea (South)","Miscellaneous aquatic invertebrates",12,"Other fishes & inverts","R",0.0437063807650413,79818,"Unreported","Aquatic invertebrates","Artisanal",95,29,3,"U","Landings",100077
+"500","otherdeminvert",2010,"Korea (South)","Miscellaneous aquatic invertebrates",12,"Other fishes & inverts","R",0.258379875413057,80537,"Unreported","Aquatic invertebrates","Artisanal",95,29,3,"U","Landings",100077
+"501","otherdeminvert",2010,"Korea (South)","Miscellaneous aquatic invertebrates",12,"Other fishes & inverts","R",0.0301936339721198,79818,"Unreported","Aquatic invertebrates","Artisanal",95,29,3,"U","Landings",100077
+"502","otherdeminvert",2010,"Korea (South)","Miscellaneous aquatic invertebrates",12,"Other fishes & inverts","R",0.178496302998022,80537,"Unreported","Aquatic invertebrates","Artisanal",95,29,3,"U","Landings",100077
+"503","otherdeminvert",2010,"Korea (South)","Miscellaneous aquatic invertebrates",12,"Other fishes & inverts","R",0.0329584296131834,79818,"Unreported","Aquatic invertebrates","Artisanal",95,29,3,"U","Landings",100077
+"504","otherdeminvert",2010,"Korea (South)","Miscellaneous aquatic invertebrates",12,"Other fishes & inverts","R",0.194841000060012,80537,"Unreported","Aquatic invertebrates","Artisanal",95,29,3,"U","Landings",100077
+"505","otherdeminvert",2010,"Korea (South)","Miscellaneous aquatic invertebrates",12,"Other fishes & inverts","R",0.100217910448184,79818,"Unreported","Aquatic invertebrates","Artisanal",95,29,3,"U","Landings",100077
+"506","otherdeminvert",2010,"Korea (South)","Miscellaneous aquatic invertebrates",12,"Other fishes & inverts","R",0.592460202892622,80537,"Unreported","Aquatic invertebrates","Artisanal",95,29,3,"U","Landings",100077
+"507","otherdeminvert",2010,"Korea (South)","Miscellaneous aquatic invertebrates",12,"Other fishes & inverts","R",0.00577941380597892,79818,"Unreported","Aquatic invertebrates","Artisanal",95,29,3,"U","Landings",100077
+"508","otherdeminvert",2010,"Korea (South)","Miscellaneous aquatic invertebrates",12,"Other fishes & inverts","R",0.0341662748781922,80537,"Unreported","Aquatic invertebrates","Artisanal",95,29,3,"U","Landings",100077
+"509","otherdeminvert",2010,"Korea (South)","Miscellaneous aquatic invertebrates",12,"Other fishes & inverts","R",0.160432116979252,79818,"Unreported","Aquatic invertebrates","Artisanal",95,29,3,"U","Landings",100077
+"510","otherdeminvert",2010,"Korea (South)","Miscellaneous aquatic invertebrates",12,"Other fishes & inverts","R",0.948429718310329,80537,"Unreported","Aquatic invertebrates","Artisanal",95,29,3,"U","Landings",100077
+"511","otherdeminvert",2010,"Korea (South)","Miscellaneous aquatic invertebrates",12,"Other fishes & inverts","R",0.0326175939380577,79818,"Unreported","Aquatic invertebrates","Artisanal",95,29,3,"U","Landings",100077
+"512","otherdeminvert",2010,"Korea (South)","Miscellaneous aquatic invertebrates",12,"Other fishes & inverts","R",0.19282607505973,80537,"Unreported","Aquatic invertebrates","Artisanal",95,29,3,"U","Landings",100077
+"513","otherdeminvert",2010,"Korea (South)","Miscellaneous aquatic invertebrates",12,"Other fishes & inverts","D",0.761411202116154,79818,"Unreported","Aquatic invertebrates","Industrial",95,29,1,"U","Discards",100077
+"514","otherdeminvert",2010,"Korea (South)","Miscellaneous aquatic invertebrates",12,"Other fishes & inverts","D",5.51750323539672,80537,"Unreported","Aquatic invertebrates","Industrial",95,29,1,"U","Discards",100077
+"515","otherdeminvert",2010,"Korea (South)","Miscellaneous aquatic invertebrates",12,"Other fishes & inverts","R",0.0538551672129718,79818,"Reported","Aquatic invertebrates","Industrial",95,29,1,"R","Landings",100077
+"516","otherdeminvert",2010,"Korea (South)","Miscellaneous aquatic invertebrates",12,"Other fishes & inverts","R",0.390257010291626,80537,"Reported","Aquatic invertebrates","Industrial",95,29,1,"R","Landings",100077
+"517","otherdeminvert",2010,"Korea (South)","Miscellaneous aquatic invertebrates",12,"Other fishes & inverts","R",0.0129488558468422,79818,"Reported","Aquatic invertebrates","Artisanal",95,29,3,"R","Landings",100077
+"518","otherdeminvert",2010,"Korea (South)","Miscellaneous aquatic invertebrates",12,"Other fishes & inverts","R",0.0765500071587904,80537,"Reported","Aquatic invertebrates","Artisanal",95,29,3,"R","Landings",100077
+"519","otherdeminvert",2010,"Korea (South)","Miscellaneous aquatic invertebrates",12,"Other fishes & inverts","R",0.0116853890179157,79818,"Reported","Aquatic invertebrates","Artisanal",95,29,3,"R","Landings",100077
+"520","otherdeminvert",2010,"Korea (South)","Miscellaneous aquatic invertebrates",12,"Other fishes & inverts","R",0.0690807453225946,80537,"Reported","Aquatic invertebrates","Artisanal",95,29,3,"R","Landings",100077
+"521","otherdeminvert",2010,"Korea (South)","Miscellaneous aquatic invertebrates",12,"Other fishes & inverts","R",0.00807260525014654,79818,"Reported","Aquatic invertebrates","Artisanal",95,29,3,"R","Landings",100077
+"522","otherdeminvert",2010,"Korea (South)","Miscellaneous aquatic invertebrates",12,"Other fishes & inverts","R",0.0477229800839511,80537,"Reported","Aquatic invertebrates","Artisanal",95,29,3,"R","Landings",100077
+"523","otherdeminvert",2010,"Korea (South)","Miscellaneous aquatic invertebrates",12,"Other fishes & inverts","R",0.00881180424249841,79818,"Reported","Aquatic invertebrates","Artisanal",95,29,3,"R","Landings",100077
+"524","otherdeminvert",2010,"Korea (South)","Miscellaneous aquatic invertebrates",12,"Other fishes & inverts","R",0.0520929173838636,80537,"Reported","Aquatic invertebrates","Artisanal",95,29,3,"R","Landings",100077
+"525","otherdeminvert",2010,"Korea (South)","Miscellaneous aquatic invertebrates",12,"Other fishes & inverts","R",0.0267943776091926,79818,"Reported","Aquatic invertebrates","Artisanal",95,29,3,"R","Landings",100077
+"526","otherdeminvert",2010,"Korea (South)","Miscellaneous aquatic invertebrates",12,"Other fishes & inverts","R",0.158400851940847,80537,"Reported","Aquatic invertebrates","Artisanal",95,29,3,"R","Landings",100077
+"527","otherdeminvert",2010,"Korea (South)","Miscellaneous aquatic invertebrates",12,"Other fishes & inverts","R",0.00154519082651645,79818,"Reported","Aquatic invertebrates","Artisanal",95,29,3,"R","Landings",100077
+"528","otherdeminvert",2010,"Korea (South)","Miscellaneous aquatic invertebrates",12,"Other fishes & inverts","R",0.0091347351635223,80537,"Reported","Aquatic invertebrates","Artisanal",95,29,3,"R","Landings",100077
+"529","otherdeminvert",2010,"Korea (South)","Miscellaneous aquatic invertebrates",12,"Other fishes & inverts","R",0.0428933182078947,79818,"Reported","Aquatic invertebrates","Artisanal",95,29,3,"R","Landings",100077
+"530","otherdeminvert",2010,"Korea (South)","Miscellaneous aquatic invertebrates",12,"Other fishes & inverts","R",0.253573277416579,80537,"Reported","Aquatic invertebrates","Artisanal",95,29,3,"R","Landings",100077
+"531","otherdeminvert",2010,"China","Miscellaneous aquatic invertebrates",12,"Other fishes & inverts","R",151.350893984024,80537,"Reported","Aquatic invertebrates","Industrial",31,29,1,"R","Landings",100077
+"532","otherdeminvert",2010,"China","Miscellaneous aquatic invertebrates",12,"Other fishes & inverts","R",20.8863069423183,79818,"Reported","Aquatic invertebrates","Industrial",31,29,1,"R","Landings",100077
+"533","shrimp",2010,"Korea (South)","Miscellaneous marine crustaceans",10,"Crustaceans","R",23.5496795916091,80537,"Reported","Marine crabs, shrimps, lobsters nei","Industrial",95,26,1,"R","Landings",100047
+"534","shrimp",2010,"Korea (South)","Miscellaneous marine crustaceans",10,"Crustaceans","R",14.0458690750924,79818,"Reported","Marine crabs, shrimps, lobsters nei","Industrial",95,26,1,"R","Landings",100047
+"535","shrimp",2010,"Korea (South)","Miscellaneous marine crustaceans",10,"Crustaceans","R",26.8810852192843,79818,"Reported","Marine crabs, shrimps, lobsters nei","Industrial",95,26,1,"R","Landings",100047
+"536","shrimp",2010,"Korea (South)","Miscellaneous marine crustaceans",10,"Crustaceans","R",45.0695461138435,80537,"Reported","Marine crabs, shrimps, lobsters nei","Industrial",95,26,1,"R","Landings",100047
+"537","shrimp",2010,"Korea (South)","Miscellaneous marine crustaceans",10,"Crustaceans","R",16.4499618620465,79818,"Reported","Marine crabs, shrimps, lobsters nei","Industrial",95,26,1,"R","Landings",100047
+"538","shrimp",2010,"Korea (South)","Miscellaneous marine crustaceans",10,"Crustaceans","R",27.5804458288983,80537,"Reported","Marine crabs, shrimps, lobsters nei","Industrial",95,26,1,"R","Landings",100047
+"539","shrimp",2010,"Korea (South)","Miscellaneous marine crustaceans",10,"Crustaceans","R",16.6716382888169,79818,"Reported","Marine crabs, shrimps, lobsters nei","Artisanal",95,26,3,"R","Landings",100047
+"540","shrimp",2010,"Korea (South)","Miscellaneous marine crustaceans",10,"Crustaceans","R",22.8036922309742,80537,"Reported","Marine crabs, shrimps, lobsters nei","Artisanal",95,26,3,"R","Landings",100047
+"541","shrimp",2010,"Korea (South)","Miscellaneous marine crustaceans",10,"Crustaceans","R",11.5172506942223,79818,"Reported","Marine crabs, shrimps, lobsters nei","Artisanal",95,26,3,"R","Landings",100047
+"542","shrimp",2010,"Korea (South)","Miscellaneous marine crustaceans",10,"Crustaceans","R",15.7534511982659,80537,"Reported","Marine crabs, shrimps, lobsters nei","Artisanal",95,26,3,"R","Landings",100047
+"543","shrimp",2010,"Korea (South)","Miscellaneous marine crustaceans",10,"Crustaceans","R",38.2277535638356,79818,"Reported","Marine crabs, shrimps, lobsters nei","Artisanal",95,26,3,"R","Landings",100047
+"544","shrimp",2010,"Korea (South)","Miscellaneous marine crustaceans",10,"Crustaceans","R",52.2884381156458,80537,"Reported","Marine crabs, shrimps, lobsters nei","Artisanal",95,26,3,"R","Landings",100047
+"545","shrimp",2010,"Korea (South)","Miscellaneous marine crustaceans",10,"Crustaceans","R",2.20453615257347,79818,"Reported","Marine crabs, shrimps, lobsters nei","Artisanal",95,26,3,"R","Landings",100047
+"546","shrimp",2010,"Korea (South)","Miscellaneous marine crustaceans",10,"Crustaceans","R",3.01539435203935,80537,"Reported","Marine crabs, shrimps, lobsters nei","Artisanal",95,26,3,"R","Landings",100047
+"547","shrimp",2010,"Korea (South)","Miscellaneous marine crustaceans",10,"Crustaceans","R",61.1962413123577,79818,"Reported","Marine crabs, shrimps, lobsters nei","Artisanal",95,26,3,"R","Landings",100047
+"548","shrimp",2010,"Korea (South)","Miscellaneous marine crustaceans",10,"Crustaceans","R",83.7050461630705,80537,"Reported","Marine crabs, shrimps, lobsters nei","Artisanal",95,26,3,"R","Landings",100047
+"549","shrimp",2010,"Korea (South)","Miscellaneous marine crustaceans",10,"Crustaceans","R",11.6794581181985,79818,"Unreported","Marine crabs, shrimps, lobsters nei","Artisanal",95,26,3,"U","Landings",100047
+"550","shrimp",2010,"Korea (South)","Miscellaneous marine crustaceans",10,"Crustaceans","R",15.9753207056205,80537,"Unreported","Marine crabs, shrimps, lobsters nei","Artisanal",95,26,3,"U","Landings",100047
+"551","shrimp",2010,"Korea (South)","Miscellaneous marine crustaceans",10,"Crustaceans","R",0.113052989547091,79818,"Unreported","Marine crabs, shrimps, lobsters nei","Recreational",95,26,4,"U","Landings",100047
+"552","shrimp",2010,"Korea (South)","Miscellaneous marine crustaceans",10,"Crustaceans","R",0.154635407436395,80537,"Unreported","Marine crabs, shrimps, lobsters nei","Recreational",95,26,4,"U","Landings",100047
+"553","shrimp",2010,"Korea (South)","Miscellaneous marine crustaceans",10,"Crustaceans","D",7.8472515049931,79818,"Unreported","Marine crabs, shrimps, lobsters nei","Industrial",95,26,1,"U","Discards",100047
+"554","shrimp",2010,"Korea (South)","Miscellaneous marine crustaceans",10,"Crustaceans","D",13.1569116606011,80537,"Unreported","Marine crabs, shrimps, lobsters nei","Industrial",95,26,1,"U","Discards",100047
+"555","shrimp",2010,"Korea (South)","Miscellaneous marine crustaceans",10,"Crustaceans","D",70.076748709191,79818,"Unreported","Marine crabs, shrimps, lobsters nei","Artisanal",95,26,3,"U","Discards",100047
+"556","shrimp",2010,"Korea (South)","Miscellaneous marine crustaceans",10,"Crustaceans","D",95.8519242337229,80537,"Unreported","Marine crabs, shrimps, lobsters nei","Artisanal",95,26,3,"U","Discards",100047
+"557","benthopelagicmd",2010,"Korea (South)","Larimichthys polyactis",3,"Perch-likes","R",414.582009272412,79818,"Reported","Yellow croaker","Industrial",95,14,1,"R","Landings",600416
+"558","benthopelagicmd",2010,"Korea (South)","Larimichthys polyactis",3,"Perch-likes","R",17.8147463308539,79818,"Reported","Yellow croaker","Industrial",95,14,1,"R","Landings",600416
+"559","benthopelagicmd",2010,"Korea (South)","Larimichthys polyactis",3,"Perch-likes","R",85.5866064143418,79818,"Reported","Yellow croaker","Artisanal",95,14,3,"R","Landings",600416
+"560","benthopelagicmd",2010,"Korea (South)","Larimichthys polyactis",3,"Perch-likes","R",10.2130752452824,79818,"Reported","Yellow croaker","Artisanal",95,14,3,"R","Landings",600416
+"561","benthopelagicmd",2010,"Korea (South)","Larimichthys polyactis",3,"Perch-likes","R",283.507175204167,79818,"Reported","Yellow croaker","Artisanal",95,14,3,"R","Landings",600416
+"562","benthopelagicmd",2010,"China","Larimichthys polyactis",3,"Perch-likes","R",2324.61325760681,79818,"Reported","Yellow croaker","Industrial",31,14,1,"R","Landings",600416
+"563","reef-associatedmd",2010,"Korea (South)","Mugilidae",3,"Perch-likes","R",1.95910644223776,79818,"Unreported","Mullets, grey mullets","Subsistence",95,17,2,"U","Landings",400359
+"564","reef-associatedmd",2010,"Korea (South)","Mugilidae",3,"Perch-likes","R",2.46570226139589,80537,"Unreported","Mullets, grey mullets","Subsistence",95,17,2,"U","Landings",400359
+"565","reef-associatedmd",2010,"Korea (South)","Mugilidae",3,"Perch-likes","R",70.3929833769142,79818,"Unreported","Mullets, grey mullets","Recreational",95,17,4,"U","Landings",400359
+"566","reef-associatedmd",2010,"Korea (South)","Mugilidae",3,"Perch-likes","R",88.59556303669,80537,"Unreported","Mullets, grey mullets","Recreational",95,17,4,"U","Landings",400359
+"567","demersalmd",2010,"Korea (South)","Marine finfishes not identified",12,"Other fishes & inverts","R",9.87599105033122,79818,"Reported","Finfishes","Industrial",95,5,1,"R","Landings",100139
+"568","demersalmd",2010,"Korea (South)","Marine finfishes not identified",12,"Other fishes & inverts","R",16.0778963573146,80537,"Reported","Finfishes","Industrial",95,5,1,"R","Landings",100139
+"569","demersalmd",2010,"Korea (South)","Marine finfishes not identified",12,"Other fishes & inverts","R",2.15436323622326,79818,"Reported","Finfishes","Artisanal",95,5,3,"R","Landings",100139
+"570","demersalmd",2010,"Korea (South)","Marine finfishes not identified",12,"Other fishes & inverts","R",2.86126426840473,80537,"Reported","Finfishes","Artisanal",95,5,3,"R","Landings",100139
+"571","demersalmd",2010,"Korea (South)","Marine finfishes not identified",12,"Other fishes & inverts","R",2.38730083738088,79818,"Reported","Finfishes","Artisanal",95,5,3,"R","Landings",100139
+"572","demersalmd",2010,"Korea (South)","Marine finfishes not identified",12,"Other fishes & inverts","R",3.17063458430773,80537,"Reported","Finfishes","Artisanal",95,5,3,"R","Landings",100139
+"573","demersalmd",2010,"Korea (South)","Marine finfishes not identified",12,"Other fishes & inverts","R",1.48829653379914,79818,"Reported","Finfishes","Artisanal",95,5,3,"R","Landings",100139
+"574","demersalmd",2010,"Korea (South)","Marine finfishes not identified",12,"Other fishes & inverts","R",1.97664424519951,80537,"Reported","Finfishes","Artisanal",95,5,3,"R","Landings",100139
+"575","demersalmd",2010,"Korea (South)","Marine finfishes not identified",12,"Other fishes & inverts","R",1.62457810139904,79818,"Reported","Finfishes","Artisanal",95,5,3,"R","Landings",100139
+"576","demersalmd",2010,"Korea (South)","Marine finfishes not identified",12,"Other fishes & inverts","R",2.15764323982558,80537,"Reported","Finfishes","Artisanal",95,5,3,"R","Landings",100139
+"577","demersalmd",2010,"Korea (South)","Marine finfishes not identified",12,"Other fishes & inverts","R",4.93991444959394,79818,"Reported","Finfishes","Artisanal",95,5,3,"R","Landings",100139
+"578","demersalmd",2010,"Korea (South)","Marine finfishes not identified",12,"Other fishes & inverts","R",6.56082524336884,80537,"Reported","Finfishes","Artisanal",95,5,3,"R","Landings",100139
+"579","demersalmd",2010,"Korea (South)","Marine finfishes not identified",12,"Other fishes & inverts","R",0.284877320258032,79818,"Reported","Finfishes","Artisanal",95,5,3,"R","Landings",100139
+"580","demersalmd",2010,"Korea (South)","Marine finfishes not identified",12,"Other fishes & inverts","R",0.378352769685273,80537,"Reported","Finfishes","Artisanal",95,5,3,"R","Landings",100139
+"581","demersalmd",2010,"Korea (South)","Marine finfishes not identified",12,"Other fishes & inverts","R",7.90797702028037,79818,"Reported","Finfishes","Artisanal",95,5,3,"R","Landings",100139
+"582","demersalmd",2010,"Korea (South)","Marine finfishes not identified",12,"Other fishes & inverts","R",10.5027841651997,80537,"Reported","Finfishes","Artisanal",95,5,3,"R","Landings",100139
+"583","demersalmd",2010,"Korea (South)","Marine finfishes not identified",12,"Other fishes & inverts","R",1.60777772041962,79818,"Reported","Finfishes","Artisanal",95,5,3,"R","Landings",100139
+"584","demersalmd",2010,"Korea (South)","Marine finfishes not identified",12,"Other fishes & inverts","R",2.13533022919499,80537,"Reported","Finfishes","Artisanal",95,5,3,"R","Landings",100139
+"585","reef-associatedlg",2010,"Korea (South)","Tetraodontidae",12,"Other fishes & inverts","R",21.7192378464658,79818,"Reported","Puffers, tobies","Industrial",95,18,1,"R","Landings",400448
+"586","reef-associatedlg",2010,"Korea (South)","Tetraodontidae",12,"Other fishes & inverts","R",33.9069298200319,80537,"Reported","Puffers, tobies","Industrial",95,18,1,"R","Landings",400448
+"587","reef-associatedlg",2010,"Korea (South)","Tetraodontidae",12,"Other fishes & inverts","R",3.25159464685546,79818,"Reported","Puffers, tobies","Artisanal",95,18,3,"R","Landings",400448
+"588","reef-associatedlg",2010,"Korea (South)","Tetraodontidae",12,"Other fishes & inverts","R",4.14124372693635,80537,"Reported","Puffers, tobies","Artisanal",95,18,3,"R","Landings",400448
+"589","reef-associatedlg",2010,"Korea (South)","Tetraodontidae",12,"Other fishes & inverts","R",3.60316890519792,79818,"Reported","Puffers, tobies","Artisanal",95,18,3,"R","Landings",400448
+"590","reef-associatedlg",2010,"Korea (South)","Tetraodontidae",12,"Other fishes & inverts","R",4.58901008468978,80537,"Reported","Puffers, tobies","Artisanal",95,18,3,"R","Landings",400448
+"591","reef-associatedlg",2010,"Korea (South)","Tetraodontidae",12,"Other fishes & inverts","R",2.24629577819872,79818,"Reported","Puffers, tobies","Artisanal",95,18,3,"R","Landings",400448
+"592","reef-associatedlg",2010,"Korea (South)","Tetraodontidae",12,"Other fishes & inverts","R",2.86089113515586,80537,"Reported","Puffers, tobies","Artisanal",95,18,3,"R","Landings",400448
+"593","reef-associatedlg",2010,"Korea (South)","Tetraodontidae",12,"Other fishes & inverts","R",7.45584547217875,79818,"Reported","Puffers, tobies","Artisanal",95,18,3,"R","Landings",400448
+"594","reef-associatedlg",2010,"Korea (South)","Tetraodontidae",12,"Other fishes & inverts","R",9.49579410844675,80537,"Reported","Puffers, tobies","Artisanal",95,18,3,"R","Landings",400448
+"595","reef-associatedlg",2010,"Korea (South)","Tetraodontidae",12,"Other fishes & inverts","R",0.429967219077419,79818,"Reported","Puffers, tobies","Artisanal",95,18,3,"R","Landings",400448
+"596","reef-associatedlg",2010,"Korea (South)","Tetraodontidae",12,"Other fishes & inverts","R",0.547607940772877,80537,"Reported","Puffers, tobies","Artisanal",95,18,3,"R","Landings",400448
+"597","reef-associatedlg",2010,"Korea (South)","Tetraodontidae",12,"Other fishes & inverts","R",11.9355618933032,79818,"Reported","Puffers, tobies","Artisanal",95,18,3,"R","Landings",400448
+"598","reef-associatedlg",2010,"Korea (South)","Tetraodontidae",12,"Other fishes & inverts","R",15.201178555852,80537,"Reported","Puffers, tobies","Artisanal",95,18,3,"R","Landings",400448
+"599","reef-associatedlg",2010,"Korea (South)","Tetraodontidae",12,"Other fishes & inverts","R",2.42662952149827,79818,"Reported","Puffers, tobies","Artisanal",95,18,3,"R","Landings",400448
+"600","reef-associatedlg",2010,"Korea (South)","Tetraodontidae",12,"Other fishes & inverts","R",3.0905648996629,80537,"Reported","Puffers, tobies","Artisanal",95,18,3,"R","Landings",400448
+"601","reef-associatedlg",2010,"Korea (South)","Tetraodontidae",12,"Other fishes & inverts","D",9.42166435494392,79818,"Unreported","Puffers, tobies","Industrial",95,18,1,"U","Discards",400448
+"602","reef-associatedlg",2010,"Korea (South)","Tetraodontidae",12,"Other fishes & inverts","D",14.7086059984818,80537,"Unreported","Puffers, tobies","Industrial",95,18,1,"U","Discards",400448
+"603","otherdeminvert",2010,"Korea (South)","Ascidiacea",12,"Other fishes & inverts","R",4.45816562418945,79818,"Reported","Sea squirts","Industrial",95,29,1,"R","Landings",290005
+"604","otherdeminvert",2010,"Korea (South)","Ascidiacea",12,"Other fishes & inverts","R",6.90977244209002,80537,"Reported","Sea squirts","Industrial",95,29,1,"R","Landings",290005
+"605","otherdeminvert",2010,"Korea (South)","Ascidiacea",12,"Other fishes & inverts","R",1.10502760611338,79818,"Reported","Sea squirts","Artisanal",95,29,3,"R","Landings",290005
+"606","otherdeminvert",2010,"Korea (South)","Ascidiacea",12,"Other fishes & inverts","R",1.39724054396539,80537,"Reported","Sea squirts","Artisanal",95,29,3,"R","Landings",290005
+"607","otherdeminvert",2010,"Korea (South)","Ascidiacea",12,"Other fishes & inverts","R",0.997206054782048,79818,"Reported","Sea squirts","Artisanal",95,29,3,"R","Landings",290005
+"608","otherdeminvert",2010,"Korea (South)","Ascidiacea",12,"Other fishes & inverts","R",1.26090671646649,80537,"Reported","Sea squirts","Artisanal",95,29,3,"R","Landings",290005
+"609","otherdeminvert",2010,"Korea (South)","Ascidiacea",12,"Other fishes & inverts","R",0.688898830922047,79818,"Reported","Sea squirts","Artisanal",95,29,3,"R","Landings",290005
+"610","otherdeminvert",2010,"Korea (South)","Ascidiacea",12,"Other fishes & inverts","R",0.871070887215356,80537,"Reported","Sea squirts","Artisanal",95,29,3,"R","Landings",290005
+"611","otherdeminvert",2010,"Korea (South)","Ascidiacea",12,"Other fishes & inverts","R",0.751980488685594,79818,"Reported","Sea squirts","Artisanal",95,29,3,"R","Landings",290005
+"612","otherdeminvert",2010,"Korea (South)","Ascidiacea",12,"Other fishes & inverts","R",0.95083382645792,80537,"Reported","Sea squirts","Artisanal",95,29,3,"R","Landings",290005
+"613","otherdeminvert",2010,"Korea (South)","Ascidiacea",12,"Other fishes & inverts","R",2.28657475973095,79818,"Reported","Sea squirts","Artisanal",95,29,3,"R","Landings",290005
+"614","otherdeminvert",2010,"Korea (South)","Ascidiacea",12,"Other fishes & inverts","R",2.89123542563895,80537,"Reported","Sea squirts","Artisanal",95,29,3,"R","Landings",290005
+"615","otherdeminvert",2010,"Korea (South)","Ascidiacea",12,"Other fishes & inverts","R",0.131863273497652,79818,"Reported","Sea squirts","Artisanal",95,29,3,"R","Landings",290005
+"616","otherdeminvert",2010,"Korea (South)","Ascidiacea",12,"Other fishes & inverts","R",0.166733130440917,80537,"Reported","Sea squirts","Artisanal",95,29,3,"R","Landings",290005
+"617","otherdeminvert",2010,"Korea (South)","Ascidiacea",12,"Other fishes & inverts","R",3.66042384733846,79818,"Reported","Sea squirts","Artisanal",95,29,3,"R","Landings",290005
+"618","otherdeminvert",2010,"Korea (South)","Ascidiacea",12,"Other fishes & inverts","R",4.62838446687124,80537,"Reported","Sea squirts","Artisanal",95,29,3,"R","Landings",290005
+"619","otherdeminvert",2010,"Korea (South)","Ascidiacea",12,"Other fishes & inverts","R",0.744203972008356,79818,"Reported","Sea squirts","Artisanal",95,29,3,"R","Landings",290005
+"620","otherdeminvert",2010,"Korea (South)","Ascidiacea",12,"Other fishes & inverts","R",0.941000891667741,80537,"Reported","Sea squirts","Artisanal",95,29,3,"R","Landings",290005
+"621","shrimp",2010,"China","Squillidae",10,"Crustaceans","R",423.9550942176,79818,"Reported","Squilla mantis shrimps","Industrial",31,26,1,"R","Landings",490052
+"622","shrimp",2010,"China","Squillidae",10,"Crustaceans","R",702.038195119805,80537,"Reported","Squilla mantis shrimps","Industrial",31,26,1,"R","Landings",490052
+"623","otherdeminvert",2010,"Korea (South)","Arca",11,"Molluscs","R",11.2892876911161,79818,"Reported","Arks, turkey wings","Industrial",95,29,1,"R","Landings",590125
+"624","otherdeminvert",2010,"Korea (South)","Arca",11,"Molluscs","R",53.5533543736836,80537,"Reported","Arks, turkey wings","Industrial",95,29,1,"R","Landings",590125
+"625","otherdeminvert",2010,"Korea (South)","Arca",11,"Molluscs","R",9.20358095638947,79818,"Reported","Arks, turkey wings","Artisanal",95,29,3,"R","Landings",590125
+"626","otherdeminvert",2010,"Korea (South)","Arca",11,"Molluscs","R",35.6178318937565,80537,"Reported","Arks, turkey wings","Artisanal",95,29,3,"R","Landings",590125
+"627","otherdeminvert",2010,"Korea (South)","Arca",11,"Molluscs","R",1.21701458488979,79818,"Reported","Arks, turkey wings","Artisanal",95,29,3,"R","Landings",590125
+"628","otherdeminvert",2010,"Korea (South)","Arca",11,"Molluscs","R",4.7098429515917,80537,"Reported","Arks, turkey wings","Artisanal",95,29,3,"R","Landings",590125
+"629","otherdeminvert",2010,"Korea (South)","Mactridae",11,"Molluscs","R",0.695226173050474,79818,"Reported","Mactra surf clams","Industrial",95,29,1,"R","Landings",490063
+"630","otherdeminvert",2010,"Korea (South)","Mactridae",11,"Molluscs","R",1.13805223463935,80537,"Reported","Mactra surf clams","Industrial",95,29,1,"R","Landings",490063
+"631","otherdeminvert",2010,"Korea (South)","Mactridae",11,"Molluscs","R",0.00234295275409136,79818,"Reported","Mactra surf clams","Industrial",95,29,1,"R","Landings",490063
+"632","otherdeminvert",2010,"Korea (South)","Mactridae",11,"Molluscs","R",0.00383530241065091,80537,"Reported","Mactra surf clams","Industrial",95,29,1,"R","Landings",490063
+"633","otherdeminvert",2010,"Korea (South)","Mactridae",11,"Molluscs","R",0.124536950247074,79818,"Reported","Mactra surf clams","Industrial",95,29,1,"R","Landings",490063
+"634","otherdeminvert",2010,"Korea (South)","Mactridae",11,"Molluscs","R",0.203861074306192,80537,"Reported","Mactra surf clams","Industrial",95,29,1,"R","Landings",490063
+"635","otherdeminvert",2010,"Korea (South)","Mactridae",11,"Molluscs","R",0.0790295986731554,79818,"Reported","Mactra surf clams","Industrial",95,29,1,"R","Landings",490063
+"636","otherdeminvert",2010,"Korea (South)","Mactridae",11,"Molluscs","R",0.129367700554199,80537,"Reported","Mactra surf clams","Industrial",95,29,1,"R","Landings",490063
+"637","otherdeminvert",2010,"Korea (South)","Mactridae",11,"Molluscs","R",1.54017210254327,79818,"Reported","Mactra surf clams","Artisanal",95,29,3,"R","Landings",490063
+"638","otherdeminvert",2010,"Korea (South)","Mactridae",11,"Molluscs","R",2.05681788493143,80537,"Reported","Mactra surf clams","Artisanal",95,29,3,"R","Landings",490063
+"639","otherdeminvert",2010,"Korea (South)","Mactridae",11,"Molluscs","R",0.203661153296451,79818,"Reported","Mactra surf clams","Artisanal",95,29,3,"R","Landings",490063
+"640","otherdeminvert",2010,"Korea (South)","Mactridae",11,"Molluscs","R",0.27197863269578,80537,"Reported","Mactra surf clams","Artisanal",95,29,3,"R","Landings",490063
+"641","otherdeminvert",2010,"Korea (South)","Mytilidae",11,"Molluscs","R",38.2266694387467,79818,"Reported","Sea mussels","Industrial",95,29,1,"R","Landings",490054
+"642","otherdeminvert",2010,"Korea (South)","Mytilidae",11,"Molluscs","R",62.2022299684161,80537,"Reported","Sea mussels","Industrial",95,29,1,"R","Landings",490054
+"643","otherdeminvert",2010,"Korea (South)","Mytilidae",11,"Molluscs","R",65.6224535742758,79818,"Reported","Sea mussels","Artisanal",95,29,3,"R","Landings",490054
+"644","otherdeminvert",2010,"Korea (South)","Mytilidae",11,"Molluscs","R",87.1128982232945,80537,"Reported","Sea mussels","Artisanal",95,29,3,"R","Landings",490054
+"645","otherdeminvert",2010,"Korea (South)","Mytilidae",11,"Molluscs","R",8.67743582357505,79818,"Reported","Sea mussels","Artisanal",95,29,3,"R","Landings",490054
+"646","otherdeminvert",2010,"Korea (South)","Mytilidae",11,"Molluscs","R",11.5191758699279,80537,"Reported","Sea mussels","Artisanal",95,29,3,"R","Landings",490054
+"647","cephalopods",2010,"China","Sepiida",12,"Other fishes & inverts","R",109.725821881109,79818,"Reported","Cuttlefishes, bobtail squids","Industrial",31,25,1,"R","Landings",390006
+"648","cephalopods",2010,"China","Sepiida",12,"Other fishes & inverts","R",184.201800638523,80537,"Reported","Cuttlefishes, bobtail squids","Industrial",31,25,1,"R","Landings",390006
+"649","cephalopods",2010,"Korea (South)","Sepiidae",12,"Other fishes & inverts","R",18.9903388428764,79818,"Reported","Cuttlefishes","Industrial",95,25,1,"R","Landings",490011
+"650","cephalopods",2010,"Korea (South)","Sepiidae",12,"Other fishes & inverts","R",31.8799581504503,80537,"Reported","Cuttlefishes","Industrial",95,25,1,"R","Landings",490011
+"651","cephalopods",2010,"Korea (South)","Sepiidae",12,"Other fishes & inverts","R",0.158492964546281,79818,"Reported","Cuttlefishes","Industrial",95,25,1,"R","Landings",490011
+"652","cephalopods",2010,"Korea (South)","Sepiidae",12,"Other fishes & inverts","R",0.266069453456414,80537,"Reported","Cuttlefishes","Industrial",95,25,1,"R","Landings",490011
+"653","cephalopods",2010,"Korea (South)","Sepiidae",12,"Other fishes & inverts","R",1.43467008166958,79818,"Reported","Cuttlefishes","Industrial",95,25,1,"R","Landings",490011
+"654","cephalopods",2010,"Korea (South)","Sepiidae",12,"Other fishes & inverts","R",2.40844687089331,80537,"Reported","Cuttlefishes","Industrial",95,25,1,"R","Landings",490011
+"655","cephalopods",2010,"Korea (South)","Sepiidae",12,"Other fishes & inverts","R",24.9224334259467,79818,"Reported","Cuttlefishes","Artisanal",95,25,3,"R","Landings",490011
+"656","cephalopods",2010,"Korea (South)","Sepiidae",12,"Other fishes & inverts","R",34.1323333389126,80537,"Reported","Cuttlefishes","Artisanal",95,25,3,"R","Landings",490011
+"657","cephalopods",2010,"Korea (South)","Sepiidae",12,"Other fishes & inverts","R",5.06700172472907,79818,"Reported","Cuttlefishes","Artisanal",95,25,3,"R","Landings",490011
+"658","cephalopods",2010,"Korea (South)","Sepiidae",12,"Other fishes & inverts","R",6.93947452648187,80537,"Reported","Cuttlefishes","Artisanal",95,25,3,"R","Landings",490011
+"659","cephalopods",2010,"Korea (South)","Sepiidae",12,"Other fishes & inverts","R",1.06921930176262,79818,"Unreported","Cuttlefishes","Subsistence",95,25,2,"U","Landings",490011
+"660","cephalopods",2010,"Korea (South)","Sepiidae",12,"Other fishes & inverts","R",1.46434134245359,80537,"Unreported","Cuttlefishes","Subsistence",95,25,2,"U","Landings",490011
+"661","otherdeminvert",2010,"Korea (South)","Veneridae",11,"Molluscs","R",3.3214821630929,79818,"Unreported","Venus clams","Subsistence",95,29,2,"U","Landings",490060
+"662","otherdeminvert",2010,"Korea (South)","Veneridae",11,"Molluscs","R",4.41047174569303,80537,"Unreported","Venus clams","Subsistence",95,29,2,"U","Landings",490060
+"663","cephalopods",2010,"Korea (South)","Octopus",12,"Other fishes & inverts","R",0.0866893090799319,79818,"Unreported","Octopuses, pikas","Recreational",95,25,4,"U","Landings",590013
+"664","cephalopods",2010,"Korea (South)","Octopus",12,"Other fishes & inverts","R",0.119382316440297,80537,"Unreported","Octopuses, pikas","Recreational",95,25,4,"U","Landings",590013
+"665","otherdeminvert",2010,"Korea (South)","Haliotis",11,"Molluscs","R",1.20087129487656,79818,"Reported","Abalones","Industrial",95,29,1,"R","Landings",590046
+"666","otherdeminvert",2010,"Korea (South)","Haliotis",11,"Molluscs","R",1.8047659811483,80537,"Reported","Abalones","Industrial",95,29,1,"R","Landings",590046
+"667","otherdeminvert",2010,"Korea (South)","Haliotis",11,"Molluscs","R",1.80613000556844,79818,"Reported","Abalones","Artisanal",95,29,3,"R","Landings",590046
+"668","otherdeminvert",2010,"Korea (South)","Haliotis",11,"Molluscs","R",2.21444014035817,80537,"Reported","Abalones","Artisanal",95,29,3,"R","Landings",590046
+"669","lobsters,crab",2010,"Korea (South)","Charybdis",10,"Crustaceans","D",18.163120621334,79818,"Unreported","Whirlpool swimming crabs","Artisanal",95,27,3,"U","Discards",590272
+"670","lobsters,crab",2010,"Korea (South)","Charybdis",10,"Crustaceans","D",26.1467613859741,80537,"Unreported","Whirlpool swimming crabs","Artisanal",95,27,3,"U","Discards",590272
+"671","lobsters,crab",2010,"China","Charybdis",10,"Crustaceans","R",29.2065232760031,79818,"Reported","Whirlpool swimming crabs","Industrial",31,27,1,"R","Landings",590272
+"672","lobsters,crab",2010,"China","Charybdis",10,"Crustaceans","R",51.5367221921534,80537,"Reported","Whirlpool swimming crabs","Industrial",31,27,1,"R","Landings",590272
+"673","demersalsm",2010,"China","Nemipterus",3,"Perch-likes","R",20.5554294816284,79818,"Reported","Threadfin breams","Industrial",31,4,1,"R","Landings",501552
+"674","demersalsm",2010,"China","Nemipterus",3,"Perch-likes","R",40.7568136751668,80537,"Reported","Threadfin breams","Industrial",31,4,1,"R","Landings",501552
+"675","demersalsm",2010,"China","Nemipterus",3,"Perch-likes","R",17.6901404388306,79818,"Reported","Threadfin breams","Industrial",31,4,1,"R","Landings",501552
+"676","demersalsm",2010,"China","Nemipterus",3,"Perch-likes","R",35.0755871288093,80537,"Reported","Threadfin breams","Industrial",31,4,1,"R","Landings",501552
+"677","demersalsm",2010,"China","Nemipterus",3,"Perch-likes","R",58.2012369101972,79818,"Reported","Threadfin breams","Industrial",31,4,1,"R","Landings",501552
+"678","demersalsm",2010,"China","Nemipterus",3,"Perch-likes","R",115.400019762819,80537,"Reported","Threadfin breams","Industrial",31,4,1,"R","Landings",501552
+"679","otherdeminvert",2010,"Korea (South)","Ostreidae",11,"Molluscs","R",6.37497209293384,79818,"Unreported","True oysters","Subsistence",95,29,2,"U","Landings",490143
+"680","otherdeminvert",2010,"Korea (South)","Ostreidae",11,"Molluscs","R",8.42565042556943,80537,"Unreported","True oysters","Subsistence",95,29,2,"U","Landings",490143
+"681","demersalmd",2010,"Korea (South)","Sciaenidae",3,"Perch-likes","R",12.6191910818878,79818,"Unreported","Drums, croakers","Subsistence",95,5,2,"U","Landings",400331
+"682","demersalmd",2010,"Korea (South)","Sciaenidae",3,"Perch-likes","R",15.7886397939082,80537,"Unreported","Drums, croakers","Subsistence",95,5,2,"U","Landings",400331
+"683","demersalmd",2010,"Korea (South)","Sciaenidae",3,"Perch-likes","D",23.0431139729372,79818,"Unreported","Drums, croakers","Artisanal",95,5,3,"U","Discards",400331
+"684","demersalmd",2010,"Korea (South)","Sciaenidae",3,"Perch-likes","D",28.8306456323389,80537,"Unreported","Drums, croakers","Artisanal",95,5,3,"U","Discards",400331
+"685","demersalmd",2010,"Korea (South)","Sciaenidae",3,"Perch-likes","R",62.2037693978578,80537,"Reported","Drums, croakers","Industrial",95,5,1,"R","Landings",400331
+"686","demersalmd",2010,"Korea (South)","Sciaenidae",3,"Perch-likes","R",40.5596321470827,79818,"Reported","Drums, croakers","Industrial",95,5,1,"R","Landings",400331
+"687","demersalmd",2010,"Korea (South)","Sciaenidae",3,"Perch-likes","R",24.7459041692926,79818,"Reported","Drums, croakers","Artisanal",95,5,3,"R","Landings",400331
+"688","demersalmd",2010,"Korea (South)","Sciaenidae",3,"Perch-likes","R",30.961110325392,80537,"Reported","Drums, croakers","Artisanal",95,5,3,"R","Landings",400331
+"689","demersalmd",2010,"Korea (South)","Sciaenidae",3,"Perch-likes","R",39.6140547601815,79818,"Reported","Drums, croakers","Artisanal",95,5,3,"R","Landings",400331
+"690","demersalmd",2010,"Korea (South)","Sciaenidae",3,"Perch-likes","R",49.5635605583597,80537,"Reported","Drums, croakers","Artisanal",95,5,3,"R","Landings",400331
+"691","demersalmd",2010,"China","Sciaenidae",3,"Perch-likes","R",102.070538245542,79818,"Reported","Drums, croakers","Industrial",31,5,1,"R","Landings",400331
+"692","demersalmd",2010,"China","Sciaenidae",3,"Perch-likes","R",156.539196418663,80537,"Reported","Drums, croakers","Industrial",31,5,1,"R","Landings",400331
+"693","demersalmd",2010,"China","Sciaenidae",3,"Perch-likes","R",87.842589602223,79818,"Reported","Drums, croakers","Industrial",31,5,1,"R","Landings",400331
+"694","demersalmd",2010,"China","Sciaenidae",3,"Perch-likes","R",134.718682041113,80537,"Reported","Drums, croakers","Industrial",31,5,1,"R","Landings",400331
+"695","demersalmd",2010,"China","Sciaenidae",3,"Perch-likes","R",289.005470939099,79818,"Reported","Drums, croakers","Industrial",31,5,1,"R","Landings",400331
+"696","demersalmd",2010,"China","Sciaenidae",3,"Perch-likes","R",443.229603360889,80537,"Reported","Drums, croakers","Industrial",31,5,1,"R","Landings",400331
+"697","lobsters,crab",2010,"Korea (South)","Portunidae",10,"Crustaceans","R",8.88540121792737,79818,"Unreported","Swimming crabs","Subsistence",95,27,2,"U","Landings",490031
+"698","lobsters,crab",2010,"Korea (South)","Portunidae",10,"Crustaceans","R",12.2486966455537,80537,"Unreported","Swimming crabs","Subsistence",95,27,2,"U","Landings",490031
+"699","lobsters,crab",2010,"Korea (South)","Portunidae",10,"Crustaceans","R",0.0935040434032995,79818,"Unreported","Swimming crabs","Recreational",95,27,4,"U","Landings",490031
+"700","lobsters,crab",2010,"Korea (South)","Portunidae",10,"Crustaceans","R",0.12889712402282,80537,"Unreported","Swimming crabs","Recreational",95,27,4,"U","Landings",490031
+"701","lobsters,crab",2010,"Korea (South)","Portunidae",10,"Crustaceans","D",10.52556100549,79818,"Unreported","Swimming crabs","Industrial",95,27,1,"U","Discards",490031
+"702","lobsters,crab",2010,"Korea (South)","Portunidae",10,"Crustaceans","D",17.7855616200506,80537,"Unreported","Swimming crabs","Industrial",95,27,1,"U","Discards",490031
+"703","pelagicmd",2010,"Unknown Fishing Country","Carangidae",3,"Perch-likes","D",0.0210367034173779,80537,"Unreported","Jacks, pompanos","Industrial",213,2,1,"U","Discards",400314
+"704","pelagicmd",2010,"Unknown Fishing Country","Carangidae",3,"Perch-likes","D",0.0136835270433869,79818,"Unreported","Jacks, pompanos","Industrial",213,2,1,"U","Discards",400314
+"705","pelagicmd",2010,"Korea (South)","Carangidae",3,"Perch-likes","R",10.1556172178877,79818,"Unreported","Jacks, pompanos","Subsistence",95,2,2,"U","Landings",400314
+"706","pelagicmd",2010,"Korea (South)","Carangidae",3,"Perch-likes","R",12.7410376317142,80537,"Unreported","Jacks, pompanos","Subsistence",95,2,2,"U","Landings",400314
+"707","pelagicmd",2010,"Korea (South)","Carangidae",3,"Perch-likes","D",0.00105715587254806,80537,"Unreported","Jacks, pompanos","Industrial",95,2,1,"U","Discards",400314
+"708","pelagicmd",2010,"Korea (South)","Carangidae",3,"Perch-likes","D",0.000687637253997558,79818,"Unreported","Jacks, pompanos","Industrial",95,2,1,"U","Discards",400314
+"709","pelagicmd",2010,"China","Carangidae",3,"Perch-likes","R",42.4493418319093,80537,"Reported","Jacks, pompanos","Industrial",31,2,1,"R","Landings",400314
+"710","pelagicmd",2010,"China","Carangidae",3,"Perch-likes","R",27.6034261864964,79818,"Reported","Jacks, pompanos","Industrial",31,2,1,"R","Landings",400314
+"711","pelagicmd",2010,"China","Carangidae",3,"Perch-likes","R",36.5321882151496,80537,"Reported","Jacks, pompanos","Industrial",31,2,1,"R","Landings",400314
+"712","pelagicmd",2010,"China","Carangidae",3,"Perch-likes","R",23.755693664726,79818,"Reported","Jacks, pompanos","Industrial",31,2,1,"R","Landings",400314
+"713","pelagicmd",2010,"China","Carangidae",3,"Perch-likes","R",120.192292860539,80537,"Reported","Jacks, pompanos","Industrial",31,2,1,"R","Landings",400314
+"714","pelagicmd",2010,"China","Carangidae",3,"Perch-likes","R",78.1571383909585,79818,"Reported","Jacks, pompanos","Industrial",31,2,1,"R","Landings",400314
+"715","otherdeminvert",2010,"Korea (South)","Pectinidae",11,"Molluscs","R",0.626222280013667,79818,"Reported","Scallops","Industrial",95,29,1,"R","Landings",490055
+"716","otherdeminvert",2010,"Korea (South)","Pectinidae",11,"Molluscs","R",1.05736419495206,80537,"Reported","Scallops","Industrial",95,29,1,"R","Landings",490055
+"717","otherdeminvert",2010,"Korea (South)","Pectinidae",11,"Molluscs","R",0.0179730496991593,79818,"Reported","Scallops","Industrial",95,29,1,"R","Landings",490055
+"718","otherdeminvert",2010,"Korea (South)","Pectinidae",11,"Molluscs","R",0.0303471464247011,80537,"Reported","Scallops","Industrial",95,29,1,"R","Landings",490055
+"719","otherdeminvert",2010,"Korea (South)","Pectinidae",11,"Molluscs","R",0.897718682520077,79818,"Reported","Scallops","Artisanal",95,29,3,"R","Landings",490055
+"720","otherdeminvert",2010,"Korea (South)","Pectinidae",11,"Molluscs","R",1.23659319827224,80537,"Reported","Scallops","Artisanal",95,29,3,"R","Landings",490055
+"721","otherdeminvert",2010,"Korea (South)","Pectinidae",11,"Molluscs","R",0.11870778721151,79818,"Reported","Scallops","Artisanal",95,29,3,"R","Landings",490055
+"722","otherdeminvert",2010,"Korea (South)","Pectinidae",11,"Molluscs","R",0.163518087688253,80537,"Reported","Scallops","Artisanal",95,29,3,"R","Landings",490055
+"723","otherdeminvert",2010,"Korea (South)","Pectinidae",11,"Molluscs","D",10.7810171034256,79818,"Unreported","Scallops","Artisanal",95,29,3,"U","Discards",490055
+"724","otherdeminvert",2010,"Korea (South)","Pectinidae",11,"Molluscs","D",14.8506794836083,80537,"Unreported","Scallops","Artisanal",95,29,3,"U","Discards",490055
+"725","reef-associatedmd",2010,"Korea (South)","Serranidae",3,"Perch-likes","R",0.18887102833255,79818,"Reported","Basses, groupers, hinds","Industrial",95,17,1,"R","Landings",400289
+"726","reef-associatedmd",2010,"Korea (South)","Serranidae",3,"Perch-likes","R",0.291710058655139,80537,"Reported","Basses, groupers, hinds","Industrial",95,17,1,"R","Landings",400289
+"727","reef-associatedmd",2010,"Korea (South)","Serranidae",3,"Perch-likes","R",0.0306702145722063,79818,"Reported","Basses, groupers, hinds","Artisanal",95,17,3,"R","Landings",400289
+"728","reef-associatedmd",2010,"Korea (South)","Serranidae",3,"Perch-likes","R",0.0386450060026251,80537,"Reported","Basses, groupers, hinds","Artisanal",95,17,3,"R","Landings",400289
+"729","reef-associatedmd",2010,"Korea (South)","Serranidae",3,"Perch-likes","R",0.0339863898992432,79818,"Reported","Basses, groupers, hinds","Artisanal",95,17,3,"R","Landings",400289
+"730","reef-associatedmd",2010,"Korea (South)","Serranidae",3,"Perch-likes","R",0.0428234448302177,80537,"Reported","Basses, groupers, hinds","Artisanal",95,17,3,"R","Landings",400289
+"731","reef-associatedmd",2010,"Korea (South)","Serranidae",3,"Perch-likes","R",0.0211878727185819,79818,"Reported","Basses, groupers, hinds","Artisanal",95,17,3,"R","Landings",400289
+"732","reef-associatedmd",2010,"Korea (South)","Serranidae",3,"Perch-likes","R",0.0266970896621788,80537,"Reported","Basses, groupers, hinds","Artisanal",95,17,3,"R","Landings",400289
+"733","reef-associatedmd",2010,"Korea (South)","Serranidae",3,"Perch-likes","R",0.0703262261395585,79818,"Reported","Basses, groupers, hinds","Artisanal",95,17,3,"R","Landings",400289
+"734","reef-associatedmd",2010,"Korea (South)","Serranidae",3,"Perch-likes","R",0.0886122731520789,80537,"Reported","Basses, groupers, hinds","Artisanal",95,17,3,"R","Landings",400289
+"735","reef-associatedmd",2010,"Korea (South)","Serranidae",3,"Perch-likes","R",0.00405560603344955,79818,"Reported","Basses, groupers, hinds","Artisanal",95,17,3,"R","Landings",400289
+"736","reef-associatedmd",2010,"Korea (South)","Serranidae",3,"Perch-likes","R",0.00511013443150053,80537,"Reported","Basses, groupers, hinds","Artisanal",95,17,3,"R","Landings",400289
+"737","reef-associatedmd",2010,"Korea (South)","Serranidae",3,"Perch-likes","R",0.112580528652755,79818,"Reported","Basses, groupers, hinds","Artisanal",95,17,3,"R","Landings",400289
+"738","reef-associatedmd",2010,"Korea (South)","Serranidae",3,"Perch-likes","R",0.141853432271291,80537,"Reported","Basses, groupers, hinds","Artisanal",95,17,3,"R","Landings",400289
+"739","reef-associatedmd",2010,"Korea (South)","Serranidae",3,"Perch-likes","R",0.0228888456879387,79818,"Reported","Basses, groupers, hinds","Artisanal",95,17,3,"R","Landings",400289
+"740","reef-associatedmd",2010,"Korea (South)","Serranidae",3,"Perch-likes","R",0.0288403453103042,80537,"Reported","Basses, groupers, hinds","Artisanal",95,17,3,"R","Landings",400289
+"741","reef-associatedmd",2010,"Korea (South)","Serranidae",3,"Perch-likes","R",0.0105424970780699,79818,"Unreported","Basses, groupers, hinds","Subsistence",95,17,2,"U","Landings",400289
+"742","reef-associatedmd",2010,"Korea (South)","Serranidae",3,"Perch-likes","R",0.0132837304383868,80537,"Unreported","Basses, groupers, hinds","Subsistence",95,17,2,"U","Landings",400289
+"743","reef-associatedmd",2010,"Korea (South)","Serranidae",3,"Perch-likes","R",63.9790643838285,79818,"Unreported","Basses, groupers, hinds","Recreational",95,17,4,"U","Landings",400289
+"744","reef-associatedmd",2010,"Korea (South)","Serranidae",3,"Perch-likes","R",80.6147384895043,80537,"Unreported","Basses, groupers, hinds","Recreational",95,17,4,"U","Landings",400289
+"745","reef-associatedmd",2010,"China","Epinephelus",3,"Perch-likes","R",22.8931517273051,79818,"Reported","Seabasses, hinds","Industrial",31,17,1,"R","Landings",500366
+"746","reef-associatedmd",2010,"China","Epinephelus",3,"Perch-likes","R",35.9378703096717,80537,"Reported","Seabasses, hinds","Industrial",31,17,1,"R","Landings",500366
+"747","reef-associatedmd",2010,"China","Epinephelus",3,"Perch-likes","R",7.22799877930982,79818,"Reported","Seabasses, hinds","Industrial",31,17,1,"R","Landings",500366
+"748","reef-associatedmd",2010,"China","Epinephelus",3,"Perch-likes","R",11.3465758591676,80537,"Reported","Seabasses, hinds","Industrial",31,17,1,"R","Landings",500366
+"749","reef-associatedmd",2010,"China","Epinephelus",3,"Perch-likes","R",19.7019998765665,79818,"Reported","Seabasses, hinds","Industrial",31,17,1,"R","Landings",500366
+"750","reef-associatedmd",2010,"China","Epinephelus",3,"Perch-likes","R",30.9283721542243,80537,"Reported","Seabasses, hinds","Industrial",31,17,1,"R","Landings",500366
+"751","reef-associatedmd",2010,"China","Epinephelus",3,"Perch-likes","R",64.8203312326395,79818,"Reported","Seabasses, hinds","Industrial",31,17,1,"R","Landings",500366
+"752","reef-associatedmd",2010,"China","Epinephelus",3,"Perch-likes","R",101.755524316476,80537,"Reported","Seabasses, hinds","Industrial",31,17,1,"R","Landings",500366
+"753","otherdeminvert",2010,"Korea (South)","Cardiidae",11,"Molluscs","R",1.10006351849786,79818,"Reported","Cockles","Industrial",95,29,1,"R","Landings",490058
+"754","otherdeminvert",2010,"Korea (South)","Cardiidae",11,"Molluscs","R",1.75124446930797,80537,"Reported","Cockles","Industrial",95,29,1,"R","Landings",490058
+"755","otherdeminvert",2010,"Korea (South)","Cardiidae",11,"Molluscs","R",1.10006351849786,79818,"Reported","Cockles","Industrial",95,29,1,"R","Landings",490058
+"756","otherdeminvert",2010,"Korea (South)","Cardiidae",11,"Molluscs","R",1.75124446930797,80537,"Reported","Cockles","Industrial",95,29,1,"R","Landings",490058
+"757","otherdeminvert",2010,"Korea (South)","Cardiidae",11,"Molluscs","R",38.8470191756514,79818,"Reported","Cockles","Industrial",95,29,1,"R","Landings",490058
+"758","otherdeminvert",2010,"Korea (South)","Cardiidae",11,"Molluscs","R",61.8424539460741,80537,"Reported","Cockles","Industrial",95,29,1,"R","Landings",490058
+"759","otherdeminvert",2010,"Korea (South)","Cardiidae",11,"Molluscs","R",29.2117993957925,79818,"Reported","Cockles","Artisanal",95,29,3,"R","Landings",490058
+"760","otherdeminvert",2010,"Korea (South)","Cardiidae",11,"Molluscs","R",37.9382967280397,80537,"Reported","Cockles","Artisanal",95,29,3,"R","Landings",490058
+"761","otherdeminvert",2010,"Korea (South)","Cardiidae",11,"Molluscs","R",3.8627558212408,79818,"Reported","Cockles","Artisanal",95,29,3,"R","Landings",490058
+"762","otherdeminvert",2010,"Korea (South)","Cardiidae",11,"Molluscs","R",5.01668433870266,80537,"Reported","Cockles","Artisanal",95,29,3,"R","Landings",490058
+"763","shrimp",2010,"Korea (South)","Penaeidae",10,"Crustaceans","R",0.566552033748229,79818,"Reported","Commercial shrimps and prawns","Industrial",95,26,1,"R","Landings",490043
+"764","shrimp",2010,"Korea (South)","Penaeidae",10,"Crustaceans","R",0.967248984443351,80537,"Reported","Commercial shrimps and prawns","Industrial",95,26,1,"R","Landings",490043
+"765","shrimp",2010,"Korea (South)","Penaeidae",10,"Crustaceans","R",0.212603572798915,79818,"Reported","Commercial shrimps and prawns","Artisanal",95,26,3,"R","Landings",490043
+"766","shrimp",2010,"Korea (South)","Penaeidae",10,"Crustaceans","R",0.296114410605961,80537,"Reported","Commercial shrimps and prawns","Artisanal",95,26,3,"R","Landings",490043
+"767","shrimp",2010,"Korea (South)","Penaeidae",10,"Crustaceans","R",0.0253700476906318,79818,"Reported","Commercial shrimps and prawns","Artisanal",95,26,3,"R","Landings",490043
+"768","shrimp",2010,"Korea (South)","Penaeidae",10,"Crustaceans","R",0.0353354208494981,80537,"Reported","Commercial shrimps and prawns","Artisanal",95,26,3,"R","Landings",490043
+"769","shrimp",2010,"Korea (South)","Penaeidae",10,"Crustaceans","R",0.70425316399078,79818,"Reported","Commercial shrimps and prawns","Artisanal",95,26,3,"R","Landings",490043
+"770","shrimp",2010,"Korea (South)","Penaeidae",10,"Crustaceans","R",0.980884318297672,80537,"Reported","Commercial shrimps and prawns","Artisanal",95,26,3,"R","Landings",490043
+"771","shrimp",2010,"Korea (South)","Penaeidae",10,"Crustaceans","R",0.102418899775983,79818,"Unreported","Commercial shrimps and prawns","Subsistence",95,26,2,"U","Landings",490043
+"772","shrimp",2010,"Korea (South)","Penaeidae",10,"Crustaceans","R",0.142649117993708,80537,"Unreported","Commercial shrimps and prawns","Subsistence",95,26,2,"U","Landings",490043
+"773","shrimp",2010,"Korea (South)","Penaeidae",10,"Crustaceans","D",12.5913932107353,79818,"Unreported","Commercial shrimps and prawns","Industrial",95,26,1,"U","Discards",490043
+"774","shrimp",2010,"Korea (South)","Penaeidae",10,"Crustaceans","D",21.4967232845958,80537,"Unreported","Commercial shrimps and prawns","Industrial",95,26,1,"U","Discards",490043
+"775","benthopelagicmd",2010,"Korea (South)","Sparidae",3,"Perch-likes","R",29.0738016549986,80537,"Reported","Porgies, seabreams","Industrial",95,14,1,"R","Landings",400330
+"776","benthopelagicmd",2010,"Korea (South)","Sparidae",3,"Perch-likes","R",19.2411956140246,79818,"Reported","Porgies, seabreams","Industrial",95,14,1,"R","Landings",400330
+"777","benthopelagicmd",2010,"Korea (South)","Sparidae",3,"Perch-likes","R",9.35403109715834,79818,"Reported","Porgies, seabreams","Artisanal",95,14,3,"R","Landings",400330
+"778","benthopelagicmd",2010,"Korea (South)","Sparidae",3,"Perch-likes","R",11.5307905332694,80537,"Reported","Porgies, seabreams","Artisanal",95,14,3,"R","Landings",400330
+"779","benthopelagicmd",2010,"Korea (South)","Sparidae",3,"Perch-likes","R",5.83151140441253,79818,"Reported","Porgies, seabreams","Artisanal",95,14,3,"R","Landings",400330
+"780","benthopelagicmd",2010,"Korea (South)","Sparidae",3,"Perch-likes","R",7.18855173755836,80537,"Reported","Porgies, seabreams","Artisanal",95,14,3,"R","Landings",400330
+"781","benthopelagicmd",2010,"Korea (South)","Sparidae",3,"Perch-likes","R",19.3557982535199,79818,"Reported","Porgies, seabreams","Artisanal",95,14,3,"R","Landings",400330
+"782","benthopelagicmd",2010,"Korea (South)","Sparidae",3,"Perch-likes","R",23.8600505971551,80537,"Reported","Porgies, seabreams","Artisanal",95,14,3,"R","Landings",400330
+"783","benthopelagicmd",2010,"Korea (South)","Sparidae",3,"Perch-likes","R",1.11621931800279,79818,"Reported","Porgies, seabreams","Artisanal",95,14,3,"R","Landings",400330
+"784","benthopelagicmd",2010,"Korea (South)","Sparidae",3,"Perch-likes","R",1.37597267011321,80537,"Reported","Porgies, seabreams","Artisanal",95,14,3,"R","Landings",400330
+"785","benthopelagicmd",2010,"Korea (South)","Sparidae",3,"Perch-likes","R",6.29966804293634,79818,"Reported","Porgies, seabreams","Artisanal",95,14,3,"R","Landings",400330
+"786","benthopelagicmd",2010,"Korea (South)","Sparidae",3,"Perch-likes","R",7.76565224957371,80537,"Reported","Porgies, seabreams","Artisanal",95,14,3,"R","Landings",400330
+"787","benthopelagicmd",2010,"Korea (South)","Sparidae",3,"Perch-likes","R",2.67992929945005,79818,"Unreported","Porgies, seabreams","Subsistence",95,14,2,"U","Landings",400330
+"788","benthopelagicmd",2010,"Korea (South)","Sparidae",3,"Perch-likes","R",3.30357073597046,80537,"Unreported","Porgies, seabreams","Subsistence",95,14,2,"U","Landings",400330
+"789","benthopelagicmd",2010,"China","Sparidae",3,"Perch-likes","R",146.955169570666,79818,"Reported","Porgies, seabreams","Industrial",31,14,1,"R","Landings",400330
+"790","benthopelagicmd",2010,"China","Sparidae",3,"Perch-likes","R",222.051973171565,80537,"Reported","Porgies, seabreams","Industrial",31,14,1,"R","Landings",400330
+"791","demersallg",2010,"Korea (South)","Muraenesox cinereus",12,"Other fishes & inverts","R",6.37164978621917,79818,"Reported","Daggertooth pike conger","Industrial",95,6,1,"R","Landings",600298
+"792","demersallg",2010,"Korea (South)","Muraenesox cinereus",12,"Other fishes & inverts","R",10.2661704769911,80537,"Reported","Daggertooth pike conger","Industrial",95,6,1,"R","Landings",600298
+"793","demersallg",2010,"Korea (South)","Muraenesox cinereus",12,"Other fishes & inverts","R",0.104920437626315,79818,"Reported","Daggertooth pike conger","Industrial",95,6,1,"R","Landings",600298
+"794","demersallg",2010,"Korea (South)","Muraenesox cinereus",12,"Other fishes & inverts","R",0.169050581141781,80537,"Reported","Daggertooth pike conger","Industrial",95,6,1,"R","Landings",600298
+"795","demersallg",2010,"Korea (South)","Muraenesox cinereus",12,"Other fishes & inverts","R",0.379863033694784,79818,"Reported","Daggertooth pike conger","Artisanal",95,6,3,"R","Landings",600298
+"796","demersallg",2010,"Korea (South)","Muraenesox cinereus",12,"Other fishes & inverts","R",0.499314424095381,80537,"Reported","Daggertooth pike conger","Artisanal",95,6,3,"R","Landings",600298
+"797","demersallg",2010,"Korea (South)","Muraenesox cinereus",12,"Other fishes & inverts","R",10.5447079416202,79818,"Reported","Daggertooth pike conger","Artisanal",95,6,3,"R","Landings",600298
+"798","demersallg",2010,"Korea (South)","Muraenesox cinereus",12,"Other fishes & inverts","R",13.8605873857011,80537,"Reported","Daggertooth pike conger","Artisanal",95,6,3,"R","Landings",600298
+"799","demersallg",2010,"China","Muraenesox cinereus",12,"Other fishes & inverts","R",83.0523126806327,79818,"Reported","Daggertooth pike conger","Industrial",31,6,1,"R","Landings",600298
+"800","demersallg",2010,"China","Muraenesox cinereus",12,"Other fishes & inverts","R",133.816080465037,80537,"Reported","Daggertooth pike conger","Industrial",31,6,1,"R","Landings",600298
+"801","demersallg",2010,"China","Muraenesox cinereus",12,"Other fishes & inverts","R",26.2219034681085,79818,"Reported","Daggertooth pike conger","Industrial",31,6,1,"R","Landings",600298
+"802","demersallg",2010,"China","Muraenesox cinereus",12,"Other fishes & inverts","R",42.2494236605779,80537,"Reported","Daggertooth pike conger","Industrial",31,6,1,"R","Landings",600298
+"803","demersallg",2010,"China","Muraenesox cinereus",12,"Other fishes & inverts","R",71.4753771730742,79818,"Reported","Daggertooth pike conger","Industrial",31,6,1,"R","Landings",600298
+"804","demersallg",2010,"China","Muraenesox cinereus",12,"Other fishes & inverts","R",115.163016108176,80537,"Reported","Daggertooth pike conger","Industrial",31,6,1,"R","Landings",600298
+"805","demersallg",2010,"China","Muraenesox cinereus",12,"Other fishes & inverts","R",235.15671762737,79818,"Reported","Daggertooth pike conger","Industrial",31,6,1,"R","Landings",600298
+"806","demersallg",2010,"China","Muraenesox cinereus",12,"Other fishes & inverts","R",378.890716372023,80537,"Reported","Daggertooth pike conger","Industrial",31,6,1,"R","Landings",600298
+"807","reef-associatedlg",2010,"Korea (South)","Scorpaenidae",8,"Scorpionfishes","R",11.4878548154503,79818,"Reported","Scorpionfishes, rockfishes","Industrial",95,18,1,"R","Landings",400264
+"808","reef-associatedlg",2010,"Korea (South)","Scorpaenidae",8,"Scorpionfishes","R",19.4660837061985,80537,"Reported","Scorpionfishes, rockfishes","Industrial",95,18,1,"R","Landings",400264
+"809","reef-associatedlg",2010,"Korea (South)","Scorpaenidae",8,"Scorpionfishes","R",5.54633085396,79818,"Reported","Scorpionfishes, rockfishes","Industrial",95,18,1,"R","Landings",400264
+"810","reef-associatedlg",2010,"Korea (South)","Scorpaenidae",8,"Scorpionfishes","R",9.39821597677679,80537,"Reported","Scorpionfishes, rockfishes","Industrial",95,18,1,"R","Landings",400264
+"811","reef-associatedlg",2010,"Korea (South)","Scorpaenidae",8,"Scorpionfishes","R",20.5792730432645,79818,"Reported","Scorpionfishes, rockfishes","Artisanal",95,18,3,"R","Landings",400264
+"812","reef-associatedlg",2010,"Korea (South)","Scorpaenidae",8,"Scorpionfishes","R",28.4485530810741,80537,"Reported","Scorpionfishes, rockfishes","Artisanal",95,18,3,"R","Landings",400264
+"813","reef-associatedlg",2010,"Korea (South)","Scorpaenidae",8,"Scorpionfishes","R",1.1867752401877,79818,"Reported","Scorpionfishes, rockfishes","Artisanal",95,18,3,"R","Landings",400264
+"814","reef-associatedlg",2010,"Korea (South)","Scorpaenidae",8,"Scorpionfishes","R",1.64058459911607,80537,"Reported","Scorpionfishes, rockfishes","Artisanal",95,18,3,"R","Landings",400264
+"815","reef-associatedlg",2010,"Korea (South)","Scorpaenidae",8,"Scorpionfishes","R",6.69786836169046,79818,"Reported","Scorpionfishes, rockfishes","Artisanal",95,18,3,"R","Landings",400264
+"816","reef-associatedlg",2010,"Korea (South)","Scorpaenidae",8,"Scorpionfishes","R",9.25905707247333,80537,"Reported","Scorpionfishes, rockfishes","Artisanal",95,18,3,"R","Landings",400264
+"817","benthopelagiclg",2010,"Korea (South)","Seriola",3,"Perch-likes","R",83.1604430381303,79818,"Reported","Amberjacks","Industrial",95,15,1,"R","Landings",500928
+"818","benthopelagiclg",2010,"Korea (South)","Seriola",3,"Perch-likes","R",130.709404924958,80537,"Reported","Amberjacks","Industrial",95,15,1,"R","Landings",500928
+"819","benthopelagiclg",2010,"Korea (South)","Seriola",3,"Perch-likes","R",0.0999224308055405,79818,"Reported","Amberjacks","Industrial",95,15,1,"R","Landings",500928
+"820","benthopelagiclg",2010,"Korea (South)","Seriola",3,"Perch-likes","R",0.157055458004943,80537,"Reported","Amberjacks","Industrial",95,15,1,"R","Landings",500928
+"821","benthopelagiclg",2010,"Korea (South)","Seriola",3,"Perch-likes","R",25.8296604038163,79818,"Reported","Amberjacks","Artisanal",95,15,3,"R","Landings",500928
+"822","benthopelagiclg",2010,"Korea (South)","Seriola",3,"Perch-likes","R",33.1206799806507,80537,"Reported","Amberjacks","Artisanal",95,15,3,"R","Landings",500928
+"823","benthopelagiclg",2010,"Korea (South)","Seriola",3,"Perch-likes","R",85.7331249245093,79818,"Reported","Amberjacks","Artisanal",95,15,3,"R","Landings",500928
+"824","benthopelagiclg",2010,"Korea (South)","Seriola",3,"Perch-likes","R",109.933284060765,80537,"Reported","Amberjacks","Artisanal",95,15,3,"R","Landings",500928
+"825","benthopelagiclg",2010,"Korea (South)","Seriola",3,"Perch-likes","R",27.9032783992664,79818,"Reported","Amberjacks","Artisanal",95,15,3,"R","Landings",500928
+"826","benthopelagiclg",2010,"Korea (South)","Seriola",3,"Perch-likes","R",35.7796246572626,80537,"Reported","Amberjacks","Artisanal",95,15,3,"R","Landings",500928
+"827","cephalopods",2010,"Korea (South)","Octopoda",12,"Other fishes & inverts","R",26.7940785223427,79818,"Reported","Octopuses, argonauts","Industrial",95,25,1,"R","Landings",390007
+"828","cephalopods",2010,"Korea (South)","Octopoda",12,"Other fishes & inverts","R",38.8761404052104,80537,"Reported","Octopuses, argonauts","Industrial",95,25,1,"R","Landings",390007
+"829","cephalopods",2010,"Korea (South)","Octopoda",12,"Other fishes & inverts","R",1.15911687651497,79818,"Reported","Octopuses, argonauts","Industrial",95,25,1,"R","Landings",390007
+"830","cephalopods",2010,"Korea (South)","Octopoda",12,"Other fishes & inverts","R",1.68178914605589,80537,"Reported","Octopuses, argonauts","Industrial",95,25,1,"R","Landings",390007
+"831","cephalopods",2010,"Korea (South)","Octopoda",12,"Other fishes & inverts","R",54.8564660907282,79818,"Reported","Octopuses, argonauts","Industrial",95,25,1,"R","Landings",390007
+"832","cephalopods",2010,"Korea (South)","Octopoda",12,"Other fishes & inverts","R",79.5924993687879,80537,"Reported","Octopuses, argonauts","Industrial",95,25,1,"R","Landings",390007
+"833","cephalopods",2010,"Korea (South)","Octopoda",12,"Other fishes & inverts","R",1.19271446713852,79818,"Reported","Octopuses, argonauts","Industrial",95,25,1,"R","Landings",390007
+"834","cephalopods",2010,"Korea (South)","Octopoda",12,"Other fishes & inverts","R",1.73053665753565,80537,"Reported","Octopuses, argonauts","Industrial",95,25,1,"R","Landings",390007
+"835","cephalopods",2010,"Korea (South)","Octopoda",12,"Other fishes & inverts","R",118.157825053404,79818,"Reported","Octopuses, argonauts","Artisanal",95,25,3,"R","Landings",390007
+"836","cephalopods",2010,"Korea (South)","Octopoda",12,"Other fishes & inverts","R",139.861219110718,80537,"Reported","Octopuses, argonauts","Artisanal",95,25,3,"R","Landings",390007
+"837","cephalopods",2010,"Korea (South)","Octopoda",12,"Other fishes & inverts","R",24.0227706943144,79818,"Reported","Octopuses, argonauts","Artisanal",95,25,3,"R","Landings",390007
+"838","cephalopods",2010,"Korea (South)","Octopoda",12,"Other fishes & inverts","R",28.4353067112185,80537,"Reported","Octopuses, argonauts","Artisanal",95,25,3,"R","Landings",390007
+"839","cephalopods",2010,"Korea (South)","Octopoda",12,"Other fishes & inverts","R",11.0589707964747,79818,"Unreported","Octopuses, argonauts","Artisanal",95,25,3,"U","Landings",390007
+"840","cephalopods",2010,"Korea (South)","Octopoda",12,"Other fishes & inverts","R",13.0902979722731,80537,"Unreported","Octopuses, argonauts","Artisanal",95,25,3,"U","Landings",390007
+"841","cephalopods",2010,"Korea (South)","Octopoda",12,"Other fishes & inverts","D",66.3538247788484,79818,"Unreported","Octopuses, argonauts","Artisanal",95,25,3,"U","Discards",390007
+"842","cephalopods",2010,"Korea (South)","Octopoda",12,"Other fishes & inverts","D",78.5417878336389,80537,"Unreported","Octopuses, argonauts","Artisanal",95,25,3,"U","Discards",390007
+"843","cephalopods",2010,"China","Octopoda",12,"Other fishes & inverts","R",76.6850825470132,80537,"Reported","Octopuses, argonauts","Industrial",31,25,1,"R","Landings",390007
+"844","cephalopods",2010,"China","Octopoda",12,"Other fishes & inverts","R",52.8526263626113,79818,"Reported","Octopuses, argonauts","Industrial",31,25,1,"R","Landings",390007
+"845","cephalopods",2010,"Korea (South)","Octopodidae",12,"Other fishes & inverts","R",17.7801599027981,79818,"Unreported","Octopuses","Subsistence",95,25,2,"U","Landings",490012
+"846","cephalopods",2010,"Korea (South)","Octopodidae",12,"Other fishes & inverts","R",22.1205778805329,80537,"Unreported","Octopuses","Subsistence",95,25,2,"U","Landings",490012
+"847","demersallg",2010,"Korea (South)","Congridae",12,"Other fishes & inverts","R",23.0250842575953,79818,"Unreported","Conger, garden eels","Artisanal",95,6,3,"U","Landings",400062
+"848","demersallg",2010,"Korea (South)","Congridae",12,"Other fishes & inverts","R",29.2097296682904,80537,"Unreported","Conger, garden eels","Artisanal",95,6,3,"U","Landings",400062
+"849","demersallg",2010,"Korea (South)","Congridae",12,"Other fishes & inverts","D",69.0752527727858,79818,"Unreported","Conger, garden eels","Artisanal",95,6,3,"U","Discards",400062
+"850","demersallg",2010,"Korea (South)","Congridae",12,"Other fishes & inverts","D",87.6291890048711,80537,"Unreported","Conger, garden eels","Artisanal",95,6,3,"U","Discards",400062
+"851","lobsters,crab",2010,"Korea (South)","Brachyura",10,"Crustaceans","R",29.0012924015686,79818,"Reported","Marine crabs","Industrial",95,27,1,"R","Landings",490097
+"852","lobsters,crab",2010,"Korea (South)","Brachyura",10,"Crustaceans","R",42.7410429896111,80537,"Reported","Marine crabs","Industrial",95,27,1,"R","Landings",490097
+"853","lobsters,crab",2010,"Korea (South)","Brachyura",10,"Crustaceans","R",62.3551273337043,79818,"Reported","Marine crabs","Artisanal",95,27,3,"R","Landings",490097
+"854","lobsters,crab",2010,"Korea (South)","Brachyura",10,"Crustaceans","R",74.9705055174663,80537,"Reported","Marine crabs","Artisanal",95,27,3,"R","Landings",490097
+"855","lobsters,crab",2010,"China","Brachyura",10,"Crustaceans","R",47.6741662813506,80537,"Reported","Marine crabs","Industrial",31,27,1,"R","Landings",490097
+"856","lobsters,crab",2010,"China","Brachyura",10,"Crustaceans","R",32.3485890754355,79818,"Reported","Marine crabs","Industrial",31,27,1,"R","Landings",490097
+"857","lobsters,crab",2010,"China","Decapoda",10,"Crustaceans","R",71.7227463723455,80537,"Reported","Crabs, lobsters, shrimps","Industrial",31,27,1,"R","Landings",390013
+"858","lobsters,crab",2010,"China","Decapoda",10,"Crustaceans","R",42.7780047424071,79818,"Reported","Crabs, lobsters, shrimps","Industrial",31,27,1,"R","Landings",390013
+"859","demersalmd",2010,"Korea (South)","Sebastidae",8,"Scorpionfishes","R",1.03030039762036,79818,"Unreported","Rockfishes, rockcods, thornyheads","Subsistence",95,5,2,"U","Landings",400573
+"860","demersalmd",2010,"Korea (South)","Sebastidae",8,"Scorpionfishes","R",1.29547643623289,80537,"Unreported","Rockfishes, rockcods, thornyheads","Subsistence",95,5,2,"U","Landings",400573
+"861","demersalmd",2010,"Korea (South)","Sebastidae",8,"Scorpionfishes","R",64.0699058692371,79818,"Unreported","Rockfishes, rockcods, thornyheads","Recreational",95,5,4,"U","Landings",400573
+"862","demersalmd",2010,"Korea (South)","Sebastidae",8,"Scorpionfishes","R",80.5600517256524,80537,"Unreported","Rockfishes, rockcods, thornyheads","Recreational",95,5,4,"U","Landings",400573
+"863","demersalmd",2010,"Korea (South)","Gadidae",5,"Cod-likes","R",0.875224322372615,79818,"Unreported","Cods, haddocks","Subsistence",95,5,2,"U","Landings",400183
+"864","demersalmd",2010,"Korea (South)","Gadidae",5,"Cod-likes","R",1.16037484158353,80537,"Unreported","Cods, haddocks","Subsistence",95,5,2,"U","Landings",400183
+"865","flatfishsm md",2010,"Korea (South)","Pleuronectidae",7,"Flatfishes","R",4.79608906212038,79818,"Unreported","Righteye flounders","Subsistence",95,23,2,"U","Landings",400440
+"866","flatfishsm md",2010,"Korea (South)","Pleuronectidae",7,"Flatfishes","R",6.14312014655233,80537,"Unreported","Righteye flounders","Subsistence",95,23,2,"U","Landings",400440
+"867","flatfishsm md",2010,"Korea (South)","Pleuronectidae",7,"Flatfishes","R",64.7678667283246,79818,"Unreported","Righteye flounders","Artisanal",95,23,3,"U","Landings",400440
+"868","flatfishsm md",2010,"Korea (South)","Pleuronectidae",7,"Flatfishes","R",82.9585901751548,80537,"Unreported","Righteye flounders","Artisanal",95,23,3,"U","Landings",400440
+"869","flatfishsm md",2010,"Korea (South)","Pleuronectidae",7,"Flatfishes","D",12.8531309977223,79818,"Unreported","Righteye flounders","Industrial",95,23,1,"U","Discards",400440
+"870","flatfishsm md",2010,"Korea (South)","Pleuronectidae",7,"Flatfishes","D",20.1799552514378,80537,"Unreported","Righteye flounders","Industrial",95,23,1,"U","Discards",400440
+"871","flatfishsm md",2010,"Korea (South)","Pleuronectidae",7,"Flatfishes","D",64.7678667283246,79818,"Unreported","Righteye flounders","Artisanal",95,23,3,"U","Discards",400440
+"872","flatfishsm md",2010,"Korea (South)","Pleuronectidae",7,"Flatfishes","D",82.9585901751548,80537,"Unreported","Righteye flounders","Artisanal",95,23,3,"U","Discards",400440
+"873","pelagicsm",2010,"Korea (South)","Clupeidae",2,"Herring-likes","R",2.06446229826566,79818,"Unreported","Herrings, sardines, menhadens","Subsistence",95,1,2,"U","Landings",400043
+"874","pelagicsm",2010,"Korea (South)","Clupeidae",2,"Herring-likes","R",3.14427813537005,80537,"Unreported","Herrings, sardines, menhadens","Subsistence",95,1,2,"U","Landings",400043
+"875","pelagicsm",2010,"Korea (South)","Clupeidae",2,"Herring-likes","R",58.9971092283207,79818,"Unreported","Herrings, sardines, menhadens","Recreational",95,1,4,"U","Landings",400043
+"876","pelagicsm",2010,"Korea (South)","Clupeidae",2,"Herring-likes","R",89.8555138316101,80537,"Unreported","Herrings, sardines, menhadens","Recreational",95,1,4,"U","Landings",400043
+"877","pelagicsm",2010,"Korea (South)","Clupeiformes",12,"Other fishes & inverts","R",25.5020885609507,79818,"Reported","Herrings, shads, anchovies","Industrial",95,1,1,"R","Landings",300028
+"878","pelagicsm",2010,"Korea (South)","Clupeiformes",12,"Other fishes & inverts","R",48.3329006211922,80537,"Reported","Herrings, shads, anchovies","Industrial",95,1,1,"R","Landings",300028
+"879","pelagicsm",2010,"Korea (South)","Clupeiformes",12,"Other fishes & inverts","R",25.0709017287988,79818,"Reported","Herrings, shads, anchovies","Artisanal",95,1,3,"R","Landings",300028
+"880","pelagicsm",2010,"Korea (South)","Clupeiformes",12,"Other fishes & inverts","R",38.7639093620258,80537,"Reported","Herrings, shads, anchovies","Artisanal",95,1,3,"R","Landings",300028
+"881","pelagicsm",2010,"Korea (South)","Clupeiformes",12,"Other fishes & inverts","R",1.44580060521893,79818,"Reported","Herrings, shads, anchovies","Artisanal",95,1,3,"R","Landings",300028
+"882","pelagicsm",2010,"Korea (South)","Clupeiformes",12,"Other fishes & inverts","R",2.23545543844122,80537,"Reported","Herrings, shads, anchovies","Artisanal",95,1,3,"R","Landings",300028
+"883","pelagicsm",2010,"Korea (South)","Clupeiformes",12,"Other fishes & inverts","R",40.1343215094232,79818,"Reported","Herrings, shads, anchovies","Artisanal",95,1,3,"R","Landings",300028
+"884","pelagicsm",2010,"Korea (South)","Clupeiformes",12,"Other fishes & inverts","R",62.0545370935178,80537,"Reported","Herrings, shads, anchovies","Artisanal",95,1,3,"R","Landings",300028
+"885","pelagiclg",2010,"Unknown Fishing Country","Istiophoridae",4,"Tuna & billfishes","D",0.00984612058630949,80537,"Unreported","Billfishes","Industrial",213,3,1,"U","Discards",400419
+"886","pelagiclg",2010,"Unknown Fishing Country","Istiophoridae",4,"Tuna & billfishes","D",0.00226516068313527,79818,"Unreported","Billfishes","Industrial",213,3,1,"U","Discards",400419
+"887","pelagiclg",2010,"Unknown Fishing Country","Istiophoridae",4,"Tuna & billfishes","D",0.000182817836885631,79818,"Unreported","Billfishes","Industrial",213,3,1,"U","Discards",400419
+"888","pelagiclg",2010,"Unknown Fishing Country","Istiophoridae",4,"Tuna & billfishes","D",0.000794666127090237,80537,"Unreported","Billfishes","Industrial",213,3,1,"U","Discards",400419
+"889","pelagiclg",2010,"Korea (South)","Istiophoridae",4,"Tuna & billfishes","D",0.000159925716764535,79818,"Unreported","Billfishes","Industrial",95,3,1,"U","Discards",400419
+"890","pelagiclg",2010,"Korea (South)","Istiophoridae",4,"Tuna & billfishes","D",0.000695159466539952,80537,"Unreported","Billfishes","Industrial",95,3,1,"U","Discards",400419
+"891","pelagicsm",2010,"Korea (South)","Engraulidae",1,"Anchovies","D",5.35975043026374,79818,"Unreported","Anchovies, round herrings","Industrial",95,1,1,"U","Discards",400454
+"892","pelagicsm",2010,"Korea (South)","Engraulidae",1,"Anchovies","D",9.99654846071405,80537,"Unreported","Anchovies, round herrings","Industrial",95,1,1,"U","Discards",400454
+"893","benthopelagiclg",2010,"Korea (South)","Salmonidae",6,"Salmon, smelts, etc","R",1.88829583165514,79818,"Reported","Salmonids","Industrial",95,15,1,"R","Landings",400076
+"894","benthopelagiclg",2010,"Korea (South)","Salmonidae",6,"Salmon, smelts, etc","R",3.03438002812817,80537,"Reported","Salmonids","Industrial",95,15,1,"R","Landings",400076
+"895","benthopelagiclg",2010,"Korea (South)","Salmonidae",6,"Salmon, smelts, etc","R",2.29696433066927,79818,"Reported","Salmonids","Artisanal",95,15,3,"R","Landings",400076
+"896","benthopelagiclg",2010,"Korea (South)","Salmonidae",6,"Salmon, smelts, etc","R",3.01123530034214,80537,"Reported","Salmonids","Artisanal",95,15,3,"R","Landings",400076
+"897","benthopelagiclg",2010,"Korea (South)","Salmonidae",6,"Salmon, smelts, etc","R",0.132462424182899,79818,"Reported","Salmonids","Artisanal",95,15,3,"R","Landings",400076
+"898","benthopelagiclg",2010,"Korea (South)","Salmonidae",6,"Salmon, smelts, etc","R",0.173653339907207,80537,"Reported","Salmonids","Artisanal",95,15,3,"R","Landings",400076
+"899","benthopelagiclg",2010,"Korea (South)","Salmonidae",6,"Salmon, smelts, etc","R",0.747585431515355,79818,"Reported","Salmonids","Artisanal",95,15,3,"R","Landings",400076
+"900","benthopelagiclg",2010,"Korea (South)","Salmonidae",6,"Salmon, smelts, etc","R",0.980056856496604,80537,"Reported","Salmonids","Artisanal",95,15,3,"R","Landings",400076
+"901","otherdeminvert",2010,"Korea (South)","Mollusca",11,"Molluscs","R",0.179310584933259,79818,"Reported","Clams, seasnails, squids, octopuses","Industrial",95,29,1,"R","Landings",190195
+"902","otherdeminvert",2010,"Korea (South)","Mollusca",11,"Molluscs","R",0.30217850181814,80537,"Reported","Clams, seasnails, squids, octopuses","Industrial",95,29,1,"R","Landings",190195
+"903","otherdeminvert",2010,"Korea (South)","Mollusca",11,"Molluscs","R",0.0275575976845853,79818,"Reported","Clams, seasnails, squids, octopuses","Industrial",95,29,1,"R","Landings",190195
+"904","otherdeminvert",2010,"Korea (South)","Mollusca",11,"Molluscs","R",0.0464407250979328,80537,"Reported","Clams, seasnails, squids, octopuses","Industrial",95,29,1,"R","Landings",190195
+"905","otherdeminvert",2010,"Korea (South)","Mollusca",11,"Molluscs","R",0.413798431897178,79818,"Reported","Clams, seasnails, squids, octopuses","Industrial",95,29,1,"R","Landings",190195
+"906","otherdeminvert",2010,"Korea (South)","Mollusca",11,"Molluscs","R",0.697343050059905,80537,"Reported","Clams, seasnails, squids, octopuses","Industrial",95,29,1,"R","Landings",190195
+"907","otherdeminvert",2010,"Korea (South)","Mollusca",11,"Molluscs","R",0.170679996957122,79818,"Reported","Clams, seasnails, squids, octopuses","Artisanal",95,29,3,"R","Landings",190195
+"908","otherdeminvert",2010,"Korea (South)","Mollusca",11,"Molluscs","R",0.234655516176191,80537,"Reported","Clams, seasnails, squids, octopuses","Artisanal",95,29,3,"R","Landings",190195
+"909","otherdeminvert",2010,"Korea (South)","Mollusca",11,"Molluscs","R",0.391366028276281,79818,"Reported","Clams, seasnails, squids, octopuses","Artisanal",95,29,3,"R","Landings",190195
+"910","otherdeminvert",2010,"Korea (South)","Mollusca",11,"Molluscs","R",0.538060692619228,80537,"Reported","Clams, seasnails, squids, octopuses","Artisanal",95,29,3,"R","Landings",190195
+"911","otherdeminvert",2010,"Korea (South)","Mollusca",11,"Molluscs","R",0.0225694810128829,79818,"Reported","Clams, seasnails, squids, octopuses","Artisanal",95,29,3,"R","Landings",190195
+"912","otherdeminvert",2010,"Korea (South)","Mollusca",11,"Molluscs","R",0.0310291382196196,80537,"Reported","Clams, seasnails, squids, octopuses","Artisanal",95,29,3,"R","Landings",190195
+"913","otherdeminvert",2010,"Korea (South)","Mollusca",11,"Molluscs","R",0.626511570130862,79818,"Reported","Clams, seasnails, squids, octopuses","Artisanal",95,29,3,"R","Landings",190195
+"914","otherdeminvert",2010,"Korea (South)","Mollusca",11,"Molluscs","R",0.861345198619534,80537,"Reported","Clams, seasnails, squids, octopuses","Artisanal",95,29,3,"R","Landings",190195
+"915","otherdeminvert",2010,"Korea (South)","Mollusca",11,"Molluscs","R",0.127376614962116,79818,"Reported","Clams, seasnails, squids, octopuses","Artisanal",95,29,3,"R","Landings",190195
+"916","otherdeminvert",2010,"Korea (South)","Mollusca",11,"Molluscs","R",0.175120845240115,80537,"Reported","Clams, seasnails, squids, octopuses","Artisanal",95,29,3,"R","Landings",190195
+"917","otherdeminvert",2010,"Korea (South)","Mollusca",11,"Molluscs","R",0.343384675357621,79818,"Unreported","Clams, seasnails, squids, octopuses","Subsistence",95,29,2,"U","Landings",190195
+"918","otherdeminvert",2010,"Korea (South)","Mollusca",11,"Molluscs","R",0.472094619636529,80537,"Unreported","Clams, seasnails, squids, octopuses","Subsistence",95,29,2,"U","Landings",190195
+"919","otherdeminvert",2010,"Korea (South)","Mollusca",11,"Molluscs","R",0.0378589362310197,79818,"Unreported","Clams, seasnails, squids, octopuses","Recreational",95,29,4,"U","Landings",190195
+"920","otherdeminvert",2010,"Korea (South)","Mollusca",11,"Molluscs","R",0.0520494983685946,80537,"Unreported","Clams, seasnails, squids, octopuses","Recreational",95,29,4,"U","Landings",190195
+"921","otherdeminvert",2010,"Korea (South)","Mollusca",11,"Molluscs","D",65.051799578892,79818,"Unreported","Clams, seasnails, squids, octopuses","Industrial",95,29,1,"U","Discards",190195
+"922","otherdeminvert",2010,"Korea (South)","Mollusca",11,"Molluscs","D",109.626854123754,80537,"Unreported","Clams, seasnails, squids, octopuses","Industrial",95,29,1,"U","Discards",190195
+"923","otherdeminvert",2010,"China","Mollusca",11,"Molluscs","R",276.603537368731,80537,"Reported","Clams, seasnails, squids, octopuses","Industrial",31,29,1,"R","Landings",190195
+"924","otherdeminvert",2010,"China","Mollusca",11,"Molluscs","R",164.134581983087,79818,"Reported","Clams, seasnails, squids, octopuses","Industrial",31,29,1,"R","Landings",190195
+"925","pelagicmd",2010,"Unknown Fishing Country","Scombridae",3,"Perch-likes","D",0.0389307978595938,80537,"Unreported","Mackerels, tunas, bonitos","Industrial",213,2,1,"U","Discards",400416
+"926","pelagicmd",2010,"Unknown Fishing Country","Scombridae",3,"Perch-likes","D",0.0243993217775726,79818,"Unreported","Mackerels, tunas, bonitos","Industrial",213,2,1,"U","Discards",400416
+"927","pelagicmd",2010,"Unknown Fishing Country","Scombridae",3,"Perch-likes","D",0.000191649039153779,79818,"Unreported","Mackerels, tunas, bonitos","Industrial",213,2,1,"U","Discards",400416
+"928","pelagicmd",2010,"Unknown Fishing Country","Scombridae",3,"Perch-likes","D",0.000305789237557382,80537,"Unreported","Mackerels, tunas, bonitos","Industrial",213,2,1,"U","Discards",400416
+"929","pelagicmd",2010,"Unknown Fishing Country","Scombridae",3,"Perch-likes","D",0.0058864318962996,79818,"Unreported","Mackerels, tunas, bonitos","Industrial",213,2,1,"U","Discards",400416
+"930","pelagicmd",2010,"Unknown Fishing Country","Scombridae",3,"Perch-likes","D",0.00939220738831144,80537,"Unreported","Mackerels, tunas, bonitos","Industrial",213,2,1,"U","Discards",400416
+"931","pelagicmd",2010,"Korea (South)","Scombridae",3,"Perch-likes","D",0.000819329511007086,79818,"Unreported","Mackerels, tunas, bonitos","Industrial",95,2,1,"U","Discards",400416
+"932","pelagicmd",2010,"Korea (South)","Scombridae",3,"Perch-likes","D",0.00130729664800503,80537,"Unreported","Mackerels, tunas, bonitos","Industrial",95,2,1,"U","Discards",400416
+"933","pelagicmd",2010,"China","Scombridae",3,"Perch-likes","R",1.83606471616341,79818,"Reported","Mackerels, tunas, bonitos","Industrial",31,2,1,"R","Landings",400416
+"934","pelagicmd",2010,"China","Scombridae",3,"Perch-likes","R",2.93043353426545,80537,"Reported","Mackerels, tunas, bonitos","Industrial",31,2,1,"R","Landings",400416
+"935","pelagicmd",2010,"China","Scombridae",3,"Perch-likes","R",0.925218609428601,80537,"Reported","Mackerels, tunas, bonitos","Industrial",31,2,1,"R","Landings",400416
+"936","pelagicmd",2010,"China","Scombridae",3,"Perch-likes","R",0.579696220250718,79818,"Reported","Mackerels, tunas, bonitos","Industrial",31,2,1,"R","Landings",400416
+"937","pelagicmd",2010,"China","Scombridae",3,"Perch-likes","R",2.52195074811247,80537,"Reported","Mackerels, tunas, bonitos","Industrial",31,2,1,"R","Landings",400416
+"938","pelagicmd",2010,"China","Scombridae",3,"Perch-likes","R",1.58012960552334,79818,"Reported","Mackerels, tunas, bonitos","Industrial",31,2,1,"R","Landings",400416
+"939","pelagicmd",2010,"China","Scombridae",3,"Perch-likes","R",5.19868668354631,79818,"Reported","Mackerels, tunas, bonitos","Industrial",31,2,1,"R","Landings",400416
+"940","pelagicmd",2010,"China","Scombridae",3,"Perch-likes","R",8.29731417280143,80537,"Reported","Mackerels, tunas, bonitos","Industrial",31,2,1,"R","Landings",400416
+"941","pelagicmd",2010,"China","Scombridae",3,"Perch-likes","D",0.000300178357258079,79818,"Unreported","Mackerels, tunas, bonitos","Industrial",31,2,1,"U","Discards",400416
+"942","pelagicmd",2010,"China","Scombridae",3,"Perch-likes","D",0.000478955237148475,80537,"Unreported","Mackerels, tunas, bonitos","Industrial",31,2,1,"U","Discards",400416
+"943","pelagicmd",2010,"Korea (South)","Hemiramphidae",12,"Other fishes & inverts","R",32.2937487424988,79818,"Unreported","Halfbeaks, garfishes","Recreational",95,2,4,"U","Landings",400475
+"944","pelagicmd",2010,"Korea (South)","Hemiramphidae",12,"Other fishes & inverts","R",42.3409961192682,80537,"Unreported","Halfbeaks, garfishes","Recreational",95,2,4,"U","Landings",400475
+"945","benthopelagicsm",2010,"Korea (South)","Stromateidae",3,"Perch-likes","R",49.6977311654368,79818,"Reported","Butterfishes","Industrial",95,13,1,"R","Landings",400425
+"946","benthopelagicsm",2010,"Korea (South)","Stromateidae",3,"Perch-likes","R",111.062963076637,80537,"Reported","Butterfishes","Industrial",95,13,1,"R","Landings",400425
+"947","benthopelagicsm",2010,"Korea (South)","Stromateidae",3,"Perch-likes","R",17.7611859879337,79818,"Reported","Butterfishes","Artisanal",95,13,3,"R","Landings",400425
+"948","benthopelagicsm",2010,"Korea (South)","Stromateidae",3,"Perch-likes","R",32.3813656377908,80537,"Reported","Butterfishes","Artisanal",95,13,3,"R","Landings",400425
+"949","benthopelagicsm",2010,"Korea (South)","Stromateidae",3,"Perch-likes","R",2.11944761616142,79818,"Reported","Butterfishes","Artisanal",95,13,3,"R","Landings",400425
+"950","benthopelagicsm",2010,"Korea (South)","Stromateidae",3,"Perch-likes","R",3.86407801008852,80537,"Reported","Butterfishes","Artisanal",95,13,3,"R","Landings",400425
+"951","benthopelagicsm",2010,"Korea (South)","Stromateidae",3,"Perch-likes","R",58.8342484726809,79818,"Reported","Butterfishes","Artisanal",95,13,3,"R","Landings",400425
+"952","benthopelagicsm",2010,"Korea (South)","Stromateidae",3,"Perch-likes","R",107.263856879422,80537,"Reported","Butterfishes","Artisanal",95,13,3,"R","Landings",400425
+"953","benthopelagicsm",2010,"Korea (South)","Stromateidae",3,"Perch-likes","R",11.9616424844713,79818,"Reported","Butterfishes","Artisanal",95,13,3,"R","Landings",400425
+"954","benthopelagicsm",2010,"Korea (South)","Stromateidae",3,"Perch-likes","R",21.8079085023566,80537,"Reported","Butterfishes","Artisanal",95,13,3,"R","Landings",400425
+"955","flatfishsm md",2010,"Korea (South)","Paralichthyidae",7,"Flatfishes","R",0.446470619827103,79818,"Unreported","Largetooth flounders","Subsistence",95,23,2,"U","Landings",400514
+"956","flatfishsm md",2010,"Korea (South)","Paralichthyidae",7,"Flatfishes","R",0.563098821237103,80537,"Unreported","Largetooth flounders","Subsistence",95,23,2,"U","Landings",400514
+"957","flatfishsm md",2010,"Korea (South)","Paralichthyidae",7,"Flatfishes","R",13.6798322260591,79818,"Unreported","Largetooth flounders","Artisanal",95,23,3,"U","Landings",400514
+"958","flatfishsm md",2010,"Korea (South)","Paralichthyidae",7,"Flatfishes","R",17.2533131165456,80537,"Unreported","Largetooth flounders","Artisanal",95,23,3,"U","Landings",400514
+"959","flatfishsm md",2010,"Korea (South)","Paralichthyidae",7,"Flatfishes","R",71.5436992980008,79818,"Unreported","Largetooth flounders","Recreational",95,23,4,"U","Landings",400514
+"960","flatfishsm md",2010,"Korea (South)","Paralichthyidae",7,"Flatfishes","R",90.2325280826918,80537,"Unreported","Largetooth flounders","Recreational",95,23,4,"U","Landings",400514
+"961","flatfishsm md",2010,"Korea (South)","Paralichthyidae",7,"Flatfishes","D",82.0789933563544,79818,"Unreported","Largetooth flounders","Artisanal",95,23,3,"U","Discards",400514
+"962","flatfishsm md",2010,"Korea (South)","Paralichthyidae",7,"Flatfishes","D",103.519878699273,80537,"Unreported","Largetooth flounders","Artisanal",95,23,3,"U","Discards",400514

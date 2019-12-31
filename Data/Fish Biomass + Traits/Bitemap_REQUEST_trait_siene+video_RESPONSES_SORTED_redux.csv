@@ -1,0 +1,601 @@
+Country,siteName,contactEmail,sciName,totalCount,family,active.ambush,feedingTypeFishbase,trophicGroupRLS,waterColumnRLS,dielActivityRLS,habitatRLS,eat.squid,Notes
+Mexico (ICML),NA,NA,Acanthurus coeruleus,3,Acanthuridae,active,browsing on substrate,Browsing herbivore,Demersal,Day,coral,0,
+Australia (QLD2),NA,NA,Acanthurus sp.,11,Acanthuridae,active,NA,NA,NA,NA,NA,0,
+Australia (QLD2),NA,NA,Zebrasoma scopas,10,Acanthuridae,active,browsing on substrate,Browsing herbivore,Demersal,Day,coral,0,
+Korea,Koje-Korea,"sormyo@pusan.ac.kr, klee@pusan.ac.kr",Acropoma japonicum,97,Acropomatidae,ambush,selective plankton feeding,NA,pelagic non-site attached,NA,"water column, seagrass",0,
+USA (AK),Sunshine Cove,wraymond2@alaska.edu,Blepsias cirrhosus,3,Agonidae,ambush,hunting macrofauna (predator),benthic invertivore,benthic,,"rocky, vegitated",1,WR7
+USA (WA2),False Bay,ojgraham@me.com,Nautichthys oculofasciatus,1,Agonidae,ambush,hunting macrofauna (predator),Benthic invertivore,benthic,Night,rock,1,
+Brazil,Praia do Barreiro,guca@usp.br,Albula vulpes,2,Albulidae,active,hunting macrofauna (predator),benthic invertivore;higher carnivore,Demersal,Dawn (swimming); Night (feeding),sand / mud,1,"Literature (Crabtree et al 1998, Lopes 1999, Brownscombe et al. 2014)"
+Brazil,Praia do Engenho,guca@usp.br,Albula vulpes,9,Albulidae,active,hunting macrofauna (predator),benthic invertivore;higher carnivore,Demersal,Dawn (swimming); Night (feeding),sand / mud,1,"Literature (Crabtree et al 1998, Lopes 1999, Brownscombe et al. 2014)"
+Australia (NSW2),Urunga Lagoon 1,brendan.kelaher@scu.edu.au,Ambassis jacksoniensis,718,Ambassidae,ambush,selective plankton feeding,planktivore,demersal,night,"rock, seagrass, sand",0,
+Australia (QLD2),Hervey Bay,chender1@usc.edu.au,Ambassis marianus,40,Ambassidae,ambush,selective plankton feeding,planktivore,demersal,day,seagrass/mangroves,0,these have mouths that are too small to eat squidpops
+Australia (QLD2),Noosa river,chender1@usc.edu.au,Ambassis marianus,1260,Ambassidae,ambush,selective plankton feeding,planktivore,demersal,day,seagrass/mangroves,0,these have mouths that are too small to eat squidpops
+Australia (NSW),Smiths_Lake_NSW,a.poore@unsw.edu.au,Ambassis sp.,1189,Ambassidae,ambush,selective plankton feeding,planktivore,demersal,day,"coral, rock, seagrass, sand",0,Feeding type for Ambassis jacksonianus from FishBase (seine data are for this species or A. marianus)
+Canada (QC),QC_Baie St-Ludger,mathieu.cusson@uqac.ca,Ammodytes americanus,3,Ammodytidae,ambush,selective plankton feeding,NA,NA,NA,NA,0,
+Canada (BC),Choked Sandspit,zach.monteith@hakai.org,Ammodytes hexapterus,2,Ammodytidae,ambush,selective plankton feeding,Planktivore,Pelagic site attached,Day,sand,0,"predominately pelagic, but burrow in benthos for shelter; high degree of certainty regarding diel behaviour based on multiple 24 hour seine surveys done in Koeye estuary in 2015"
+Wales,"Porthdinllaen, UK",maxrobinson@hotmail.com,Ammodytes tobianus,20,Ammodytidae,ambush,selective plankton feeding,NA,NA,NA,NA,0,
+USA (CA3),Elkhorn Slough,bbhughes@ucsc.edu,Aplysia californica,1,Aplysiidae,active,grazing on aquatic plants,scraping herbivore,benthic,NA,"seagrass, sand, seaweed, rock",0,
+USA (FL),NA,NA,Ariopsis felis,164,Ariidae,active,hunting macrofauna (predator),omnivore,benthic,NA,NA,1,
+France,Bouzigues,francesca.rossi@cnrs.fr,Atherina boyeri,19,Atherinidae,active,hunting macrofauna (predator),planktivore;benthic invertivore,pelagic site attached,,,0,
+Italy,NA,NA,Atherina boyeri,2,Atherinidae,active,hunting macrofauna (predator),planktivore;benthic invertivore,pelagic site attached,NA,NA,0,
+Croatia,CR-B-SvetiDuh,claudia@claudiakruschel.com,Atherina hepsetus,365,Atherinidae,active,hunting macrofauna (predator),planktivore;benthic invertivore,pelagic site attached,day,water column,0,"everywhere present, mainly above seagrass at night"
+Croatia,NA,NA,Atherina hepsetus,6,Atherinidae,active,hunting macrofauna (predator),planktivore;benthic invertivore,pelagic site attached,NA,NA,0,
+Wales,"Porthdinllaen, UK",maxrobinson@hotmail.com,Atherina presbyter,465,Atherinidae,active,selective plankton feeding,planktivore,pelagic site attached,NA,NA,0,
+Wales,NA,NA,Atherina presbyter,3,Atherinidae,active,selective plankton feeding,planktivore,pelagic site attached,NA,NA,0,
+Australia (QLD),Bowen,paul.york@jcu.edu.au,Atherinomorus endrachtensis,26,Atherinidae,active,selective plankton feeding,planktivore,pelagic site attached,Day,"sand, seagrass",0,
+Australia (QLD3),Moreton_Bay,r.connolly@griffith.edu.au,Atherinomorus vaigiensis,176,Atherinidae,active,variable,planktivore;benthic invertivore,pelagic site attached,NA,NA,0,
+Australia (QLD3),Moreton_Bay,r.connolly@griffith.edu.au,Atherinomorus vaigiensis,176,Atherinidae,active,variable,planktivore;benthic invertivore,pelagic site attached,Night,water column,0,these have mouths that are too small to eat squidpops
+Australia (NSW),Smiths_Lake_NSW,a.poore@unsw.edu.au,Atherinosoma microstoma,68,Atherinidae,active,selective plankton feeding,planktivore,pelagic site attached,day,"seagrass, sand",0,Gut content analysis in Hossain et al. 2017 Environ Biol Fish 100: 639
+Australia (VIC),Edwards Point,hjanes@deakin.edu.au,Atherinosoma microstoma,5,Atherinidae,active,hunting macrofauna (predator),Benthic invertivore,pelagic site attached,Day,sand,0,Fishbase & fishesofaustralia website & expert opinion
+Australia (VIC),Indented Head,hjanes@deakin.edu.au,Atherinosoma microstoma,15,Atherinidae,active,hunting macrofauna (predator),Benthic invertivore,pelagic site attached,Day,sand,0,Fishbase & fishesofaustralia website 
+Brazil,Praia do Barreiro,guca@usp.br,Atherinella brasiliensis,2,Atherinopsidae,active,variable,planktivore;benthic invertivore,Pelagic site attached,Day,water column; shallow; over soft-bottoms of different kinds,0,"Literature (Neves et al. 2006, Contente et al. 2011, Vasconcelos et al. 2011)"
+Brazil,Praia do Engenho,guca@usp.br,Atherinella brasiliensis,2,Atherinopsidae,active,variable,planktivore;benthic invertivore,Pelagic site attached,Day,water column; shallow; over soft-bottoms of different kind,0,"Literature (Neves et al. 2006, Contente et al. 2011, Vasconcelos et al. 2011)"
+Mexico (BN),Punta Banda Estuary,pablojorgensen@hotmail.com,Atherinops affinis,130,Atherinopsidae,active,Selective plankton feeding,Planktivore,pelagic site attached,Day,Sand,0,Literature
+USA (CA),San Diego,khovel@mail.sdsu.edu,Atherinops affinis,899,Atherinopsidae,active,selective plankton feeding,NA,pelagic site attached,NA,NA,0,
+USA (CA2),Windy Cove,jkoleary@calpoly.edu,Atherinops affinis,214,Atherinopsidae,active,selective plankton feeding,NA,pelagic site attached,NA,NA,0,
+USA (CA3),Elkhorn Slough,bbhughes@ucsc.edu,Atherinops affinis,1,Atherinopsidae,active,selective plankton feeding,planktivore,pelagic site attached,NA,water column,0,
+USA (OR),OIMB-Valino-SSNERR,agalow3@uoregon.edu,Atherinops affinis,15,Atherinopsidae,active,selective plankton feeding,,pelagic site attached,,,0,
+Mexico (BN),Punta Banda Estuary,pablojorgensen@hotmail.com,Atherinopsis californiensis,4,Atherinopsidae,active,Variable,Planktivore,pelagic site attached,Day,Sand,0,Literature
+USA (TX),Aransas Pass,mdiskin@islander.tamucc.edu,Menidia beryllina,13,Atherinopsidae,active,selective plankton feeding,NA,pelagic site attached,NA,NA,0,
+USA (DE),"UD Lewes, DE",lanej@udel.edu,Menidia menidia,8,Atherinopsidae,active,selective plankton feeding,NA,pelagic site attached,NA,NA,0,
+USA (NC),NC,sziegler@live.unc.edu,Menidia menidia,17,Atherinopsidae,active,selective plankton feeding,Benthic invertivore,pelagic site attached,"day ,night","seagrtass, sand",0,
+USA (VA2),,pg@vims.edu,Menidia menidia,1079,Atherinopsidae,active,selective plankton feeding,planktivore,pelagic site attached,,,0,
+Chile,Puerto Aldea (Chile),thiel@ucn.cl,Odontesthes sp.,2,Atherinopsidae,active,selective plankton feeding,planktivore,pelagic site attached,Day & Night,water column,0,
+Canada (BC),Choked Pocket,zach.monteith@hakai.org,Aulorhynchus flavidus,4,Aulorhynchidae,ambush,hunting macrofauna (predator),Planktivore,Pelagic site attached,,"sand, rock",0,"generally seen midwater column, often above seagrass canopy, or within kelp forest"
+USA (AK),Sunshine Cove,wraymond2@alaska.edu,Aulorhynchus flavidus,15,Aulorhynchidae,ambush,hunting macrofauna (predator),planktivore;benthic invertivore,Demersal,,"vegitated, rocky, sand",0,"WR2, WR7"
+USA (WA),Redondo N1,hultgrenk@seattleu.edu,Aulorhynchus flavidus,1,Aulorhynchidae,ambush,selective plankton feeding,planktivore;benthic invertivore,Benthopelagic,,,0,Fishbase.  Pers obs: these have mouths that are too small to eat squidpops
+Australia (NSW2),Urunga Lagoon 1,brendan.kelaher@scu.edu.au,Aulostomus chinensis,1,Aulostomidae,ambush,hunting macrofauna (predator),higher carnivore,pelagic site attached,day,"coral, rock, seagrass, sand",0,
+Mexico (ICML),NA,NA,Balistes vetula,1,Balistidae,active,hunting macrofauna (predator),NA,NA,NA,NA,1,
+Mexico (ICML),NA,NA,Canthidermis sufflamen,1,Balistidae,active,selective plankton feeding,NA,NA,NA,NA,1,
+USA (NC),NC,sziegler@live.unc.edu,Opsanus tau,4,Batrachoididae,ambush,hunting macrofauna (predator),benthic invertivore;higher carnivore,benthic,,"seagrass, rock, sand",1,oyster
+USA (CA),San Diego,khovel@mail.sdsu.edu,Strongylura exilis,1,Belonidae,active,hunting macrofauna (predator),NA,NA,NA,NA,0,
+USA (VA),Goodwin Island,jslefche@vims.edu,Strongylura marina,19,Belonidae,active,hunting macrofauna (predator),NA,NA,NA,NA,0,
+USA (VA2),,pg@vims.edu,Strongylura marina,14,Belonidae,active,hunting macrofauna (predator),higher carnivore,pelagic non-site attached,,water column,0,
+USA (NC),NC,sziegler@live.unc.edu,Chasmodes saburrae,1,Blenniidae,ambush,hunting macrofauna (predator),omnivore,benthic,,"rock, seagrass",,oyster
+Mexico (BN),Punta Banda Estuary,pablojorgensen@hotmail.com,Hypsoblennius gentilis,11,Blenniidae,ambush,Hunting macrofauna (predator),Benthic invertivore,Benthic,Night,Sand,,"Stomach contents, Stable isotopes, Observations, Literature"
+USA (CA),San Diego,khovel@mail.sdsu.edu,Hypsoblennius gentilis,3,Blenniidae,ambush,NA,NA,NA,NA,NA,,
+USA (CA2),Windy Cove,jkoleary@calpoly.edu,Hypsoblennius gentilis,1,Blenniidae,ambush,NA,NA,NA,NA,NA,,
+Chile,Puerto Aldea (Chile),thiel@ucn.cl,Hypsoblennius sordidus,1,Blenniidae,ambush,variable,omnivore,benthic,Day & Night,rock,,
+Australia (QLD3),Moreton_Bay,r.connolly@griffith.edu.au,Petroscirtes lupus,5,Blenniidae,ambush,variable,Omnivore,benthic,Day,Seagrass,,these have mouths that are too small to eat squidpops
+Australia (QLD2),Noosa river,chender1@usc.edu.au,Petroscirtes variabilis,3,Blenniidae,ambush,hunting macrofauna (predator),scraping herbivore,benthic,day,Seagrass,,these have mouths that are too small to eat squidpops
+Australia (QLD2),NA,NA,Plagiotremus tapeinosoma,19,Blenniidae,ambush,hunting macrofauna (predator),NA,NA,NA,NA,,
+Croatia,CR-B-SvetiDuh,claudia@claudiakruschel.com,Salaria pavo,24,Blenniidae,ambush,variable,Omnivore,benthic,day,rock,,"strongly prefers shallow rocks, bare or vegetated with seaweed"
+France,Bouzigues,francesca.rossi@cnrs.fr,Salaria pavo,16,Blenniidae,ambush,variable,,benthic,,,,
+Chile,NA,NA,Scartichthys gigas,1,Blenniidae,ambush,variable,NA,NA,NA,NA,,
+Chile,Puerto Aldea (Chile),thiel@ucn.cl,Scartichthys viridis,30,Blenniidae,ambush,grazing on aquatic plants,omnivore,benthic,Day & Night,rock,,
+Wales,"Porthdinllaen, UK",maxrobinson@hotmail.com,Callionymus lyra,2,Callionymidae,ambush,hunting macrofauna (predator),NA,NA,NA,NA,0,
+Korea,Koje-Korea,"sormyo@pusan.ac.kr, klee@pusan.ac.kr",Repomucenus lunatus,3,Callionymidae,ambush,NA,NA,benthic,NA,sand,0,
+Australia (QLD3),Moreton_Bay,r.connolly@griffith.edu.au,Repomucenus macdonaldi,2,Callionymidae,ambush,browsing on substrate,Benthic invertivore,benthic,Day,sand,0,these have mouths that are too small to eat squidpops
+Chile,Puerto Aldea (Chile),thiel@ucn.cl,Cancer coronatus,2,Cancridae,active,hunting macrofauna (predator),benthic invertivore,benthic,Day & Night,sand ,1,
+Canada (QC),QC_Baie St-Ludger,mathieu.cusson@uqac.ca,Cancer irroratus,286,Cancridae,active,NA,NA,NA,NA,NA,1,
+USA (CA3),Elkhorn Slough,bbhughes@ucsc.edu,Metacarcinus magister,3,Cancridae,active,variable,omnivore,benthic,NA,"seagrass, sand, seaweed, rock",1,
+USA (OR),OIMB-Valino-SSNERR,agalow3@uoregon.edu,Metacarcinus magister,60,Cancridae,active,,,benthic,,,1,
+Chile,Puerto Aldea (Chile),thiel@ucn.cl,Romaleon polyodon,41,Cancridae,active,hunting macrofauna (predator),benthic invertivore,benthic,Day & Night,"rock, sand",1,
+Australia (QLD2),NA,NA,Carangoides fulvoguttatus,13,Carangidae,active,hunting macrofauna (predator),NA,NA,NA,NA,1,
+Mexico (ICML2),NA,NA,Caranx bartholomaei,2,Carangidae,active,NA,NA,NA,NA,NA,1,
+Brazil,Praia do Barreiro,guca@usp.br,Caranx latus,1,Carangidae,active,hunting macrofauna (predator),benthic invertivore;higher carnivore,pelagic non-site attached,Day,"water column, over sand / rock",1,Literature (Silvano 2001; Arceo-Carranza & Chiappa-Carrara 2015)
+Brazil,Praia do Engenho,guca@usp.br,Caranx latus,3,Carangidae,active,hunting macrofauna (predator),benthic invertivore;higher carnivore,pelagic non-site attached,Day,"water column, over sand / rock",1,Literature (Silvano 2001; Arceo-Carranza & Chiappa-Carrara 2015)
+Mexico (ICML),NA,NA,Caranx ruber,5,Carangidae,active,hunting macrofauna (predator),NA,NA,NA,NA,1,
+Mexico (ICML2),NA,NA,Caranx ruber,6,Carangidae,active,hunting macrofauna (predator),NA,NA,NA,NA,1,
+Brazil,Praia do Barreiro,guca@usp.br,Oligoplites saliens,1,Carangidae,active,hunting macrofauna (predator),planktivore;higher carnivore,pelagic non-site attached,,water column over sand / mud; rarely estuarine,1,"Literature (Sazima 1998, Vilar et al. 2011)"
+Australia (QLD2),NA,NA,Scomberoides tala,21,Carangidae,active,hunting macrofauna (predator),NA,NA,NA,NA,1,
+Australia (QLD2),NA,NA,Trachinotus blochii,2,Carangidae,active,hunting macrofauna (predator),NA,NA,NA,NA,1,
+Australia (QLD2),NA,NA,Trachinotus botla,1,Carangidae,active,hunting macrofauna (predator),NA,NA,NA,NA,1,
+Australia (QLD2),NA,NA,Carcharhinus melanopterus,21,Carcharhinidae,active,hunting macrofauna (predator),NA,NA,NA,NA,1,
+Australia (VIC),Edwards Point,hjanes@deakin.edu.au,Carcinus maenas,31,Carcinidae,active,hunting macrofauna (predator),benthic invertivore,benthic,Night & Day,"sand, mud, burrowing",1,Expert opinion
+Australia (VIC),Indented Head,hjanes@deakin.edu.au,Carcinus maenas,3,Carcinidae,active,hunting macrofauna (predator),benthic invertivore,benthic,Night & Day,"sand, mud, burrowing",1,Expert opinion
+Australia (VIC),St. Leonards,hjanes@deakin.edu.au,Carcinus maenas,8,Carcinidae,active,hunting macrofauna (predator),benthic invertivore,benthic,Night & Day,"sand, mud, burrowing",1,Expert opinion
+Norway,NN_Juvika,katrin.sieben@gmail.com,Carcinus maenas,1,Carcinidae,active,hunting macrofauna (predator),Benthic invertivore,benthic,Night,sand,1,
+Wales,"Porthdinllaen, UK",maxrobinson@hotmail.com,Carcinus maenas,8,Carcinidae,active,NA,Benthic invertivore,benthic,NA,NA,1,
+Australia (QLD2),NA,NA,Chaetodon auriga,8,Chaetodontidae,active,hunting macrofauna (predator),NA,NA,NA,NA,1,
+Chile,Puerto Aldea (Chile),thiel@ucn.cl,Menticirrhus ophicephalus,1,Channidae,active,hunting macrofauna (predator),benthic invertivore,benthic,Day & Night,"rock, sand",1,
+Chile,Puerto Aldea (Chile),thiel@ucn.cl,Cheilodactylus variegatus,2,Cheilodactylidae,active,hunting macrofauna (predator),benthic invertivore,Demersal,day,rock,1,
+Australia (VIC),Edwards Point,hjanes@deakin.edu.au,Heteroclinus perspicillatus,18,Clinidae,ambush,hunting macrofauna (predator),Benthic invertivore,benthic,Day,rock/seagrass,1,Fishbase & fishesofaustralia website & expert opinion
+Australia (VIC),Indented Head,hjanes@deakin.edu.au,Heteroclinus perspicillatus,13,Clinidae,ambush,hunting macrofauna (predator),Benthic invertivore,benthic,Day,rock/seagrass,1,fishbase & fishesofaustralia website 
+Australia (VIC),St. Leonards,hjanes@deakin.edu.au,Heteroclinus perspicillatus,6,Clinidae,ambush,hunting macrofauna (predator),Benthic invertivore,benthic,Day,rock/seagrass,1,Fishbase & fishesofaustralia website & expert opinion
+USA (CA),San Diego,khovel@mail.sdsu.edu,Heterostichus rostratus,38,Clinidae,ambush,hunting macrofauna (predator),NA,NA,NA,NA,1,
+USA (CA2),Windy Cove,jkoleary@calpoly.edu,Heterostichus rostratus,1,Clinidae,ambush,hunting macrofauna (predator),NA,NA,NA,NA,1,
+Canada (QC),QC_Baie St-Ludger,mathieu.cusson@uqac.ca,Clupea harengus,1,Clupeidae,active,selective plankton feeding,NA,NA,NA,NA,0,
+Chile,Puerto Aldea (Chile),thiel@ucn.cl,Ethmidium maculatum,1453,Clupeidae,active,filtering plankton,planktivore,pelagic non-site attached,Day & Night,water column,0,
+Brazil,Praia do Barreiro,guca@usp.br,Harengula clupeola,77,Clupeidae,active,selective plankton feeding,Omnivore,Pelagic,Night,sand / mud; frequently estuarine,0,"Literature (Pessanha et al. 2003, Chaves & Vendel 2008, Gaelzer & Zalmon 2008) "
+Brazil,Praia do Engenho,guca@usp.br,Harengula clupeola,6,Clupeidae,active,selective plankton feeding,Omnivore,Pelagic,Night,sand / mud; frequently estuarine,0,"Literature (Pessanha et al. 2003, Chaves & Vendel 2008, Gaelzer & Zalmon 2008) "
+USA (TX),Oso Bay,mdiskin@islander.tamucc.edu,Harengula jaguana,1,Clupeidae,active,hunting macrofauna (predator),NA,NA,NA,NA,0,
+Australia (QLD2),Hervey Bay,chender1@usc.edu.au,Herklotsichthys castelnaui,6,Clupeidae,active,hunting macrofauna (predator),benthic invertivore,pelagic non-site attached,day,water column,0,
+Korea,Koje-Korea,"sormyo@pusan.ac.kr, klee@pusan.ac.kr",Konosirus punctatus,4,Clupeidae,active,selective plankton feeding,planktivore,pelagic non-site attached,NA,water column ,0,
+USA (TX),Aransas Pass,mdiskin@islander.tamucc.edu,Sardinella aurita,133,Clupeidae,active,selective plankton feeding,Planktivore,pelagic non-site attached,Day,sand,0,
+Brazil,Praia do Barreiro,guca@usp.br,Sardinella brasiliensis,3,Clupeidae,active,selective plankton feeding,Omnivore,Pelagic,Night / Day,water column over sand / mud; rarely estuarine,0,"Literature (Schneider & Schwingel 1999, Gaelzer & Zalmon 2008, Felix-Hackradt et al. 2010)"
+Brazil,Praia do Engenho,guca@usp.br,Sardinella brasiliensis,17,Clupeidae,active,selective plankton feeding,Omnivore,Pelagic,Night / Day,water column over sand / mud; rarely estuarine,0,"Literature (Schneider & Schwingel 1999, Gaelzer & Zalmon 2008, Felix-Hackradt et al. 2010)"
+USA (CA3),Elkhorn Slough,bbhughes@ucsc.edu,Sardinops sagax,1,Clupeidae,active,selective plankton feeding,planktivore,pelagic site attached,NA,water column,0,
+Wales,"Porthdinllaen, UK",maxrobinson@hotmail.com,Sprattus sprattus,55,Clupeidae,active,selective plankton feeding,NA,NA,NA,NA,0,
+USA (CA3),Elkhorn Slough,bbhughes@ucsc.edu,Artedius harringtoni,1,Cottidae,ambush,hunting macrofauna (predator),benthic invertivore,benthic,NA,"seagrass, sand, seaweed, rock",1,
+Canada (BC),Choked Pocket,zach.monteith@hakai.org,Artedius lateralis,2,Cottidae,ambush,hunting macrofauna (predator),Higher carnivore,Benthic,,"sand, rock",1,
+USA (CA2),Windy Cove,jkoleary@calpoly.edu,Artedius lateralis,11,Cottidae,ambush,hunting macrofauna (predator),NA,NA,NA,NA,1,
+Canada (BC),Choked Pocket,zach.monteith@hakai.org,Cottoidea sp.,1,Cottidae,ambush,hunting macrofauna (predator),Higher carnivore,Benthic,,"sand, rock",1,"species unknown, but likely small gape, and benthic; unlikely to associated with squid pop"
+USA (OR),OIMB-Valino-SSNERR,agalow3@uoregon.edu,Cottus asper,1,Cottidae,ambush,hunting macrofauna (predator),,,,,1,
+USA (DE),"UD Lewes, DE",lanej@udel.edu,Cottus bairdi,2,Cottidae,ambush,NA,NA,NA,NA,NA,1,
+Canada (BC),Choked Pocket,zach.monteith@hakai.org,Enophrys bison,4,Cottidae,ambush,hunting macrofauna (predator),Higher carnivore,Benthic,,"sand, rock, seagrass",1,"likely also occurs in kelp, but have not observed directly"
+Canada (BC),Choked Pocket,zach.monteith@hakai.org,Hemilepidotus hemilepidotus,1,Cottidae,ambush,hunting macrofauna (predator),Higher carnivore,Benthic,,"sand, rock, seagrass, kelp",1,
+USA (AK),Sunshine Cove,wraymond2@alaska.edu,Leptocottus armatus,11,Cottidae,ambush,hunting macrofauna (predator),Higher Carnivore,Demersal,,"vegitated, rocky, sand",1,WR4
+USA (CA),San Diego,khovel@mail.sdsu.edu,Leptocottus armatus,2,Cottidae,ambush,hunting macrofauna (predator),Higher Carnivore,NA,NA,NA,1,
+USA (CA2),Windy Cove,jkoleary@calpoly.edu,Leptocottus armatus,4,Cottidae,ambush,hunting macrofauna (predator),Higher Carnivore,NA,NA,NA,1,
+USA (CA3),Elkhorn Slough,bbhughes@ucsc.edu,Leptocottus armatus,9,Cottidae,ambush,hunting macrofauna (predator),Higher Carnivore,benthic,NA,"seagrass, sand, seaweed",1,
+USA (OR),OIMB-Valino-SSNERR,agalow3@uoregon.edu,Leptocottus armatus,58,Cottidae,ambush,hunting macrofauna (predator),Higher Carnivore,,,,1,
+USA (WA2),False Bay,ojgraham@me.com,Leptocottus armatus,42,Cottidae,ambush,hunting macrofauna (predator),Higher Carnivore,Demersal,Night,"occasionally rocky intertidal, sand",1,
+USA (MA),Dorothy Cove,rhughes@northeastern.edu,Myoxocephalus aenaeus,1,Cottidae,ambush,hunting macrofauna (predator),Benthic invertivore,benthic,,seagrass,1,other habitat: rock
+USA (AK),Sunshine Cove,wraymond2@alaska.edu,Myoxocephalus polyacanthocephalus,4,Cottidae,ambush,hunting macrofauna (predator),benthic invertivore;higher carnivore,Demersal,,,1,WR7
+Canada (BC),Choked Pocket,zach.monteith@hakai.org,Oligocottus maculosus,5,Cottidae,ambush,hunting macrofauna (predator),Benthic invertivore,Benthic,,"sand, rock, seagrass",1,"may also consume small vertebrates (ie. Fish, fish larvae), but diet likey predominately invertebrates"
+USA (AK),Sunshine Cove,wraymond2@alaska.edu,Oligocottus maculosus,3,Cottidae,ambush,hunting macrofauna (predator),benthic invertivore,benthic,,"vegitated, rocky, sand",1,"WR5, WR4"
+Korea,Koje-Korea,"sormyo@pusan.ac.kr, klee@pusan.ac.kr",Porocottus leptosomus,1,Cottidae,ambush,NA,NA,Demersal,NA,"rock, seagrass, seaweed",1,
+Korea,Koje-Korea,"sormyo@pusan.ac.kr, klee@pusan.ac.kr",Pseudoblennius cottoides,7,Cottidae,ambush,hunting macrofauna (predator),Benthic invertivore,Demersal,NA,"rock, sand, seagrass",1,
+Canada (BC),Choked Pocket,zach.monteith@hakai.org,Scorpaenichthys marmoratus,1,Cottidae,ambush,hunting macrofauna (predator),Higher carnivore,Benthic,,"sand, rock, seagrass, kelp",1,"benthic predator, unlikely to interact with squid pop"
+USA (CA2),Windy Cove,jkoleary@calpoly.edu,Scorpaenichthys marmoratus,1,Cottidae,ambush,hunting macrofauna (predator),NA,NA,NA,NA,1,
+USA (CA3),Elkhorn Slough,bbhughes@ucsc.edu,Scorpaenichthys marmoratus,1,Cottidae,ambush,hunting macrofauna (predator),higher carnivore,benthic,NA,"seagrass, sand, seaweed, rock",1,
+USA (WA),Redondo S-6,hultgrenk@seattleu.edu,sculpin sp.,1,Cottidae,ambush,,,benthic,,,1,
+Wales,"Porthdinllaen, UK",maxrobinson@hotmail.com,Taurulus bubalis,3,Cottidae,ambush,hunting macrofauna (predator),NA,NA,NA,NA,1,
+Norway,NN_Juvika,katrin.sieben@gmail.com,Crangon crangon,34,Crangonidae,active,hunting macrofauna (predator),Benthic invertivore,benthic,Night,sand,1,
+Wales,"Porthdinllaen, UK",maxrobinson@hotmail.com,Crangon crangon,55,Crangonidae,active,NA,NA,NA,NA,NA,1,
+Canada (QC),QC_Baie St-Ludger,mathieu.cusson@uqac.ca,Crangon septemspinosa,65,Crangonidae,active,NA,NA,NA,NA,NA,1,
+USA (CA3),Elkhorn Slough,bbhughes@ucsc.edu,Crangon sp.,1,Crangonidae,active,hunting macrofauna (predator),benthic invertivore,benthic,NA,"seagrass, sand",1,
+Norway,NN_Juvika,katrin.sieben@gmail.com,Cyclopterus lumpus,2,Cyclopteridae,active,hunting macrofauna (predator),benthic invertivore;higher carnivore,Benthopelagic,,"rock, seaweed",1,
+USA (MA),Dorothy Cove,rhughes@northeastern.edu,Cyclopterus lumpus,1,Cyclopteridae,active,hunting macrofauna (predator),Benthic invertivore,Benthopelagic,,rock ,1,
+Croatia,CR-B-SvetiDuh,claudia@claudiakruschel.com,Aphanius fasciatus,17,Cyprinodontidae,active,grazing on aquatic plants,Omnivore,demersal,,,1,
+Croatia,CR-B-SvetiDuh,claudia@claudiakruschel.com,Aphanius fasciatus REDUNDANT,1,Cyprinodontidae,active,grazing on aquatic plants,Omnivore,demersal,day,"seaweed, seagrass",1,grazing and picking off inverts
+USA (TX),Oso Bay,mdiskin@islander.tamucc.edu,Cyprinodon variegatus,26,Cyprinodontidae,active,NA,NA,NA,NA,NA,1,
+USA (FL),NA,NA,Chilomycterus schoepfi,1,Diodontidae,active,hunting macrofauna (predator),benthic invertivore,benthic,NA,NA,1,
+USA (NC),NC,sziegler@live.unc.edu,Chilomycterus schoepfi,1,Diodontidae,active,variable,benthic invertivore,demersal,,"sand, seagrass",1,
+Mexico (ICML2),NA,NA,Diodon hystrix,2,Diodontidae,active,NA,NA,NA,NA,NA,1,
+Australia (QLD2),NA,NA,Echeneis naucrates,6,Echeneidae,active,variable,benthic invertivore;Higher carnivore,NA,NA,NA,0,
+Australia (NSW),Smiths_Lake_NSW,a.poore@unsw.edu.au,Philypnodon grandiceps,2,Eleotridae,ambush,hunting macrofauna (predator),benthic invertivore,benthic,day,"seagrass, sand",1,Gut content analysis in Becker & Laurenson. 2007. Mar Fresh Res 58:1086-1095
+USA (TX),Oso Bay,mdiskin@islander.tamucc.edu,Elops saurus,10,Elopidae,active,hunting macrofauna (predator),NA,NA,NA,NA,1,
+USA (WA),Redondo S-6,hultgrenk@seattleu.edu,Brachyistius frenatus,3,Embiotocidae,active,hunting macrofauna (predator),Benthic invertivore,demersal,Day,rock,,
+USA (WA2),False Bay,ojgraham@me.com,Brachyistius frenatus,7,Embiotocidae,active,hunting macrofauna (predator),Benthic invertivore,pelagic site attached,Day,"rock, sand",,
+Canada (BC),Choked Pocket,zach.monteith@hakai.org,Cymatogaster aggregata,27,Embiotocidae,active,hunting macrofauna (predator),Benthic invertivore,Pelagic site attached,,"sand, rock, seagrass, kelp",,"predominately feeds on small invertebrates, combination of benthic and pelagic foraging; Morrow, J.E. (1980) claims also eats algae, but may be due to indescriminate feeding habitats; pelagic predator, would be good candidate for interaction with squid pop"
+USA (CA),San Diego,khovel@mail.sdsu.edu,Cymatogaster aggregata,248,Embiotocidae,active,hunting macrofauna (predator),NA,NA,NA,NA,,
+USA (CA2),Windy Cove,jkoleary@calpoly.edu,Cymatogaster aggregata,181,Embiotocidae,active,hunting macrofauna (predator),NA,NA,NA,NA,,
+USA (CA3),Elkhorn Slough,bbhughes@ucsc.edu,Cymatogaster aggregata,6,Embiotocidae,active,hunting macrofauna (predator),planktivore;benthic invertivore,demersal,NA,"seagrass, sand, seaweed",,
+USA (OR),OIMB-Valino-SSNERR,agalow3@uoregon.edu,Cymatogaster aggregata,163,Embiotocidae,active,hunting macrofauna (predator),,,,,,
+USA (WA),Redondo N-4,hultgrenk@seattleu.edu,Cymatogaster aggregata,2,Embiotocidae,active,hunting macrofauna (predator),Benthic invertivore,demersal,,,,"Information from FishBase"" Young feed mainly on copepods, while adults eat various small crustaceans, mollusks, and algae""-Fishbase"
+USA (WA),Redondo N1,hultgrenk@seattleu.edu,Cymatogaster aggregata,2,Embiotocidae,active,hunting macrofauna (predator),Benthic invertivore,demersal,,,,
+USA (WA),Redondo S-6,hultgrenk@seattleu.edu,Cymatogaster aggregata,230,Embiotocidae,active,hunting macrofauna (predator),Benthic invertivore,demersal,,,,
+USA (WA2),False Bay,ojgraham@me.com,Cymatogaster aggregata,2881,Embiotocidae,active,hunting macrofauna (predator),Benthic invertivore,Demersal,Day,sand,,
+Korea,Koje-Korea,"sormyo@pusan.ac.kr, klee@pusan.ac.kr",Ditrema temminckii,69,Embiotocidae,active,hunting macrofauna (predator),benthic invertivore,pelagic non-site attached,NA,sand,,
+USA (CA3),Elkhorn Slough,bbhughes@ucsc.edu,Embiotoca jacksoni,7,Embiotocidae,active,hunting macrofauna (predator),planktivore;benthic invertivore,demersal,NA,"seagrass, sand, seaweed, rock",,
+Canada (BC),Choked Pocket,zach.monteith@hakai.org,Embiotoca lateralis,2,Embiotocidae,active,hunting macrofauna (predator),Benthic invertivore,Pelagic site attached,,"sand, rock, seagrass, kelp",,"predominately feeds on small invertebrates, combination of benthic and pelagic foraging; pelagic predator, would be good candidate for interaction with squid pop"
+USA (CA3),Elkhorn Slough,bbhughes@ucsc.edu,Embiotoca lateralis,1,Embiotocidae,active,hunting macrofauna (predator),Benthic invertivore,demersal,NA,"seagrass, sand, seaweed, rock",,
+USA (WA2),False Bay,ojgraham@me.com,Embiotoca lateralis,151,Embiotocidae,active,hunting macrofauna (predator),Benthic invertivore,Demersal,Day ,"rock, sand",,
+USA (CA2),Windy Cove,jkoleary@calpoly.edu,Embiotoca sp.,7,Embiotocidae,active,NA,NA,NA,NA,NA,,
+USA (CA2),Windy Cove,jkoleary@calpoly.edu,Embiotocidae sp.,1,Embiotocidae,active,NA,NA,NA,NA,NA,,
+USA (CA2),Windy Cove,jkoleary@calpoly.edu,Embiotocidae spp.,14,Embiotocidae,active,NA,NA,NA,NA,NA,,
+USA (CA3),Elkhorn Slough,bbhughes@ucsc.edu,Hypsurus caryi,4,Embiotocidae,active,hunting macrofauna (predator),planktivore;benthic invertivore,pelagic site attached,Day,"seagrass, sand, seaweed, rock",,
+USA (CA2),Windy Cove,jkoleary@calpoly.edu,Micrometrus minimus,29,Embiotocidae,active,variable,NA,NA,NA,NA,,
+USA (CA2),Windy Cove,jkoleary@calpoly.edu,Phanerodon furcatus,1,Embiotocidae,active,NA,NA,NA,NA,NA,,
+USA (OR),OIMB-Valino-SSNERR,agalow3@uoregon.edu,Phanerodon furcatus,24,Embiotocidae,active,,,,,,,
+USA (CA3),Elkhorn Slough,bbhughes@ucsc.edu,Rhacochilus toxotes,1,Embiotocidae,active,hunting macrofauna (predator),planktivore;benthic invertivore,pelagic site attached,Day,"seagrass, sand, seaweed, rock",,
+USA (CA3),Elkhorn Slough,bbhughes@ucsc.edu,Rhacochilus vacca,9,Embiotocidae,active,hunting macrofauna (predator),planktivore;benthic invertivore,demersal,NA,"seagrass, sand, seaweed, rock",,
+USA (OR),OIMB-Valino-SSNERR,agalow3@uoregon.edu,Rhacochilus vacca,6,Embiotocidae,active,hunting macrofauna (predator),,,,,,
+Mexico (BN),Punta Banda Estuary,pablojorgensen@hotmail.com,Anchoa delicatissima,147,Engraulidae,active,filtering plankton,Planktivore,Pelagic non-site attached,Day,Sand,0,Literature
+USA (TX),Aransas Pass,mdiskin@islander.tamucc.edu,Anchoa mitchilli,503,Engraulidae,active,filtering plankton,Planktivore,Pelagic non-site attached,NA,NA,0,
+Chile,Puerto Aldea (Chile),thiel@ucn.cl,Engraulis ringens,3,Engraulidae,active,filtering plankton,planktivore,pelagic non-site attached,Day & Night,water column,0,
+USA (OR),OIMB-Valino-SSNERR,agalow3@uoregon.edu,Pugettia producta,1,Epialtidae,active,,,benthic,,,1,
+USA (WA),Redondo N1,hultgrenk@seattleu.edu,Pugettia producta,1,Epialtidae,active,grazing on aquatic plants,Browsing herbivore,benthic,,,1,Occasional omnivore (personal observations)
+USA (WA),Redondo N2,hultgrenk@seattleu.edu,Pugettia producta,1,Epialtidae,active,grazing on aquatic plants,Browsing herbivore,benthic,,,1,Occasional omnivore (personal observations)
+USA (WA),Redondo S-6,hultgrenk@seattleu.edu,Pugettia producta,1,Epialtidae,active,grazing on aquatic plants,Browsing herbivore,benthic,,,1,Occasional omnivore (personal observations)
+Chile,Puerto Aldea (Chile),thiel@ucn.cl,Taliepus dentatus,41,Epialtidae ,active,grazing on aquatic plants,omnivore,benthic,Day & Night,seaweed,1,
+Australia (QLD3),Moreton_Bay,r.connolly@griffith.edu.au,Fistularia commersonii,1,Fistulariidae,ambush,hunting macrofauna (predator),Higher carnivore,Demersal,Day,rock,0,"Usually consume live prey, unlikely to eat squidpops"
+USA (TX),Oso Bay,mdiskin@islander.tamucc.edu,Fundulus grandis,14,Fundulidae,active,NA,NA,NA,NA,NA,1,
+USA (NC),NC,sziegler@live.unc.edu,Fundulus heteroclitus,3,Fundulidae,active,variable,omnivore,demersal,day,"seagrass, sand",1,marsh
+USA (TX),Oso Bay,mdiskin@islander.tamucc.edu,Fundulus heteroclitus,8,Fundulidae,active,variable,NA,NA,NA,NA,1,
+USA (VA2),,pg@vims.edu,Fundulus majalis,51,Fundulidae,active,hunting macrofauna (predator),Benthic invertivore,demersal,,"seagrass, seaweed, sand",1,
+Mexico (BN),Punta Banda Estuary,pablojorgensen@hotmail.com,Fundulus parvipinnis,82,Fundulidae,active,Hunting macrofauna (predator),Benthic invertivore,Benthic,Day,Sand,1,Literature
+USA (TX),Oso Bay,mdiskin@islander.tamucc.edu,Fundulus similis,15,Fundulidae,active,NA,NA,NA,NA,NA,1,
+USA (VA2),,pg@vims.edu,Lucania parva,2,Fundulidae,active,selective plankton feeding,planktivore,,,,1,
+Norway,NN_Juvika,katrin.sieben@gmail.com,Gadus morhua,1,Gadidae,ambush,hunting macrofauna (predator),benthic invertivore;higher carnivore,Benthopelagic,Night,"rock, seagrass",1,
+USA (MA),Dorothy Cove,rhughes@northeastern.edu,Gadus morhua,1,Gadidae,ambush,hunting macrofauna (predator),Higher carnivore,Benthopelagic,,rock ,1,other habitat: seagrass
+Wales,"Porthdinllaen, UK",maxrobinson@hotmail.com,Merlangius merlangus,1,Gadidae,ambush,hunting macrofauna (predator),NA,Benthopelagic,NA,NA,1,
+Wales,"Porthdinllaen, UK",maxrobinson@hotmail.com,Pollachius pollachius,4,Gadidae,ambush,hunting macrofauna (predator),NA,Benthopelagic,NA,NA,1,
+Norway,NN_Juvika,katrin.sieben@gmail.com,Pollachius virens,77,Gadidae,ambush,hunting macrofauna (predator),Planktivore;higher carnivore,Benthopelagic,,water column,1,
+USA (MA),Dorothy Cove,rhughes@northeastern.edu,Pollachius virens,1,Gadidae,ambush,hunting macrofauna (predator),Higher carnivore,Benthopelagic,,rock,1,other habitat: seagrass
+USA (AK),Sunshine Cove,wraymond2@alaska.edu,Gadus chalcogrammus,1,Gadidae,ambush,,,Demersal,,,1,"WR7, *"
+USA (VA2),,pg@vims.edu,Apeltes quadracus,11,Gasterosteidae,active,variable,Benthic invertivore,demersal,,"seagrass, seaweed",,
+Canada (QC),QC_Baie St-Ludger,mathieu.cusson@uqac.ca,Culaea inconstans,15,Gasterosteidae,active,variable,NA,NA,NA,NA,,
+Canada (QC),NA,NA,Gasterosteus aculateus,1,Gasterosteidae,active,variable,NA,NA,NA,NA,,
+Canada (QC),QC_Baie St-Ludger,mathieu.cusson@uqac.ca,Gasterosteus aculeatus,132,Gasterosteidae,active,variable,NA,NA,NA,NA,,
+Norway,NN_Juvika,katrin.sieben@gmail.com,Gasterosteus aculeatus,10,Gasterosteidae,active,variable,planktivore;benthic invertivore,Benthopelagic,,"sand, vegetation",,
+USA (AK),Sunshine Cove,wraymond2@alaska.edu,Gasterosteus aculeatus,2,Gasterosteidae,active,variable,planktivore;benthic invertivore,Demersal,,"vegitated, rocky, sand",,"WR3, WR4"
+Canada (QC),NA,NA,Gasterosteus sp,5,Gasterosteidae,active,variable,NA,NA,NA,NA,,
+Canada (QC),QC_Baie St-Ludger,mathieu.cusson@uqac.ca,Gasterosteus wheatlandi,123,Gasterosteidae,active,variable,NA,NA,NA,NA,,
+Canada (QC),QC_Baie St-Ludger,mathieu.cusson@uqac.ca,Pungitius pungitius,1,Gasterosteidae,active,variable,NA,NA,NA,NA,,
+Norway,NN_Juvika,katrin.sieben@gmail.com,Spinachia spinachia,4,Gasterosteidae,active,variable,planktivore;benthic invertivore,Benthopelagic,Day,"rock, vegetation",,
+Wales,"Porthdinllaen, UK",maxrobinson@hotmail.com,Spinachia spinachia,8,Gasterosteidae,active,variable,planktivore,benthic,Day,rock,,
+Brazil,Praia do Barreiro,guca@usp.br,Eucinostomus argenteus,4,Gerreidae,active,hunting macrofauna (predator),benthic invertivore,demersal,Day (data obtained for the congener E. melanopterus),sand / mud ,1,"Literature (Branco et al. 1997, Castillo-Rivera et al et al. 2005; Arceo-Carranza et al. 2013)"
+Brazil,Praia do Engenho,guca@usp.br,Eucinostomus argenteus,57,Gerreidae,active,hunting macrofauna (predator),benthic invertivore,demersal,Day (data obtained for the congener E. melanopterus),sand / mud ,1,"Literature (Branco et al. 1997, Castillo-Rivera et al et al. 2005; Arceo-Carranza et al. 2013)"
+USA (TX),Aransas Pass,mdiskin@islander.tamucc.edu,Eucinostomus argenteus,182,Gerreidae,active,hunting macrofauna (predator),NA,demersal,NA,NA,1,
+USA (NC),NC,sziegler@live.unc.edu,Eucinostomus harengulus,92,Gerreidae,active,hunting macrofauna (predator),Benthic invertivore,demersal,"day, night","seagrass, sand",1,mud
+Mexico (ICML2),NA,NA,Eucinostomus melanopterus,4,Gerreidae,active,NA,NA,demersal,NA,NA,1,
+Mexico (ICML),NA,NA,Gerres cinereus,1,Gerreidae,active,hunting macrofauna (predator),NA,demersal,NA,NA,1,
+Australia (QLD),Bowen,paul.york@jcu.edu.au,Gerres oyena,290,Gerreidae,active,hunting macrofauna (predator),Benthic invertivore,demersal,Day,"sand, seagrass, rock, coral",1,
+Australia (NSW),Smiths_Lake_NSW,a.poore@unsw.edu.au,Gerres subfasciatus,63,Gerreidae,active,hunting macrofauna (predator),benthic invertivore,demersal,day,"seagrass, sand",1,Gut content analysis in Linke et al. 2001 JEMBE 266:193
+Australia (NSW2),Urunga Lagoon 1,brendan.kelaher@scu.edu.au,Gerres subfasciatus,64,Gerreidae,active,hunting macrofauna (predator),benthic invertivore,demersal,day,"rock, sand",1,
+Australia (NSW2),Urunga Lagoon 2,brendan.kelaher@scu.edu.au,Gerres subfasciatus,43,Gerreidae,active,hunting macrofauna (predator),benthic invertivore,demersal,day,"rock, sand",1,
+Australia (QLD2),Hervey Bay,chender1@usc.edu.au,Gerres subfasciatus,14,Gerreidae,active,hunting macrofauna (predator),Benthic invertivore,demersal,Night,sand,1,
+Australia (QLD2),Noosa river,chender1@usc.edu.au,Gerres subfasciatus,15,Gerreidae,active,hunting macrofauna (predator),Benthic invertivore,demersal,Night,sand,1,
+Australia (QLD3),Moreton_Bay,r.connolly@griffith.edu.au,Gerres subfasciatus,2,Gerreidae,active,hunting macrofauna (predator),Benthic invertivore,demersal,Night,sand,1,
+USA (VA2),,pg@vims.edu,Gobiesox strumosus,1,Gobiesocidae,ambush,hunting macrofauna (predator),Benthic invertivore,demersal,,,1,
+Korea,Koje-Korea,"sormyo@pusan.ac.kr, klee@pusan.ac.kr",Acanthogobius flavimanus,5,Gobiidae,ambush,hunting macrofauna (predator),benthic invertivore,benthic,NA,"sand, seagrass",,
+Australia (QLD2),NA,NA,Amblygobius sp.,4,Gobiidae,ambush,NA,NA,benthic,NA,NA,,
+Australia (NSW),Smiths_Lake_NSW,a.poore@unsw.edu.au,Arenigobius bifrenatus,32,Gobiidae,ambush,hunting macrofauna (predator),benthic invertivore,benthic,day,sand,,"From gut content, main diet is ""miscellaneous crustaceans_ (Burchmore et al 1984 Aq Bot 18:71-87), RLS: ""They feed partly on plant material"""
+USA (TX),Aransas Pass,mdiskin@islander.tamucc.edu,Bathygobius soporator,75,Gobiidae,ambush,hunting macrofauna (predator),NA,benthic,NA,NA,,
+USA (CA2),Windy Cove,jkoleary@calpoly.edu,Clevelandia ios,36,Gobiidae,ambush,hunting macrofauna (predator),NA,benthic,NA,NA,,
+USA (CA3),Elkhorn Slough,bbhughes@ucsc.edu,Clevelandia ios,2,Gobiidae,ambush,variable,omnivore,benthic,NA,"seagrass, sand, seaweed",,
+USA (TX),Aransas Pass,mdiskin@islander.tamucc.edu,Ctenogobius boleosoma,11,Gobiidae,ambush,hunting macrofauna (predator),NA,benthic,NA,NA,,
+Mexico (BN),Punta Banda Estuary,pablojorgensen@hotmail.com,Ctenogobius sagittula,1,Gobiidae,ambush,Variable,Omnivore,benthic,Night,Sand,,Literature
+Australia (NSW),Smiths_Lake_NSW,a.poore@unsw.edu.au,Favonigobius exquisitus,201,Gobiidae,ambush,hunting macrofauna (predator),benthic invertivore,benthic,day,"seagrass, sand",,Diet from gut content analysis in Chargulaf et al. 2011. J Fish Biol 79: 1968–1983
+Korea,Koje-Korea,"sormyo@pusan.ac.kr, klee@pusan.ac.kr",Favonigobius gymnauchen,122,Gobiidae,ambush,hunting macrofauna (predator),benthic invertivore,benthic,NA,"sand, seagrass",,
+Australia (NSW2),Urunga Lagoon 1,brendan.kelaher@scu.edu.au,Gobiidae sp.,41,Gobiidae,ambush,hunting macrofauna (predator),benthic invertivore,benthic,day,"sand, seagrass",,
+Australia (NSW2),Urunga Lagoon 2,brendan.kelaher@scu.edu.au,Gobiidae sp.,18,Gobiidae,ambush,hunting macrofauna (predator),benthic invertivore,benthic,day,"sand, seagrass",,
+Australia (QLD),Bowen,paul.york@jcu.edu.au,Gobiidae sp.,40,Gobiidae,ambush,hunting macrofauna (predator),Benthic invertivore,benthic,Day/night,"sand, rock, seagrass, coral",,
+Australia (QLD3),Moreton_Bay,r.connolly@griffith.edu.au,Gobiidae sp.,48,Gobiidae,ambush,hunting macrofauna (predator),Benthic invertivore,benthic,Day,sand,,these have mouths that are too small to eat squidpops
+USA (CA2),Windy Cove,jkoleary@calpoly.edu,Gobiidae sp.,1,Gobiidae,ambush,NA,NA,benthic,NA,NA,,
+USA (CA3),Elkhorn Slough,bbhughes@ucsc.edu,Gobiidae sp.,5,Gobiidae,ambush,hunting macrofauna (predator),benthic invertivore,benthic,NA,"seagrass, sand, seaweed, rock",,
+USA (NC),NC,sziegler@live.unc.edu,Gobiosoma bosc,1,Gobiidae,ambush,browsing on substrate,benthic invertivore,benthic,,"seagrass, rock, sand",,
+USA (TX),Oso Bay,mdiskin@islander.tamucc.edu,Gobiosoma bosc,21,Gobiidae,ambush,browsing on substrate,benthic invertivore,benthic,NA,NA,,
+USA (NC),NC,sziegler@live.unc.edu,Gobiosoma sp.,2,Gobiidae,ambush,browsing on substrate,benthic invertivore,benthic,,"seagrass, rock, sand",,
+Croatia,CR-B-SvetiDuh,claudia@claudiakruschel.com,Gobius geniporus,4,Gobiidae,ambush,hunting macrofauna (predator),Benthic invertivore,benthic,day,sand,,strong preference for unconsolidated sand 
+Croatia,CR-B-SvetiDuh,claudia@claudiakruschel.com,Gobius niger,52,Gobiidae,ambush,hunting macrofauna (predator),planktivore;Benthic invertivore,benthic,day,"sand, rock, seagrass",,seems to be forced to avoid seagrass by Z. ophiocephalus
+Australia (QLD2),Hervey Bay,chender1@usc.edu.au,Gobius sp.,69,Gobiidae,ambush,hunting macrofauna (predator),Benthic invertivore,benthic,day,sand,,these have mouths that are too small to eat squidpops
+Australia (QLD2),Noosa river,chender1@usc.edu.au,Gobius sp.,340,Gobiidae,ambush,hunting macrofauna (predator),Benthic invertivore,benthic,day,sand,,these have mouths that are too small to eat squidpops
+Wales,"Porthdinllaen, UK",maxrobinson@hotmail.com,Gobiusculus flavescens,1,Gobiidae,ambush,selective plankton feeding,planktivore;Benthic invertivore,benthic,NA,NA,,
+Mexico (BN),Punta Banda Estuary,pablojorgensen@hotmail.com,Ilypnus gilberti,132,Gobiidae,ambush,Hunting macrofauna (predator),Benthic invertivore,benthic,Night,Sand,,"Stomach contents, Stable isotopes, Observations, Literature"
+USA (CA),San Diego,khovel@mail.sdsu.edu,Lepidogobius lepidus,236,Gobiidae,ambush,NA,NA,benthic,NA,NA,,
+USA (OR),OIMB-Valino-SSNERR,agalow3@uoregon.edu,Lepidogobius lepidus,1,Gobiidae,ambush,,,benthic,,,,
+Australia (VIC),Edwards Point,hjanes@deakin.edu.au,Nesogobius maccullochi,25,Gobiidae,ambush,hunting macrofauna (predator),Benthic invertivore,benthic,Day,sand,,Fishbase & fishesofaustralia website & expert opinion
+Australia (VIC),Indented Head,hjanes@deakin.edu.au,Nesogobius maccullochi,18,Gobiidae,ambush,hunting macrofauna (predator),Benthic invertivore,benthic,Day,sand,,fishbase & fishesofaustralia website 
+Australia (VIC),St. Leonards,hjanes@deakin.edu.au,Nesogobius maccullochi,8,Gobiidae,ambush,hunting macrofauna (predator),Benthic invertivore,benthic,Day,sand,,Fishbase & fishesofaustralia website & expert opinion
+Croatia,NA,NA,Pomatoschistus marmoratus,3,Gobiidae,ambush,hunting macrofauna (predator),NA,benthic,NA,NA,,
+France,Bouzigues,francesca.rossi@cnrs.fr,Pomatoschistus marmoratus,15,Gobiidae,ambush,hunting macrofauna (predator),,benthic,,,,
+Croatia,CR-B-SvetiDuh,claudia@claudiakruschel.com,Pomatoschistus marmoratus/minutus,190,Gobiidae,ambush,hunting macrofauna (predator),Benthic invertivore,benthic,day,sand,,"strongly prefers sand, mostly burried"
+Wales,"Porthdinllaen, UK",maxrobinson@hotmail.com,Pomatoschistus minutus,291,Gobiidae,ambush,hunting macrofauna (predator),NA,benthic,NA,NA,,
+Norway,NN_Juvika,katrin.sieben@gmail.com,Pomatoschistus sp.,66,Gobiidae,ambush,hunting macrofauna (predator),Benthic invertivore,benthic,,sand,,
+Korea,Koje-Korea,"sormyo@pusan.ac.kr, klee@pusan.ac.kr",Pterogobius elapoides,5,Gobiidae,ambush,selective plankton feeding,NA,benthic,NA,"rock, seagrass, seaweed",,
+Croatia,CR-B-SvetiDuh,claudia@claudiakruschel.com,Zosterisessor ophiocephalus,113,Gobiidae,ambush,hunting macrofauna (predator),benthic invertivore;higher carnivore,benthic,day,seagrass,,"strong preference for dense seagrass to support classic ambush feeding mode, sit and wait and single strike suction ingestion"
+Mexico (ICML),NA,NA,Anisotremus virginicus,3,Haemulidae,active,hunting macrofauna (predator),NA,NA,NA,NA,1,
+Australia (QLD3),NA,NA,Diagramma pictum,1,Haemulidae,active,hunting macrofauna (predator),NA,NA,NA,NA,1,
+Mexico (ICML),NA,NA,Haemulon plumieri,29,Haemulidae,active,NA,NA,NA,NA,NA,1,
+Mexico (ICML),NA,NA,Haemulon sciurus,1,Haemulidae,active,hunting macrofauna (predator),NA,NA,NA,NA,1,
+Chile,Puerto Aldea (Chile),thiel@ucn.cl,Isacia conceptionis,1,Haemulidae,active,hunting macrofauna (predator),benthic invertivore,benthic,Day & Night,"rock, sand",1,
+USA (NC),NC,sziegler@live.unc.edu,Orthopristis chrysoptera,5,Haemulidae,active,hunting macrofauna (predator),higher carnivore,demersal,night,"seagrass, sand",1,
+USA (NC2),Pine Knoll Shores,lindsaycgaskins@gmail.com,Orthopristis chrysoptera,1,Haemulidae,active,hunting macrofauna (predator),NA,NA,NA,NA,1,
+Australia (QLD3),Moreton_Bay,r.connolly@griffith.edu.au,Arrhamphus sclerolepis,2,Hemiramphidae,active,variable,Omnivore,pelagic site attached,Day/Night,seagrass/sand,0,feed on both seagrass and zooplankton. Feed at day (seagrass mostly) and at night (zooplankton)
+Australia (QLD2),Noosa river,chender1@usc.edu.au,Hemiramphus robustus,1,Hemiramphidae,active,hunting macrofauna (predator),higher carnivore,pelagic site attached,day,water column,0,
+Australia (NSW),Smiths_Lake_NSW,a.poore@unsw.edu.au,Hyporhamphus australis,5,Hemiramphidae,active,variable,omnivore,pelagic site attached,day,"seagrass, sand",0,Dietary classification from Melville & Connolly 2005. Marine Biology 148: 363.
+USA (NC),NC,sziegler@live.unc.edu,Hyporhamphus brasiliensis,2,Hemiramphidae,active,selective plankton feeding,omnivore,pelagic site attached,night,"seagrass, sand",0,
+USA (VA2),,pg@vims.edu,Hyporhamphus meeki,2,Hemiramphidae,active,variable,,pelagic site attached,,,0,
+Australia (NSW2),Urunga Lagoon 1,brendan.kelaher@scu.edu.au,Hyporhamphus regularis,1,Hemiramphidae,active,variable,omnivore,pelagic site attached,day,"sand, seagrass",0,
+Australia (QLD3),Moreton_Bay,r.connolly@griffith.edu.au,Hyporhamphus regularis,2,Hemiramphidae,active,variable,Omnivore,pelagic site attached,Day/Night,seagrass/sand,0,
+Australia (QLD3),NA,NA,Hyporhamphus regularis ardelio,1,Hemiramphidae,active,variable,Omnivore,pelagic site attached,Day/Night,seagrass/sand,0,
+Mexico (BN),Punta Banda Estuary,pablojorgensen@hotmail.com,Hyporhamphus rosae,1,Hemiramphidae,active,Selective plankton feeding,Planktivore,pelagic site attached,Day,Sand,0,Literature
+Australia (QLD2),NA,NA,Hyporhamphus sp.,10,Hemiramphidae,active,NA,NA,pelagic site attached,NA,NA,0,
+Korea,Koje-Korea,"sormyo@pusan.ac.kr, klee@pusan.ac.kr",Hexagrammos agrammus,1,Hexagrammidae,active,hunting macrofauna (predator),benthic invertivore,demersal,NA,"rock, seaweed",1,
+Canada (BC),Choked Pocket,zach.monteith@hakai.org,Hexagrammos decagrammus,2,Hexagrammidae,active,hunting macrofauna (predator),Higher carnivore,Benthopelagic,,"sand, rock, seagrass, kelp",1,larger individuals good candidate for interacting with squid pops; ubiquitous; likely feeds both benthic and pelagic
+Canada (BC),Choked Pocket,zach.monteith@hakai.org,Hexagrammos lagocephalus,3,Hexagrammidae,active,hunting macrofauna (predator),Higher carnivore,Benthopelagic,,"sand, rock, seagrass, kelp",1,larger individuals good candidate for interacting with squid pops; ubiquitous; likely feeds both benthic and pelagic
+Korea,Koje-Korea,"sormyo@pusan.ac.kr, klee@pusan.ac.kr",Hexagrammos otakii,4,Hexagrammidae,active,hunting macrofauna (predator),higher carnivore,demersal,NA,"rock, seaweed",1,
+USA (TX),Aransas Pass,mdiskin@islander.tamucc.edu,Tozeuma carolinense,137,Hippolytidae,active,grazing on aquatic plants,Scraping herbivore,benthic,NA,NA,,
+Australia (NSW2),Urunga Lagoon 1,brendan.kelaher@scu.edu.au,Girella tricuspidata,5,Kyphosidae,active,grazing on aquatic plants,browsing herbivore,demersal,day,"rock, seagrass, sand",0,
+Australia (VIC),Edwards Point,hjanes@deakin.edu.au,Girella zebra,5,Kyphosidae,active,grazing on aquatic plants,Browsing herbivore,Demersal,Day,rock,0,Fishbase & fishesofaustralia website 
+Australia (VIC),Indented Head,hjanes@deakin.edu.au,Girella zebra,5,Kyphosidae,active,grazing on aquatic plants,Browsing herbivore,Demersal,Day,rock,0,fishbase & fishesofaustralia website 
+Australia (VIC),St. Leonards,hjanes@deakin.edu.au,Girella zebra,4,Kyphosidae,active,grazing on aquatic plants,Browsing herbivore,Demersal,Day,rock,0,fishbase & fishesofaustralia website 
+Australia (QLD2),NA,NA,Cheilio inermis,4,Labridae,active,NA,NA,NA,NA,NA,,
+Australia (QLD2),NA,NA,Coris caudimacula,38,Labridae,active,hunting macrofauna (predator),NA,NA,NA,NA,,
+Italy,NA,NA,Coris julis,18,Labridae,active,hunting macrofauna (predator),NA,NA,NA,NA,,
+Australia (QLD2),NA,NA,Coris pictoides,10,Labridae,active,NA,NA,NA,NA,NA,,
+Australia (QLD2),NA,NA,Coris sp.,52,Labridae,active,NA,NA,NA,NA,NA,,
+Mexico (ICML),NA,NA,Halichoeres bivittatus,24,Labridae,active,hunting macrofauna (predator),NA,NA,NA,NA,,
+Mexico (ICML2),NA,NA,Halichoeres bivittatus,5,Labridae,active,hunting macrofauna (predator),NA,NA,NA,NA,,
+Australia (QLD2),NA,NA,Halichoeres chloropterus,3,Labridae,active,hunting macrofauna (predator),NA,NA,NA,NA,,
+Mexico (ICML),NA,NA,Halichoeres garnoti,1,Labridae,active,hunting macrofauna (predator),NA,NA,NA,NA,,
+Mexico (BN),Punta Banda Estuary,pablojorgensen@hotmail.com,Halichoeres semicinctus,1,Labridae,active,Hunting macrofauna (predator),Benthic invertivore,Benthic,Day,Rock,,Literature
+Australia (QLD2),NA,NA,Halichoeres sp.,1,Labridae,active,NA,NA,NA,NA,NA,,
+Australia (QLD2),NA,NA,Halichoeres trimaculatus,3,Labridae,active,variable,NA,NA,NA,NA,,
+Australia (QLD2),NA,NA,Labroides dimidiatus,4,Labridae,active,picking parasites off a host (cleaner),cleaner,demersal,NA,NA,,
+Wales,"Porthdinllaen, UK",maxrobinson@hotmail.com,Labrus bergylta,2,Labridae,active,hunting macrofauna (predator),NA,NA,NA,NA,,
+Australia (QLD2),NA,NA,Leptojulis cyanopleura,48,Labridae,active,selective plankton feeding,Benthic invertivore,Demersal,Day,coral,,
+Australia (QLD2),NA,NA,Leptojulis sp.,20,Labridae,active,NA,NA,NA,NA,NA,,
+Korea,Koje-Korea,"sormyo@pusan.ac.kr, klee@pusan.ac.kr",Parajulis poecilopterus,1,Labridae,active,hunting macrofauna (predator),Benthic invertivore,Demersal,NA,rock,,
+Australia (QLD3),Moreton_Bay,r.connolly@griffith.edu.au,Pseudolabrus guentheri,6,Labridae,active,hunting macrofauna (predator),Benthic invertivore,Demersal,Day,rock,,
+Australia (QLD3),Moreton_Bay,r.connolly@griffith.edu.au,Pseudolabrus guentheri,6,Labridae,active,hunting macrofauna (predator),Benthic invertivore,Demersal,Day,rock,,
+Australia (QLD3),Moreton_Bay,r.connolly@griffith.edu.au,Scarus ghobban,1,Labridae,active,browsing on substrate,Scraping herbivore,Demersal,Day,coral,0,
+Australia (QLD3),Moreton_Bay,r.connolly@griffith.edu.au,Scarus ghobban,1,Labridae,active,browsing on substrate,Scraping herbivore,Demersal,Day,coral,0,"Only herbivorous, unlikely to eat squidpops"
+Mexico (ICML),NA,NA,Sparisoma rubripinne,2,Labridae,active,browsing on substrate,Scraping herbivore,Demersal,Day,coral,0,
+Mexico (ICML),NA,NA,Sparisoma viride,1,Labridae,active,NA,NA,NA,NA,NA,,
+Croatia,NA,NA,Symphodus cinereus,1,Labridae,active,hunting macrofauna (predator),NA,NA,NA,NA,,
+Wales,"Porthdinllaen, UK",maxrobinson@hotmail.com,Symphodus melops,41,Labridae,active,hunting macrofauna (predator),NA,NA,NA,NA,,
+Croatia,CR-B-SvetiDuh,claudia@claudiakruschel.com,Symphodus ocellatus,93,Labridae,active,variable,benthic invertivore,demersal,day,"seaweed, rock, seagrass",,more abundant in the rocky reef than in the seagrass but nesting mostly in seagrass
+France,Bouzigues,francesca.rossi@cnrs.fr,Symphodus tinca,8,Labridae,active,hunting macrofauna (predator),Higher carnivore,,,,,
+Italy,NA,NA,Symphodus tinca,2,Labridae,active,hunting macrofauna (predator),NA,NA,NA,NA,,
+Mexico (ICML),NA,NA,Thalassoma bifasciatum,4,Labridae,active,selective plankton feeding,Benthic invertivore,Demersal,Day,coral,,
+Australia (QLD2),NA,NA,Thalassoma sp.,20,Labridae,active,NA,NA,NA,NA,NA,,
+Korea,Koje-Korea,"sormyo@pusan.ac.kr, klee@pusan.ac.kr",Lateolabrax japonicus,116,Lateolabracidae,ambush,hunting macrofauna (predator),planktivore,pelagic non-site attached,NA,water column,1,juveniles are mostly planktivorous; all small individuals in seines
+Australia (QLD2),NA,NA,Lethrinus atkinsoni,29,Lethrinidae,active,hunting macrofauna (predator),NA,NA,NA,NA,1,
+Australia (QLD),Bowen,paul.york@jcu.edu.au,Lethrinus genivittatus,33,Lethrinidae,active,hunting macrofauna (predator),Benthic invertivore,Demersal,Day,"seagrass, rock, sand",1,
+Australia (QLD2),NA,NA,Lethrinus genivittatus,114,Lethrinidae,active,hunting macrofauna (predator),NA,NA,NA,NA,1,
+Australia (QLD3),Moreton_Bay,r.connolly@griffith.edu.au,Lethrinus laticaudis,1,Lethrinidae,active,hunting macrofauna (predator),Benthic invertivore,Demersal,Night,seagrass/seaweed,1,
+Australia (QLD2),NA,NA,Lethrinus nebulosus,26,Lethrinidae,active,hunting macrofauna (predator),NA,NA,NA,NA,1,
+Australia (QLD2),NA,NA,Lethrinus obsoletus,11,Lethrinidae,active,hunting macrofauna (predator),NA,NA,NA,NA,1,
+Australia (QLD2),NA,NA,Lethrinus sp.,331,Lethrinidae,active,NA,NA,NA,NA,NA,1,
+Canada (BC),Choked Pocket,zach.monteith@hakai.org,Liparis sp.,2,Liparidae,active,hunting macrofauna (predator),Benthic invertivore,Benthic,,"sand, seagrass",0,"gape too small for squid pops;  benthic/vegetation associated, pelvic fin modified to adhesive disc; trophic group information from fishbase for liparis callyodon"
+Australia (VIC),Edwards Point,hjanes@deakin.edu.au,Sepioteuthis australis,2,Loliginidae,active,hunting macrofauna (predator),higher carnivore,Benthopelagic,Night,"sand, reef, seagrass",0,Expert opinion
+Australia (VIC),St. Leonards,hjanes@deakin.edu.au,Sepioteuthis australis,1,Loliginidae,active,hunting macrofauna (predator),higher carnivore,Benthopelagic,Night,"sand, reef, seagrass",0,Expert opinion
+Australia (QLD3),Moreton_Bay,r.connolly@griffith.edu.au,Sepioteuthis lessoniana,6,Loliginidae,active,hunting macrofauna (predator),Higher carnivore,Demersal,Night,seagrass/rock,0,"Cephalopod, unlikley to eat squidpops, live fish and prawns only"
+Australia (QLD2),NA,NA,Caesio sp.,6,Lutjanidae,active,NA,NA,NA,NA,NA,1,
+Mexico (ICML),NA,NA,Lutjanus analis,2,Lutjanidae,active,hunting macrofauna (predator),NA,NA,NA,NA,1,
+Mexico (ICML2),NA,NA,Lutjanus analis,2,Lutjanidae,active,hunting macrofauna (predator),NA,NA,NA,NA,1,
+Mexico (ICML),NA,NA,Lutjanus apodus,2,Lutjanidae,active,hunting macrofauna (predator),NA,NA,NA,NA,1,
+Mexico (ICML),NA,NA,Lutjanus griseus,2,Lutjanidae,active,hunting macrofauna (predator),NA,NA,NA,NA,1,
+USA (TX),Aransas Pass,mdiskin@islander.tamucc.edu,Lutjanus griseus,12,Lutjanidae,active,hunting macrofauna (predator),NA,NA,NA,NA,1,
+Australia (QLD2),NA,NA,Lutjanus obsoletus,1,Lutjanidae,active,NA,NA,NA,NA,NA,1,
+Australia (QLD),Bowen,paul.york@jcu.edu.au,Lutjanus russellii,56,Lutjanidae,active,hunting macrofauna (predator),Benthic invertivore,Demersal,Day,"coral, rock, seagrass, sand",1,
+Australia (QLD2),NA,NA,Lutjanus russellii,108,Lutjanidae,active,hunting macrofauna (predator),NA,NA,NA,NA,1,
+Australia (QLD2),NA,NA,Lutjanus semicinctus,1,Lutjanidae,active,hunting macrofauna (predator),NA,NA,NA,NA,1,
+Australia (QLD2),NA,NA,Lutjanus sp.,2,Lutjanidae,active,NA,NA,NA,NA,NA,1,
+Australia (QLD2),NA,NA,Lutjanus vitta,1,Lutjanidae,active,hunting macrofauna (predator),NA,NA,NA,NA,1,
+Mexico (ICML),NA,NA,Ocyurus chrysurus,5,Lutjanidae,active,hunting macrofauna (predator),NA,NA,NA,NA,1,
+Australia (QLD2),NA,NA,Symphorus nematophorus,6,Lutjanidae,active,hunting macrofauna (predator),NA,NA,NA,NA,1,
+USA (CA),San Diego,khovel@mail.sdsu.edu,Lysmata californica,1,Lysmatidae,active,NA,NA,NA,NA,NA,0,
+Australia (VIC),Edwards Point,hjanes@deakin.edu.au,Acanthaluteres spilomelanurus,4,Monacanthidae,active,variable,Omnivore,Demersal,Day,sand,0,Fishbase & fishesofaustralia website 
+Australia (VIC),Indented Head,hjanes@deakin.edu.au,Acanthaluteres spilomelanurus,3,Monacanthidae,active,variable,Omnivore,Demersal,Day,sand,0,Fishbase & fishesofaustralia website 
+Australia (VIC),St. Leonards,hjanes@deakin.edu.au,Acanthaluteres spilomelanurus,2,Monacanthidae,active,variable,Omnivore,Demersal,Day,sand,0,fishbase & fishesofaustralia website 
+Mexico (ICML),NA,NA,Aluterus scriptus,1,Monacanthidae,active,NA,NA,NA,NA,NA,0,
+Australia (NSW2),Urunga Lagoon 1,brendan.kelaher@scu.edu.au,Meuschenia trachylepis,3,Monacanthidae,active,grazing on aquatic plants,browsing herbivore,demersal,night,"rock, seagrass",0,
+Australia (QLD2),Noosa river,chender1@usc.edu.au,Monacanthus chinensis,8,Monacanthidae,active,grazing on aquatic plants,Omnivore,demersal,day,Seagrass,0,these have mouths that are too small to eat squidpops
+Australia (QLD3),Moreton_Bay,r.connolly@griffith.edu.au,Monacanthus chinensis,48,Monacanthidae,active,grazing on aquatic plants,Omnivore,demersal,NA,NA,0,
+Australia (QLD3),Moreton_Bay,r.connolly@griffith.edu.au,Monacanthus chinensis,48,Monacanthidae,active,grazing on aquatic plants,Omnivore,Demersal,Day,seagrass,0,these have mouths that are too small to eat squidpops
+Korea,Koje-Korea,"sormyo@pusan.ac.kr, klee@pusan.ac.kr",Rudarius ercodes,19,Monacanthidae,active,browsing on substrate,Benthic invertivore,pelagic site attached,NA,"rock, sand, seagrass",0,
+USA (NC),NC,sziegler@live.unc.edu,Stephanolepis hispidus,7,Monacanthidae,active,grazing on aquatic plants,Benthic invertivore,demersal,,"sand, seagrass",0,
+Australia (NSW2),Urunga Lagoon 1,brendan.kelaher@scu.edu.au,Monodactylus argenteus,10,Monodactylidae,active,variable,planktivore,pelagic site attached,day,water column,0,
+Australia (QLD2),Noosa river,chender1@usc.edu.au,Monodactylus argenteus,2,Monodactylidae,active,variable,planktivore,demersal,day,water column,0,Commonly found near structure
+Croatia,CR-B-SvetiDuh,claudia@claudiakruschel.com,Dicentrarchus labrax,2,Moronidae,active,hunting macrofauna (predator),Higher carnivore,demersal,day,"rock, sand, seagrass",1,fast roaming intercepts all habitats
+Wales,NA,NA,Dicentrarchus labrax,1,Moronidae,active,hunting macrofauna (predator),NA,NA,NA,NA,1,
+Australia (NSW),Smiths_Lake_NSW,a.poore@unsw.edu.au,Aldrichetta forsteri,1,Mugilidae,active,variable,omnivore,Benthopelagic,day,"seagrass, sand",0," The species changes diet with age; juveniles feed on planktonic animals, medium-size fish feed on benthic crustaceans and molluscs, and the larger fish feed almost exclusively on algae; Edgar & Shaw 195 JEMBE 194: 83-106"
+Australia (NSW),Smiths_Lake_NSW,a.poore@unsw.edu.au,Liza argentea,3,Mugilidae,active,variable,omnivore,Benthopelagic,day,"seagrass, sand",0,Gut content analysis in Bell et al 1984 Aus J Mar Fresh Res 35: 33-46
+Australia (NSW2),Urunga Lagoon 1,brendan.kelaher@scu.edu.au,Liza argentea,48,Mugilidae,active,variable,omnivore,Benthopelagic,day,"sand, seagrass",0,
+France,Bouzigues,francesca.rossi@cnrs.fr,Liza aurata,17,Mugilidae,active,variable,Omnivore,Benthopelagic,,,0,
+France,Bouzigues,francesca.rossi@cnrs.fr,Liza sp.,1,Mugilidae,active,browsing on substrate,Omnivore,Benthopelagic,,,0,
+Australia (QLD2),Noosa river,chender1@usc.edu.au,Mugil cephalus,2,Mugilidae,active,variable,omnivore,Benthopelagic,day,water column,0,"Found mostly over soft sediments, but can be found swimming through structured habitat"
+Chile,NA,NA,Mugil cephalus,5,Mugilidae,active,variable,NA,Benthopelagic,NA,NA,0,
+Croatia,CR-B-SvetiDuh,claudia@claudiakruschel.com,Mugil cephalus,12,Mugilidae,active,browsing on substrate,omnivore,Benthopelagic,day,water column,0,either skimming the surface for detritus or swallowing sand for detritus
+USA (FL),NA,NA,Mugil cephalus,169,Mugilidae,active,variable,omnivore,Benthopelagic,NA,NA,0,
+USA (FL),NA,NA,Mugil curema,8,Mugilidae,active,variable,omnivore,Benthopelagic,NA,NA,0,
+USA (TX),Oso Bay,mdiskin@islander.tamucc.edu,Mugil curema,4,Mugilidae,active,variable,omnivore,Benthopelagic,NA,NA,0,
+Italy,NA,NA,Mugil sp.,2,Mugilidae,active,NA,NA,Benthopelagic,NA,NA,0,
+Croatia,CR-B-SvetiDuh,claudia@claudiakruschel.com,Mullus barbatus,10,Mullidae,active,hunting macrofauna (predator),Benthic invertivore,demersal,day,"sand, rock",1,mostly in sand-rock mixed areas
+Italy,NA,NA,Mullus surmuletus,1,Mullidae,active,hunting macrofauna (predator),NA,NA,NA,NA,1,
+Australia (QLD2),NA,NA,Parupeneus indicus,13,Mullidae,active,hunting macrofauna (predator),Benthic invertivore,Demersal,Day,sand,1,
+Australia (QLD),Bowen,paul.york@jcu.edu.au,Upeneus tragula,3,Mullidae,active,hunting macrofauna (predator),Benthic invertivore,Demersal,Day,"sand, seagrass, rock, coral",1,
+Australia (QLD3),Moreton_Bay,r.connolly@griffith.edu.au,Upeneus tragula,2,Mullidae,active,hunting macrofauna (predator),Benthic invertivore,benthic,Night,sand,1,Also associate with seagrass and reef structures
+Italy,NA,NA,Muraena helena,1,Muraenidae,ambush,hunting macrofauna (predator),NA,NA,NA,NA,1,
+Australia (QLD2),NA,NA,Scolopsis lineata,11,Nemipteridae,active,hunting macrofauna (predator),NA,NA,NA,NA,1,
+Australia (QLD2),NA,NA,Scolopsis sp.,136,Nemipteridae,active,NA,NA,NA,NA,NA,1,
+Australia (QLD2),NA,NA,Scolopsis trilineata,1,Nemipteridae,active,NA,NA,NA,NA,NA,1,
+USA (WA2),False Bay,ojgraham@me.com,Hypomesus pretiosus,1,Osmeridae,active,selective plankton feeding,planktivore;benthic invertivore,benthopelagic,Night,sand,0,*Diel activity based on spawning at night
+Canada (QC),QC_Baie St-Ludger,mathieu.cusson@uqac.ca,Mallotus villosus,167,Osmeridae,active,selective plankton feeding,planktivore;benthic invertivore,benthopelagic,NA,NA,0,
+Mexico (ICML2),NA,NA,Lactophris trigonus,1,Ostraciidae,active,NA,NA,NA,NA,NA,1,
+Mexico (ICML),NA,NA,Lactophrys trigonus,4,Ostraciidae,active,variable,NA,NA,NA,NA,1,
+Mexico (ICML2),NA,NA,Lactophrys trigonus,2,Ostraciidae,active,variable,NA,NA,NA,NA,1,
+Korea,Koje-Korea,"sormyo@pusan.ac.kr, klee@pusan.ac.kr",Lactoria cornuta,2,Ostraciidae,active,hunting macrofauna (predator),Benthic invertivore,Demersal,Day,rock,1,
+Mexico (ICML2),NA,NA,Lactrophrys trigonus,2,Ostraciidae,active,NA,NA,NA,NA,NA,1,
+Chile,Puerto Aldea (Chile),thiel@ucn.cl,Ovalipes trimaculatus,1,Ovalipidae,active,hunting macrofauna (predator),benthic invertivore,benthic,Day & Night,sand ,1,
+Chile,Puerto Aldea (Chile),thiel@ucn.cl,Pagurus perlatus,20,Paguridae,active,variable,omnivore,benthic,Day & Night,sand,1,
+Croatia,CR-B-SvetiDuh,claudia@claudiakruschel.com,Palaemon elegans,57,Palaemonidae,active,variable,omnivore,benthic,,,1,
+Wales,"Porthdinllaen, UK",maxrobinson@hotmail.com,Palaemon serratus,207,Palaemonidae,active,NA,NA,NA,NA,NA,1,
+Australia (QLD3),Moreton_Bay,r.connolly@griffith.edu.au,Palaemon serrifer,25,Palaemonidae,active,browsing on substrate,Scraping herbivore,benthic,Night,seagrass/sand,1,these are shrimp with mouths too small to eat squidpops
+Australia (NSW2),Urunga Lagoon 1,brendan.kelaher@scu.edu.au,Palaemon sp.,1363,Palaemonidae,active,browsing on substrate,Scraping herbivore,demersal,night,"seagrass, sand",1,
+Australia (NSW2),Urunga Lagoon 2,brendan.kelaher@scu.edu.au,Palaemon sp.,6,Palaemonidae,active,browsing on substrate,scraping herbivore,demersal,night,seagrass,1,
+France,Bouzigues,francesca.rossi@cnrs.fr,Palaemon spp,36,Palaemonidae,active,selective plankton feeding,Omnivore,benthic,,,1,
+USA (DE),"UD Lewes, DE",lanej@udel.edu,Palaemonetes pugio,26,Palaemonidae,active,NA,NA,NA,NA,NA,1,
+USA (TX),Aransas Pass,mdiskin@islander.tamucc.edu,Palaemonetes spp.,220,Palaemonidae,active,NA,NA,NA,NA,NA,1,
+USA (TX),Laguna Madre,mdiskin@islander.tamucc.edu,Eurypanopeus turgidus,3,Panopeidae,active,NA,NA,NA,NA,NA,1,
+Canada (BC),Choked Pocket,zach.monteith@hakai.org,Citharichthys sordidus,31,Paralichthyidae,ambush,hunting macrofauna (predator),Higher carnivore,benthic,,sand,0,juveniles found in seine-able depths generally have gape too small for squid pops; benthic association also makes predation on squid  pops unlikely; likely invertivorous at small sizes
+Canada (BC),Choked Sandspit,zach.monteith@hakai.org,Citharichthys sordidus,2,Paralichthyidae,ambush,hunting macrofauna (predator),Higher carnivore,benthic,,sand,0,juveniles found in seine-able depths generally have gape too small for squid pops; benthic association also makes predation on squid  pops unlikely; likely invertivorous at small sizes
+USA (WA),Redondo S-6,hultgrenk@seattleu.edu,Citharichthys stigmaeus,1,Paralichthyidae,ambush,hunting macrofauna (predator),Benthic invertivore,benthic,Night,sand,,
+Brazil,Praia do Engenho,guca@usp.br,Etropus longimanus,2,Paralichthyidae,ambush,hunting macrofauna (predator),benthic invertivore,benthic,,sand,,Literature (Kawakami & Amaral 1983)
+USA (TX),Oso Bay,mdiskin@islander.tamucc.edu,Paralichthys albigutta,1,Paralichthyidae,ambush,NA,NA,benthic,NA,NA,,
+USA (CA),San Diego,khovel@mail.sdsu.edu,Paralichthys californicus,6,Paralichthyidae,ambush,hunting macrofauna (predator),NA,benthic,NA,NA,,
+Chile,Puerto Aldea (Chile),thiel@ucn.cl,Paralichthys microps,3,Paralichthyidae,ambush,hunting macrofauna (predator),benthic invertivore,benthic,Day & Night,sand,,
+Chile,Puerto Aldea (Chile),thiel@ucn.cl,Paralichthys sp.,6,Paralichthyidae,ambush,hunting macrofauna (predator),benthic invertivore,benthic,Day & Night,sand,,
+Australia (NSW2),Urunga Lagoon 2,brendan.kelaher@scu.edu.au,Pseudorhombus arsius,1,Paralichthyidae,ambush,hunting macrofauna (predator),higher carnivore,benthic,day,sand,,
+Australia (QLD3),Moreton_Bay,r.connolly@griffith.edu.au,Pseudorhombus arsius,1,Paralichthyidae,ambush,hunting macrofauna (predator),Benthic invertivore,benthic,Day,sand,,
+Australia (QLD2),NA,NA,Pseudorhombus sp.,1,Paralichthyidae,ambush,NA,NA,benthic,NA,NA,,
+USA (NC),NC,sziegler@live.unc.edu,Farfantepenaeus aztecus,42,Penaeidae,active,variable,omnivore,benthic,night,"seagrass, sand",1,"oyster, marsh"
+Mexico (BN),Punta Banda Estuary,clarahereu@hotmail.com,Farfantepenaeus californiensis,1,Penaeidae,active,Variable,Omnivore,Benthic,Night,Sand,1,Literature
+USA (TX),Aransas Pass,mdiskin@islander.tamucc.edu,Farfantepenaeus spp.,182,Penaeidae,active,NA,NA,NA,NA,NA,,
+USA (TX),Oso Bay,mdiskin@islander.tamucc.edu,Farfantepenaus spp.,100,Penaeidae,active,NA,NA,NA,NA,NA,,
+USA (CA),San Diego,khovel@mail.sdsu.edu,Penaeus californicus,6,Penaeidae,active,NA,NA,NA,NA,NA,,
+Australia (QLD3),Moreton_Bay,r.connolly@griffith.edu.au,Penaeus esculentus,8,Penaeidae,active,browsing on substrate,Scraping herbivore,benthic,Night,seagrass/sand,1,these are shrimp with mouths too small to eat squidpops
+Canada (BC),Choked Pocket,zach.monteith@hakai.org,Apodichthys flavidus,10,Pholidae,active,browsing on substrate,omnivore,benthic,,"sand, rock",1,"often found tangled in seagrass canopy; associated with Dungeness Crab at some locations, possibly scavenging food scraps"
+USA (WA2),False Bay,ojgraham@me.com,Apodichthys flavidus,21,Pholidae,active,browsing on substrate,omnivore,benthic,"Day, night","rock, sand",1,"Source for  activity (p. 7, 9): https://www.afsc.noaa.gov/Publications/AFSC-TM/NOAA-TM-AFSC-111.pdf"
+Korea,Koje-Korea,"sormyo@pusan.ac.kr, klee@pusan.ac.kr",Pholis fangi,7,Pholidae,active,browsing on substrate,omnivore,benthic,NA,"sand, seagrass",1,
+Norway,NN_Juvika,katrin.sieben@gmail.com,Pholis gunnellus,1,Pholidae,active,browsing on substrate,omnivore,benthic,,"rock, vegetation",1,
+USA (AK),Sunshine Cove,wraymond2@alaska.edu,Pholis laeta,4,Pholidae,active,browsing on substrate,omnivore,benthic,,"vegitated, rocky, sand",1,"WR6, WR4"
+USA (WA2),False Bay,ojgraham@me.com,Pholis laeta,37,Pholidae,active,browsing on substrate,omnivore,benthic,Night,"rock, sand",1,*Source (p. 2): http://www.adfg.alaska.gov/static/species/speciesinfo/_aknhp/Crescent_gunnel.pdf
+USA (WA),Redondo S-6,hultgrenk@seattleu.edu,Pholis ornata,3,Pholidae,active,browsing on substrate,omnivore,benthic,,,1,
+USA (WA2),False Bay,ojgraham@me.com,Pholis ornata,17,Pholidae,active,browsing on substrate,omnivore,benthic,Night,sand,1,
+USA (WA),Redondo N2,hultgrenk@seattleu.edu,Pholis sp.,1,Pholidae,active,browsing on substrate,omnivore,benthic,,,1,
+USA (MA),Dorothy Cove,rhughes@northeastern.edu,Urophycis regia,2,Phycidae,ambush,hunting macrofauna (predator),Benthic invertivore,benthic,,rock,1,
+Australia (QLD),Bowen,paul.york@jcu.edu.au,Platycephalidae sp.,1,Platycephalidae,ambush,hunting macrofauna (predator),Higher carnivore,Demersal,Day,"sand, seagrass",1,
+Australia (VIC),Indented Head,hjanes@deakin.edu.au,Platycephalus aurimaculatus,1,Platycephalidae,ambush,hunting macrofauna (predator),Benthic invertivore,Demersal,Day,sand,1,fishbase & fishesofaustralia website 
+Australia (VIC),St. Leonards,hjanes@deakin.edu.au,Platycephalus aurimaculatus,1,Platycephalidae,ambush,hunting macrofauna (predator),Benthic invertivore,Demersal,Day,sand,1,fishbase & fishesofaustralia website 
+Australia (QLD2),Hervey Bay,chender1@usc.edu.au,Platycephalus fuscus,1,Platycephalidae,ambush,hunting macrofauna (predator),benthic invertivore,benthic,night,sand,1,
+Australia (QLD3),Moreton_Bay,r.connolly@griffith.edu.au,Platycephalus fuscus,1,Platycephalidae,ambush,hunting macrofauna (predator),Benthic invertivore,benthic,Day,sand,1,
+USA (AK),Sunshine Cove,wraymond2@alaska.edu,Lepidopsetta sp.,22,Pleuronectidae,ambush,,,benthic,,"vegitated, rocky, sand",,"WR4, WR7"
+USA (AK),Sunshine Cove,wraymond2@alaska.edu,Limanda aspera,5,Pleuronectidae,ambush,hunting macrofauna (predator),,,,vegitated,,WR4
+Wales,"Porthdinllaen, UK",maxrobinson@hotmail.com,Limanda limanda,2,Pleuronectidae,ambush,hunting macrofauna (predator),NA,NA,NA,NA,,
+Canada (BC),Choked Pocket,zach.monteith@hakai.org,Parophrys vetulus,7,Pleuronectidae,ambush,hunting macrofauna (predator),Higher carnivore,Benthic,,"sand, seagrass",0,juveniles found in seine-able depths generally have gape too small for squid pops; benthic association also makes predation on squid  pops unlikely
+USA (OR),OIMB-Valino-SSNERR,agalow3@uoregon.edu,Parophrys vetulus,9,Pleuronectidae,ambush,hunting macrofauna (predator),Higher carnivore,,,,,
+USA (WA2),False Bay,ojgraham@mac.com,Parophrys vetulus,1,Pleuronectidae,ambush,hunting macrofauna (predator),Higher carnivore,Benthic,Day,sand,,
+USA (AK),Sunshine Cove,wraymond2@alaska.edu,Platichthys stellatus,1,Pleuronectidae,ambush,hunting macrofauna (predator),benthic invertivore,benthic,,"vegitated, sand",,WR4
+USA (CA),San Diego,khovel@mail.sdsu.edu,Platichthys stellatus,8,Pleuronectidae,ambush,hunting macrofauna (predator),NA,NA,NA,NA,,
+Norway,NN_Juvika,katrin.sieben@gmail.com,Pleuronectes platessa,25,Pleuronectidae,ambush,hunting macrofauna (predator),Benthic invertivore,benthic,Night,sand,,
+Wales,"Porthdinllaen, UK",maxrobinson@hotmail.com,Pleuronectes platessa,11,Pleuronectidae,ambush,hunting macrofauna (predator),NA,NA,NA,NA,,
+Norway,NA,NA,Pleuronectiformes ,1,Pleuronectidae,ambush,NA,NA,NA,NA,NA,,
+Wales,NA,NA,Pleuronectinae ,1,Pleuronectidae,ambush,NA,NA,NA,NA,NA,,
+Canada (BC),Choked Sandspit,zach.monteith@hakai.org,Psettichthys melanostictus,18,Pleuronectidae,ambush,hunting macrofauna (predator),Higher carnivore,Benthic,,sand,0,juveniles found in seine-able depths generally have gape too small for squid pops; benthic association also makes predation on squid  pops unlikely; likely invertivorous at small sizes
+USA (MA),Dorothy Cove,rhughes@northeastern.edu,Pseudopleuronectes americanus,5,Pleuronectidae,ambush,hunting macrofauna (predator),Benthic invertivore,benthic,day,sand,,other habitat: seagrass
+Mexico (ICML),NA,NA,Abudefduf saxatilis,1,Pomacentridae,active,variable,omnivore,NA,NA,NA,1,
+Italy,NA,NA,Chromis chromis,3,Pomacentridae,active,hunting macrofauna (predator),NA,NA,NA,NA,1,
+USA (NC),NC,sziegler@live.unc.edu,Arenaeus cribrarius,3,Portunidae,active,variable,omnivore,benthic,night,sand,1,http://animaldiversity.org/accounts/Arenaeus_cribrarius/
+Mexico (BN),Punta Banda Estuary,pablojorgensen@hotmail.com,Callinectes arcuatus,17,Portunidae,active,Hunting macrofauna (predator),Benthic invertivore,Benthic,Night,Sand,1,Literature
+Brazil,Praia do Barreiro,guca@usp.br,Callinectes danae,1,Portunidae,active,hunting macrofauna (predator),benthic invertivore;Higher carnivore,benthic,Night ,sand / mud; frequently estuarine,1,"Literature (Reigada & Negreiros-Fransozo 2001, )"
+Brazil,Praia do Barreiro,guca@usp.br,Callinectes ornatus,5,Portunidae,active,hunting macrofauna (predator),benthic invertivore;Higher carnivore,benthic,Night ,sand / mud; rarely estuarine,1,"Literature (Haefner 1990; Reigada & Negreiros-Fransozo 2001, Mantelatto & Christofoletti 2001)"
+Brazil,Praia do Engenho,guca@usp.br,Callinectes ornatus,14,Portunidae,active,hunting macrofauna (predator),benthic invertivore;Higher carnivore,benthic,Night ,sand / mud; rarely estuarine,1,"Literature (Haefner 1990; Reigada & Negreiros-Fransozo 2001, Mantelatto & Christofoletti 2001)"
+USA (DE),"UD Lewes, DE",lanej@udel.edu,Callinectes sapidus,3,Portunidae,active,variable,omnivore,benthic,NA,NA,1,
+USA (NC),NC,sziegler@live.unc.edu,Callinectes sapidus,25,Portunidae,active,variable,omnivore,benthic,"day, night","sand, seagrass, rock ",1,oyster
+USA (TX),Aransas Pass,mdiskin@islander.tamucc.edu,Callinectes sapidus,12,Portunidae,active,variable,omnivore,benthic,NA,NA,1,
+USA (VA),Goodwin Island,jslefche@vims.edu,Callinectes sapidus,2,Portunidae,active,variable,omnivore,benthic,NA,NA,1,
+USA (VA2),,pg@vims.edu,Callinectes sapidus,46,Portunidae,active,variable,omnivore,benthic,,,1,
+USA (CA),San Diego,khovel@mail.sdsu.edu,Portunus xantusii,39,Portunidae,active,NA,NA,benthic,NA,NA,1,
+Australia (QLD2),Noosa river,chender1@usc.edu.au,Scylla serrata,2,Portunidae,active,hunting macrofauna (predator),Benthic invertivore,benthic,day,sand,1,Will also be found in seagrass and mangrove habitats
+Croatia,CR-B-SvetiDuh,claudia@claudiakruschel.com,Processa canaliculata,12,Processidae,active,variable,omnivore,benthic,,,0,
+Australia (NSW2),Urunga Lagoon 1,brendan.kelaher@scu.edu.au,Pseudomugil signifer,2,Pseudomugilidae,active,hunting macrofauna (predator),benthic invertivore,Benthopelagic,day,"coral, rock, seagrass, sand",0,
+USA (CA),San Diego,khovel@mail.sdsu.edu,Rhinobatos productus,1,Rhinobatidae,active,hunting macrofauna (predator),benthic invertivore;higher carnivore,benthic,night,NA,0,
+Australia (VIC),Edwards Point,hjanes@deakin.edu.au,Rhombosolea tapirina,3,Rhombosoleidae,ambush,hunting macrofauna (predator),Benthic invertivore,benthic,Night,sand,,Fishbase & fishesofaustralia website & expert opinion
+Australia (VIC),St. Leonards,hjanes@deakin.edu.au,Rhombosolea tapirina,1,Rhombosoleidae,ambush,hunting macrofauna (predator),Benthic invertivore,benthic,Night,sand,,Fishbase & fishesofaustralia website & expert opinion
+USA (OR),OIMB-Valino-SSNERR,agalow3@uoregon.edu,Oncorhynchus tshawytscha,2,Salmonidae,active,hunting macrofauna (predator),,,,,1,
+Norway,NA,NA,Salmo trutta trutta,1,Salmonidae,active,NA,NA,NA,NA,NA,1,
+USA (NC),NC,sziegler@live.unc.edu,Bairdiella chrysoura,1,Sciaenidae,active,hunting macrofauna (predator),benthic invertivore,demersal,"day, night","sand, seagrass",1,oyster
+USA (TX),Aransas Pass,mdiskin@islander.tamucc.edu,Bairdiella chrysoura,20,Sciaenidae,active,hunting macrofauna (predator),benthic invertivore,demersal,"day, night","sand, seagrass",1,
+USA (VA),Goodwin Island,jslefche@vims.edu,Bairdiella chrysoura,3,Sciaenidae,active,hunting macrofauna (predator),benthic invertivore,demersal,"day, night","sand, seagrass",1,
+USA (TX),Oso Bay,mdiskin@islander.tamucc.edu,Cynoscion arenarius,1,Sciaenidae,active,hunting macrofauna (predator),Higher carnivore,NA,NA,NA,1,
+USA (TX),Aransas Pass,mdiskin@islander.tamucc.edu,Cynoscion nebulosus,13,Sciaenidae,active,hunting macrofauna (predator),Higher carnivore,NA,NA,NA,1,
+USA (NC),NC,sziegler@live.unc.edu,Leiostomus xanthurus,3,Sciaenidae,active,hunting macrofauna (predator),higher carnivore,demersal,"day, night","seagrass, sand",1,
+USA (TX),Oso Bay,mdiskin@islander.tamucc.edu,Leiostomus xanthurus,8,Sciaenidae,active,hunting macrofauna (predator),NA,NA,NA,NA,1,
+USA (VA2),,pg@vims.edu,Leiostomus xanthurus,12,Sciaenidae,active,hunting macrofauna (predator),Benthic invertivore,demersal,,,1,
+USA (TX),Aransas Pass,mdiskin@islander.tamucc.edu,Sciaenops ocellatus,1,Sciaenidae,active,hunting macrofauna (predator),NA,NA,NA,NA,1,
+USA (CA),San Diego,khovel@mail.sdsu.edu,Umbrina roncador,5,Sciaenidae,active,hunting macrofauna (predator),NA,NA,NA,NA,1,
+Wales,NA,NA,Scyliorhinus canicula,3,Scyliorhinidae,active,hunting macrofauna (predator),benthic invertivore,benthic,night,NA,0,
+Canada (BC),Choked Pocket,zach.monteith@hakai.org,Sebastes caurinus,3,Sebastidae,ambush,hunting macrofauna (predator),Higher carnivore,Benthopelagic,,"sand, rock, seagrass, kelp",1,"feed predominantly benthically, but also off bottom; as juveniles mainly invertivorous"
+Korea,Koje-Korea,"sormyo@pusan.ac.kr, klee@pusan.ac.kr",Sebastes pachycephalus,1,Sebastidae,ambush,NA,higher carnivore,pelagic site attached,NA,"rock, sand ",1,
+Canada (BC),Choked Pocket,zach.monteith@hakai.org,Sebastes spp.,302,Sebastidae,ambush,hunting macrofauna (predator),Higher carnivore,Pelagic site attached,,"sand, rock, seagrass, kelp",1,"likely s. melanops, or s. flavidus, difficult to differentiate as juveniles; as juveniles mainly invertivorous"
+USA (CA2),Windy Cove,jkoleary@calpoly.edu,Sebastes spp.,92,Sebastidae,ambush,NA,NA,NA,NA,NA,1,
+Korea,Koje-Korea,"sormyo@pusan.ac.kr, klee@pusan.ac.kr",Sebastiscus marmoratus,4,Sebastidae,ambush,NA,higher carnivore,pelagic site attached,NA,"rock, sand ",1,
+France,Bouzigues,francesca.rossi@cnrs.fr,Sepia officinalis,1,Sepiidae,active,hunting macrofauna (predator),Higher carnivore,,,,0,
+Australia (QLD3),Moreton_Bay,r.connolly@griffith.edu.au,Sepia plangon,1,Sepiidae,active,hunting macrofauna (predator),Higher carnivore,Demersal,Night,seagrass/rock,0,"Cephalopod, unlikley to eat squidpops, live fish and prawns only"
+Australia (QLD2),Noosa river,chender1@usc.edu.au,Epinephelus coioides,1,Serranidae,ambush,hunting macrofauna (predator),higher carnivore,Benthic,day,rock,1,
+Australia (QLD),Bowen,paul.york@jcu.edu.au,Epinephelus sp.,1,Serranidae,ambush,hunting macrofauna (predator),Higher carnivore,Demersal,Day,"coral, rock, seagrass, sand",1,
+Mexico (ICML),NA,NA,Mycteroperca tigris,1,Serranidae,ambush,hunting macrofauna (predator),Higher carnivore,Demersal,Day,coral,1,
+USA (CA),San Diego,khovel@mail.sdsu.edu,Paralabrax clathratus,4,Serranidae,ambush,hunting macrofauna (predator),NA,NA,NA,NA,1,
+Mexico (BN),Punta Banda Estuary,pablojorgensen@hotmail.com,Paralabrax maculatofasciatus,5,Serranidae,ambush,Hunting macrofauna (predator),Benthic invertivore,Benthic,Night,Sand,1,"Stomach contents, Observations, Literature"
+USA (CA),San Diego,khovel@mail.sdsu.edu,Paralabrax maculatofasciatus,9,Serranidae,ambush,hunting macrofauna (predator),NA,NA,NA,NA,1,
+Mexico (BN),Punta Banda Estuary,clarahereu@hotmail.com,Paralabrax nebulifer,1,Serranidae,ambush,Hunting macrofauna (predator),Benthic invertivore,Benthic,Night,Sand,1,"Stomach contents, Stable isotopes, Observations, Literature"
+Mexico (BN),Punta Banda Estuary,pablojorgensen@hotmail.com,Paralabrax nebulifer,6,Serranidae,ambush,Hunting macrofauna (predator),Benthic invertivore,Benthic,Night,Sand,1,"Stomach contents, Stable isotopes, Observations, Literature"
+USA (CA),San Diego,khovel@mail.sdsu.edu,Paralabrax nebulifer,189,Serranidae,ambush,hunting macrofauna (predator),NA,NA,NA,NA,1,
+Italy,NA,NA,Serranus scriba,11,Serranidae,ambush,hunting macrofauna (predator),NA,NA,NA,NA,1,
+Australia (QLD),Bowen,paul.york@jcu.edu.au,Siganus canaliculatus,25,Siganidae,active,grazing on aquatic plants,Browsing herbivore,Demersal,Day,"seagrass, seaweed",0,
+Australia (QLD3),Moreton_Bay,r.connolly@griffith.edu.au,Siganus canaliculatus,4,Siganidae,active,grazing on aquatic plants,NA,NA,NA,NA,0,
+Australia (QLD2),Noosa river,chender1@usc.edu.au,Siganus fuscescens,13,Siganidae,active,grazing on aquatic plants,browsing herbivore,demersal,day,seagrass,0,
+Australia (QLD3),Moreton_Bay,r.connolly@griffith.edu.au,Siganus fuscescens,4,Siganidae,active,grazing on aquatic plants,Browsing herbivore,Demersal,Day,seagrass,0,"Highly opportunistic, definitely scavenges if given the chance"
+Australia (QLD),Bowen,paul.york@jcu.edu.au,Siganus lineatus,346,Siganidae,active,grazing on aquatic plants,Browsing herbivore,Demersal,Day,"seagrass, seaweed, rock, coral",0,
+Australia (QLD2),NA,NA,Siganus sp.,63,Siganidae,active,NA,NA,NA,NA,NA,0,
+Australia (NSW),Smiths_Lake_NSW,a.poore@unsw.edu.au,Sillago ciliata,4,Sillaginidae,active,hunting macrofauna (predator),benthic invertivore,demersal,day,sand,1,"""Sand Whiting use their conical snouts to forage in the substrate to search for benthic invertebrates such as crustaceans, bivalve molluscs and polychaete worms.""  http://fishesofaustralia.net.au/home/species/3693#moreinfo"
+Australia (QLD),Bowen,paul.york@jcu.edu.au,Sillago maculata,51,Sillaginidae,active,hunting macrofauna (predator),Benthic invertivore,Demersal,Day/night,"seagrass, sand",1,
+Australia (QLD2),Hervey Bay,chender1@usc.edu.au,Sillago maculata,1,Sillaginidae,active,hunting macrofauna (predator),benthic invertivore,benthic,day,sand,1,
+Australia (QLD2),Noosa river,chender1@usc.edu.au,Sillago maculata,7,Sillaginidae,active,hunting macrofauna (predator),benthic invertivore,benthic,day,sand,1,
+Australia (QLD3),Moreton_Bay,r.connolly@griffith.edu.au,Sillago maculata,30,Sillaginidae,active,hunting macrofauna (predator),Benthic invertivore,benthic,Day/Night,sand,1,
+Australia (NSW2),Urunga Lagoon 1,brendan.kelaher@scu.edu.au,Sillago sp.,1,Sillaginidae,active,hunting macrofauna (predator),benthic invertivore,demersal,day,sand,1,
+Australia (NSW2),Urunga Lagoon 2,brendan.kelaher@scu.edu.au,Sillago sp.,16,Sillaginidae,active,hunting macrofauna (predator),benthic invertivore,demersal,day,sand,1,
+Korea,Koje-Korea,"sormyo@pusan.ac.kr, klee@pusan.ac.kr",Sillago sp.,3,Sillaginidae,active,NA,NA,NA,NA,NA,1,
+Croatia,CR-B-SvetiDuh,claudia@claudiakruschel.com,Solea solea,1,Soleidae,ambush;active,hunting macrofauna (predator),Benthic invertivore,benthic,day,sand,0,strongly prefers sand
+Italy,NA,NA,Solea sp.,3,Soleidae,ambush;active,NA,NA,NA,NA,NA,0,
+Australia (NSW),Smiths_Lake_NSW,a.poore@unsw.edu.au,Acanthopagrus australis,72,Sparidae,active,hunting macrofauna (predator),benthic invertivore,demersal,day,"rock, seagrass, sand",1,
+Australia (NSW2),Urunga Lagoon 1,brendan.kelaher@scu.edu.au,Acanthopagrus australis,15,Sparidae,active,hunting macrofauna (predator),benthic invertivore,demersal,day,"rock, seagrass, sand",1,
+Australia (QLD3),NA,NA,Acanthopagrus australis,2,Sparidae,active,hunting macrofauna (predator),Benthic invertivore,Demersal,Day,rock,1,
+USA (FL),NA,NA,Archosargus probatocephalus,37,Sparidae,active,hunting macrofauna (predator),benthic invertivore,benthic,NA,NA,1,
+USA (TX),Oso Bay,mdiskin@islander.tamucc.edu,Archosargus probatocephalus,1,Sparidae,active,hunting macrofauna (predator),NA,NA,NA,NA,1,
+Italy,NA,NA,Boops boops,1,Sparidae,active,selective plankton feeding,NA,NA,NA,NA,1,
+Croatia,NA,NA,Diplodus annularis,1,Sparidae,active,hunting macrofauna (predator),NA,NA,NA,NA,1,
+Italy,NA,NA,Diplodus annularis,9,Sparidae,active,hunting macrofauna (predator),NA,NA,NA,NA,1,
+USA (NC),NC,sziegler@live.unc.edu,Diplodus holbrookii,4,Sparidae,active,grazing on aquatic plants,omnivore,demersal,,seagrass,1,
+Italy,NA,NA,Diplodus puntazzo,1,Sparidae,active,hunting macrofauna (predator),NA,NA,NA,NA,1,
+France,Bouzigues,francesca.rossi@cnrs.fr,Diplodus sargus,1,Sparidae,active,hunting macrofauna (predator),omnivore,Demersal,,,1,
+Italy,NA,NA,Diplodus sargus,2,Sparidae,active,hunting macrofauna (predator),omnivore,Demersal,NA,NA,1,
+Italy,NA,NA,Diplodus vulgaris,6,Sparidae,active,hunting macrofauna (predator),omnivore,Demersal,NA,NA,1,
+USA (NC),NC,sziegler@live.unc.edu,Lagodon rhomboides,298,Sparidae,active,hunting macrofauna (predator),omnivore,demersal,"day, night","seagrass, sand, rock",1,"everywhere: oyster, marsh; Diet changes with size"
+USA (NC2),Pine Knoll Shores,lindsaycgaskins@gmail.com,Lagodon rhomboides,24,Sparidae,active,hunting macrofauna (predator),omnivore,demersal,NA,NA,1,
+USA (TX),Aransas Pass,mdiskin@islander.tamucc.edu,Lagodon rhomboides,149,Sparidae,active,hunting macrofauna (predator),omnivore,demersal,NA,NA,1,
+Italy,NA,NA,Oblada melanura,39,Sparidae,active,hunting macrofauna (predator),NA,NA,NA,NA,1,
+Italy,NA,NA,Sarpa salpa,1,Sparidae,active,grazing on aquatic plants,Browsing herbivore,Demersal,Day,rock,1,
+Croatia,NA,NA,Sparus aurata,4,Sparidae,active,hunting macrofauna (predator),NA,NA,NA,NA,1,
+France,NA,NA,Sparus aurata,4,Sparidae,active,hunting macrofauna (predator),NA,NA,NA,NA,1,
+Italy,NA,NA,Sparus aurata,2,Sparidae,active,hunting macrofauna (predator),NA,NA,NA,NA,1,
+France,Bouzigues,francesca.rossi@cnrs.fr,Sparus sp.,4,Sparidae,active,hunting macrofauna (predator),Higher carnivore,,,,1,
+Italy,NA,NA,Spondyliosoma cantharus,14,Sparidae,active,variable,NA,NA,NA,NA,1,
+Australia (QLD2),NA,NA,Sphyraena barracuda,1,Sphyraenidae,active,NA,NA,NA,NA,NA,1,
+Mexico (ICML2),NA,NA,Sphyraena barracuda,2,Sphyraenidae,active,hunting macrofauna (predator),NA,NA,NA,NA,1,
+USA (NC),NC,sziegler@live.unc.edu,Sphyraena borealis,1,Sphyraenidae,active,hunting macrofauna (predator),higher carnivore,demersal,night,"sand, seagrass",1,
+Australia (QLD),Bowen,paul.york@jcu.edu.au,Sphyraena obtusata,1,Sphyraenidae,active,hunting macrofauna (predator),Higher carnivore,pelagic non-site attached,Day,"coral, sand, seagrass",1,
+Australia (QLD2),Noosa river,chender1@usc.edu.au,Sphyraena obtusata,1,Sphyraenidae,active,hunting macrofauna (predator),Higher carnivore,pelagic non-site attached,Day,coral,1,
+Australia (QLD3),Moreton_Bay,r.connolly@griffith.edu.au,Sphyraena obtusata,5,Sphyraenidae,active,hunting macrofauna (predator),Higher carnivore,pelagic non-site attached,Day,coral,1,
+Canada (BC),Choked Pocket,zach.monteith@hakai.org,Xiphister atropurpureus,1,Stichaeidae,ambush,browsing on substrate,omnivore,Benthic,,rock,1,
+Wales,"Porthdinllaen, UK",maxrobinson@hotmail.com,Entelurus aequoreus,3,Syngnathidae,ambush,hunting macrofauna (predator),planktivore;benthic invertivore,NA,NA,NA,0,
+Australia (QLD3),Moreton_Bay,r.connolly@griffith.edu.au,Hippichthys penicillus,1,Syngnathidae,ambush,selective plankton feeding,Planktivore,Demersal,Day,seagrass/rock,0,these have mouths that are too small to eat squidpops
+Australia (QLD3),Moreton_Bay,r.connolly@griffith.edu.au,Hippocampus procerus,1,Syngnathidae,ambush,selective plankton feeding,Planktivore,Demersal,Day,seagrass/rock,0,these have mouths that are too small to eat squidpops
+USA (NC),NC,sziegler@live.unc.edu,Hippocampus sp.,1,Syngnathidae,ambush,hunting macrofauna (predator),planktivore;benthic invertivore,Demersal,,"seagrass, seaweed",0,
+Australia (QLD3),Moreton_Bay,r.connolly@griffith.edu.au,Hippocampus whitei,2,Syngnathidae,ambush,selective plankton feeding,Planktivore,Demersal,Day,seagrass/rock,0,these have mouths that are too small to eat squidpops
+Australia (VIC),Edwards Point,hjanes@deakin.edu.au,Stigmatopora argus,5,Syngnathidae,ambush,hunting macrofauna (predator),Benthic invertivore,Demersal,Day,seagrass,0,Fishbase & fishesofaustralia website & expert opinion
+France,Bouzigues,francesca.rossi@cnrs.fr,Syngnathus abaster,3,Syngnathidae,ambush,selective plankton feeding,,Demersal,,,0,
+Wales,"Porthdinllaen, UK",maxrobinson@hotmail.com,Syngnathus acus,2,Syngnathidae,ambush,hunting macrofauna (predator),NA,Demersal,NA,NA,0,
+USA (TX),Aransas Pass,mdiskin@islander.tamucc.edu,Syngnathus floridae,12,Syngnathidae,ambush,hunting macrofauna (predator),NA,Demersal,NA,NA,0,
+USA (VA2),,pg@vims.edu,Syngnathus fuscus,5,Syngnathidae,ambush,hunting macrofauna (predator),,demersal,,"seagrass, seaweed",0,
+Canada (BC),Choked Pocket,zach.monteith@hakai.org,Syngnathus leptorhynchus,2,Syngnathidae,ambush,hunting macrofauna (predator),Planktivore,demersal,,seagrass,0,"found almost exclusively within seagrass canopy; small gape, unlikely candidate to interact with squid pops"
+Mexico (BN),Punta Banda Estuary,pablojorgensen@hotmail.com,Syngnathus leptorhynchus,7,Syngnathidae,ambush,Hunting macrofauna (predator),Benthic invertivore,demersal,Day,Sand,0,"Experiments, tomach contents, Stable isotopes, Observations, Literature"
+USA (AK),Sunshine Cove,wraymond2@alaska.edu,Syngnathus leptorhynchus,17,Syngnathidae,ambush,hunting macrofauna (predator),planktivore;benthic invertivore,demersal,,"vegitated, rocky, sand",0,"WR1, WR4"
+USA (CA),San Diego,khovel@mail.sdsu.edu,Syngnathus leptorhynchus,8,Syngnathidae,ambush,hunting macrofauna (predator),NA,demersal,NA,NA,0,
+USA (CA2),Windy Cove,jkoleary@calpoly.edu,Syngnathus leptorhynchus,9,Syngnathidae,ambush,hunting macrofauna (predator),NA,demersal,NA,NA,0,
+USA (OR),OIMB-Valino-SSNERR,agalow3@uoregon.edu,Syngnathus leptorhynchus,7,Syngnathidae,ambush,hunting macrofauna (predator),,demersal,,,0,
+USA (WA),Redondo N1,hultgrenk@seattleu.edu,Syngnathus leptorhynchus,2,Syngnathidae,ambush,hunting macrofauna (predator),Benthic invertivore,demersal,,,0,Fishbase.  Pers obs: these have mouths that are too small to eat squidpops
+USA (WA),Redondo S-6,hultgrenk@seattleu.edu,Syngnathus leptorhynchus,10,Syngnathidae,ambush,hunting macrofauna (predator),Benthic invertivore,demersal,,,0,
+USA (WA2),False Bay,ojgraham@me.com,Syngnathus leptorhynchus,41,Syngnathidae,ambush,hunting macrofauna (predator),Benthic invertivore,demersal,Day,sand,0,May have mouths too small for squidpops. Feed by sucking up small inverts. 
+Australia (QLD),Bowen,paul.york@jcu.edu.au,Syngnathus sp.,1,Syngnathidae,ambush,selective plankton feeding,planktivore,demersal,Day/night,"seagrass, seaweed",0,
+Australia (QLD2),Noosa river,chender1@usc.edu.au,Syngnathus sp.,1,Syngnathidae,ambush,hunting macrofauna (predator),planktivore;benthic invertivore,demersal,Day,Seagrass,0,these have mouths that are too small to eat squidpops
+France,Bouzigues,francesca.rossi@cnrs.fr,Syngnathus sp.,3,Syngnathidae,ambush,selective plankton feeding,,demersal,,,0,
+USA (NC),NC,sziegler@live.unc.edu,Syngnathus sp.,7,Syngnathidae,ambush,hunting macrofauna (predator),planktivore;benthic invertivore,demersal,,seagrass,0,
+Croatia,CR-B-SvetiDuh,claudia@claudiakruschel.com,Syngnathus typhle,5,Syngnathidae,ambush,selective plankton feeding,planktivore;benthic invertivore,demersal,day,seagrass,0,strong preference for seagrass
+France,Bouzigues,francesca.rossi@cnrs.fr,Syngnathus typhle,8,Syngnathidae,ambush,selective plankton feeding,,demersal,,,0,
+Australia (QLD3),Moreton_Bay,r.connolly@griffith.edu.au,Urocampus carinirostris,1,Syngnathidae,ambush,selective plankton feeding,Planktivore,demersal,Day,seagrass/rock,0,these have mouths that are too small to eat squidpops
+Australia (NSW2),Urunga Lagoon 1,brendan.kelaher@scu.edu.au,Saurida nebulosa,1,Synodontidae,ambush,hunting macrofauna (predator),higher carnivore,benthic,day,"sand, seagrass",1,
+USA (TX),Aransas Pass,mdiskin@islander.tamucc.edu,Synodus foetens,2,Synodontidae,ambush,hunting macrofauna (predator),NA,NA,NA,NA,1,
+Brazil,Praia do Barreiro,guca@usp.br,Synodus myops,2,Synodontidae,ambush,hunting macrofauna (predator),higher carnivore,benthic,NA,sand,1,"Literature (Esposito et al. 2009, Du et al. 2011, Ashworth et al. 2014);  (fish; data obtained for S. dermatogenys and S. saurus)"
+Australia (NSW),Smiths_Lake_NSW,a.poore@unsw.edu.au,Helotes sexlineatus,6,Terapontidae,active,hunting macrofauna (predator),benthic invertivore,demersal,day,"rock, seagrass, sand",1,Diet diet mostly algae for Helotes (formerly Pelates) sexilineatus (Edgar & Ahaw 1995 JEMBE 194:107-131) or mostly crustaceans. (Sanchez-Jere et al. 2002 Austral Ecol 27:200-210)
+Australia (NSW2),Urunga Lagoon 1,brendan.kelaher@scu.edu.au,Helotes sexlineatus,42,Terapontidae,active,hunting macrofauna (predator),benthic invertivore,demersal,day,seagrass,1,
+Australia (QLD2),Hervey Bay,chender1@usc.edu.au,Helotes sexlineatus,3,Terapontidae,active,hunting macrofauna (predator),Benthic invertivore,benthic,day,Seagrass,1,
+Australia (QLD2),Noosa river,chender1@usc.edu.au,Helotes sexlineatus,34,Terapontidae,active,hunting macrofauna (predator),Benthic invertivore,benthic,day,Seagrass,1,
+Australia (QLD3),Moreton_Bay,r.connolly@griffith.edu.au,Helotes sexlineatus,72,Terapontidae,active,hunting macrofauna (predator),benthic invertivore,Demersal,Day,seagrass,1,
+Australia (QLD),Bowen,paul.york@jcu.edu.au,Pelates quadrilineatus,147,Terapontidae,active,hunting macrofauna (predator),Benthic invertivore,Demersal,Day,"seagrass, sand",1,
+Australia (NSW2),Urunga Lagoon 1,brendan.kelaher@scu.edu.au,Arothron hispidus,5,Tetraodontidae,active,browsing on substrate,benthic invertivore,Demersal,day,"rock, seagrass, sand",1,
+Australia (QLD2),NA,NA,Arothron sp.,1,Tetraodontidae,active,NA,NA,NA,NA,NA,1,
+Korea,Koje-Korea,"sormyo@pusan.ac.kr, klee@pusan.ac.kr",Arothron stellatus,1,Tetraodontidae,active,hunting macrofauna (predator),benthic invertivore,demersal,NA,seagrass,1,
+USA (VA2),,pg@vims.edu,Sphoeroides maculatus,1,Tetraodontidae,active,hunting macrofauna (predator),,pelagic non-site attached,,,1,
+USA (FL),NA,NA,Sphoeroides nephelus,2,Tetraodontidae,active,hunting macrofauna (predator),benthic invertivore,benthic,NA,NA,1,
+Mexico (ICML2),NA,NA,Sphoeroides testudineus,1,Tetraodontidae,active,hunting macrofauna (predator),NA,NA,NA,NA,1,
+Korea,Koje-Korea,"sormyo@pusan.ac.kr, klee@pusan.ac.kr",Takifugu niphobles,47,Tetraodontidae,active,hunting macrofauna (predator),Benthic invertivore,Demersal,NA,"sand, seagrass",1,
+Australia (NSW),Smiths_Lake_NSW,a.poore@unsw.edu.au,Tetractenos glaber,38,Tetraodontidae,active,hunting macrofauna (predator),benthic invertivore,demersal,day,"seagrass, sand",1,Diet information in Edgar & Shaw 195 JEMBE 194: 83-106; Alquezar et al. 2006. Environmental Pollution 142: 123-131.
+Australia (VIC),Edwards Point,hjanes@deakin.edu.au,Tetractenos glaber,63,Tetraodontidae,active,hunting macrofauna (predator),Benthic invertivore,Demersal,Day,sand/seagrass,1,Fishbase & fishesofaustralia website & expert opinion
+Australia (VIC),Indented Head,hjanes@deakin.edu.au,Tetractenos glaber,93,Tetraodontidae,active,hunting macrofauna (predator),Benthic invertivore,Demersal,Day,sand/seagrass,1,fishbase & fishesofaustralia website & expert opinion
+Australia (VIC),St. Leonards,hjanes@deakin.edu.au,Tetractenos glaber,113,Tetraodontidae,active,hunting macrofauna (predator),Benthic invertivore,Demersal,Day,sand/seagrass,1,fFishbase & fishesofaustralia website 
+Australia (NSW2),Urunga Lagoon 1,brendan.kelaher@scu.edu.au,Tetractenos hamiltoni,2,Tetraodontidae,active,hunting macrofauna (predator),higher carnivore,Demersal,day,"sand, seagrass",1,
+Australia (QLD2),Hervey Bay,chender1@usc.edu.au,Tetractenos hamiltoni,27,Tetraodontidae,active,hunting macrofauna (predator),benthic invertivore,benthic,day,sand,1,
+Australia (QLD2),Noosa river,chender1@usc.edu.au,Tetractenos hamiltoni,2,Tetraodontidae,active,hunting macrofauna (predator),benthic invertivore,benthic,day,sand,1,
+Australia (QLD),Bowen,paul.york@jcu.edu.au,Torquigener sp.,3,Tetraodontidae,active,hunting macrofauna (predator),Benthic invertivore,Demersal,Day/night,"sand,seagrass, rock, coral",1,
+Australia (NSW),Smiths_Lake_NSW,a.poore@unsw.edu.au,Centropogon australis,53,Tetrarogidae,ambush,hunting macrofauna (predator),benthic invertivore,demersal,day,"rock, seagrass, sand",1,"Diet from Bell, J.D., Burchmore & Pollard 1978. Mar Freshw Res 29: 175-185"
+Australia (NSW2),Urunga Lagoon 1,brendan.kelaher@scu.edu.au,Centropogon australis,3,Tetrarogidae,ambush,hunting macrofauna (predator),benthic invertivore,benthic,day,"rock, seagrass",1,
+Australia (QLD3),Moreton_Bay,r.connolly@griffith.edu.au,Centropogon australis,5,Tetrarogidae,ambush,hunting macrofauna (predator),Benthic invertivore,benthic,Day,rock,1,
+Australia (QLD3),Moreton_Bay,r.connolly@griffith.edu.au,Centropogon australis,5,Tetrarogidae,ambush,hunting macrofauna (predator),Benthic invertivore,benthic,Day,rock/seagrass,1,
+Australia (VIC),Edwards Point,hjanes@deakin.edu.au,Gymnapistes marmoratus,3,Tetrarogidae,ambush,hunting macrofauna (predator),Benthic invertivore,Demersal,Night,seagrass,1,Fishbase & fishesofaustralia website 
+Australia (VIC),Indented Head,hjanes@deakin.edu.au,Gymnapistes marmoratus,9,Tetrarogidae,ambush,hunting macrofauna (predator),Benthic invertivore,Demersal,Night,seagrass,1,fishbase & fishesofaustralia website 
+Wales,"Porthdinllaen, UK",maxrobinson@hotmail.com,Echiichthys vipera,3,Trachinidae,ambush,hunting macrofauna (predator),higher carnivore,NA,NA,NA,1,
+USA (FL),NA,NA,Trichechus manatus,1,Trichechidae,active,grazing on aquatic plants,browsing herbivore,benthic,NA,NA,0,
+Korea,Koje-Korea,"sormyo@pusan.ac.kr, klee@pusan.ac.kr",Chelidonichthys kumu,2,Triglidae,ambush,hunting macrofauna (predator),benthic invertivore,benthic,NA,sand,1,
+Brazil,Praia do Engenho,guca@usp.br,Prionotus punctatus,2,Triglidae,ambush,hunting macrofauna (predator),benthic invertivore,Demersal,day,sand / mud,1,"Literature (Soares & Apelbaum 1994, de São Clemente et al. 2014)"
+Mexico (ICML),NA,NA,Urobatis jamaicensis,1,Urotrygonidae,ambush;active,hunting macrofauna (predator),benthic invertivore,benthic,NA,NA,1,"from fishbase: Commonly found along sandy beaches to the water's edge, and especially in sandy areas in and around coral reefs; in mangrove and seagrass habitats (Ref. 42268). Raises front end of disc to attract prey seeking shelter. Feeds on shrimps, small fishes, clams, and worms (Ref. 42268). Carnivore (Ref. 57616)."
+Mexico (BN),Punta Banda Estuary,pablojorgensen@hotmail.com,Hemigrapsus oregonensis,6,Varunidae,active,Variable,Omnivore,Benthic,Night,Sand,1,Literature
+USA (CA3),Elkhorn Slough,bbhughes@ucsc.edu,Hemigrapsus oregonensis,1,Varunidae,active,variable,omnivore,benthic,NA,"seagrass, sand, seaweed, rock",1,
+USA (OR),OIMB-Valino-SSNERR,agalow3@uoregon.edu,Hemigrapsus oregonensis,58,Varunidae,active,variable,omnivore,benthic,,,1,

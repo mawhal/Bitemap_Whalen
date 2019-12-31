@@ -1,0 +1,65 @@
+Timestamp,Name,Email,"Latitude (GPS, decimal)",Longitude,Date Squidpops Deployed (yyyymmdd),Type Of Habitat,"If You Chose 'Other', Please Describe The Habitat",Number Of Squidpops Deployed,Amount Of Bait Missing After One Hour,Number Of Squidpops Retrieved After 24 Hours,Amount Of Bait Missing After 24 Hours,Notes,"Time Squidpops Deployed (hhmm, 24 hour clock)",Proportion Missing (1 hour),Proportion Missing (24 hours)
+4/5/2016 10:21:32,Ross Whippo,whippor@si.edu,16.802433,-88.077633,20140925,Coral Reef,,25,25,25,25,Entered from existing Squidpop data,1005,1,1
+4/5/2016 10:22:57,Ross Whippo,whippor@si.edu,16.802433,-88.077633,20140924,Coral Reef,,25,25,25,25,Entered from existing Squidpop Data,1604,1,1
+4/5/2016 10:24:36,Ross Whippo,whippor@si.edu,16.776183,-88.0754,20140925,Coral Reef,,24,23,24,24,Entered from existing Squidpop Data,1513,0.9583333333,1
+4/5/2016 10:25:57,Ross Whippo,whippor@si.edu,16.776183,-88.0754,20140927,Coral Reef,,25,24,25,24,Entered from existing Squidpop Data,1532,0.96,0.96
+4/5/2016 10:27:52,Ross Whippo,whippor@si.edu,16.802367,-88.083183,20140925,Seagrass Meadow,,25,1,25,22,Entered from existing Squidpop Data,1704,0.04,0.88
+4/5/2016 10:42:12,Ross Whippo,whippor@si.edu,16.802367,-88.083183,20140927,Seagrass Meadow,,25,6,25,23,Entered from existing Squidpop Data,840,0.24,0.92
+4/5/2016 10:46:28,Ross Whippo,whippor@si.edu,16.82395,-88.102167,20140927,Seagrass Meadow,,25,9,25,21,Entered from existing Squidpop Data,1015,0.36,0.84
+4/5/2016 10:49:57,Ross Whippo,whippor@si.edu,16.82395,-88.102167,20140928,Seagrass Meadow,,25,4,25,25,Entered from existing Squidpop Data,930,0.16,1
+4/5/2016 10:51:40,Ross Whippo,whippor@si.edu,16.824817,-88.1016,20140926,Mangrove Forest,,25,3,24,15,Entered from existing Squidpop Data,1040,0.12,0.625
+4/5/2016 10:52:43,Ross Whippo,whippor@si.edu,16.824817,-88.1016,20140928,Mangrove Forest,,25,14,25,25,Entered from existing Squidpop Data,1000,0.56,1
+4/5/2016 11:02:25,Ross Whippo,whippor@si.edu,16.8286,-88.104633,20140927,Mangrove Forest,,25,0,25,11,Entered from existing Squidpop Data,1044,0,0.44
+4/5/2016 11:03:35,Ross Whippo,whippor@si.edu,16.8286,-88.104633,20140929,Mangrove Forest,,26,0,26,10,Entered from existing Squidpop Data,1047,0,0.3846153846
+4/5/2016 11:04:49,Ross Whippo,whippor@si.edu,16.80502,-88.082983,20140929,Sandy Bottom,,25,3,25,3,Entered from existing Squidpop Data,1420,0.12,0.12
+4/5/2016 11:06:04,Ross Whippo,whippor@si.edu,16.80502,-88.082983,20140930,Sandy Bottom,,25,0,25,1,Entered from existing Squidpop Data,1051,0,0.04
+4/5/2016 11:07:32,Ross Whippo,whippor@si.edu,16.805333,-88.085283,20140929,Sandy Bottom,,25,0,25,3,Entered from existing Squidpop Data,1530,0,0.12
+4/5/2016 11:08:36,Ross Whippo,whippor@si.edu,16.805333,-88.085283,20141001,Sandy Bottom,,25,1,25,4,Entered from existing Squidpop Data,1022,0.04,0.16
+4/5/2016 11:09:43,Ross Whippo,whippor@si.edu,16.802433,-88.077633,20150221,Coral Reef,,11,11,11,11,Entered from existing Squidpop Data,1411,1,1
+4/5/2016 11:11:33,Ross Whippo,whippor@si.edu,16.802433,-88.077633,20150223,Coral Reef,,20,20,20,20,Entered from existing Squidpop Data,945,1,1
+4/5/2016 11:13:18,Ross Whippo,whippor@si.edu,16.805567,-88.0849,20150223,Seagrass Meadow,,20,5,17,7,Entered from existing Squidpop Data,1355,0.25,0.4117647059
+4/5/2016 11:14:29,Ross Whippo,whippor@si.edu,16.804067,-88.078967,20150223,Coral Reef,,20,12,20,20,Entered from existing Squidpop Data,1525,0.6,1
+4/5/2016 11:16:06,Ross Whippo,whippor@si.edu,9.350933,-82.25725,20150328,Seagrass Meadow,,25,0,25,25,Entered from existing Squidpop Data,1100,0,1
+4/5/2016 11:17:15,Ross Whippo,whippor@si.edu,9.351083,-82.257233,20150329,"Artificial Habitat (dock, breakwater, weir, etc.)",,25,25,25,25,Entered from existing Squidpop Data,805,1,1
+4/5/2016 11:18:49,Ross Whippo,whippor@si.edu,9.35195,-82.258983,20150329,Mangrove Forest,,25,0,25,25,Entered from existing Squidpop Data,1600,0,1
+4/5/2016 11:20:11,Ross Whippo,whippor@si.edu,9.352117,-82.258917,20150329,Seagrass Meadow,,25,16,24,23,Entered from existing Squidpop Data,1615,0.64,0.9583333333
+4/5/2016 11:21:41,Ross Whippo,whippor@si.edu,9.3508,-82.2577,20150331,"Artificial Habitat (dock, breakwater, weir, etc.)",,25,4,25,25,Entered from existing Squidpop Data,1115,0.16,1
+4/5/2016 11:22:52,Ross Whippo,whippor@si.edu,9.35091,-82.25704,20150331,Mangrove Forest,,25,0,25,25,Entered from existing Squidpop Data,1120,0,1
+4/5/2016 11:24:26,Ross Whippo,whippor@si.edu,9.290583,-82.343,20150401,Seagrass Meadow,,25,0,25,16,Entered from existing Squidpop Data,1100,0,0.64
+4/5/2016 11:25:43,Ross Whippo,whippor@si.edu,9.231233,-82.116017,20150402,Seagrass Meadow,,25,1,25,7,Entered from existing Squidpop Data,1120,0.04,0.28
+4/5/2016 11:28:52,Ross Whippo,whippor@si.edu,9.290331,-82.342688,20150402,Coral Reef,,25,2,24,24,Entered from existing Squidpop Data,1130,0.08,1
+4/5/2016 11:32:12,Ross Whippo,whippor@si.edu,9.33324,-82.21558,20150405,Coral Reef,,25,17,20,20,Entered from existing Squidpop Data,1030,0.68,1
+4/5/2016 11:33:39,Ross Whippo,whippor@si.edu,9.35195,-82.258667,20150403,Seagrass Meadow,,25,17,20,20,Entered from existing Squidpop Data,1020,0.68,1
+4/5/2016 11:34:57,Ross Whippo,whippor@si.edu,9.34869,-82.26283,20150406,Coral Reef,,25,19,25,25,Entered from existing Squidpop Data,950,0.76,1
+4/5/2016 11:36:32,Ross Whippo,whippor@si.edu,9.295811,-82.3456,20150407,Mangrove Forest,,25,0,25,23,Entered from existing Squidpop Data,1015,0,0.92
+4/5/2016 11:37:51,Ross Whippo,whippor@si.edu,9.35195,-82.258667,20150403,Seagrass Meadow,,25,17,24,24,Entered from existing Squidpop Data,1030,0.68,1
+4/5/2016 13:59:20,Ross Whippo,whippor@si.edu,38.882373,-76.543597,20150730,Marsh,,25,0,25,1,Entered from existing Squidpop Data,925,0,0.04
+4/5/2016 14:01:25,Ross Whippo,whippor@si.edu,38.88354,-76.536647,20150730,Marsh,,25,1,25,9,Entered from existing Squidpop Data,940,0.04,0.36
+4/5/2016 14:06:37,Ross Whippo,whippor@si.edu,38.876739,-76.549716,20150730,Marsh,,25,0,25,0,Entered from existing Squidpop Data,952,0,0
+4/5/2016 14:10:00,Ross Whippo,whippor@si.edu,38.88041,-76.543381,20150806,"Artificial Habitat (dock, breakwater, weir, etc.)",,27,0,27,3,Entered from existing Squidpop Data,807,0,0.1111111111
+4/5/2016 14:11:46,Ross Whippo,whippor@si.edu,38.886038,-76.541654,20150806,"Artificial Habitat (dock, breakwater, weir, etc.)",,25,0,25,1,Entered from existing Squidpop Data,822,0,0.04
+4/5/2016 14:14:38,Ross Whippo,whippor@si.edu,38.886784,-76.539785,20150806,"Artificial Habitat (dock, breakwater, weir, etc.)",,25,0,25,1,Entered from existing Squidpop Data,838,0,0.04
+4/5/2016 14:16:17,Ross Whippo,whippor@si.edu,16.776183,-88.0754,20150919,Coral Reef,,25,25,25,25,Entered from existing Squidpop Data,945,1,1
+4/5/2016 14:18:02,Ross Whippo,whippor@si.edu,16.802433,-88.077633,20150919,Coral Reef,,25,24,25,25,Entered from existing Squidpop Data,1545,0.96,1
+4/5/2016 14:20:28,Ross Whippo,whippor@si.edu,16.868278,-88.066167,20150921,Coral Reef,,25,19,25,25,Entered from existing Squidpop Data,1500,0.76,1
+4/5/2016 14:21:46,Ross Whippo,whippor@si.edu,16.787278,-88.085056,20150920,Seagrass Meadow,,24,0,24,13,Entered from existing Squidpop Data,1400,0,0.5416666667
+4/5/2016 14:23:59,Ross Whippo,whippor@si.edu,16.8025,-88.0825,20150921,Seagrass Meadow,,25,2,25,5,Entered from existing Squidpop Data,1400,0.08,0.2
+4/5/2016 14:25:23,Ross Whippo,whippor@si.edu,16.78,-88.10123,20150922,Coral Reef,,25,24,25,25,Entered from existing Squidpop Data,1454,0.96,1
+4/5/2016 14:26:50,Ross Whippo,whippor@si.edu,16.883806,-88.073361,20150921,Sandy Bottom,,25,0,25,3,Entered from existing Squidpop Data,1300,0,0.12
+4/5/2016 14:28:49,Ross Whippo,whippor@si.edu,16.787278,-88.085056,20150923,Seagrass Meadow,,25,0,25,3,Entered from existing Squidpop Data,1300,0,0.12
+4/5/2016 14:30:15,Ross Whippo,whippor@si.edu,16.78734,-88.09379,20150924,Sandy Bottom,,25,0,25,0,Entered from existing Squidpop Data,1645,0,0
+4/5/2016 14:32:32,Ross Whippo,whippor@si.edu,16.874383,-88.093816,20150925,Seagrass Meadow,,25,19,22,22,Entered from existing Squidpop Data,1650,0.76,1
+4/5/2016 14:33:37,Ross Whippo,whippor@si.edu,16.878533,-88.092642,20150925,Mangrove Forest,,25,24,23,23,Entered from existing Squidpop Data,1650,0.96,1
+4/5/2016 14:35:02,Ross Whippo,whippor@si.edu,16.80126,-88.08306,20150924,Coral Reef,,25,25,25,25,Entered from existing Squidpop Data,1530,1,1
+4/5/2016 14:36:18,Ross Whippo,whippor@si.edu,16.80863,-88.08616,20150925,Coral Reef,,26,24,26,26,Entered from existing Squidpop Data,1124,0.9230769231,1
+4/5/2016 14:37:33,Ross Whippo,whippor@si.edu,16.828775,-88.104778,20150926,Mangrove Forest,,25,8,25,25,Entered from existing Squidpop Data,1545,0.32,1
+4/5/2016 14:38:44,Ross Whippo,whippor@si.edu,16.80807,-88.14677,20150926,Mangrove Forest,,25,18,25,25,Entered from existing Squidpop Data,1414,0.72,1
+4/5/2016 14:39:49,Ross Whippo,whippor@si.edu,16.8237,-88.1029,20150927,Seagrass Meadow,,25,0,25,10,Entered from existing Squidpop Data,1437,0,0.4
+4/5/2016 14:43:03,Ross Whippo,whippor@si.edu,9.35229,-82.25833,20160126,Seagrass Meadow,,20,1,20,20,Entered from existing Squidpop Data,1600,0.05,1
+4/5/2016 14:46:08,Ross Whippo,whippor@si.edu,9.35195,-82.258983,20160128,Mangrove Forest,,20,1,20,15,Entered from existing Squidpop Data,1520,0.05,0.75
+4/5/2016 14:47:48,Ross Whippo,whippor@si.edu,9.3015,-82.29404,20160129,Coral Reef,,20,0,20,14,Entered from existing Squidpop Data,1045,0,0.7
+4/5/2016 14:49:07,Ross Whippo,whippor@si.edu,9.2967,-82.29319,20160129,Mangrove Forest,,16,0,16,16,Entered from existing Squidpop Data,1307,0,1
+4/5/2016 14:50:10,Ross Whippo,whippor@si.edu,9.29657,-82.29321,20160129,Seagrass Meadow,,20,0,20,1,Entered from existing Squidpop Data,1315,0,0.05
+4/5/2016 14:51:15,Ross Whippo,whippor@si.edu,9.29728,-82.29531,20160129,Sandy Bottom,,19,1,19,2,Entered from existing Squidpop Data,1430,0.05263157895,0.1052631579
+4/5/2016 14:53:57,Ross Whippo,whippor@si.edu,9.351083,-82.257233,20160201,"Artificial Habitat (dock, breakwater, weir, etc.)",,20,5,20,20,Entered from existing Squidpop Data,1040,0.25,1
+4/6/2016 8:18:49,Kelsey Tuminelli,k.tuminelli@neu.edu,48.545228,-123.012133,20160404,"Artificial Habitat (dock, breakwater, weir, etc.)",,25,0,24,2,"Both days were partly cloudy, ~50 F.  On the day of collection, there was a small craft advisory (winds of ~20knots). While checking for squid detachment after 1 hour, we noticed one small shrimp on each of four of the squid pops.  ",1132,0,0.08333333333

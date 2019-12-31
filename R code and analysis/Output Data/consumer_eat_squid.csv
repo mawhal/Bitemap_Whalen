@@ -1,0 +1,687 @@
+Country,Site.Name,sciName,totalCount,family,feeding,trophic,waterColumn,diel,habitatRLS,eat.squid,phylum,method
+Mexico (ICML),NA,Acanthurus coeruleus,3,Acanthuridae,browsing on substrate,Browsing herbivore,Demersal,Day,coral,1,Chordata,video
+Australia (QLD2),NA,Acanthurus sp.,11,Acanthuridae,NA,NA,NA,NA,NA,1,Chordata,seine
+Australia (QLD2),NA,Zebrasoma scopas,10,Acanthuridae,browsing on substrate,Browsing herbivore,Demersal,Day,coral,1,Chordata,seine
+Korea,Koje-Korea,Acropoma japonicum,97,Acropomatidae,selective plankton feeding,NA,pelagic non-site attached,NA,"water column, seagrass",0,Chordata,seine
+USA (AK),Sunshine Cove,Blepsias cirrhosus,3,Agonidae,variable,,,,"rocky, vegitated",0,Chordata,seine
+USA (WA2),False Bay,Nautichthys oculofasciatus,1,Agonidae,hunting macrofauna (predator),Omnivore,Demersal,Night,rock,0,Chordata,seine
+Brazil,Praia do Barreiro,Albula vulpes,2,Albulidae,sorts prey from sediments (predator),Benthic invertivore; occasionally eating benthic fish,Demersal,Dawn (swimming); Night (feeding),sand / mud,1,Chordata,seine
+Brazil,Praia do Engenho,Albula vulpes,9,Albulidae,sorts prey from sediments (predator),Benthic invertivore; occasionally eating benthic fish,Demersal,Dawn (swimming); Night (feeding),sand / mud,1,Chordata,seine
+Australia (NSW2),Urunga Lagoon 1,Ambassis jacksoniensis,718,Ambassidae,selective plankton feeding,planktivore,pelagic site attached,night,"rock, seagrass, sand",0,Chordata,seine
+Australia (QLD2),Hervey Bay,Ambassis marianus,40,Ambassidae,filtering plankton,planktivore,pelagic site attached,day,seagrass/mangroves,0,Chordata,seine
+Australia (QLD2),Noosa river,Ambassis marianus,1260,Ambassidae,filtering plankton,planktivore,pelagic site attached,day,seagrass/mangroves,0,Chordata,seine
+Australia (NSW),Smiths_Lake_NSW,Ambassis sp.,1189,Ambassidae,selective plankton feeding,planktivore,"?demersal, pelagic site attached",day,"coral, rock, seagrass, sand",0,Chordata,seine
+Canada (QC),QC_Baie St-Ludger,Ammodytes americanus,3,Ammodytidae,selective plankton feeding,NA,NA,NA,NA,0,Chordata,seine
+Canada (BC),Choked Sandspit,Ammodytes hexapterus,2,Ammodytidae,selective plankton feeding,Planktivore,Pelagic site attached,Day,sand,0,Chordata,seine
+Wales,"Porthdinllaen, UK",Ammodytes tobianus,20,Ammodytidae,filtering plankton,NA,NA,NA,NA,0,Chordata,seine
+USA (CA3),Elkhorn Slough,Aplysia californica,1,Aplysiidae,grazing on aquatic plants,scraping herbivore,benthic,NA,"seagrass, sand, seaweed, rock",0,Mollusca,seine
+USA (FL),NA,Ariopsis felis,164,Ariidae,hunting macrofauna (predator),omnivore,benthic,NA,NA,1,Chordata,video
+France,Bouzigues,Atherina boyeri,19,Atherinidae,hunting macrofauna (predator),,,,,0,Chordata,seine
+France,NA,Atherina boyeri,1,Atherinidae,hunting macrofauna (predator),NA,NA,NA,NA,0,Chordata,seine
+Italy,NA,Atherina boyeri,2,Atherinidae,hunting macrofauna (predator),NA,NA,NA,NA,0,Chordata,video
+France,NA,Atherina boyeri,1,Atherinidae,NA,NA,NA,NA,NA,0,Chordata,seine
+Croatia,CR-B-SvetiDuh,Atherina hepsetus,365,Atherinidae,hunting macrofauna (predator),Planktivore AND benthic invertivore,pelagic non-site attached,day,water column,0,Chordata,seine
+Croatia,NA,Atherina hepsetus,6,Atherinidae,hunting macrofauna (predator),NA,NA,NA,NA,0,Chordata,seine
+Croatia,CR-B-SvetiDuh,Atherina hepsetus REDUNDANT,1,Atherinidae,hunting macrofauna (predator),,,,,0,Chordata,seine
+Wales,"Porthdinllaen, UK",Atherina presbyter,465,Atherinidae,selective plankton feeding,NA,NA,NA,NA,0,Chordata,seine
+Wales,NA,Atherina presbyter,3,Atherinidae,selective plankton feeding,NA,NA,NA,NA,0,Chordata,seine
+Australia (QLD),Bowen,Atherinomorus endrachtensis,26,Atherinidae,selective plankton feeding,planktivore,pelagic non-site attached,Day,"sand, seagrass",0,Chordata,seine
+Australia (QLD3),Moreton_Bay,Atherinomorus vaigiensis,176,Atherinidae,variable,NA,NA,NA,NA,0,Chordata,seine
+Australia (QLD3),Moreton_Bay,Atherinomorus vaigiensis,176,Atherinidae,variable,Planktivore/benthic invertivore,pelagic site attached,Night,water column,0,Chordata,seine
+Australia (NSW),Smiths_Lake_NSW,Atherinosoma microstoma,68,Atherinidae,selective plankton feeding,planktivore,demersal,day,"seagrass, sand",0,Chordata,seine
+Australia (VIC),Edwards Point,Atherinosoma microstoma,5,Atherinidae,hunting macrofauna (predator),Benthic invertivore,benthic,Day,sand,0,Chordata,seine
+Australia (VIC),Indented Head,Atherinosoma microstoma,15,Atherinidae,hunting macrofauna (predator),Benthic invertivore,benthic,Day,sand,0,Chordata,seine
+Brazil,Praia do Barreiro,Atherinella brasiliensis,2,Atherinopsidae,selective plankton feeding; ocasional benthic consumer (omnivore),Planktivore; benthic invertivore,Mostly pelagic; coastal and estuarine,Day,water column; shallow; over soft-bottoms of different kinds,0,Chordata,seine
+Brazil,Praia do Engenho,Atherinella brasiliensis,2,Atherinopsidae,selective plankton feeding; ocasional benthic consumer (omnivore),Planktivore; benthic invertivore,Mostly pelagic; coastal and estuarine,Day,water column; shallow; over soft-bottoms of different kind,0,Chordata,seine
+Mexico (BN),Punta Banda Estuary,Atherinops affinis,130,Atherinopsidae,Selective plankton feeding,Planktivore,Pelagic non-site attached,Day,Sand,0,Chordata,seine
+USA (CA),San Diego,Atherinops affinis,899,Atherinopsidae,selective plankton feeding,NA,NA,NA,NA,0,Chordata,seine
+USA (CA2),Windy Cove,Atherinops affinis,214,Atherinopsidae,selective plankton feeding,NA,NA,NA,NA,0,Chordata,seine
+USA (CA3),Elkhorn Slough,Atherinops affinis,1,Atherinopsidae,selective plankton feeding,planktivore,pelagic site attached,NA,water column,0,Chordata,seine
+USA (OR),OIMB-Valino-SSNERR,Atherinops affinis,15,Atherinopsidae,selective plankton feeding,,,,,0,Chordata,seine
+Mexico (BN),Punta Banda Estuary,Atherinopsis californiensis,4,Atherinopsidae,Variable,Planktivore,Pelagic non-site attached,Day,Sand,0,Chordata,seine
+USA (TX),Aransas Pass,Menidia beryllina,13,Atherinopsidae,hunting macrofauna (predator),NA,NA,NA,NA,0,Chordata,seine
+USA (TX),Laguna Madre,Menidia beryllina,3,Atherinopsidae,hunting macrofauna (predator),NA,NA,NA,NA,0,Chordata,seine
+USA (TX),Oso Bay,Menidia beryllina,4539,Atherinopsidae,hunting macrofauna (predator),NA,NA,NA,NA,0,Chordata,seine
+USA (DE),"UD Lewes, DE",Menidia menidia,8,Atherinopsidae,hunting macrofauna (predator),NA,NA,NA,NA,0,Chordata,seine
+USA (NC),NC,Menidia menidia,17,Atherinopsidae,hunting macrofauna (predator),Benthic invertivore,demersal,"day ,night","seagrtass, sand",0,Chordata,seine
+USA (VA2),,Menidia menidia,1079,Atherinopsidae,hunting macrofauna (predator),planktivore,pelagic non-site attached,,,0,Chordata,seine
+Chile,Puerto Aldea (Chile),Odontesthes sp.,2,Atherinopsidae,selective plankton feeding,planktivore,pelagic non-site attached,Day & Night,water column,0,Chordata,seine
+Canada (BC),Choked Pocket,Aulorhynchus flavidus,4,Aulorhynchidae,hunting macrofauna (predator),Planktivore,Pelagic site attached,,"sand, rock",0,Chordata,seine
+USA (AK),Sunshine Cove,Aulorhynchus flavidus,15,Aulorhynchidae,hunting macrofauna (predator),invertivore/planktivore,Demersal,,"vegitated, rocky, sand",0,Chordata,seine
+USA (WA),Redondo N1,Aulorhynchus flavidus,1,Aulorhynchidae,hunting macrofauna (predator),"Benthic invertivore, planktovire","""benthopelagic""",,,0,Chordata,seine
+Australia (NSW2),Urunga Lagoon 1,Aulostomus chinensis,1,Aulostomidae,hunting macrofauna (predator),higher carnivore,pelagic site attached,day,"coral, rock, seagrass, sand",0,Chordata,seine
+Mexico (ICML),NA,Balistes vetula,1,Balistidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,video
+Mexico (ICML),NA,Canthidermis sufflamen,1,Balistidae,selective plankton feeding,NA,NA,NA,NA,1,Chordata,video
+USA (NC),NC,Opsanus tau,4,Batrachoididae,hunting macrofauna (predator),higher carnivore,benthic,,"seagrass, rock, sand",0,Chordata,seine
+USA (CA),San Diego,Strongylura exilis,1,Belonidae,hunting macrofauna (predator),NA,NA,NA,NA,0,Chordata,seine
+USA (VA),Goodwin Island,Strongylura marina,19,Belonidae,hunting macrofauna (predator),NA,NA,NA,NA,0,Chordata,seine
+USA (VA2),,Strongylura marina,14,Belonidae,hunting macrofauna (predator),higher carnivore,pelagic non-site attached,,water column,0,Chordata,seine
+USA (NC),NC,Chasmodes saburrae,1,Blenniidae,hunting macrofauna (predator),omnivore,benthic,,"rock, seagrass",1,Chordata,seine
+Mexico (BN),Punta Banda Estuary,Hypsoblennius gentilis,11,Blenniidae,Hunting macrofauna (predator),Benthic invertivore,Benthic,Night,Sand,1,Chordata,seine
+USA (CA),San Diego,Hypsoblennius gentilis,3,Blenniidae,NA,NA,NA,NA,NA,1,Chordata,seine
+USA (CA2),Windy Cove,Hypsoblennius gentilis,1,Blenniidae,NA,NA,NA,NA,NA,1,Chordata,seine
+Chile,Puerto Aldea (Chile),Hypsoblennius sordidus,1,Blenniidae,variable,omnivore,benthic,Day & Night,rock,1,Chordata,seine
+Australia (QLD3),Moreton_Bay,Petroscirtes lupus,5,Blenniidae,NA,NA,NA,NA,NA,1,Chordata,seine
+Australia (QLD3),Moreton_Bay,Petroscirtes lupus,5,Blenniidae,variable,Omnivore,benthic,Day,Seagrass,1,Chordata,seine
+Australia (QLD3),NA,Petroscirtes lupus,1,Blenniidae,NA,NA,NA,NA,NA,1,Chordata,seine
+Australia (QLD2),Noosa river,Petroscirtes variabilis,3,Blenniidae,hunting macrofauna (predator),scraping herbivore,benthic,day,Seagrass,1,Chordata,seine
+Australia (QLD2),NA,Plagiotremus tapeinosoma,19,Blenniidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+Croatia,CR-B-SvetiDuh,Salaria pavo,24,Blenniidae,variable,Omnivore,benthic,day,rock,1,Chordata,seine
+France,Bouzigues,Salaria pavo,16,Blenniidae,variable,,benthic,,,1,Chordata,seine
+Croatia,NA,Salaria pavo,1,Blenniidae,variable,NA,NA,NA,NA,1,Chordata,seine
+France,NA,Salaria pavo,1,Blenniidae,variable,NA,NA,NA,NA,1,Chordata,seine
+Chile,NA,Scartichthys gigas,1,Blenniidae,variable,NA,NA,NA,NA,1,Chordata,seine
+Chile,Puerto Aldea (Chile),Scartichthys viridis,30,Blenniidae,grazing on aquatic plants,omnivore,benthic,Day & Night,rock,1,Chordata,seine
+Wales,"Porthdinllaen, UK",Callionymus lyra,2,Callionymidae,hunting macrofauna (predator),NA,NA,NA,NA,0,Chordata,seine
+Korea,Koje-Korea,Repomucenus lunatus,3,Callionymidae,NA,NA,benthic,NA,sand,0,Chordata,seine
+Australia (QLD3),Moreton_Bay,Repomucenus macdonaldi,2,Callionymidae,browsing on substrate,Benthic invertivore,benthic,Day,sand,0,Chordata,seine
+Australia (QLD3),Moreton_Bay,Repomucenus macdonaldi,2,Callionymidae,NA,NA,NA,NA,NA,0,Chordata,seine
+Chile,Puerto Aldea (Chile),Cancer coronatus,2,Cancridae,hunting macrofauna (predator),benthic invertivore,benthic,Day & Night,sand,1,Arthropoda,seine
+Canada (QC),QC_Baie St-Ludger,Cancer irroratus,286,Cancridae,NA,NA,NA,NA,NA,1,Arthropoda,seine
+USA (CA3),Elkhorn Slough,Metacarcinus magister,3,Cancridae,variable,omnivore,benthic,NA,"seagrass, sand, seaweed, rock",1,Arthropoda,seine
+USA (OR),OIMB-Valino-SSNERR,Metacarcinus magister,60,Cancridae,,,benthic,,,1,Arthropoda,seine
+Chile,NA,Romaleon polyodon,4,Cancridae,NA,NA,NA,NA,NA,1,Arthropoda,seine
+Chile,Puerto Aldea (Chile),Romaleon polyodon,41,Cancridae,hunting macrofauna (predator),benthic invertivore,benthic,Day & Night,"rock, sand",1,Arthropoda,seine
+Australia (QLD2),NA,Carangoides fulvoguttatus,13,Carangidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+Mexico (ICML2),NA,Caranx bartholomaei,2,Carangidae,NA,NA,NA,NA,NA,1,Chordata,video
+Brazil,Praia do Barreiro,Caranx latus,1,Carangidae,hunting macrofauna (predator),"Carnivore (fish, planktonic copepods and benthic invertebrates, mainly crustaceans)",Whole water column,Day,"water column, over sand / rock",1,Chordata,seine
+Brazil,Praia do Engenho,Caranx latus,3,Carangidae,hunting macrofauna (predator),"Carnivore (fish, planktonic copepods and benthic invertebrates, mainly crustaceans)",Whole water column,Day,"water column, over sand / rock",1,Chordata,seine
+Mexico (ICML),NA,Caranx ruber,5,Carangidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,video
+Mexico (ICML2),NA,Caranx ruber,6,Carangidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,video
+Brazil,Praia do Barreiro,Oligoplites saliens,1,Carangidae,hunting macrofauna (predator),Carnivore (mostly fish and fish scales),Whole water column,-- No information --,water column over sand / mud; rarely estuarine,1,Chordata,seine
+Australia (QLD2),NA,Scomberoides tala,21,Carangidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+Australia (QLD2),NA,Trachinotus blochii,2,Carangidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+Australia (QLD2),NA,Trachinotus botla,1,Carangidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+Australia (QLD2),NA,Carcharhinus melanopterus,21,Carcharhinidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+Norway,NA,Carcinus maenas,3,Cancridae,NA,NA,NA,NA,NA,1,Arthropoda,seine
+Wales,NA,Carcinus maenas,1,Cancridae,NA,Benthic invertivore,benthic,,,1,Arthropoda,seine
+Wales,"Porthdinllaen, UK",Carcinus maenas,8,Cancridae,NA,NA,NA,NA,NA,1,Arthropoda,seine
+Australia (QLD2),NA,Chaetodon auriga,8,Chaetodontidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+Chile,Puerto Aldea (Chile),Menticirrhus ophicephalus,1,Channidae,hunting macrofauna (predator),benthic invertivore,benthic,Day & Night,"rock, sand",1,Chordata,seine
+Chile,Puerto Aldea (Chile),Cheilodactylus variegatus,2,Cheilodactylidae,hunting macrofauna (predator),benthic invertivore,Demersal,day,rock,1,Chordata,seine
+Australia (VIC),Edwards Point,Heteroclinus perspicillatus,18,Clinidae,hunting macrofauna (predator),Benthic invertivore,benthic,Day,rock/seagrass,1,Chordata,seine
+Australia (VIC),Indented Head,Heteroclinus perspicillatus,13,Clinidae,hunting macrofauna (predator),Benthic invertivore,benthic,Day,rock/seagrass,1,Chordata,seine
+Australia (VIC),St. Leonards,Heteroclinus perspicillatus,6,Clinidae,hunting macrofauna (predator),Benthic invertivore,benthic,Day,rock/seagrass,1,Chordata,seine
+USA (CA),San Diego,Heterostichus rostratus,38,Clinidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+USA (CA2),Windy Cove,Heterostichus rostratus,1,Clinidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+Canada (QC),QC_Baie St-Ludger,Clupea harengus,1,Clupeidae,selective plankton feeding,NA,NA,NA,NA,0,Chordata,seine
+Chile,Puerto Aldea (Chile),Ethmidium maculatum,1453,Clupeidae,filtering plankton,planktivore,pelagic non-site attached,Day & Night,water column,0,Chordata,seine
+Chile,NA,Ethmidium maculatum,1,Clupeidae,filtering plankton,NA,NA,NA,NA,0,Chordata,seine
+Brazil,Praia do Barreiro,Harengula clupeola,77,Clupeidae,selective plankton feeding,Omnivore,Pelagic,Night,sand / mud; frequently estuarine,0,Chordata,seine
+Brazil,Praia do Engenho,Harengula clupeola,6,Clupeidae,selective plankton feeding,Omnivore,Pelagic,Night,sand / mud; frequently estuarine,0,Chordata,seine
+USA (TX),Oso Bay,Harengula jaguana,1,Clupeidae,hunting macrofauna (predator),NA,NA,NA,NA,0,Chordata,seine
+Australia (QLD2),Hervey Bay,Herklotsichthys castelnaui,6,Clupeidae,hunting macrofauna (predator),benthic invertivore,pelagic non-site attached,day,water column,0,Chordata,seine
+Korea,Koje-Korea,Konosirus punctatus,4,Clupeidae,selective plankton feeding,planktivore,pelagic non-site attached,NA,water column,0,Chordata,seine
+USA (TX),Aransas Pass,Sardinella aurita,133,Clupeidae,selective plankton feeding,Planktivore,pelagic non-site attached,Day,sand,0,Chordata,seine
+Brazil,Praia do Barreiro,Sardinella brasiliensis,3,Clupeidae,selective plankton feeding,Omnivore,Pelagic,Night / Day,water column over sand / mud; rarely estuarine,0,Chordata,seine
+Brazil,Praia do Engenho,Sardinella brasiliensis,17,Clupeidae,selective plankton feeding,Omnivore,Pelagic,Night / Day,water column over sand / mud; rarely estuarine,0,Chordata,seine
+USA (CA3),Elkhorn Slough,Sardinops sagax,1,Clupeidae,selective plankton feeding,planktivore,pelagic site attached,NA,water column,0,Chordata,seine
+Wales,"Porthdinllaen, UK",Sprattus sprattus,55,Clupeidae,selective plankton feeding,NA,NA,NA,NA,0,Chordata,seine
+USA (CA3),Elkhorn Slough,Artedius harringtoni,1,Cottidae,hunting macrofauna (predator),benthic invertivore,benthic,NA,"seagrass, sand, seaweed, rock",1,Chordata,seine
+Canada (BC),Choked Pocket,Artedius lateralis,2,Cottidae,hunting macrofauna (predator),Higher carnivore,Benthic,,"sand, rock",1,Chordata,seine
+USA (CA2),Windy Cove,Artedius lateralis,11,Cottidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+Canada (BC),Choked Pocket,Cottoidea sp.,1,Cottidae,hunting macrofauna (predator),Higher carnivore,Benthic,,"sand, rock",1,Chordata,seine
+USA (OR),OIMB-Valino-SSNERR,Cottus asper,1,Cottidae,hunting macrofauna (predator),,,,,1,Chordata,seine
+USA (DE),"UD Lewes, DE",Cottus bairdi,2,Cottidae,NA,NA,NA,NA,NA,1,Chordata,seine
+Canada (BC),Choked Pocket,Enophrys bison,4,Cottidae,hunting macrofauna (predator),Higher carnivore,Benthic,,"sand, rock, seagrass",1,Chordata,seine
+Canada (BC),Choked Pocket,Hemilepidotus hemilepidotus,1,Cottidae,hunting macrofauna (predator),Higher carnivore,Benthic,,"sand, rock, seagrass, kelp",1,Chordata,seine
+USA (AK),Sunshine Cove,Leptocottus armatus,11,Cottidae,variable,invertivore/piscivore,Demersal,,"vegitated, rocky, sand",1,Chordata,seine
+USA (CA),San Diego,Leptocottus armatus,2,Cottidae,variable,NA,NA,NA,NA,1,Chordata,seine
+USA (CA2),Windy Cove,Leptocottus armatus,4,Cottidae,variable,NA,NA,NA,NA,1,Chordata,seine
+USA (CA3),Elkhorn Slough,Leptocottus armatus,9,Cottidae,variable,omnivore,benthic,NA,"seagrass, sand, seaweed",1,Chordata,seine
+USA (OR),OIMB-Valino-SSNERR,Leptocottus armatus,58,Cottidae,variable,,,,,1,Chordata,seine
+USA (WA2),False Bay,Leptocottus armatus,42,Cottidae,variable,Higher Carnivore,Demersal,Night,"occasionally rocky intertidal, sand",1,Chordata,seine
+USA (MA),Dorothy Cove,Myoxocephalus aenaeus,1,Cottidae,hunting macrofauna (predator),Benthic invertivore,benthic,,seagrass,1,Chordata,seine
+USA (AK),Sunshine Cove,Myoxocephalus polyacanthocephalus,4,Cottidae,hunting macrofauna (predator),invertivore/piscivore,Demersal,,,1,Chordata,seine
+Canada (BC),Choked Pocket,Oligocottus maculosus,5,Cottidae,hunting macrofauna (predator),Benthic invertivore,Benthic,,"sand, rock, seagrass",1,Chordata,seine
+USA (AK),Sunshine Cove,Oligocottus maculosus,3,Cottidae,,invertivore,benthic,,"vegitated, rocky, sand",1,Chordata,seine
+Korea,Koje-Korea,Porocottus leptosomus,1,Cottidae,NA,NA,Demersal,NA,"rock, seagrass, seaweed",1,Chordata,seine
+Korea,Koje-Korea,Pseudoblennius cottoides,7,Cottidae,hunting macrofauna (predator),Benthic invertivore,Demersal,NA,"rock, sand, seagrass",1,Chordata,seine
+Canada (BC),Choked Pocket,Scorpaenichthys marmoratus,1,Cottidae,variable,Higher carnivore,Benthic,,"sand, rock, seagrass, kelp",1,Chordata,seine
+USA (CA2),Windy Cove,Scorpaenichthys marmoratus,1,Cottidae,variable,NA,NA,NA,NA,1,Chordata,seine
+USA (CA3),Elkhorn Slough,Scorpaenichthys marmoratus,1,Cottidae,hunting macrofauna (predator),higher carnivore,benthic,NA,"seagrass, sand, seaweed, rock",1,Chordata,seine
+USA (WA),Redondo S-6,sculpin sp.,1,Cottidae,,,benthic,,,1,Chordata,seine
+Wales,"Porthdinllaen, UK",Taurulus bubalis,3,Cottidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+Norway,NN_Juvika,Crangon crangon,34,Crangonidae,hunting macrofauna (predator),Benthic invertivore,benthic,Night,sand,1,Arthropoda,seine
+Wales,"Porthdinllaen, UK",Crangon crangon,55,Crangonidae,NA,NA,NA,NA,NA,1,Arthropoda,seine
+Canada (QC),QC_Baie St-Ludger,Crangon septemspinosa,65,Crangonidae,NA,NA,NA,NA,NA,1,Arthropoda,seine
+USA (CA3),Elkhorn Slough,Crangon sp.,1,Crangonidae,hunting macrofauna (predator),benthic invertivore,benthic,NA,"seagrass, sand",1,Arthropoda,seine
+USA (MA),Dorothy Cove,Cyclopterus lumpus,1,Cyclopteridae,hunting macrofauna (predator),Benthic invertivore,benthic,,rock,1,Chordata,seine
+Norway,NN_Juvika,Cyclopterus lumpus,2,Cyclopteridae,hunting macrofauna (predator),"Benthic invertivore, higher carnivore",bentho-pelagic,,"rock, seaweed",1,Chordata,seine
+Croatia,CR-B-SvetiDuh,Aphanius fasciatus,17,Cyprinodontidae,grazing on aquatic plants,Omnivore,demersal,,,1,Chordata,seine
+Croatia,CR-B-SvetiDuh,Aphanius fasciatus REDUNDANT,1,Cyprinodontidae,grazing on aquatic plants,Omnivore,demersal,day,"seaweed, seagrass",1,Chordata,seine
+USA (TX),Oso Bay,Cyprinodon variegatus,26,Cyprinodontidae,NA,NA,NA,NA,NA,1,Chordata,seine
+USA (NC),NC,Chilomycterus schoepfi,1,Diodontidae,variable,benthic invertivore,demersal,,"sand, seagrass",1,Chordata,seine
+USA (FL),NA,Chilomycterus schoepfi,1,Diodontidae,hunting macrofauna (predator),benthic invertivore,benthic,NA,NA,1,Chordata,video
+Mexico (ICML2),NA,Diodon hystrix,2,Diodontidae,NA,NA,NA,NA,NA,1,Chordata,video
+Australia (QLD2),NA,Echeneis naucrates,6,Echeneidae,picking parasites off a host (cleaner),NA,NA,NA,NA,0,Chordata,seine
+Australia (NSW),Smiths_Lake_NSW,Philypnodon grandiceps,2,Eleotridae,hunting macrofauna (predator),benthic invertivore,demersal,day,"seagrass, sand",1,Chordata,seine
+USA (TX),Oso Bay,Elops saurus,10,Elopidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+USA (WA),Redondo S-6,Brachyistius frenatus,3,Embiotocidae,hunting macrofauna (predator),Benthic invertivore,demersal,Day,rock,1,Chordata,seine
+USA (WA2),False Bay,Brachyistius frenatus,7,Embiotocidae,hunting macrofauna (predator),Omnivore,pelagic site attached,Day,"rock, sand",1,Chordata,seine
+Canada (BC),Choked Pocket,Cymatogaster aggregata,27,Embiotocidae,hunting macrofauna (predator),Benthic invertivore,Pelagic site attached,,"sand, rock, seagrass, kelp",1,Chordata,seine
+USA (CA),San Diego,Cymatogaster aggregata,248,Embiotocidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+USA (CA2),Windy Cove,Cymatogaster aggregata,181,Embiotocidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+USA (CA3),Elkhorn Slough,Cymatogaster aggregata,6,Embiotocidae,hunting macrofauna (predator),invertivore,demersal,NA,"seagrass, sand, seaweed",1,Chordata,seine
+USA (OR),OIMB-Valino-SSNERR,Cymatogaster aggregata,163,Embiotocidae,hunting macrofauna (predator),,,,,1,Chordata,seine
+USA (WA),Redondo N-4,Cymatogaster aggregata,2,Embiotocidae,hunting macrofauna (predator),Benthic invertivore,demersal,,,1,Chordata,seine
+USA (WA),Redondo N1,Cymatogaster aggregata,2,Embiotocidae,hunting macrofauna (predator),Benthic invertivore,demersal,,,1,Chordata,seine
+USA (WA),Redondo S-6,Cymatogaster aggregata,230,Embiotocidae,hunting macrofauna (predator),Benthic invertivore,demersal,,,1,Chordata,seine
+USA (WA2),False Bay,Cymatogaster aggregata,2881,Embiotocidae,hunting macrofauna (predator),Omnivore,Demersal,Day,sand,1,Chordata,seine
+Korea,Koje-Korea,Ditrema temminckii,69,Embiotocidae,hunting macrofauna (predator),benthic invertivore,pelagic non-site attached,NA,sand,1,Chordata,seine
+USA (CA3),Elkhorn Slough,Embiotoca jacksoni,7,Embiotocidae,hunting macrofauna (predator),invertivore,demersal,NA,"seagrass, sand, seaweed, rock",1,Chordata,seine
+Canada (BC),Choked Pocket,Embiotoca lateralis,2,Embiotocidae,hunting macrofauna (predator),Benthic invertivore,Pelagic site attached,,"sand, rock, seagrass, kelp",1,Chordata,seine
+USA (CA3),Elkhorn Slough,Embiotoca lateralis,1,Embiotocidae,hunting macrofauna (predator),invertivore,demersal,NA,"seagrass, sand, seaweed, rock",1,Chordata,seine
+USA (WA2),False Bay,Embiotoca lateralis,151,Embiotocidae,hunting macrofauna (predator),Omnivore,Demersal,Day,"rock, sand",1,Chordata,seine
+USA (CA2),Windy Cove,Embiotoca sp.,7,Embiotocidae,NA,NA,NA,NA,NA,1,Chordata,seine
+USA (CA2),Windy Cove,Embiotocidae sp.,1,Embiotocidae,NA,NA,NA,NA,NA,1,Chordata,seine
+USA (CA2),Windy Cove,Embiotocidae spp.,14,Embiotocidae,NA,NA,NA,NA,NA,1,Chordata,seine
+USA (CA3),Elkhorn Slough,Hypsurus caryi,4,Embiotocidae,hunting macrofauna (predator),invertivore,pelagic site attached,Day,"seagrass, sand, seaweed, rock",1,Chordata,seine
+USA (CA2),Windy Cove,Micrometrus minimus,29,Embiotocidae,variable,NA,NA,NA,NA,1,Chordata,seine
+USA (CA2),Windy Cove,Phanerodon furcatus,1,Embiotocidae,NA,NA,NA,NA,NA,1,Chordata,seine
+USA (OR),OIMB-Valino-SSNERR,Phanerodon furcatus,24,Embiotocidae,,,,,,1,Chordata,seine
+USA (CA3),Elkhorn Slough,Rhacochilus toxotes,1,Embiotocidae,hunting macrofauna (predator),invertivore,pelagic site attached,Day,"seagrass, sand, seaweed, rock",1,Chordata,seine
+USA (CA3),Elkhorn Slough,Rhacochilus vacca,9,Embiotocidae,hunting macrofauna (predator),invertivore,demersal,NA,"seagrass, sand, seaweed, rock",1,Chordata,seine
+USA (OR),OIMB-Valino-SSNERR,Rhacochilus vacca,6,Embiotocidae,hunting macrofauna (predator),,,,,1,Chordata,seine
+Mexico (BN),Punta Banda Estuary,Anchoa delicatissima,1,Engraulidae,Selective plankton feeding,Planktivore,Pelagic non-site attached,Day,Sand,0,Chordata,seine
+Mexico (BN),Punta Banda Estuary,Anchoa delicatissima,147,Engraulidae,Selective plankton feeding,Planktivore,Pelagic non-site attached,Day,Sand,0,Chordata,seine
+USA (TX),Aransas Pass,Anchoa mitchilli,503,Engraulidae,variable,NA,NA,NA,NA,0,Chordata,seine
+USA (TX),Oso Bay,Anchoa mitchilli,215,Engraulidae,variable,NA,NA,NA,NA,0,Chordata,seine
+Chile,Puerto Aldea (Chile),Engraulis ringens,3,Engraulidae,filtering plankton,planktivore,pelagic non-site attached,Day & Night,water column,0,Chordata,seine
+USA (OR),OIMB-Valino-SSNERR,Pugettia producta,1,Epialtidae,,,benthic,,,1,Arthropoda,seine
+USA (WA),Redondo N1,Pugettia producta,1,Epialtidae,grazing on aquatic plants,Browsing herbivore,benthic,,,1,Arthropoda,seine
+USA (WA),Redondo N2,Pugettia producta,1,Epialtidae,grazing on aquatic plants,Browsing herbivore,benthic,,,1,Arthropoda,seine
+USA (WA),Redondo S-6,Pugettia producta,1,Epialtidae,grazing on aquatic plants,Browsing herbivore,benthic,,,1,Arthropoda,seine
+Chile,Puerto Aldea (Chile),Taliepus dentatus,41,Epialtidae,grazing on aquatic plants,omnivore,benthic,Day & Night,seaweed,1,Arthropoda,seine
+Australia (QLD3),Moreton_Bay,Fistularia commersonii,1,Fistulariidae,hunting macrofauna (predator),NA,NA,NA,NA,0,Chordata,seine
+Australia (QLD3),Moreton_Bay,Fistularia commersonii,1,Fistulariidae,hunting macrofauna (predator),Higher carnivore,Demersal,Day,rock,0,Chordata,seine
+USA (TX),Oso Bay,Fundulus grandis,14,Fundulidae,NA,NA,NA,NA,NA,1,Chordata,seine
+USA (NC),NC,Fundulus heteroclitus,3,Fundulidae,variable,omnivore,demersal,day,"seagrass, sand",1,Chordata,seine
+USA (TX),Oso Bay,Fundulus heteroclitus,8,Fundulidae,variable,NA,NA,NA,NA,1,Chordata,seine
+USA (VA2),,Fundulus majalis,51,Fundulidae,hunting macrofauna (predator),Benthic invertivore,demersal,,"seagrass, seaweed, sand",1,Chordata,seine
+Mexico (BN),Punta Banda Estuary,Fundulus parvipinnis,82,Fundulidae,Hunting macrofauna (predator),Benthic invertivore,Benthic,Day,Sand,1,Chordata,seine
+USA (TX),Oso Bay,Fundulus similis,15,Fundulidae,NA,NA,NA,NA,NA,1,Chordata,seine
+USA (VA2),,Lucania parva,2,Fundulidae,selective plankton feeding,planktivore,,,,1,Chordata,seine
+USA (MA),Dorothy Cove,Gadus morhua,1,Gadidae,hunting macrofauna (predator),Omnivore,pelagic non-site attached,,rock,1,Chordata,seine
+Norway,NA,Gadus morhua,1,Gadidae,NA,NA,NA,NA,NA,1,Chordata,seine
+Norway,NN_Juvika,Gadus morhua,1,Gadidae,hunting macrofauna (predator),"Benthic invertivore, higher carnivore",bentho-pelagic,Night,"rock, seagrass",1,Chordata,seine
+Wales,"Porthdinllaen, UK",Merlangius merlangus,1,Gadidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+Wales,"Porthdinllaen, UK",Pollachius pollachius,4,Gadidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+Wales,NA,Pollachius pollachius,1,Gadidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+USA (MA),Dorothy Cove,Pollachius virens,1,Gadidae,hunting macrofauna (predator),Omnivore,pelagic non-site attached,,rock,1,Chordata,seine
+Norway,NA,Pollachius virens,5,Gadidae,NA,NA,NA,NA,NA,1,Chordata,seine
+Norway,NN_Juvika,Pollachius virens,77,Gadidae,hunting macrofauna (predator),"Planktivore, higher carnivore",pelagic,,water column,1,Chordata,seine
+USA (AK),Sunshine Cove,Theragra chalcogramma / Gadus chalcogrammus,1,Gadidae,,,Demersal,,,1,Chordata,seine
+USA (VA2),,Apeltes quadracus,11,Gasterosteidae,hunting macrofauna (predator),Benthic invertivore,demersal,,"seagrass, seaweed",0,Chordata,seine
+Canada (QC),QC_Baie St-Ludger,Culaea inconstans,15,Gasterosteidae,hunting macrofauna (predator),NA,NA,NA,NA,0,Chordata,seine
+Canada (QC),NA,Gasterosteus aculateus,1,Gasterosteidae,NA,NA,NA,NA,NA,0,Chordata,seine
+Canada (QC),QC_Baie St-Ludger,Gasterosteus aculeatus,132,Gasterosteidae,hunting macrofauna (predator),NA,NA,NA,NA,0,Chordata,seine
+USA (AK),Sunshine Cove,Gasterosteus aculeatus,2,Gasterosteidae,hunting macrofauna (predator),invertivore,Demersal,,"vegitated, rocky, sand",0,Chordata,seine
+Norway,NN_Juvika,Gasterosteus aculeatus,10,Gasterosteidae,hunting macrofauna (predator),"Benthic invertivore, planktivore",bentho-pelagic,,"sand, vegetation",0,Chordata,seine
+Canada (QC),NA,Gasterosteus sp,5,Gasterosteidae,NA,NA,NA,NA,NA,0,Chordata,seine
+Canada (QC),QC_Baie St-Ludger,Gasterosteus wheatlandi,123,Gasterosteidae,hunting macrofauna (predator),NA,NA,NA,NA,0,Chordata,seine
+Canada (QC),QC_Baie St-Ludger,Pungitius pungitius,1,Gasterosteidae,hunting macrofauna (predator),NA,NA,NA,NA,0,Chordata,seine
+Canada (QC),NA,Pungitius pungitius,2,Gasterosteidae,hunting macrofauna (predator),NA,NA,NA,NA,0,Chordata,seine
+Wales,"Porthdinllaen, UK",Spinachia spinachia,8,Gasterosteidae,hunting macrofauna (predator),planktivore,benthic,Day,rock,0,Chordata,seine
+Norway,NN_Juvika,Spinachia spinachia,4,Gasterosteidae,hunting macrofauna (predator),"Benthic invertivore, planktivore",bentho-pelagic,Day,"rock, vegetation",0,Chordata,seine
+Brazil,Praia do Barreiro,Eucinostomus argenteus,4,Gerreidae,hunting macrofauna (predator),"Omnivore (planktonic and benthic items), but moslty zoobenthivore",Water-column; mostly demersal,Day (data obtained for the congener E. melanopterus),sand / mud,1,Chordata,seine
+Brazil,Praia do Engenho,Eucinostomus argenteus,57,Gerreidae,hunting macrofauna (predator),"Omnivore (planktonic and benthic items), but moslty zoobenthivore",Water-column; mostly demersal,Day (data obtained for the congener E. melanopterus),sand / mud,1,Chordata,seine
+USA (TX),Aransas Pass,Eucinostomus argenteus,182,Gerreidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+USA (NC),NC,Eucinostomus harengulus,92,Gerreidae,hunting macrofauna (predator),Benthic invertivore,demersal,"day, night","seagrass, sand",1,Chordata,seine
+Mexico (ICML2),NA,Eucinostomus melanopterus,4,Gerreidae,NA,NA,NA,NA,NA,1,Chordata,video
+Mexico (ICML),NA,Gerres cinereus,1,Gerreidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,video
+Australia (QLD),Bowen,Gerres oyena,290,Gerreidae,hunting macrofauna (predator),Benthic invertivore,Demersal,Day,"sand, seagrass, rock, coral",1,Chordata,seine
+Australia (NSW),Smiths_Lake_NSW,Gerres subfasciatus,63,Gerreidae,hunting macrofauna (predator),benthic invertivore,"?demersal, pelagic site attached",day,"seagrass, sand",1,Chordata,seine
+Australia (NSW2),Urunga Lagoon 1,Gerres subfasciatus,64,Gerreidae,hunting macrofauna (predator),benthic invertivore,pelagic site attached,day,"rock, sand",1,Chordata,seine
+Australia (NSW2),Urunga Lagoon 2,Gerres subfasciatus,43,Gerreidae,hunting macrofauna (predator),benthic invertivore,pelagic site attached,day,"rock, sand",1,Chordata,seine
+Australia (QLD2),Hervey Bay,Gerres subfasciatus,14,Gerreidae,Feeds on benthic infauna,Benthic invertivore,pelagic site attached,Night,sand,1,Chordata,seine
+Australia (QLD2),Noosa river,Gerres subfasciatus,15,Gerreidae,Feeds on benthic infauna,Benthic invertivore,pelagic site attached,Night,sand,1,Chordata,seine
+Australia (QLD3),Moreton_Bay,Gerres subfasciatus,2,Gerreidae,NA,Benthic invertivore,pelagic site attached,Night,sand,1,Chordata,seine
+Australia (QLD3),Moreton_Bay,Gerres subfasciatus,2,Gerreidae,feeds on benthic infauna,Benthic invertivore,pelagic site attached,Night,sand,1,Chordata,seine
+USA (VA2),,Gobiesox strumosus,1,Gobiesocidae,hunting macrofauna (predator),Benthic invertivore,demersal,,,1,Chordata,seine
+Korea,Koje-Korea,Acanthogobius flavimanus,5,Gobiidae,hunting macrofauna (predator),benthic invertivore,demersal,NA,"sand, seagrass",0,Chordata,seine
+Australia (QLD2),NA,Amblygobius sp.,4,Gobiidae,NA,NA,NA,NA,NA,0,Chordata,seine
+Australia (NSW),Smiths_Lake_NSW,Arenigobius bifrenatus,32,Gobiidae,hunting macrofauna (predator),benthic invertivore,benthic,day,sand,0,Chordata,seine
+USA (TX),Aransas Pass,Bathygobius soporator,75,Gobiidae,hunting macrofauna (predator),NA,NA,NA,NA,0,Chordata,seine
+USA (CA2),Windy Cove,Clevelandia ios,36,Gobiidae,hunting macrofauna (predator),NA,NA,NA,NA,0,Chordata,seine
+USA (CA3),Elkhorn Slough,Clevelandia ios,2,Gobiidae,variable,omnivore,benthic,NA,"seagrass, sand, seaweed",0,Chordata,seine
+USA (TX),Aransas Pass,Ctenogobius boleosoma,11,Gobiidae,hunting macrofauna (predator),NA,NA,NA,NA,0,Chordata,seine
+Mexico (BN),Punta Banda Estuary,Ctenogobius sagittula,1,Gobiidae,Variable,Omnivore,Benthic,Night,Sand,0,Chordata,seine
+Australia (NSW),Smiths_Lake_NSW,Favonigobius exquisitus,201,Gobiidae,hunting macrofauna (predator),benthic invertivore,benthic,day,"seagrass, sand",0,Chordata,seine
+Korea,Koje-Korea,Favonigobius gymnauchen,122,Gobiidae,hunting macrofauna (predator),benthic invertivore,benthic,NA,"sand, seagrass",0,Chordata,seine
+Australia (NSW2),Urunga Lagoon 1,Gobiidae sp.,41,Gobiidae,hunting macrofauna (predator),benthic invertivore,demersal,day,"sand, seagrass",0,Chordata,seine
+Australia (NSW2),Urunga Lagoon 2,Gobiidae sp.,18,Gobiidae,hunting macrofauna (predator),benthic invertivore,demersal,day,"sand, seagrass",0,Chordata,seine
+Australia (QLD),Bowen,Gobiidae sp.,40,Gobiidae,hunting macrofauna (predator),Benthic invertivore,Demersal,Day/night,"sand, rock, seagrass, coral",0,Chordata,seine
+Australia (QLD3),Moreton_Bay,Gobiidae sp.,48,Gobiidae,NA,NA,NA,NA,NA,0,Chordata,seine
+USA (CA2),Windy Cove,Gobiidae sp.,1,Gobiidae,NA,NA,NA,NA,NA,0,Chordata,seine
+USA (CA3),Elkhorn Slough,Gobiidae sp.,5,Gobiidae,hunting macrofauna (predator),benthic invertivore,benthic,NA,"seagrass, sand, seaweed, rock",0,Chordata,seine
+Australia (QLD3),Moreton_Bay,Gobiidae sp.,48,Gobiidae,feeds on benthic infauna,Benthic invertivore,benthic,Day,sand,0,Chordata,seine
+USA (NC),NC,Gobiosoma bosc,1,Gobiidae,browsing on substrate,benthic invertivore,demersal,,"seagrass, rock, sand",0,Chordata,seine
+USA (TX),Aransas Pass,Gobiosoma bosc,1,Gobiidae,NA,NA,NA,NA,NA,0,Chordata,seine
+USA (TX),Oso Bay,Gobiosoma bosc,21,Gobiidae,NA,NA,NA,NA,NA,0,Chordata,seine
+USA (NC),NC,Gobiosoma sp.,2,Gobiidae,browsing on substrate,benthic invertivore,demersal,,"seagrass, rock, sand",0,Chordata,seine
+Croatia,CR-B-SvetiDuh,Gobius geniporus,4,Gobiidae,hunting macrofauna (predator),Benthic invertivore,benthic,day,sand,0,Chordata,seine
+Croatia,CR-B-SvetiDuh,Gobius niger,52,Gobiidae,hunting macrofauna (predator),Benthic invertivore,benthic,day,"sand, rock, seagrass",0,Chordata,seine
+Croatia,NA,Gobius niger,1,Gobiidae,selective plankton feeding,NA,NA,NA,NA,0,Chordata,seine
+Australia (QLD2),Hervey Bay,Gobius sp.,69,Gobiidae,Feeds on benthic infauna,Benthic invertivore,benthic,day,sand,0,Chordata,seine
+Australia (QLD2),Noosa river,Gobius sp.,340,Gobiidae,Feeds on benthic infauna,Benthic invertivore,benthic,day,sand,0,Chordata,seine
+Wales,"Porthdinllaen, UK",Gobiusculus flavescens,1,Gobiidae,selective plankton feeding,NA,NA,NA,NA,0,Chordata,seine
+Mexico (BN),Punta Banda Estuary,Ilypnus gilberti,132,Gobiidae,Hunting macrofauna (predator),Benthic invertivore,Benthic,Night,Sand,0,Chordata,seine
+USA (CA),San Diego,Lepidogobius lepidus,236,Gobiidae,NA,NA,NA,NA,NA,0,Chordata,seine
+USA (OR),OIMB-Valino-SSNERR,Lepidogobius lepidus,1,Gobiidae,,,,,,0,Chordata,seine
+Australia (VIC),Edwards Point,Nesogobius maccullochi,25,Gobiidae,hunting macrofauna (predator),Benthic invertivore,benthic,Day,sand,0,Chordata,seine
+Australia (VIC),Indented Head,Nesogobius maccullochi,18,Gobiidae,hunting macrofauna (predator),Benthic invertivore,benthic,Day,sand,0,Chordata,seine
+Australia (VIC),St. Leonards,Nesogobius maccullochi,8,Gobiidae,hunting macrofauna (predator),Benthic invertivore,benthic,Day,sand,0,Chordata,seine
+France,Bouzigues,Pomatoschistus marmoratus,15,Gobiidae,hunting macrofauna (predator),,benthic,,,0,Chordata,seine
+Croatia,NA,Pomatoschistus marmoratus,3,Gobiidae,hunting macrofauna (predator),NA,NA,NA,NA,0,Chordata,seine
+Croatia,CR-B-SvetiDuh,Pomatoschistus marmoratus/minutus,190,Gobiidae,hunting macrofauna (predator),Benthic invertivore,benthic,day,sand,0,Chordata,seine
+Wales,"Porthdinllaen, UK",Pomatoschistus minutus,291,Gobiidae,hunting macrofauna (predator),NA,NA,NA,NA,0,Chordata,seine
+Wales,NA,Pomatoschistus minutus,2,Gobiidae,hunting macrofauna (predator),NA,NA,NA,NA,0,Chordata,seine
+Norway,NA,Pomatoschistus sp.,2,Gobiidae,NA,NA,NA,NA,NA,0,Chordata,seine
+Norway,NN_Juvika,Pomatoschistus sp.,66,Gobiidae,hunting macrofauna (predator),Benthic invertivore,benthic,,sand,0,Chordata,seine
+Korea,Koje-Korea,Pterogobius elapoides,5,Gobiidae,selective plankton feeding,NA,Demersal,NA,"rock, seagrass, seaweed",0,Chordata,seine
+Croatia,NA,Zosterisessor offiocephalus,1,Gobiidae,NA,NA,NA,NA,NA,0,Chordata,seine
+Croatia,CR-B-SvetiDuh,Zosterisessor ophiocephalus,113,Gobiidae,hunting macrofauna (predator),Benthic invertivore including piscivory,benthic,day,seagrass,0,Chordata,seine
+Croatia,NA,Zosterisessor ophiocephalus,1,Gobiidae,hunting macrofauna (predator),NA,NA,NA,NA,0,Chordata,seine
+Mexico (ICML),NA,Anisotremus virginicus,3,Haemulidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,video
+Australia (QLD3),NA,Diagramma pictum,1,Haemulidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+Mexico (ICML),NA,Haemulon plumieri,29,Haemulidae,NA,NA,NA,NA,NA,1,Chordata,video
+Mexico (ICML),NA,Haemulon sciurus,1,Haemulidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,video
+Chile,Puerto Aldea (Chile),Isacia conceptionis,1,Haemulidae,hunting macrofauna (predator),benthic invertivore,benthic,Day & Night,"rock, sand",1,Chordata,seine
+Chile,NA,Isacia conceptionis,3,Haemulidae,NA,NA,NA,NA,NA,1,Chordata,seine
+USA (NC),NC,Orthopristis chrysoptera,5,Haemulidae,hunting macrofauna (predator),higher carnivore,demersal,night,"seagrass, sand",1,Chordata,seine
+USA (NC2),Pine Knoll Shores,Orthopristis chrysoptera,1,Haemulidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+Australia (QLD3),Moreton_Bay,Arrhamphus sclerolepis,2,Hemiramphidae,NA,NA,NA,NA,NA,1,Chordata,seine
+Australia (QLD3),Moreton_Bay,Arrhamphus sclerolepis,2,Hemiramphidae,variable,Omnivore,pelagic site attached,Day/Night,seagrass/sand,1,Chordata,seine
+Australia (QLD3),NA,Arrhamphus sclerolepis,1,Hemiramphidae,NA,NA,NA,NA,NA,1,Chordata,seine
+Australia (QLD2),Noosa river,Hemiramphus robustus,1,Hemiramphidae,hunting macrofauna (predator),higher carnivore,pelagic non-site attached,day,water column,1,Chordata,seine
+Australia (NSW),Smiths_Lake_NSW,Hyporhamphus australis,5,Hemiramphidae,variable,omnivore,"?demersal, pelagic site attached",day,"seagrass, sand",1,Chordata,seine
+USA (NC),NC,Hyporhamphus brasiliensis,2,Hemiramphidae,selective plankton feeding,omnivore,demersal,night,"seagrass, sand",1,Chordata,seine
+USA (VA2),,Hyporhamphus meeki,2,Hemiramphidae,variable,,pelagic site attached,,,1,Chordata,seine
+Australia (NSW2),Urunga Lagoon 1,Hyporhamphus regularis,1,Hemiramphidae,variable,omnivore,pelagic non-site attached,day,"sand, seagrass",1,Chordata,seine
+Australia (QLD3),Moreton_Bay,Hyporhamphus regularis,2,Hemiramphidae,grazing on aquatic plants,NA,NA,NA,NA,1,Chordata,seine
+Australia (QLD3),Moreton_Bay,Hyporhamphus regularis,2,Hemiramphidae,variable,Omnivore,pelagic site attached,Day/Night,seagrass/sand,1,Chordata,seine
+Australia (QLD3),NA,Hyporhamphus regularis ardelio,1,Hemiramphidae,NA,NA,NA,NA,NA,1,Chordata,seine
+Mexico (BN),Punta Banda Estuary,Hyporhamphus rosae,1,Hemiramphidae,Selective plankton feeding,Planktivore,Pelagic non-site attached,Day,Sand,1,Chordata,seine
+Australia (QLD2),NA,Hyporhamphus sp.,10,Hemiramphidae,NA,NA,NA,NA,NA,1,Chordata,seine
+Korea,Koje-Korea,Hexagrammos agrammus,1,Hexagrammidae,hunting macrofauna (predator),benthic invertivore,demersal,NA,"rock, seaweed",1,Chordata,seine
+Canada (BC),Choked Pocket,Hexagrammos decagrammus,2,Hexagrammidae,hunting macrofauna (predator),Higher carnivore,Benthopelagic,,"sand, rock, seagrass, kelp",1,Chordata,seine
+Canada (BC),Choked Pocket,Hexagrammos lagocephalus,3,Hexagrammidae,hunting macrofauna (predator),Higher carnivore,Benthopelagic,,"sand, rock, seagrass, kelp",1,Chordata,seine
+Korea,Koje-Korea,Hexagrammos otakii,4,Hexagrammidae,hunting macrofauna (predator),higher carnivore,demersal,NA,"rock, seaweed",1,Chordata,seine
+USA (TX),Aransas Pass,Tozeuma carolinense,42,Hippolytidae,NA,NA,NA,NA,NA,0,Arthropoda,seine
+USA (TX),Aransas Pass,Tozeuma carolinense,137,Hippolytidae,NA,NA,NA,NA,NA,0,Arthropoda,seine
+Australia (NSW2),Urunga Lagoon 1,Girella tricuspidata,5,Kyphosidae,grazing on aquatic plants,browsing herbivore,demersal,day,"rock, seagrass, sand",0,Chordata,seine
+Australia (VIC),Edwards Point,Girella zebra,5,Kyphosidae,grazing on aquatic plants,Browsing herbivore,Demersal,Day,rock,0,Chordata,seine
+Australia (VIC),Indented Head,Girella zebra,5,Kyphosidae,grazing on aquatic plants,Browsing herbivore,Demersal,Day,rock,0,Chordata,seine
+Australia (VIC),St. Leonards,Girella zebra,4,Kyphosidae,grazing on aquatic plants,Browsing herbivore,Demersal,Day,rock,0,Chordata,seine
+Australia (QLD2),NA,Cheilio inermis,4,Labridae,NA,NA,NA,NA,NA,1,Chordata,seine
+Australia (QLD2),NA,Coris caudimacula,38,Labridae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+Italy,NA,Coris julis,18,Labridae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,video
+Australia (QLD2),NA,Coris pictoides,10,Labridae,NA,NA,NA,NA,NA,1,Chordata,seine
+Australia (QLD2),NA,Coris sp.,52,Labridae,NA,NA,NA,NA,NA,1,Chordata,seine
+Mexico (ICML),NA,Halichoeres bivittatus,24,Labridae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,video
+Mexico (ICML2),NA,Halichoeres bivittatus,5,Labridae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,video
+Australia (QLD2),NA,Halichoeres chloropterus,3,Labridae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+Mexico (ICML),NA,Halichoeres garnoti,1,Labridae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,video
+Mexico (BN),Punta Banda Estuary,Halichoeres semicinctus,1,Labridae,Hunting macrofauna (predator),Benthic invertivore,Benthic,Day,Rock,1,Chordata,seine
+Australia (QLD2),NA,Halichoeres sp.,1,Labridae,NA,NA,NA,NA,NA,1,Chordata,seine
+Australia (QLD2),NA,Halichoeres trimaculatus,3,Labridae,variable,NA,NA,NA,NA,1,Chordata,seine
+Australia (QLD2),NA,Labroides dimidiatus,4,Labridae,picking parasites off a host (cleaner),NA,NA,NA,NA,1,Chordata,seine
+Wales,"Porthdinllaen, UK",Labrus bergylta,2,Labridae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+Australia (QLD2),NA,Leptojulis cyanopleura,48,Labridae,selective plankton feeding,Benthic invertivore,Demersal,Day,coral,1,Chordata,seine
+Australia (QLD2),NA,Leptojulis sp.,20,Labridae,NA,NA,NA,NA,NA,1,Chordata,seine
+Korea,Koje-Korea,Parajulis poecilopterus,1,Labridae,hunting macrofauna (predator),Benthic invertivore,Demersal,NA,rock,1,Chordata,seine
+Australia (QLD3),Moreton_Bay,Pseudolabrus guentheri,6,Labridae,hunting macrofauna (predator),Benthic invertivore,Demersal,Day,rock,1,Chordata,seine
+Australia (QLD3),Moreton_Bay,Pseudolabrus guentheri,6,Labridae,hunting macrofauna (predator),Benthic invertivore,Demersal,Day,rock,1,Chordata,seine
+Australia (QLD3),Moreton_Bay,Scarus ghobban,1,Labridae,browsing on substrate,Scraping herbivore,Demersal,Day,coral,1,Chordata,seine
+Australia (QLD3),Moreton_Bay,Scarus ghobban,1,Labridae,browsing on substrate,Scraping herbivore,Demersal,Day,coral,1,Chordata,seine
+Mexico (ICML),NA,Sparisoma rubripinne,2,Labridae,browsing on substrate,Scraping herbivore,Demersal,Day,coral,1,Chordata,video
+Mexico (ICML),NA,Sparisoma viride,1,Labridae,NA,NA,NA,NA,NA,1,Chordata,video
+Croatia,NA,Symphodus cinereus,1,Labridae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+Wales,"Porthdinllaen, UK",Symphodus melops,41,Labridae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+Croatia,CR-B-SvetiDuh,Symphodus ocellatus,93,Labridae,variable,benthic invertivore,demersal,day,"seaweed, rock, seagrass",1,Chordata,seine
+Croatia,NA,Symphodus ocellatus,2,Labridae,variable,NA,NA,NA,NA,1,Chordata,seine
+Italy,NA,Symphodus ocellatus,2,Labridae,variable,NA,NA,NA,NA,1,Chordata,video
+France,Bouzigues,Symphodus tinca,8,Labridae,hunting macrofauna (predator),Higher carnivore,,,,1,Chordata,seine
+France,NA,Symphodus tinca,4,Labridae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+Italy,NA,Symphodus tinca,2,Labridae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,video
+Mexico (ICML),NA,Thalassoma bifasciatum,4,Labridae,selective plankton feeding,Benthic invertivore,Demersal,Day,coral,1,Chordata,video
+Australia (QLD2),NA,Thalassoma sp.,20,Labridae,NA,NA,NA,NA,NA,1,Chordata,seine
+Korea,Koje-Korea,Lateolabrax japonicus,116,Lateolabracidae,hunting macrofauna (predator),planktivore,pelagic non-site attached,NA,water column,1,Chordata,seine
+Australia (QLD2),NA,Lethrinus atkinsoni,29,Lethrinidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+Australia (QLD),Bowen,Lethrinus genivittatus,33,Lethrinidae,hunting macrofauna (predator),Benthic invertivore,Demersal,Day,"seagrass, rock, sand",1,Chordata,seine
+Australia (QLD2),NA,Lethrinus genivittatus,114,Lethrinidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+Australia (QLD3),Moreton_Bay,Lethrinus laticaudis,1,Lethrinidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+Australia (QLD3),Moreton_Bay,Lethrinus laticaudis,1,Lethrinidae,hunting macrofauna (predator),Benthic invertivore,Demersal,Night,seagrass/seaweed,1,Chordata,seine
+Australia (QLD2),NA,Lethrinus nebulosus,26,Lethrinidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+Australia (QLD2),NA,Lethrinus obsoletus,11,Lethrinidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+Australia (QLD2),NA,Lethrinus sp.,331,Lethrinidae,NA,NA,NA,NA,NA,1,Chordata,seine
+Canada (BC),Choked Pocket,Liparis sp.,2,Liparidae,hunting macrofauna (predator),Benthic invertivore,Benthic,,"sand, seagrass",0,Chordata,seine
+Australia (VIC),Edwards Point,Sepioteuthis australis,2,Loliginidae,hunting macrofauna (predator),higher carnivore,throughout the water column,Night,"sand, reef, seagrass",0,Mollusca,seine
+Australia (VIC),St. Leonards,Sepioteuthis australis,1,Loliginidae,hunting macrofauna (predator),higher carnivore,throughout the water column,Night,"sand, reef, seagrass",0,Mollusca,seine
+Australia (QLD3),Moreton_Bay,Sepioteuthis lessoniana,6,Loliginidae,hunting macrofauna (predator),Higher carnivore,Demersal,Night,seagrass/rock,0,Mollusca,seine
+Australia (QLD3),Moreton_Bay,Sepioteuthis lessoniana,6,Loliginidae,NA,NA,NA,NA,NA,0,Mollusca,seine
+Australia (QLD2),NA,Caesio sp.,6,Caesionidae,NA,NA,NA,NA,NA,1,NA,seine
+Mexico (ICML),NA,Lutjanus analis,2,Lutjanidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,video
+Mexico (ICML2),NA,Lutjanus analis,2,Lutjanidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,video
+Mexico (ICML),NA,Lutjanus apodus,2,Lutjanidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,video
+USA (TX),Aransas Pass,Lutjanus griseus,12,Lutjanidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+Mexico (ICML),NA,Lutjanus griseus,2,Lutjanidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,video
+Australia (QLD2),NA,Lutjanus obsoletus,1,Lutjanidae,NA,NA,NA,NA,NA,1,Chordata,seine
+Australia (QLD),Bowen,Lutjanus russellii,56,Lutjanidae,hunting macrofauna (predator),Benthic invertivore,Demersal,Day,"coral, rock, seagrass, sand",1,Chordata,seine
+Australia (QLD2),NA,Lutjanus russellii,108,Lutjanidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+Australia (QLD2),NA,Lutjanus semicinctus,1,Lutjanidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+Australia (QLD2),NA,Lutjanus sp.,2,Lutjanidae,NA,NA,NA,NA,NA,1,Chordata,seine
+Australia (QLD2),NA,Lutjanus vitta,1,Lutjanidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+Mexico (ICML),NA,Ocyurus chrysurus,5,Lutjanidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,video
+Australia (QLD2),NA,Symphorus nematophorus,6,Lutjanidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+USA (CA),San Diego,Lysmata californica,1,Lysmatidae,NA,NA,NA,NA,NA,0,Arthropoda,seine
+Australia (VIC),Edwards Point,Acanthaluteres spilomelanurus,4,Monacanthidae,variable,Omnivore,Demersal,Day,sand,0,Chordata,seine
+Australia (VIC),Indented Head,Acanthaluteres spilomelanurus,3,Monacanthidae,variable,Omnivore,Demersal,Day,sand,0,Chordata,seine
+Australia (VIC),St. Leonards,Acanthaluteres spilomelanurus,2,Monacanthidae,variable,Omnivore,Demersal,Day,sand,0,Chordata,seine
+Mexico (ICML),NA,Aluterus scriptus,1,Monacanthidae,NA,NA,NA,NA,NA,0,Chordata,video
+Australia (NSW2),Urunga Lagoon 1,Meuschenia trachylepis,3,Monacanthidae,grazing on aquatic plants,benthic herbivore,demersal,night,"rock, seagrass",0,Chordata,seine
+Australia (QLD2),Noosa river,Monacanthus chinensis,8,Monacanthidae,grazing on aquatic plants,browsing herbivore,Benthic,day,Seagrass,0,Chordata,seine
+Australia (QLD3),Moreton_Bay,Monacanthus chinensis,48,Monacanthidae,grazing on aquatic plants,NA,NA,NA,NA,0,Chordata,seine
+Australia (QLD3),Moreton_Bay,Monacanthus chinensis,48,Monacanthidae,grazing on aquatic plants,Browsing herbivore,Demersal,Day,seagrass,0,Chordata,seine
+Korea,Koje-Korea,Rudarius ercodes,19,Monacanthidae,hunting macrofauna (predator),Benthic invertivore,pelagic site attached,NA,"rock, sand, seagrass",0,Chordata,seine
+USA (NC),NC,Stephanolepis hispidus,7,Monacanthidae,grazing on aquatic plants,Benthic invertivore,demersal,,"sand, seagrass",0,Chordata,seine
+Australia (NSW2),Urunga Lagoon 1,Monodactylus argenteus,10,Monodactylidae,variable,planktivore,pelagic site attached,day,water column,1,Chordata,seine
+Australia (QLD2),Noosa river,Monodactylus argenteus,2,Monodactylidae,variable,planktivore,demersal,day,water column,1,Chordata,seine
+Croatia,CR-B-SvetiDuh,Dicentrarchus labrax,2,Moronidae,hunting macrofauna (predator),Higher carnivore including piscivory,demersal,day,"rock, sand, seagrass",1,Chordata,seine
+Wales,NA,Dicentrarchus labrax,1,Moronidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+Australia (NSW),Smiths_Lake_NSW,Aldrichetta forsteri,1,Mugilidae,variable,omnivore,demersal,day,"seagrass, sand",0,Chordata,seine
+Australia (NSW),Smiths_Lake_NSW,Liza argentea,3,Mugilidae,variable,omnivore,demersal,day,"seagrass, sand",0,Chordata,seine
+Australia (NSW2),Urunga Lagoon 1,Liza argentea,48,Mugilidae,variable,omnivore,demersal,day,"sand, seagrass",0,Chordata,seine
+Australia (NSW2),Urunga Lagoon 2,Liza argentea,1,Mugilidae,browsing on substrate,Scraping herbivore,demersal,night,"seagrass, sand",0,Chordata,seine
+France,Bouzigues,Liza aurata,17,Mugilidae,variable,Omnivore,benthic,,,0,Chordata,seine
+France,NA,Liza aurata,1,Mugilidae,variable,NA,NA,NA,NA,0,Chordata,seine
+France,NA,Liza sp,1,Mugilidae,NA,NA,NA,NA,NA,0,Chordata,seine
+France,Bouzigues,Liza sp.,1,Mugilidae,browsing on substrate,Omnivore,benthic,,,0,Chordata,seine
+Australia (QLD2),Noosa river,Mugil cephalus,2,Mugilidae,variable,omnivore,demersal,day,water column,0,Chordata,seine
+Croatia,CR-B-SvetiDuh,Mugil cephalus,12,Mugilidae,browsing on substrate (detritus),Omnivore mainly detritus,pelagic non-site attached AND demersal,day,water column,0,Chordata,seine
+Chile,NA,Mugil cephalus,5,Mugilidae,variable,NA,NA,NA,NA,0,Chordata,seine
+Croatia,NA,Mugil cephalus,8,Mugilidae,variable,NA,NA,NA,NA,0,Chordata,seine
+USA (FL),NA,Mugil cephalus,169,Mugilidae,variable,omnivore,benthic,NA,NA,0,Chordata,video
+USA (TX),Oso Bay,Mugil curema,4,Mugilidae,grazing on aquatic plants,NA,NA,NA,NA,0,Chordata,seine
+USA (FL),NA,Mugil curema,8,Mugilidae,variable,omnivore,benthic,NA,NA,0,Chordata,video
+Italy,NA,Mugil sp.,2,Mugilidae,NA,NA,NA,NA,NA,0,Chordata,video
+Croatia,CR-B-SvetiDuh,Mullus barbatus,10,Mullidae,hunting macrofauna (predator),Benthic invertivore,demersal,day,"sand, rock",1,Chordata,seine
+Italy,NA,Mullus surmuletus,1,Mullidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,video
+Australia (QLD2),NA,Parupeneus indicus,13,Mullidae,hunting macrofauna (predator),Benthic invertivore,Demersal,Day,sand,1,Chordata,seine
+Australia (QLD),Bowen,Upeneus tragula,3,Mullidae,hunting macrofauna (predator),Benthic invertivore,Demersal,Day,"sand, seagrass, rock, coral",1,Chordata,seine
+Australia (QLD3),Moreton_Bay,Upeneus tragula,2,Mullidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+Australia (QLD3),Moreton_Bay,Upeneus tragula,2,Mullidae,hunting macrofauna (predator),Benthic invertivore,benthic,Night,sand,1,Chordata,seine
+Italy,NA,Muraena helena,1,Muraenidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,video
+Australia (QLD2),NA,Scolopsis lineata,11,Nemipteridae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+Australia (QLD2),NA,Scolopsis sp.,136,Nemipteridae,NA,NA,NA,NA,NA,1,Chordata,seine
+Australia (QLD2),NA,Scolopsis trilineata,1,Nemipteridae,NA,NA,NA,NA,NA,1,Chordata,seine
+USA (WA2),False Bay,Hypomesus pretiosus,1,Osmeridae,hunting macrofauna (predator),Omnivore,"Pelagic, benthic",Night,sand,0,Chordata,seine
+Mexico (ICML2),NA,Lactophris trigonus,1,Ostraciidae,NA,NA,NA,NA,NA,1,Chordata,video
+Mexico (ICML),NA,Lactophrys trigonus,4,Ostraciidae,variable,NA,NA,NA,NA,1,Chordata,video
+Mexico (ICML2),NA,Lactophrys trigonus,2,Ostraciidae,variable,NA,NA,NA,NA,1,Chordata,video
+Korea,Koje-Korea,Lactoria cornuta,2,Ostraciidae,hunting macrofauna (predator),Benthic invertivore,Demersal,Day,rock,1,Chordata,seine
+Mexico (ICML2),NA,Lactrophrys trigonus,2,Ostraciidae,NA,NA,NA,NA,NA,1,Chordata,video
+Chile,Puerto Aldea (Chile),Ovalipes trimaculatus,1,Ovalipidae,hunting macrofauna (predator),benthic invertivore,benthic,Day & Night,sand,1,Arthropoda,seine
+Chile,Puerto Aldea (Chile),Pagurus perlatus,20,Paguridae,variable,omnivore,benthic,Day & Night,sand,0,Arthropoda,seine
+Croatia,CR-B-SvetiDuh,Palaemon elegans,57,Palaemonidae,variable,omnivore,benthic,,,1,Arthropoda,seine
+Wales,"Porthdinllaen, UK",Palaemon serratus,207,Palaemonidae,NA,NA,NA,NA,NA,1,Arthropoda,seine
+Wales,NA,Palaemon serratus,4,Palaemonidae,NA,NA,NA,NA,NA,1,Arthropoda,seine
+Australia (QLD3),Moreton_Bay,Palaemon serrifer,25,Palaemonidae,NA,NA,NA,NA,NA,1,Arthropoda,seine
+Australia (QLD3),Moreton_Bay,Palaemon serrifer,25,Palaemonidae,browsing on substrate,Scraping herbivore,benthic,Night,seagrass/sand,1,Arthropoda,seine
+Australia (NSW2),Urunga Lagoon 1,Palaemon sp.,1363,Palaemonidae,browsing on substrate,Scraping herbivore,demersal,night,"seagrass, sand",1,Arthropoda,seine
+Australia (NSW2),Urunga Lagoon 2,Palaemon sp.,6,Palaemonidae,browsing on substrate,scraping herbivore,demersal,night,seagrass,1,Arthropoda,seine
+France,Bouzigues,Palaemon spp,36,Palaemonidae,selective plankton feeding,Omnivore,benthic,,,1,Arthropoda,seine
+USA (DE),"UD Lewes, DE",Palaemonetes pugio,26,Palaemonidae,NA,NA,NA,NA,NA,1,Arthropoda,seine
+USA (TX),Aransas Pass,Palaemonetes spp.,220,Palaemonidae,NA,NA,NA,NA,NA,1,Arthropoda,seine
+USA (TX),Laguna Madre,Palaemonetes spp.,5,Palaemonidae,NA,NA,NA,NA,NA,1,Arthropoda,seine
+USA (TX),Oso Bay,Palaemonetes spp.,2002,Palaemonidae,NA,NA,NA,NA,NA,1,Arthropoda,seine
+USA (TX),Laguna Madre,Eurypanopeus turgidus,3,Panopeidae,NA,NA,NA,NA,NA,1,Arthropoda,seine
+Canada (BC),Choked Pocket,Citharichthys sordidus,31,Paralichthyidae,hunting macrofauna (predator),Higher carnivore,Benthic,,sand,0,Chordata,seine
+Canada (BC),Choked Sandspit,Citharichthys sordidus,2,Paralichthyidae,hunting macrofauna (predator),Higher carnivore,Benthic,,sand,0,Chordata,seine
+USA (WA),Redondo S-6,Citharichthys stigmaeus,1,Paralichthyidae,hunting macrofauna (predator),Benthic invertivore,demersal,Night,sand,0,Chordata,seine
+Brazil,Praia do Engenho,Etropus longimanus,2,Paralichthyidae,hunting macrofauna (predator),"Carnivore (zoobenthivore, mostly polychaetes)",Benthic,-- No information --,sand,0,Chordata,seine
+USA (TX),Oso Bay,Paralichthys albigutta,1,Paralichthyidae,NA,NA,NA,NA,NA,0,Chordata,seine
+USA (CA),San Diego,Paralichthys californicus,6,Paralichthyidae,hunting macrofauna (predator),NA,NA,NA,NA,0,Chordata,seine
+Chile,Puerto Aldea (Chile),Paralichthys microps,3,Paralichthyidae,hunting macrofauna (predator),benthic invertivore,benthic,Day & Night,sand,0,Chordata,seine
+Chile,Puerto Aldea (Chile),Paralichthys sp.,6,Paralichthyidae,hunting macrofauna (predator),benthic invertivore,benthic,Day & Night,sand,0,Chordata,seine
+Australia (NSW2),Urunga Lagoon 2,Pseudorhombus arsius,1,Paralichthyidae,hunting macrofauna (predator),higher carnivore,benthic,day,sand,0,Chordata,seine
+Australia (QLD3),Moreton_Bay,Pseudorhombus arsius,1,Paralichthyidae,hunting macrofauna (predator),NA,NA,NA,NA,0,Chordata,seine
+Australia (QLD3),Moreton_Bay,Pseudorhombus arsius,1,Paralichthyidae,hunting macrofauna (predator),Benthic invertivore,benthic,Day,sand,0,Chordata,seine
+Australia (QLD2),NA,Pseudorhombus sp.,1,Paralichthyidae,NA,NA,NA,NA,NA,0,Chordata,seine
+USA (NC),NC,Farfantepenaeus aztecus,42,Penaeidae,variable,omnivore,benthic,night,"seagrass, sand",1,Arthropoda,seine
+Mexico (BN),Punta Banda Estuary,Farfantepenaeus californiensis,1,Penaeidae,Variable,Omnivore,Benthic,Night,Sand,1,Arthropoda,seine
+USA (TX),Aransas Pass,Farfantepenaeus spp.,182,Penaeidae,NA,NA,NA,NA,NA,1,Arthropoda,seine
+USA (TX),Laguna Madre,Farfantepenaeus spp.,41,Penaeidae,NA,NA,NA,NA,NA,1,Arthropoda,seine
+USA (TX),Oso Bay,Farfantepenaeus spp.,100,Penaeidae,NA,NA,NA,NA,NA,1,Arthropoda,seine
+USA (TX),Oso Bay,Farfantepenaus spp.,100,Penaeidae,NA,NA,NA,NA,NA,1,Arthropoda,seine
+USA (CA),San Diego,Penaeus californicus,6,Penaeidae,NA,NA,NA,NA,NA,1,Arthropoda,seine
+Australia (QLD3),Moreton_Bay,Penaeus esculentus,8,Penaeidae,NA,NA,NA,NA,NA,1,Arthropoda,seine
+Australia (QLD3),Moreton_Bay,Penaeus esculentus,8,Penaeidae,browsing on substrate,Scraping herbivore,benthic,Night,seagrass/sand,1,Arthropoda,seine
+Canada (BC),Choked Pocket,Apodichthys flavidus,10,Pholidae,hunting macrofauna (predator),Benthic invertivore,Benthopelagic,,"sand, rock",0,Chordata,seine
+USA (WA2),False Bay,Apodichthys flavidus,21,Pholidae,hunting macrofauna (predator),Omnivore,Demersal,"Day, night","rock, sand",0,Chordata,seine
+Korea,Koje-Korea,Pholis fangi,7,Pholidae,NA,NA,Demersal,NA,"sand, seagrass",0,Chordata,seine
+Norway,NN_Juvika,Pholis gunnellus,1,Pholidae,hunting macrofauna (predator),Benthic invertivore,benthic,,"rock, vegetation",0,Chordata,seine
+USA (AK),Sunshine Cove,Pholis laeta,4,Pholidae,hunting macrofauna (predator),invertivore,benthic,,"vegitated, rocky, sand",0,Chordata,seine
+USA (WA2),False Bay,Pholis laeta,37,Pholidae,hunting macrofauna (predator),Omnivore,Demersal,Night,"rock, sand",0,Chordata,seine
+USA (WA),Redondo S-6,Pholis ornata,3,Pholidae,hunting macrofauna (predator),,,,,0,Chordata,seine
+USA (WA2),False Bay,Pholis ornata,17,Pholidae,hunting macrofauna (predator),Omnivore,Demersal,Night,sand,0,Chordata,seine
+USA (WA),Redondo N2,Pholis sp.,1,Pholidae,,,,,,0,Chordata,seine
+USA (MA),Dorothy Cove,Urophycis regia,2,Phycidae,hunting macrofauna (predator),Benthic invertivore,benthic,,rock,1,Chordata,seine
+Australia (QLD),Bowen,Platycephalidae sp.,1,Platycephalidae,hunting macrofauna (predator),Higher carnivore,Demersal,Day,"sand, seagrass",0,Chordata,seine
+Australia (VIC),Indented Head,Platycephalus aurimaculatus,1,Platycephalidae,hunting macrofauna (predator),Benthic invertivore,Demersal,Day,sand,0,Chordata,seine
+Australia (VIC),St. Leonards,Platycephalus aurimaculatus,1,Platycephalidae,hunting macrofauna (predator),Benthic invertivore,Demersal,Day,sand,0,Chordata,seine
+Australia (QLD2),Hervey Bay,Platycephalus fuscus,1,Platycephalidae,hunting macrofauna (predator),benthic invertivore,benthic,night,sand,0,Chordata,seine
+Australia (QLD3),Moreton_Bay,Platycephalus fuscus,1,Platycephalidae,hunting macrofauna (predator),NA,NA,NA,NA,0,Chordata,seine
+Australia (QLD3),Moreton_Bay,Platycephalus fuscus,1,Platycephalidae,hunting macrofauna (predator),Benthic invertivore,benthic,Day,sand,0,Chordata,seine
+USA (AK),Sunshine Cove,Lepidopsetta sp.,22,Pleuronectidae,,,benthic,,"vegitated, rocky, sand",0,Chordata,seine
+USA (AK),Sunshine Cove,Limanda aspera,5,Pleuronectidae,hunting macrofauna (predator),,,,vegitated,0,Chordata,seine
+Wales,"Porthdinllaen, UK",Limanda limanda,2,Pleuronectidae,hunting macrofauna (predator),NA,NA,NA,NA,0,Chordata,seine
+Canada (BC),Choked Pocket,Parophrys vetulus,7,Pleuronectidae,hunting macrofauna (predator),Higher carnivore,Benthic,,"sand, seagrass",0,Chordata,seine
+USA (OR),OIMB-Valino-SSNERR,Parophrys vetulus,9,Pleuronectidae,hunting macrofauna (predator),,,,,0,Chordata,seine
+USA (WA2),False Bay,Parophrys vetulus,1,Pleuronectidae,hunting macrofauna (predator),Omnivore,Benthic,Day,sand,0,Chordata,seine
+USA (WA2),False Bay,Parophrys vetulus,21,Pleuronectidae,hunting macrofauna (predator),Omnivore,Demersal,Day,sand,0,Chordata,seine
+USA (AK),Sunshine Cove,Platichthys stellatus,1,Pleuronectidae,hunting macrofauna (predator),invertivore,benthic,,"vegitated, sand",0,Chordata,seine
+USA (CA),San Diego,Platichthys stellatus,8,Pleuronectidae,hunting macrofauna (predator),NA,NA,NA,NA,0,Chordata,seine
+Wales,"Porthdinllaen, UK",Pleuronectes platessa,11,Pleuronectidae,hunting macrofauna (predator),NA,NA,NA,NA,0,Chordata,seine
+Norway,NA,Pleuronectes platessa,3,Pleuronectidae,NA,NA,NA,NA,NA,0,Chordata,seine
+Norway,NN_Juvika,Pleuronectes platessa,25,Pleuronectidae,hunting macrofauna (predator),Benthic invertivore,benthic,Night,sand,0,Chordata,seine
+Norway,NA,Pleuronectiformes,1,Pleuronectidae,NA,NA,NA,NA,NA,0,Chordata,seine
+Wales,NA,Pleuronectinae,1,Pleuronectidae,NA,NA,NA,NA,NA,0,Chordata,seine
+Canada (BC),Choked Sandspit,Psettichthys melanostictus,18,Pleuronectidae,hunting macrofauna (predator),Higher carnivore,Benthic,,sand,0,Chordata,seine
+USA (MA),Dorothy Cove,Pseudopleuronectes americanus,5,Pleuronectidae,hunting macrofauna (predator),Benthic invertivore,benthic,day,sand,0,Chordata,seine
+Mexico (ICML),NA,Abudefduf saxatilis,1,Pomacentridae,variable,NA,NA,NA,NA,1,Chordata,video
+Italy,NA,Chromis chromis,3,Pomacentridae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,video
+USA (NC),NC,Arenaeus cribrarius,3,Portunidae,variable,omnivore,benthic,night,sand,1,Arthropoda,seine
+Mexico (BN),Punta Banda Estuary,Callinectes arcuatus,3,Portunidae,Hunting macrofauna (predator),Benthic invertivore,Benthic,Night,Sand,1,Arthropoda,seine
+Mexico (BN),Punta Banda Estuary,Callinectes arcuatus,17,Portunidae,Hunting macrofauna (predator),Benthic invertivore,Benthic,Night,Sand,1,Arthropoda,seine
+Brazil,Praia do Barreiro,Callinectes danae,1,Portunidae,hunting macrofauna (predator),Carnivore,"Benthic, occasionally pelagic",Night,sand / mud; frequently estuarine,1,Arthropoda,seine
+Brazil,Praia do Barreiro,Callinectes ornatus,5,Portunidae,hunting macrofauna (predator),Carnivore,"Benthic, occasionally pelagic",Night,sand / mud; rarely estuarine,1,Arthropoda,seine
+Brazil,Praia do Engenho,Callinectes ornatus,14,Portunidae,hunting macrofauna (predator),Carnivore,"Benthic, occasionally pelagic",Night,sand / mud; rarely estuarine,1,Arthropoda,seine
+USA (DE),"UD Lewes, DE",Callinectes sapidus,3,Portunidae,NA,NA,NA,NA,NA,1,Arthropoda,seine
+USA (TX),Aransas Pass,Callinectes sapidus,12,Portunidae,NA,NA,NA,NA,NA,1,Arthropoda,seine
+USA (TX),Laguna Madre,Callinectes sapidus,2,Portunidae,NA,NA,NA,NA,NA,1,Arthropoda,seine
+USA (TX),Oso Bay,Callinectes sapidus,139,Portunidae,NA,NA,NA,NA,NA,1,Arthropoda,seine
+USA (VA),Goodwin Island,Callinectes sapidus,2,Portunidae,NA,NA,NA,NA,NA,1,Arthropoda,seine
+USA (NC),NC,Callinectes sapidus,25,Portunidae,variable,omnivore,benthic,"day, night","sand, seagrass, rock ",1,Arthropoda,seine
+USA (VA2),,Callinectes sapidus,46,Portunidae,,,,,,1,Arthropoda,seine
+Australia (VIC),Edwards Point,Carcinus maenas,31,Cancridae,hunting macrofauna (predator),benthic invertivore,Demersal,Night & Day,"sand, mud, burrowing",1,Arthropoda,seine
+Australia (VIC),Indented Head,Carcinus maenas,3,Cancridae,hunting macrofauna (predator),benthic invertivore,Demersal,Night & Day,"sand, mud, burrowing",1,Arthropoda,seine
+Australia (VIC),St. Leonards,Carcinus maenas,8,Cancridae,hunting macrofauna (predator),benthic invertivore,Demersal,Night & Day,"sand, mud, burrowing",1,Arthropoda,seine
+Norway,NN_Juvika,Carcinus maenas,1,Cancridae,hunting macrofauna (predator),Benthic invertivore,benthic,Night,sand,1,Arthropoda,seine
+USA (CA),San Diego,Portunus xantusii,39,Portunidae,NA,NA,NA,NA,NA,1,Arthropoda,seine
+Australia (QLD2),Noosa river,Scylla serrata,2,Portunidae,hunting macrofauna (predator),Benthic invertivore,benthic,day,sand,1,Arthropoda,seine
+Croatia,CR-B-SvetiDuh,Processa canaliculata,12,Processidae,variable,omnivore,benthic,,,0,Arthropoda,seine
+Australia (NSW2),Urunga Lagoon 1,Pseudomugil signifer,2,Pseudomugilidae,hunting macrofauna (predator),benthic invertivore,demersal,day,"coral, rock, seagrass, sand",0,Chordata,seine
+USA (CA),San Diego,Rhinobatos productus,1,Rhinobatidae,hunting macrofauna (predator),NA,NA,NA,NA,0,Chordata,seine
+Australia (VIC),Edwards Point,Rhombosolea tapirina,3,Rhombosoleidae,hunting macrofauna (predator),Benthic invertivore,benthic,Night,sand,0,NA,seine
+Australia (VIC),St. Leonards,Rhombosolea tapirina,1,Rhombosoleidae,hunting macrofauna (predator),Benthic invertivore,benthic,Night,sand,0,NA,seine
+Canada (QC),QC_Baie St-Ludger,Mallotus villosus,167,Salangidae,selective plankton feeding,NA,NA,NA,NA,0,Chordata,seine
+USA (OR),OIMB-Valino-SSNERR,Oncorhynchus tshawytscha,2,Salmonidae,hunting macrofauna (predator),,,,,1,Chordata,seine
+Norway,NA,Salmo trutta trutta,1,Salmonidae,NA,NA,NA,NA,NA,1,Chordata,seine
+USA (NC),NC,Bairdiella chrysoura,1,Sciaenidae,variable,benthic invertivore,demersal,"day, night","sand, seagrass",1,Chordata,seine
+USA (TX),Aransas Pass,Bairdiella chrysoura,20,Sciaenidae,variable,NA,NA,NA,NA,1,Chordata,seine
+USA (TX),Laguna Madre,Bairdiella chrysoura,7,Sciaenidae,variable,NA,NA,NA,NA,1,Chordata,seine
+USA (VA),Goodwin Island,Bairdiella chrysoura,3,Sciaenidae,variable,NA,NA,NA,NA,1,Chordata,seine
+USA (TX),Oso Bay,Cynoscion arenarius,1,Sciaenidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+USA (TX),Aransas Pass,Cynoscion nebulosus,13,Sciaenidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+USA (TX),Laguna Madre,Cynoscion nebulosus,1,Sciaenidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+USA (TX),Oso Bay,Cynoscion nebulosus,40,Sciaenidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+USA (NC),NC,Leiostomus xanthurus,3,Sciaenidae,hunting macrofauna (predator),higher carnivore,demersal,"day, night","seagrass, sand",1,Chordata,seine
+USA (TX),Oso Bay,Leiostomus xanthurus,8,Sciaenidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+USA (VA2),,Leiostomus xanthurus,12,Sciaenidae,hunting macrofauna (predator),Benthic invertivore,demersal,,,1,Chordata,seine
+USA (TX),Aransas Pass,Sciaenops ocellatus,1,Sciaenidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+USA (CA),San Diego,Umbrina roncador,5,Sciaenidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+Wales,NA,Scyliorhinus canicula,3,Scyliorhinidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+Canada (BC),Choked Pocket,Sebastes caurinus,3,Sebastidae,hunting macrofauna (predator),Higher carnivore,Benthopelagic,,"sand, rock, seagrass, kelp",1,Chordata,seine
+Korea,Koje-Korea,Sebastes pachycephalus,1,Sebastidae,NA,higher carnivore,pelagic site attached,NA,"rock, sand ",1,Chordata,seine
+Canada (BC),Choked Pocket,Sebastes spp.,302,Sebastidae,hunting macrofauna (predator),Higher carnivore,Pelagic site attached,,"sand, rock, seagrass, kelp",1,Chordata,seine
+USA (CA2),Windy Cove,Sebastes spp.,92,Sebastidae,NA,NA,NA,NA,NA,1,Chordata,seine
+Korea,Koje-Korea,Sebastiscus marmoratus,4,Sebastidae,NA,higher carnivore,pelagic site attached,NA,"rock, sand ",1,Chordata,seine
+France,Bouzigues,Sepia officinalis,1,Sepiidae,hunting macrofauna (predator),Higher carnivore,,,,0,Mollusca,seine
+Australia (QLD3),Moreton_Bay,Sepia plangon,1,Sepiidae,NA,NA,NA,NA,NA,0,Mollusca,seine
+Australia (QLD3),Moreton_Bay,Sepia plangon,1,Sepiidae,hunting macrofauna (predator),Higher carnivore,Demersal,Night,seagrass/rock,0,Mollusca,seine
+Australia (QLD2),Noosa river,Epinephelus coioides,1,Serranidae,hunting macrofauna (predator),higher carnivore,Benthic,day,rock,1,Chordata,seine
+Australia (QLD),Bowen,Epinephelus sp.,1,Serranidae,hunting macrofauna (predator),Higher carnivore,Demersal,Day,"coral, rock, seagrass, sand",1,Chordata,seine
+Mexico (ICML),NA,Mycteroperca tigris,1,Serranidae,hunting macrofauna (predator),Higher carnivore,Demersal,Day,coral,1,Chordata,video
+USA (CA),San Diego,Paralabrax clathratus,4,Serranidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+Mexico (BN),Punta Banda Estuary,Paralabrax maculatofasciatus,5,Serranidae,Hunting macrofauna (predator),Benthic invertivore,Benthic,Night,Sand,1,Chordata,seine
+USA (CA),San Diego,Paralabrax maculatofasciatus,9,Serranidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+Mexico (BN),Punta Banda Estuary,Paralabrax nebulifer,1,Serranidae,Hunting macrofauna (predator),Benthic invertivore,Benthic,Night,Sand,1,Chordata,seine
+Mexico (BN),Punta Banda Estuary,Paralabrax nebulifer,6,Serranidae,Hunting macrofauna (predator),Benthic invertivore,Benthic,Night,Sand,1,Chordata,seine
+USA (CA),San Diego,Paralabrax nebulifer,189,Serranidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+Italy,NA,Serranus scriba,11,Serranidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,video
+Australia (QLD),Bowen,Siganus canaliculatus,25,Siganidae,grazing on aquatic plants,Browsing herbivore,Demersal,Day,"seagrass, seaweed",0,Chordata,seine
+Australia (QLD3),Moreton_Bay,Siganus canaliculatus,4,Siganidae,grazing on aquatic plants,NA,NA,NA,NA,0,Chordata,seine
+Australia (QLD2),Noosa river,Siganus fuscescens,13,Siganidae,grazing on aquatic plants,browsing herbivore,demersal,day,seagrass,0,Chordata,seine
+Australia (QLD3),Moreton_Bay,Siganus fuscescens,4,Siganidae,grazing on aquatic plants,Browsing herbivore,Demersal,Day,seagrass,0,Chordata,seine
+Australia (QLD),Bowen,Siganus lineatus,346,Siganidae,grazing on aquatic plants,Browsing herbivore,Demersal,Day,"seagrass, seaweed, rock, coral",0,Chordata,seine
+Australia (QLD2),NA,Siganus sp.,63,Siganidae,NA,NA,NA,NA,NA,0,Chordata,seine
+Australia (NSW),Smiths_Lake_NSW,Sillago ciliata,4,Sillaginidae,hunting macrofauna (predator),benthic invertivore,demersal,day,sand,1,Chordata,seine
+Australia (QLD),Bowen,Sillago maculata,51,Sillaginidae,hunting macrofauna (predator),Benthic invertivore,Demersal,Day/night,"seagrass, sand",1,Chordata,seine
+Australia (QLD2),Hervey Bay,Sillago maculata,1,Sillaginidae,hunting macrofauna (predator),benthic invertivore,benthic,day,sand,1,Chordata,seine
+Australia (QLD2),Noosa river,Sillago maculata,7,Sillaginidae,hunting macrofauna (predator),benthic invertivore,benthic,day,sand,1,Chordata,seine
+Australia (QLD3),Moreton_Bay,Sillago maculata,30,Sillaginidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+Australia (QLD3),Moreton_Bay,Sillago maculata,30,Sillaginidae,hunting macrofauna (predator),Benthic invertivore,benthic,Day/Night,sand,1,Chordata,seine
+Australia (NSW2),Urunga Lagoon 1,Sillago sp.,1,Sillaginidae,hunting macrofauna (predator),benthic invertivore,demersal,day,sand,1,Chordata,seine
+Australia (NSW2),Urunga Lagoon 2,Sillago sp.,16,Sillaginidae,hunting macrofauna (predator),benthic invertivore,demersal,day,sand,1,Chordata,seine
+Korea,Koje-Korea,Sillago sp.,3,Sillaginidae,NA,NA,NA,NA,NA,1,Chordata,seine
+Croatia,CR-B-SvetiDuh,Solea solea,1,Soleidae,hunting macrofauna (predator),Benthic invertivore,benthic,day,sand,0,Chordata,seine
+Italy,NA,Solea sp.,3,Soleidae,NA,NA,NA,NA,NA,0,Chordata,video
+Australia (NSW),Smiths_Lake_NSW,Acanthopagrus australis,72,Sparidae,hunting macrofauna (predator),benthic invertivore,demersal,day,"rock, seagrass, sand",1,Chordata,seine
+Australia (NSW2),Urunga Lagoon 1,Acanthopagrus australis,15,Sparidae,hunting macrofauna (predator),benthic invertivore,demersal,day,"rock, seagrass, sand",1,Chordata,seine
+Australia (QLD3),NA,Acanthopagrus australis,2,Sparidae,hunting macrofauna (predator),Benthic invertivore,Demersal,Day,rock,1,Chordata,seine
+USA (TX),Oso Bay,Archosargus probatocephalus,1,Sparidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+USA (FL),NA,Archosargus probatocephalus,37,Sparidae,hunting macrofauna (predator),benthic invertivore,benthic,NA,NA,1,Chordata,video
+Italy,NA,Boops boops,1,Sparidae,selective plankton feeding,NA,NA,NA,NA,1,Chordata,video
+Croatia,NA,Diplodus annularis,1,Sparidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+Italy,NA,Diplodus annularis,9,Sparidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,video
+USA (NC),NC,Diplodus holbrookii,4,Sparidae,grazing on aquatic plants,omnivore,demersal,,seagrass,1,Chordata,seine
+Italy,NA,Diplodus puntazzo,1,Sparidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,video
+France,Bouzigues,Diplodus sargus,1,Sparidae,hunting macrofauna (predator),Higher carnivore,Demersal,,,1,Chordata,seine
+France,NA,Diplodus sargus,2,Sparidae,NA,NA,NA,NA,NA,1,Chordata,seine
+Italy,NA,Diplodus sargus,2,Sparidae,NA,NA,NA,NA,NA,1,Chordata,video
+Italy,NA,Diplodus vulgaris,6,Sparidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,video
+USA (NC),NC,Lagodon rhomboides,298,Sparidae,hunting macrofauna (predator),omnivore,demersal,"day, night","seagrass, sand, rock",1,Chordata,seine
+USA (NC2),Pine Knoll Shores,Lagodon rhomboides,24,Sparidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+USA (TX),Aransas Pass,Lagodon rhomboides,149,Sparidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+USA (TX),Laguna Madre,Lagodon rhomboides,30,Sparidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+USA (TX),Oso Bay,Lagodon rhomboides,22,Sparidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+USA (NC2),NA,Lagodon rhomboides,6,Sparidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+Italy,NA,Oblada melanura,39,Sparidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,video
+Italy,NA,Sarpa salpa,1,Sparidae,grazing on aquatic plants,Browsing herbivore,Demersal,Day,rock,1,Chordata,video
+Croatia,NA,Sparus aurata,4,Sparidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+France,NA,Sparus aurata,4,Sparidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+Italy,NA,Sparus aurata,2,Sparidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,video
+France,Bouzigues,Sparus sp.,4,Sparidae,hunting macrofauna (predator),Higher carnivore,,,,1,Chordata,seine
+Italy,NA,Spondyliosoma cantharus,14,Sparidae,variable,NA,NA,NA,NA,1,Chordata,video
+Australia (QLD2),NA,Sphyraena barracuda,1,Sphyraenidae,NA,NA,NA,NA,NA,1,Chordata,seine
+Mexico (ICML2),NA,Sphyraena barracuda,2,Sphyraenidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,video
+USA (NC),NC,Sphyraena borealis,1,Sphyraenidae,hunting macrofauna (predator),higher carnivore,demersal,night,"sand, seagrass",1,Chordata,seine
+Australia (QLD),Bowen,Sphyraena obtusata,1,Sphyraenidae,hunting macrofauna (predator),Higher carnivore,pelagic non-site attached,Day,"coral, sand, seagrass",1,Chordata,seine
+Australia (QLD2),Noosa river,Sphyraena obtusata,1,Sphyraenidae,hunting macrofauna (predator),Higher carnivore,pelagic non-site attached,Day,coral,1,Chordata,seine
+Australia (QLD3),Moreton_Bay,Sphyraena obtusata,5,Sphyraenidae,hunting macrofauna (predator),Higher carnivore,pelagic non-site attached,Day,coral,1,Chordata,seine
+Australia (QLD3),Moreton_Bay,Sphyraena obtusata,5,Sphyraenidae,hunting macrofauna (predator),Higher carnivore,pelagic non-site attached,Day,coral,1,Chordata,seine
+Canada (BC),Choked Pocket,Xiphister atropurpureus,1,Stichaeidae,variable,Omnivore,Benthic,,rock,0,Chordata,seine
+Wales,"Porthdinllaen, UK",Entelurus aequoreus,3,Syngnathidae,variable,NA,NA,NA,NA,0,Chordata,seine
+Australia (QLD3),Moreton_Bay,Hippichthys penicillus,1,Syngnathidae,NA,NA,NA,NA,NA,0,Chordata,seine
+Australia (QLD3),Moreton_Bay,Hippichthys penicillus,1,Syngnathidae,selective plankton feeding,Planktivore,benthic,Day,seagrass/rock,0,Chordata,seine
+Australia (QLD3),Moreton_Bay,Hippocampus procerus,1,Syngnathidae,NA,NA,NA,NA,NA,0,Chordata,seine
+Australia (QLD3),Moreton_Bay,Hippocampus procerus,1,Syngnathidae,selective plankton feeding,Planktivore,benthic,Day,seagrass/rock,0,Chordata,seine
+USA (NC),NC,Hippocampus sp.,1,Syngnathidae,variable,omnivore,benthic,,"seagrass, seaweed",0,Chordata,seine
+Australia (QLD3),Moreton_Bay,Hippocampus whitei,2,Syngnathidae,NA,Benthic invertivore,benthic,Day,rock,0,Chordata,seine
+Australia (QLD3),Moreton_Bay,Hippocampus whitei,2,Syngnathidae,selective plankton feeding,Planktivore,benthic,Day,seagrass/rock,0,Chordata,seine
+Australia (VIC),Edwards Point,Stigmatopora argus,5,Syngnathidae,hunting macrofauna (predator),Benthic invertivore,Demersal,Day,seagrass,0,Chordata,seine
+France,Bouzigues,Syngnathus abaster,3,Syngnathidae,selective plankton feeding,,benthic,,,0,Chordata,seine
+Wales,"Porthdinllaen, UK",Syngnathus acus,2,Syngnathidae,hunting macrofauna (predator),NA,NA,NA,NA,0,Chordata,seine
+USA (TX),Aransas Pass,Syngnathus floridae,12,Syngnathidae,hunting macrofauna (predator),NA,NA,NA,NA,0,Chordata,seine
+USA (TX),Oso Bay,Syngnathus floridae,2,Syngnathidae,hunting macrofauna (predator),NA,NA,NA,NA,0,Chordata,seine
+USA (VA2),,Syngnathus fuscus,5,Syngnathidae,hunting macrofauna (predator),,demersal,,"seagrass, seaweed",0,Chordata,seine
+Canada (BC),Choked Pocket,Syngnathus leptorhynchus,2,Syngnathidae,hunting macrofauna (predator),Planktivore,Pelagic site attached,,seagrass,0,Chordata,seine
+Mexico (BN),Punta Banda Estuary,Syngnathus leptorhynchus,7,Syngnathidae,Hunting macrofauna (predator),Benthic invertivore,Benthic,Day,Sand,0,Chordata,seine
+USA (AK),Sunshine Cove,Syngnathus leptorhynchus,17,Syngnathidae,hunting macrofauna (predator),invertivore,,,"vegitated, rocky, sand",0,Chordata,seine
+USA (CA),San Diego,Syngnathus leptorhynchus,8,Syngnathidae,hunting macrofauna (predator),NA,NA,NA,NA,0,Chordata,seine
+USA (CA2),Windy Cove,Syngnathus leptorhynchus,9,Syngnathidae,hunting macrofauna (predator),NA,NA,NA,NA,0,Chordata,seine
+USA (OR),OIMB-Valino-SSNERR,Syngnathus leptorhynchus,7,Syngnathidae,hunting macrofauna (predator),,,,,0,Chordata,seine
+USA (WA),Redondo N1,Syngnathus leptorhynchus,2,Syngnathidae,hunting macrofauna (predator),Benthic invertivore,demersal,,,0,Chordata,seine
+USA (WA),Redondo S-6,Syngnathus leptorhynchus,10,Syngnathidae,hunting macrofauna (predator),Benthic invertivore,demersal,,,0,Chordata,seine
+USA (WA2),False Bay,Syngnathus leptorhynchus,41,Syngnathidae,hunting macrofauna (predator),Omnivore,Demersal,Day,sand,0,Chordata,seine
+Australia (QLD),Bowen,Syngnathus sp.,1,Syngnathidae,selective plankton feeding,planktivore,Demersal,Day/night,"seagrass, seaweed",0,Chordata,seine
+Australia (QLD2),Noosa river,Syngnathus sp.,1,Syngnathidae,Feeds on benthic infauna,omnivore,benthic,Day,Seagrass,0,Chordata,seine
+France,Bouzigues,Syngnathus sp.,3,Syngnathidae,selective plankton feeding,,benthic,,,0,Chordata,seine
+USA (NC),NC,Syngnathus sp.,7,Syngnathidae,variable,omnivore,benthic,,seagrass,0,Chordata,seine
+Croatia,CR-B-SvetiDuh,Syngnathus typhle,5,Syngnathidae,selective plankton feeding,Planktivore AND benthic invertivore,demersal,day,seagrass,0,Chordata,seine
+France,Bouzigues,Syngnathus typhle,8,Syngnathidae,selective plankton feeding,,benthic,,,0,Chordata,seine
+Croatia,NA,Syngnathus typhle,1,Syngnathidae,selective plankton feeding,NA,NA,NA,NA,0,Chordata,seine
+Australia (QLD3),Moreton_Bay,Urocampus carinirostris,1,Syngnathidae,NA,NA,NA,NA,NA,0,Chordata,seine
+Australia (QLD3),Moreton_Bay,Urocampus carinirostris,1,Syngnathidae,selective plankton feeding,Planktivore,benthic,Day,seagrass/rock,0,Chordata,seine
+Australia (NSW2),Urunga Lagoon 1,Saurida nebulosa,1,Synodontidae,hunting macrofauna (predator),higher carnivore,benthic,day,"sand, seagrass",0,Chordata,seine
+USA (TX),Aransas Pass,Synodus foetens,2,Synodontidae,hunting macrofauna (predator),NA,NA,NA,NA,0,Chordata,seine
+Brazil,Praia do Barreiro,Synodus myops,2,Synodontidae,hunting macrofauna (predator),Canivore (fish; data obtained for S. dermatogenys and S. saurus),Demersal,-- No information --,sand,0,Chordata,seine
+Australia (NSW),Smiths_Lake_NSW,Helotes sexlineatus,6,Terapontidae,variable,omnivore,demersal,day,"rock, seagrass, sand",1,Chordata,seine
+Australia (QLD3),Moreton_Bay,Helotes sexlineatus,72,Terapontidae,browsing on substrate,NA,NA,NA,NA,1,Chordata,seine
+Australia (QLD3),Moreton_Bay,Helotes sexlineatus,72,Terapontidae,browsing on substrate,Omnivore,Demersal,Day,seagrass,1,Chordata,seine
+Australia (QLD),Bowen,Pelates quadrilineatus,147,Terapontidae,hunting macrofauna (predator),Benthic invertivore,Demersal,Day,"seagrass, sand",1,Chordata,seine
+Australia (NSW2),Urunga Lagoon 1,Pelates sexlineatus,42,Terapontidae,hunting macrofauna (predator),benthic invertivore,demersal,day,seagrass,1,Chordata,seine
+Australia (QLD2),Hervey Bay,Pelates sexlineatus,3,Terapontidae,hunting macrofauna (predator),Benthic invertivore,benthic,day,Seagrass,1,Chordata,seine
+Australia (QLD2),Noosa river,Pelates sexlineatus,34,Terapontidae,hunting macrofauna (predator),Benthic invertivore,benthic,day,Seagrass,1,Chordata,seine
+Australia (NSW2),Urunga Lagoon 1,Arothron hispidus,5,Tetraodontidae,variable,higher carnivore,Demersal,day,"rock, seagrass, sand",1,Chordata,seine
+Australia (QLD2),NA,Arothron sp.,1,Tetraodontidae,NA,NA,NA,NA,NA,1,Chordata,seine
+Korea,Koje-Korea,Arothron stellatus,1,Tetraodontidae,hunting macrofauna (predator),omnivore,demersal,NA,seagrass,1,Chordata,seine
+USA (VA2),,Sphoeroides maculatus,1,Tetraodontidae,hunting macrofauna (predator),,pelagic non-site attached,,,1,Chordata,seine
+USA (FL),NA,Sphoeroides nephelus,2,Tetraodontidae,variable,omnivore,benthic,NA,NA,1,Chordata,video
+Mexico (ICML2),NA,Sphoeroides testudineus,1,Tetraodontidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,video
+Korea,Koje-Korea,Takifugu niphobles,47,Tetraodontidae,hunting macrofauna (predator),Benthic invertivore,Demersal,NA,"sand, seagrass",1,Chordata,seine
+Australia (NSW),Smiths_Lake_NSW,Tetractenos glaber,38,Tetraodontidae,hunting macrofauna (predator),benthic invertivore,demersal,day,"seagrass, sand",1,Chordata,seine
+Australia (VIC),Edwards Point,Tetractenos glaber,63,Tetraodontidae,hunting macrofauna (predator),Benthic invertivore,Demersal,Day,sand/seagrass,1,Chordata,seine
+Australia (VIC),Indented Head,Tetractenos glaber,93,Tetraodontidae,hunting macrofauna (predator),Benthic invertivore,Demersal,Day,sand/seagrass,1,Chordata,seine
+Australia (VIC),St. Leonards,Tetractenos glaber,113,Tetraodontidae,hunting macrofauna (predator),Benthic invertivore,Demersal,Day,sand/seagrass,1,Chordata,seine
+Australia (NSW2),Urunga Lagoon 1,Tetractenos hamiltoni,2,Tetraodontidae,variable,higher carnivore,Demersal,day,"sand, seagrass",1,Chordata,seine
+Australia (QLD2),Hervey Bay,Tetractenos hamiltoni,27,Tetraodontidae,Feeds on benthic infauna,benthic invertivore,benthic,day,sand,1,Chordata,seine
+Australia (QLD2),Noosa river,Tetractenos hamiltoni,2,Tetraodontidae,Feeds on benthic infauna,benthic invertivore,benthic,day,sand,1,Chordata,seine
+Australia (QLD),Bowen,Torquigener sp.,3,Tetraodontidae,hunting macrofauna (predator),Benthic invertivore,Demersal,Day/night,"sand,seagrass, rock, coral",1,Chordata,seine
+Australia (NSW),Smiths_Lake_NSW,Centropogon australis,53,Tetrarogidae,hunting macrofauna (predator),benthic invertivore,demersal,day,"rock, seagrass, sand",1,Chordata,seine
+Australia (NSW2),Urunga Lagoon 1,Centropogon australis,3,Tetrarogidae,hunting macrofauna (predator),benthic invertivore,benthic,day,"rock, seagrass",1,Chordata,seine
+Australia (QLD3),Moreton_Bay,Centropogon australis,5,Tetrarogidae,NA,Benthic invertivore,benthic,Day,rock,1,Chordata,seine
+Australia (QLD3),Moreton_Bay,Centropogon australis,5,Tetrarogidae,hunting macrofauna (predator),Benthic invertivore,benthic,Day,rock/seagrass,1,Chordata,seine
+Australia (VIC),Edwards Point,Gymnapistes marmoratus,3,Tetrarogidae,hunting macrofauna (predator),Benthic invertivore,Demersal,Night,seagrass,1,Chordata,seine
+Australia (VIC),Indented Head,Gymnapistes marmoratus,9,Tetrarogidae,hunting macrofauna (predator),Benthic invertivore,Demersal,Night,seagrass,1,Chordata,seine
+Wales,"Porthdinllaen, UK",Echiichthys vipera,3,Trachinidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,seine
+USA (FL),NA,Trichechus manatus,1,Trichechidae,grazing on aquatic plants,browsing herbivore,benthic,NA,NA,0,Chordata,video
+Korea,Koje-Korea,Chelidonichthys kumu,2,Triglidae,hunting macrofauna (predator),benthic invertivore,demersal,NA,sand,0,Chordata,seine
+Brazil,Praia do Engenho,Prionotus punctatus,2,Triglidae,hunting macrofauna (predator),Carnivore (mostly crustaceans),Demersal,Day (mostly afternoon),sand / mud,0,Chordata,seine
+Mexico (ICML),NA,Urobatis jamaicensis,1,Urotrygonidae,hunting macrofauna (predator),NA,NA,NA,NA,1,Chordata,video
+Mexico (BN),Punta Banda Estuary,Hemigrapsus oregonensis,6,Varunidae,Variable,Omnivore,Benthic,Night,Sand,1,Arthropoda,seine
+USA (CA3),Elkhorn Slough,Hemigrapsus oregonensis,1,Varunidae,variable,omnivore,benthic,NA,"seagrass, sand, seaweed, rock",1,Arthropoda,seine
+USA (OR),OIMB-Valino-SSNERR,Hemigrapsus oregonensis,58,Varunidae,,,benthic,,,1,Arthropoda,seine
+India,Kalpeni Lagoon Lakshadweep,Halichoeres scapularis,19,Labridae,hunting macrofauna (predator),benthic invertivore,benthic,day,coral,1,Chordata,transect
+India,Kalpeni Lagoon Lakshadweep,Chrysiptera biocellata,1,Pomacentridae,grazing on aquatic plants,algal farmer,Demersal,day,,1,Chordata,transect
+India,Kalpeni Lagoon Lakshadweep,Herklotsichthys quadrimaculatus,200,Clupeidae,hunting macrofauna (predator),"Planktivore, higher carnivore",pelagic,night,"sand, mangroves",0,Chordata,transect
+India,Kalpeni Lagoon Lakshadweep,Fistularia commersonii,1,Fistulariidae,hunting macrofauna (predator),Higher carnivore,Demersal,Night,coral,0,Chordata,transect
+India,Kalpeni Lagoon Lakshadweep,Pseudojuloides cerasinus,1,Labridae,,,,day,"coral, rubble",1,Chordata,transect
+India,Kalpeni Lagoon Lakshadweep,Spratelloides delicatulus,80,Clupeidae,selective plankton feeding,Planktivore,pelagic,day,coral,0,Chordata,transect
+India,Kalpeni Lagoon Lakshadweep,Atrosalarias fuscus,4,Blenniidae,grazing on aquatic plants,"detritivore, browsing herbivore",benthic,day,coral,1,Chordata,transect
+India,Kalpeni Lagoon Lakshadweep,Leptoscarus vaigiensis,7,Scaridae,grazing on aquatic plants,Scraping herbivore,Demersal,day,seagrass,1,NA,transect
+India,Kalpeni Lagoon Lakshadweep,Stethojulis strigiventer,5,Labridae,variable,benthic invertivore,benthic,day,"coral, rock, seagrass",1,Chordata,transect
+India,Kalpeni Lagoon Lakshadweep,Valencienna strigata,1,Gobiidae,variable,Benthic invertivore,benthic,day,"coral, rock",0,Chordata,transect
+India,Kalpeni Lagoon Lakshadweep,Acanthurus triostegus,1,Acanthuridae,grazing on aquatic plants,Browsing herbivore,Demersal,day,coral,1,Chordata,transect

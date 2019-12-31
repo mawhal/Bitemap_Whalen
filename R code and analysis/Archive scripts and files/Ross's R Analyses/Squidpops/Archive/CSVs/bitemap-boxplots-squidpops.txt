@@ -1,0 +1,19 @@
+loss.1hr <- plot(bitemap.squidpop$Proportion.Missing..1.hour. ~ bitemap.squidpop$Type.Of.Habitat,
+                 vertical = TRUE,xlab = "Habitat Type", ylab = "Proportion Missing", 
+                 main = "Squidpop Bait Loss, 1 hr")
+
+loss.24hr <- plot(bitemap.squidpop$Proportion.Missing..24.hours. ~ bitemap.squidpop$Type.Of.Habitat,
+                  vertical = TRUE,xlab = "Habitat Type", ylab = "Proportion Missing", 
+                  main = "Squidpop Bait Loss, 24 hrs")
+
+
+# histogram of deployments by habitat type
+qplot(factor(Type.Of.Habitat), data=bitemap.squidpop, geom="bar", fill=factor(Type.Of.Habitat))
+
+# barchart of 1hour mean missing by habitat type
+m1 <- ddply(bitemap.squidpop, "Type.Of.Habitat", summarise, missing1 = mean(Proportion.Missing..1.hour.))
+ggplot(m1, aes(x = factor(Type.Of.Habitat), y = missing1)) + geom_bar(stat = "identity")
+
+# barchart of 24hour mean missing by habitat type
+m24 <- ddply(bitemap.squidpop, "Type.Of.Habitat", summarise, missing24 = mean(Proportion.Missing..24.hours.))
+ggplot(m24, aes(x = factor(Type.Of.Habitat), y = missing24)) + geom_bar(stat = "identity")

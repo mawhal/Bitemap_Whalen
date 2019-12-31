@@ -1,0 +1,283 @@
+Timestamp,Name,Email,Lat,Long,Date Squidpops Retrieved (yyyymmdd),"Time Squidpops Retrieved (hhmm, 24 hour clock)",Date Squidpops Deployed (yyyymmdd),"Time Squidpops Deployed (hhmm, 24 hour clock)",Type Of Habitat,"If You Chose 'Other', Please Describe The Habitat",Number Of Squidpops Deployed,Amount Of Bait Missing After One Hour,Number Of Squidpops Retrieved After 24 Hours,Amount Of Bait Missing After 24 Hours,Country,Institution,Proportion Missing (1 hour),Proportion Missing (24 hours),Notes
+6/24/2016 15:39,Mallarie Yeager,mallarieyeager1@gmail.com,32.765165,-117.246656,,,20160623,730,Seagrass Meadow,,25,0,25,25,USA (CA),San Diego State University ,0,1,Overcast
+,Mallarie Yeager,mallarieyeager1@gmail.com,32.765165,-117.246656,,,20160623,750,Sandy Bottom,,25,1,25,1,USA (CA),San Diego State University ,0.04,0.04,DATA MANUALLY ENTERED BY MATT WHALEN
+6/30/2016 14:09,P.G. Ross,pg@vims.edu,37.68882,-75.86724,,,20160621,1050,Seagrass Meadow,,25,0,22,5,USA (VA2),VIMS-ESL,0,0.23,
+6/30/2016 14:11,P.G. Ross,pg@vims.edu,37.68751,-75.86738,,,20160621,1130,Sandy Bottom,,25,4,25,6,USA (VA2),VIMS-ESL,0.16,0.24,
+6/30/2016 14:13,P.G. Ross,pg@vims.edu,37.68175,-75.86651,,,20160622,1045,Sandy Bottom,,25,3,25,6,USA (VA2),VIMS-ESL,0.12,0.24,
+6/30/2016 14:14,P.G. Ross,pg@vims.edu,37.68154,-75.86672,,,20160622,1130,Seagrass Meadow,,25,2,25,17,USA (VA2),VIMS-ESL,0.08,0.68,
+6/30/2016 14:16,P.G. Ross,pg@vims.edu,37.68199,-75.86617,,,20160623,1200,Sandy Bottom,,25,4,25,6,USA (VA2),VIMS-ESL,0.16,0.24,
+6/30/2016 14:18,P.G. Ross,pg@vims.edu,37.68225,-75.86633,,,20160623,1245,Seagrass Meadow,,25,1,25,7,USA (VA2),VIMS-ESL,0.04,0.28,
+6/30/2016 14:54,Randall Hughes,rhughes@northeastern.edu,42.41978,-70.91522,,,20160607,750,Seagrass Meadow,,25,0,25,1,USA (MA),Northeastern University,0,0.04,
+6/30/2016 14:55,Randall Hughes,rhughes@northeastern.edu,42.41986,-70.91506,,,20160607,748,Sandy Bottom,,25,0,25,4,USA (MA),Northeastern University,0,0.16,
+6/30/2016 14:57,Randall Hughes,rhughes@northeastern.edu,42.42026,-70.91574,,,20160609,900,Seagrass Meadow,,25,0,25,3,USA (MA),Northeastern University,0,0.12,
+6/30/2016 14:58,Randall Hughes,rhughes@northeastern.edu,42.42044,-70.91594,,,20160609,900,Sandy Bottom,,25,0,25,1,USA (MA),Northeastern University,0,0.04,
+6/30/2016 15:01,Randall Hughes,rhughes@northeastern.edu,42.42046,-70.91641,,,20160622,750,Seagrass Meadow,,25,0,25,3,USA (MA),Northeastern University,0,0.12,
+6/30/2016 15:03,Randall Hughes,rhughes@northeastern.edu,42.42057,-70.91625,,,20160622,750,Sandy Bottom,,25,0,25,0,USA (MA),Northeastern University,0,0,
+6/30/2016 17:50,Clara M. Hereu,clarahereu@hotmail.com,31.753106,-116.625137,,,20160625,1002,Muddy Bottom,,25,0,25,6,Mexico (BN),Universidad Autonoma de Baja California,0,0.24,"Some small patches of eelgrass were close (1 m) to 3 of the stakes, but all the stakes were on unvegetated muddy bottom."
+6/30/2016 18:11,Clara M. Hereu,clarahereu@hotmail.com,31.753025,-116.625858,,,20160625,1104,Seagrass Meadow,,25,0,25,15,Mexico (BN),Universidad Autonoma de Baja California,0,0.6,"The stakes were located in the deeper area of a dense eelgrass meadow, so that the depth of this transect was similar to the depth of the unvegetated transect."
+6/30/2016 18:15,Clara M. Hereu,clarahereu@hotmail.com,31.753106,-116.625137,,,20160626,1050,Muddy Bottom,,25,0,25,6,Mexico (BN),Universidad Autonoma de Baja California,0,0.24,"Some small patches of eelgrass were close (1 m) to 3 of the stakes, but all the stakes were on unvegetated muddy bottom."
+6/30/2016 18:18,Clara M. Hereu,clarahereu@hotmail.com,31.753025,-116.625858,,,20160626,1126,Seagrass Meadow,,25,4,25,25,Mexico (BN),Universidad Autonoma de Baja California,0.16,1,"The stakes were located in the deeper area of a dense eelgrass meadow, so that the depth of this transect was similar to the depth of the unvegetated transect."
+6/30/2016 18:21,Clara M. Hereu,clarahereu@hotmail.com,31.753106,-116.625137,,,20160627,1120,Muddy Bottom,,25,2,25,15,Mexico (BN),Universidad Autonoma de Baja California,0.08,0.6,"Some small patches of eelgrass were close (1 m) to 3 of the stakes, but all the stakes were on unvegetated muddy bottom."
+6/30/2016 18:24,Clara M. Hereu,clarahereu@hotmail.com,31.753025,-116.625858,,,20160627,1155,Seagrass Meadow,,25,15,25,25,Mexico (BN),Universidad Autonoma de Baja California,0.6,1,"The stakes were located in the deeper area of a dense eelgrass meadow, so that the depth of this transect was similar to the depth of the unvegetated transect."
+7/1/2016 17:59,Mallarie Yeager,mallarieyeager1@gmail.com,32.76538,-117.24635,,,20160627,841,Seagrass Meadow,,25,0,25,25,USA (CA),San Diego State University,0,1,"Weather sunny on deployment, overcast on retrieval. "
+7/1/2016 18:01,Mallarie Yeager,mallarieyeager1@gmail.com,32.76538,-117.24635,,,20160627,855,Sandy Bottom,,25,0,25,8,USA (CA),San Diego State University,0,0.32,"Weather sunny on deployment, overcast on retrieval."
+7/1/2016 18:07,Mallarie Yeager,mallarieyeager1@gmail.com,32.76538,-117.24635,,,20160630,1145,Seagrass Meadow,,25,0,24,2,USA (CA),San Diego State University,0,0.08,
+7/1/2016 18:10,Mallarie Yeager,mallarieyeager1@gmail.com,32.76538,-117.24635,,,20160630,1200,Sandy Bottom,,25,0,25,18,USA (CA),San Diego State University,0,0.72,A few poles in the center were not standing; some scrape-marks on the sandy bottom. Perhaps pushed aside by a boat in the shallows.
+7/2/2016 13:00,Claudia Kruschel,ckrusche@unizd.hr,44.20607,15.472477,,,20160625,915,Seagrass Meadow,,25,0,25,0,Croatia,University of Zadar,0,0,"The seagrass was dense Zostera noltii, 80-100% coverage."
+7/2/2016 13:10,Claudia Kruschel,ckrusche@unizd.hr,44.20607,15.472477,,,20160625,950,Sandy Bottom,,25,0,25,25,Croatia,University of Zadar,0,1,I think the predation may me snails.
+7/2/2016 13:15,Claudia Kruschel,ckrusche@unizd.hr,44.20607,15.472477,,,20160626,930,Seagrass Meadow,,25,0,25,0,Croatia,University of Zadar,0,0,
+7/2/2016 13:24,Claudia Kruschel,ckrusche@unizd.hr,44.202902,15.475608,,,20160626,1010,Sandy Bottom,,25,0,25,25,Croatia,University of Zadar,0,1,
+7/2/2016 13:28,Claudia Kruschel,ckrusche@unizd.hr,44.20607,15.472477,,,20160627,945,Seagrass Meadow,,25,0,25,0,Croatia,University of Zadar,0,0,
+7/2/2016 13:32,Claudia Kruschel,ckrusche@unizd.hr,44.202902,15.475608,,,20160627,1045,Sandy Bottom,,25,0,25,25,Croatia,University of Zadar,0,1,
+7/6/2016 16:26,Zach Monteith,zach@hakai.org,51.68157,-128.1138,,,20160705,820,Sandy Bottom,,25,0,25,0,Canada (BC),Hakai Institute,0,0,
+7/6/2016 16:29,Zach Monteith,zach@hakai.org,51.67617,-128.12361,,,20160705,845,Seagrass Meadow,,25,0,25,0,Canada (BC),Hakai Institute,0,0,
+7/7/2016 18:55,Zach Monteith,zach@hakai.org,51.681421,-128.113965,,,20160706,940,Sandy Bottom,,25,0,23,1,Canada (BC),Hakai Institute,0,0.04,two stakes possible removed by surge/swell
+7/7/2016 19:04,Zach Monteith,zach@hakai.org,51.676307,-128.123624,,,20160706,1025,Seagrass Meadow,,25,0,23,1,Canada (BC),Hakai Institute,0,0.04,"two stakes lost, possibly not secured well enough"
+7/8/2016 19:19,Midoli Bresch,midoli.bresch@hakai.org,51.681421,-128.113965,,,20160707,935,Sandy Bottom,,25,2,21,0,Canada (BC),Hakai Institute,0.08,0,stakes swept away
+7/8/2016 19:21,Midoli Bresch,midoli.bresch@hakai.org,51.676307,-128.123624,,,20160707,1010,Seagrass Meadow,,25,0,24,0,Canada (BC),Hakai Institute,0,0,One stake lost in eelgrass
+7/15/2016 17:52,Kristin Hultgren,hultgrenk@seattleu.edu,47.351,-122.324,,,20160706,1116,Seagrass Meadow,,25,0,22,0,USA (WA),Seattle University,0,0,
+7/15/2016 17:55,Kristin Hultgren,hultgrenk@seattleu.edu,47.3503,-122.324,,,20160706,1200,Seagrass Meadow,,25,0,22,0,USA (WA),Seattle University,0,0,
+7/15/2016 17:58,Kristin Hultgren,hultgrenk@seattleu.edu,47.35,-122.32,,,20160706,1145,Sandy Bottom,,25,0,24,2,USA (WA),Seattle University,0,0.08,"Both ""eaten"" squidpops had fallen over and were lying on the sandy bottom."
+7/15/2016 18:00,Kristin Hultgren,hultgrenk@seattleu.edu,47.349,-122.32,,,20160706,1155,Sandy Bottom,,25,0,25,4,USA (WA),Seattle University,0,0.16,All 4 eaten squidpops had fallen over and were lying on the ground
+7/15/2016 18:03,Kristin Hultgren,hultgrenk@seattleu.edu,47.346,-122.33,,,20160707,1400,Sandy Bottom,,25,0,25,0,USA (WA),Seattle University,0,0,
+7/15/2016 18:04,Kristin Hultgren,hultgrenk@seattleu.edu,47.346,-122.329,,,20160707,230,Seagrass Meadow,,25,0,24,0,USA (WA),Seattle University,0,0,
+7/20/2016 16:52,Brent Hughes,bbhughes@ucsc.edu,36.809236,-121.783232,,,20160622,820,Muddy Bottom,,25,0,25,0,USA (CA3),Duke University/UC Santa Cruz,0,0,"Lots of Ulva cover on the mudflat, ~90%, also Gracilariopsis in deeper areas. Macroalgal covering Elkhorn Slough was extremely high and was unavoidable over mudflat areas."
+7/20/2016 16:54,Brent Hughes,bbhughes@ucsc.edu,36.810708,-121.782105,,,20160622,840,Seagrass Meadow,,25,0,25,25,USA (CA3),Duke University/UC Santa Cruz,0,1,
+7/20/2016 16:56,Brent Hughes,bbhughes@ucsc.edu,36.810708,-121.782105,,,20160623,915,Seagrass Meadow,,25,0,25,24,USA (CA3),Duke University/UC Santa Cruz,0,0.96,
+7/20/2016 16:58,Brent Hughes,bbhughes@ucsc.edu,36.809236,-121.783232,,,20160623,930,Muddy Bottom,,25,0,25,0,USA (CA3),Duke University/UC Santa Cruz,0,0,"~90% cover of Ulva and Gracilariopsis, 1/2 the poles were covered with a single sheet of Ulva."
+7/20/2016 17:01,Brent Hughes,bbhughes@ucsc.edu,36.810708,-121.782105,,,20160705,846,Seagrass Meadow,,25,0,24,20,USA (CA3),Duke University/UC Santa Cruz,0,0.83,15% algal cover
+7/20/2016 17:03,Brent Hughes,bbhughes@ucsc.edu,36.809236,-121.783232,,,20160705,842,Muddy Bottom,,25,0,24,1,USA (CA3),Duke University/UC Santa Cruz,0,0.04,~50% cover of Ulva and Gracilariopsis.
+7/27/2016 0:15,Olivia Graham,ojgraham@mac.com,48.48532472,-123.07541,,,20160719,1030,Seagrass Meadow,,21,0,21,0,USA (WA2),Cornell University / Friday Harbor Labs,0,0,"Accidentally deployed the other 4 pops in the unvegetated region at the same time. However, didn't see any predation in either area. WHIPPO - corrected GPS, used values from seine data submission"
+7/27/2016 0:17,Olivia Graham,ojgraham@mac.com,48.48532472,-123.07541,,,20160719,1040,Sandy Bottom,,29,0,29,0,USA (WA2),Cornell University / Friday Harbor Labs,0,0,"Accidentally deployed extra 4 pops (from seagrass set of pops). However, didn't see any squid pop predation in either area. WHIPPO - corrected GPS, used values from seine data submission"
+7/27/2016 0:19,Olivia Graham,ojgraham@mac.com,48.48532472,-123.07541,,,20160720,1145,Seagrass Meadow,,25,0,25,1,USA (WA2),Cornell University / Friday Harbor Labs,0,0.04,"WHIPPO - corrected GPS, used values from seine data submission"
+7/27/2016 0:21,Olivia Graham,ojgraham@mac.com,48.48532472,-123.07541,,,20160720,1200,Sandy Bottom,,25,0,25,0,USA (WA2),Cornell University / Friday Harbor Labs,0,0,"WHIPPO - corrected GPS, used values from seine data submission"
+7/27/2016 0:25,Olivia Graham,ojgraham@mac.com,48.48532472,-123.07541,,,20160721,1230,Seagrass Meadow,,25,0,24,1,USA (WA2),Cornell University / Friday Harbor Labs,0,0.04,"Conditions at time of collection were wavy and windy. After 24 hrs when the pops were retrieved, 4 squid pops had fallen over, although their bait was still in tact. One pop couldn't be found at the time of collection. WHIPPO - corrected GPS, used values from seine data submission"
+7/27/2016 0:36,Olivia Graham,ojgraham@mac.com,48.48532472,-123.07541,,,20160721,1200,Sandy Bottom,,25,0,24,5,USA (WA2),Cornell University / Friday Harbor Labs,0,0.21,"Conditions at retrieval time were windy and wavy, which may have dislodged some of the squid. For all 5 pops whose bait was missing, the fishing line knots used to secure the squid were untied. One of the pops couldn't be located at the time of retrieval. WHIPPO - corrected GPS, used values from seine data submission"
+8/5/2016 12:34,Lane Johnston,lanej@udel.edu,38.472539,-75.9491,,,20160620,1445,Sandy Bottom,,25,0,25,0,USA (DE),University of Delaware,0,0,
+8/5/2016 12:36,Lane Johnston,lanej@udel.edu,38.472539,-75.9491,,,20160623,1345,Sandy Bottom,,25,0,21,0,USA (DE),University of Delaware,0,0,
+8/5/2016 12:38,Lane Johnston,lanej@udel.edu,38.472539,-75.9491,,,20160713,1000,Sandy Bottom,,24,0,21,0,USA (DE),University of Delaware,0,0,"All submitted squid pop data from UD Lewes site was only conducted in unvegetated areas. There were no easily accessible, near-by vegetated sites. "
+8/15/2016 9:35,Jon Lefcheck,jslefche@vims.edu,37.215796,-76.392675,,,20160811,1000,Seagrass Meadow,A mixed bed of Zostera marina and Ruppia maritima,25,18,25,23,USA (VA),VIMS,0.72,0.92,
+8/15/2016 9:36,Jon Lefcheck,jslefche@vims.edu,37.215796,-76.392675,,,20160811,1000,Sandy Bottom,,25,10,25,22,USA (VA),VIMS,0.4,0.88,
+8/25/2016 11:36,Wendel Raymond,wraymond2@alaska.edu,58.60859,-134.93278,,,20160821,930,Seagrass Meadow,,25,0,25,0,USA (AK),University of Alaska Fairbanks,0,0,
+8/25/2016 11:38,Wendel Raymond,wraymond2@alaska.edu,58.60853,-134.93083,,,20160821,1010,Sandy Bottom,,25,0,25,0,USA (AK),University of Alaska Fairbanks,0,0,
+8/25/2016 11:40,Wendel Raymond,wraymond2@alaska.edu,58.60859,-134.93278,,,20160822,1030,Seagrass Meadow,,25,0,25,0,USA (AK),University of Alaska Fairbanks,0,0,
+8/25/2016 11:43,Wendel Raymond,wraymond2@alaska.edu,58.60853,-134.93083,,,20160822,1050,Sandy Bottom,,25,0,25,0,USA (AK),University of Alaska Fairbanks,0,0,
+8/25/2016 11:47,Wendel Raymond,wraymond2@alaska.edu,58.60859,-134.93278,,,20160823,1115,Seagrass Meadow,,25,0,25,3,USA (AK),University of Alaska Fairbanks,0,0.12,The three pops that were missing bait were found laying down (fallen over). So its impossible to know if predation occurred when they were upright or fallen over. The day when they were deployed was rather rough so I could see how they may have fallen over soon after deployment. 
+8/25/2016 11:48,Wendel Raymond,wraymond2@alaska.edu,58.60853,-134.93083,,,20160823,1145,Sandy Bottom,,25,0,25,0,USA (AK),University of Alaska Fairbanks,0,0,
+8/30/2016 15:02,Brigitta I. van Tussenbroek,vantuss@cmarl.unam.mx,20.83433,-86.87647,,,20160716,1130,Sandy Bottom,,25,0,25,0,Mexico (ICML),"ICML, Universidad Nacional Autonoma de Mexico",0,0,5-10m from coral reef
+8/30/2016 15:10,Brigitta I. van Tussenbroek,vantuss@cmarl.unam.mx,20.8347,-86.87654,,,20160718,1130,Seagrass Meadow,,25,0,25,8,Mexico (ICML),"ICML, Universidad Nacional Autonoma de Mexico",0,0.32,WHIPPO - corrected 24 hour consumption value 20160831 from 17 -> 8
+8/30/2016 15:14,Brigitta I. van Tussenbroek,vantuss@cmarl.unam.mx,20.83433,-86.87647,,,20160719,1035,Sandy Bottom,,25,0,25,2,Mexico (ICML),"ICML, Universidad Nacional Autonoma de Mexico",0,0.08,Near Reef
+8/30/2016 15:20,Brigitta I. van Tussenbroek,vantuss@cmarl.unam.mx,20.8347,-86.87654,,,20160719,1045,Seagrass Meadow,,25,0,25,15,Mexico (ICML),"ICML, Universidad Nacional Autonoma de Mexico",0,0.6,
+8/30/2016 15:22,Brigitta I. van Tussenbroek,vantuss@cmarl.unam.mx,20.83433,-86.87647,,,20160720,1020,Sandy Bottom,,25,0,25,0,Mexico (ICML),"ICML, Universidad Nacional Autonoma de Mexico",0,0,Sandflat near coral reef
+8/30/2016 15:24,Brigitta I. van Tussenbroek,vantuss@cmarl.unam.mx,20.8347,-86.87654,,,20160720,1030,Seagrass Meadow,,25,0,25,15,Mexico (ICML),"ICML, Universidad Nacional Autonoma de Mexico",0,0.6,
+8/30/2016 16:53,Enrique Lozano ÌÅlvarez,elozano@cmarl.unam.mx,19.82738,-87.45408,,,20160712,1300,Sandy Bottom,,25,0,25,1,Mexico (ICML2),"ICML, Universidad Nacional Autonoma de Mexico",0,0.04,
+8/30/2016 16:57,Enrique Lozano ÌÅlvarez,elozano@cmarl.unam.mx,19.82721,-87.45526,,,20160712,1315,Sandy Bottom,,25,0,25,0,Mexico (ICML2),"ICML, Universidad Nacional Autonoma de Mexico",0,0,"Six trials were realized in two days due to logistics: there were two sand and two seagrass areas in the vicinity of eachother.  Design: Day 1-Unveg1, Unveg2, Seagrass1, Day2-Unveg1, Seagrass1, Seagrass2"
+8/30/2016 16:59,Enrique Lozano ÌÅlvarez,elozano@cmarl.unam.mx,19.8271,-87.45401,,,20160712,1330,Seagrass Meadow,,25,0,25,1,Mexico (ICML2),"ICML, Universidad Nacional Autonoma de Mexico",0,0.04,
+8/30/2016 17:01,Enrique Lozano ÌÅlvarez,elozano@cmarl.unam.mx,19.82738,-87.45408,,,20160713,1030,Sandy Bottom,,25,0,25,1,Mexico (ICML2),"ICML, Universidad Nacional Autonoma de Mexico",0,0.04,
+8/30/2016 17:04,Enrique Lozano ÌÅlvarez,elozano@cmarl.unam.mx,19.8271,-87.45401,,,20160713,1050,Seagrass Meadow,,25,1,25,4,Mexico (ICML2),"ICML, Universidad Nacional Autonoma de Mexico",0.04,0.16,
+8/30/2016 17:07,Enrique Lozano ÌÅlvarez,elozano@cmarl.unam.mx,19.82687,-87.45509,,,20160713,1050,Seagrass Meadow,,25,1,25,7,Mexico (ICML2),"ICML, Universidad Nacional Autonoma de Mexico",0.04,0.28,"There were only two days available for the three trials.Design of trials: Day1-Unveg1, Unveg2, Seagrass1,  Day2-Unveg1, Seagrass1, Seagrass2"
+9/9/2016 15:22,Aaron W. E. Galloway,agallow3@uoregon.edu,43.315383,-124.320926,,,20160718,820,Seagrass Meadow,,25,0,25,1,USA (OR),"Oregon Institute of Marine Biology, University of Oregon",0,0.04,
+9/9/2016 15:28,Aaron W. E. Galloway,agallow3@uoregon.edu,43.315013,-124.320361,,,20160718,820,Seagrass Meadow,,25,0,25,1,USA (OR),"Oregon Institute of Marine Biology, University of Oregon",0,0.04,Do not use the previously submitted entry for Galloway for this same date. That entry had the wrong GPS coordinates. I was unable to verify or edit the previously submitted data in this google survey format.
+9/9/2016 15:33,Aaron W. E. Galloway,agallow3@uoregon.edu,43.315383,-124.320926,,,20160718,830,Sandy Bottom,,25,0,25,5,USA (OR),"Oregon Institute of Marine Biology, University of Oregon",0,0.2,Submerged soak time is 22 hours due to tides.
+9/9/2016 15:37,Aaron W. E. Galloway,agallow3@uoregon.edu,43.315013,-124.320361,,,20160720,955,Seagrass Meadow,,25,0,25,0,USA (OR),"Oregon Institute of Marine Biology, University of Oregon",0,0,Submerged soak time was 21 hours due to tides
+9/9/2016 15:42,Aaron W. E. Galloway,agallow3@uoregon.edu,43.315383,-124.320926,,,20160720,920,Sandy Bottom,,25,0,25,1,USA (OR),Oregon Institute of Marine Biology; University of Oregon,0,0.04,Submerged soak time was 21.5 hours due to tides at this location
+9/9/2016 15:45,Aaron W. E. Galloway,agallow3@uoregon.edu,43.315013,-124.320361,,,20160721,1015,Seagrass Meadow,,25,0,25,1,USA (OR),"Oregon Institute of Marine Biology, University of Oregon",0,0.04,Submerged soak time was 21 hours at this location due to tides
+9/9/2016 15:48,Aaron W. E. Galloway,agallow3@uoregon.edu,43.315383,-124.320926,,,20160721,945,Sandy Bottom,,25,0,25,1,USA (OR),"Oregon Institute of Marine Biology, University of Oregon",0,0.04,Submerged soak time was 21.5 hours due to tides at this location
+9/19/2016 11:36,Shelby Ziegler,sziegler@live.unc.edu,34.69099,-76.62199,,,20160815,1418,Seagrass Meadow,,25,18,25,24,USA (NC),UNC Institute of Marine Sciences,0.72,0.96,
+9/19/2016 11:37,Shelby Ziegler,sziegler@live.unc.edu,34.69099,-76.62199,,,20160816,1423,Seagrass Meadow,,25,25,25,25,USA (NC),UNC Institute of Marine Sciences,1,1,
+9/19/2016 11:38,Shelby Ziegler,sziegler@live.unc.edu,34.69099,-76.62199,,,20160817,1423,Seagrass Meadow,,25,24,25,25,USA (NC),UNC Institute of Marine Sciences,0.96,1,
+9/19/2016 11:39,Shelby Ziegler,sziegler@live.unc.edu,34.69051,-76.62245,,,20160815,1447,Sandy Bottom,,25,1,25,25,USA (NC),UNC Institute of Marine Sciences,0.04,1,
+9/19/2016 11:40,Shelby Ziegler,sziegler@live.unc.edu,34.69051,-76.62245,,,20160816,1428,Sandy Bottom,,25,24,25,25,USA (NC),UNC Institute of Marine Sciences,0.96,1,
+9/19/2016 11:41,Shelby Ziegler,sziegler@live.unc.edu,34.69051,-76.62245,,,20160817,1430,Sandy Bottom,,25,25,25,25,USA (NC),UNC Institute of Marine Sciences,1,1,
+10/4/2016 1:55,Song. hwi-june,sormyo@gmail.com,34.7289,128.6047,,,20160621,1515,Sandy Bottom,,25,1,24,24,Korea,Pusan National University,0.04,1,
+10/4/2016 1:59,Song. hwi-june,sormyo@pusan.ac.kr,34.7289,128.6047,,,20160621,1523,Seagrass Meadow,,25,0,24,16,Korea,Pusan National University,0,0.67,
+10/4/2016 2:02,Song. hwi-june,sormyo@pusan.ac.kr,34.7289,128.6047,,,20160620,1600,Sandy Bottom,,25,8,25,25,Korea,Pusan National University,0.32,1,
+10/4/2016 2:05,Song. hwi-june,sormyo@pusan.ac.kr,34.7289,128.6047,,,20160620,1610,Seagrass Meadow,,25,0,25,9,Korea,Pusan National University,0,0.36,
+10/4/2016 2:08,Song. hwi-june,sormyo@pusan.ac.kr,34.7289,128.6047,,,20160622,1610,Sandy Bottom,,25,0,25,25,Korea,Pusan National University,0,1,
+10/4/2016 2:10,Song. hwi-june,sormyo@pusan.ac.kr,34.7289,128.6047,,,20160622,1610,Seagrass Meadow,,25,0,25,10,Korea,Pusan National University,0,0.4,
+10/10/2016 16:22,Janina Seemann,seemannj@si.edu,9.351809,-82.257631,,,20160929,1212,Seagrass Meadow,,25,0,25,6,Panama,Smithsonian Tropical Research Institute,0,0.24,
+10/17/2016 3:32,Prof. Lisandro Benedetti-Cecchi,lisandro.benedetti.cecchi@unipi.it,43.06781,9.831083,,,20160727,1105,Seagrass Meadow,,21,10,23,23,Italy,Department of Biology - University of Pisa,0.476190476,1,After 24 hours we found two more stakes (23) than after 1 hour (21 stakes)
+10/17/2016 3:34,Prof.Lisandro Benedetti-Cecchi,lisandro.benedetti.cecchi@unipi.it,43.06711,9.831426,,,20160727,1120,Sandy Bottom,,23,23,23,23,Italy,Department of Biology - University of Pisa,1,1,
+10/17/2016 3:37,Prof. Lisandro Benedetti-Cecchi,lisandro.benedetti.cecchi@unipi.it,43.06781,9.831083,,,20160728,1348,Seagrass Meadow,,25,25,25,25,Italy,Department of Biology - University of Pisa,1,1,"All the stakes were removed after 1 hour (do not consider the ""0"" counts after 24 hours)"
+10/17/2016 3:39,Prof. Lisandro Benedetti-Cecchi,lisandro.benedetti.cecchi@unipi.it,43.06711,9.831426,,,20160728,1359,Sandy Bottom,,25,25,25,25,Italy,Department of Biology - University of Pisa,1,1,"All the stakes were removed after 1 hour (do not consider the ""0"" counts after 24 hours)"
+10/17/2016 3:41,Prof. Lisandro Benedetti-Cecchi,lisandro.benedetti.cecchi@unipi.it,43.06781,9.831083,,,20160729,1200,Seagrass Meadow,,24,24,24,24,Italy,Department of Biology - University of Pisa,1,1,"All the stakes were removed after 1 hour (do not consider the ""0"" counts after 24 hours)"
+10/17/2016 3:43,Prof. Lisandro Benedetti-Cecchi,lisandro.benedetti.cecchi@unipi.it,43.06711,9.831426,,,20160729,1215,Sandy Bottom,,25,25,25,25,Italy,Department of Biology - University of Pisa,1,1,"All the stakes were removed after 1 hour (do not consider the ""0"" counts after 24 hours)"
+10/17/2016 3:49,Prof. Lisandro Benedetti-Cecchi,lisandro.benedetti.cecchi@unipi.it,43.068,9.831061,,,20160727,1145,Seagrass Meadow,,21,21,21,21,Italy,Department of Biology - University of Pisa,1,1,
+10/17/2016 3:50,Prof. Lisandro Bendetti-Cecchi,lisandro.benedetti.cecchi@unipi.it,43.067767,9.83136,,,20160727,1200,Sandy Bottom,,25,25,25,25,Italy,Department of Biology - University of Pisa,1,1,
+10/17/2016 3:52,Prof. Lisandro Bendetti-Cecchi,lisandro.benedetti.cecchi@unipi.it,43.068,9.831061,,,20160728,1415,Seagrass Meadow,,25,25,25,25,Italy,Department of Biology - University of Pisa,1,1,"All the stakes were removed after 1 hour (do not consider the ""0"" counts after 24 hours)"
+10/17/2016 3:54,Prof. Lisandro Benedetti-Cecchi,lisandro.benedetti.cecchi@unipi.it,43.067767,9.83136,,,20160728,1430,Sandy Bottom,,25,25,25,25,Italy,Department of Biology - University of Pisa,1,1,"All the stakes were removed after 1 hour (do not consider the ""0"" counts after 24 hours)"
+10/17/2016 3:57,Prof. Lisandro Benedetti-Cecchi,lisandro.benedetti.cecchi@unipi.it,43.068,9.831061,,,20160729,1230,Seagrass Meadow,,24,24,24,24,Italy,Department of Biology - University of Pisa,1,1,"Only 24 stakes were initially deployed. All the stakes were removed after 1 hour (do not consider the ""0"" counts after 24 hours)"
+10/17/2016 3:59,Prof. Lisandro Benedetti-Cecchi,lisandro.benedetti.cecchi@unipi.it,43.067767,9.83136,,,20160729,1245,Sandy Bottom,,25,25,25,25,Italy,Department of Biology - University of Pisa,1,1,"All the stakes were removed after 1 hour (do not consider the ""0"" counts after 24 hours)"
+10/25/2016 4:26,Francesca Rossi,francesca.rossi@cnrs.fr,43.447124,3.666644,,,20160705,956,Sandy Bottom,,25,0,25,4,France,"CNRS, MARBEC laboratory",0,0.16,
+10/25/2016 4:28,Francesca Rossi,francesca.rossi@cnrs.fr,43.447124,3.666644,,,20160705,1010,Seagrass Meadow,,25,1,25,1,France,"CNRS, MARBEC laboratory",0.04,0.04,
+10/25/2016 4:30,Francesca Rossi,francesca.rossi@cnrs.fr,43.447124,3.666644,,,20160706,1020,Sandy Bottom,,25,0,25,17,France,"CNRS, MARBEC laboratory",0,0.68,
+10/25/2016 4:32,Francesca Rossi,francesca.rossi@cnrs.fr,43.447124,3.666644,,,20160706,1025,Seagrass Meadow,,25,0,25,0,France,"CNRS, MARBEC laboratory",0,0,
+10/25/2016 4:34,Francesca Rossi,francesca.rossi@cnrs.fr,43.447124,3.666644,,,20160707,929,Sandy Bottom,,25,3,25,22,France,"CNRS, MARBEC laboratory",0.12,0.88,
+10/25/2016 4:35,Francesca Rossi,Francesca.rossi@cnrs.fr,43.447124,3.666644,,,20160707,925,Seagrass Meadow,,25,0,25,0,France,"CNRS, MARBEC laboratory",0,0,
+11/13/2016 11:11,Meredith Diskin,mdiskin@islander.tamucc.edu,27.42443,-97.19447,,,20160707,816,Muddy Bottom,,25,2,24,0,USA (TX),Texas A&M University - Corpus Christi,0.08,0,
+11/13/2016 11:13,Meredith Diskin,mdiskin@islander.tamucc.edu,27.42446,-97.19337,,,20160707,830,Seagrass Meadow,,28,9,28,23,USA (TX),Texas A&M University - Corpus Christi,0.321428571,0.82,
+11/13/2016 11:21,Meredith Diskin,mdiskin@islander.tamucc.edu,27.42443,-97.19447,,,20160713,750,Muddy Bottom,,25,15,25,25,USA (TX),Texas A&M University - Corpus Christi,0.6,1,
+11/13/2016 11:23,Meredith Diskin,mdiskin@islander.tamucc.edu,27.42466,-97.19377,,,20160713,810,Seagrass Meadow,,25,9,25,11,USA (TX),Texas A&M University - Corpus Christi,0.36,0.44,
+11/13/2016 11:25,Meredith Diskin,mdiskin@islander.tamucc.edu,27.42443,-97.19447,,,20160719,745,Muddy Bottom,,25,0,25,25,USA (TX),Texas A&M University - Corpus Christi,0,1,
+11/13/2016 11:26,Meredith Diskin,mdiskin@islander.tamucc.edu,27.42466,-97.19377,,,20160719,745,Seagrass Meadow,,25,23,25,24,USA (TX),Texas A&M University - Corpus Christi,0.92,0.96,
+11/13/2016 11:34,Meredith Diskin,mdiskin@islander.tamucc.edu,27.37981,-97.17288,,,20160726,840,Muddy Bottom,,25,0,25,1,USA (TX),Texas A&M University - Corpus Christi,0,0.04,
+11/13/2016 11:36,Meredith Diskin,mdiskin@islander.tamucc.edu,27.37951,-97.17278,,,20160726,840,Muddy Bottom,,25,0,22,22,USA (TX),Texas A&M University - Corpus Christi,0,1,3 stakes missing after 24 hours
+11/13/2016 11:39,Meredith Diskin,mdiskin@islander.tamucc.edu,27.37981,-97.17288,,,20160802,750,Muddy Bottom,,25,2,25,11,USA (TX),Texas A&M University - Corpus Christi,0.08,0.44,
+11/13/2016 11:40,Meredith Diskin,mdiskin@islander.tamucc.edu,27.37951,-97.17278,,,20160802,750,Seagrass Meadow,,25,0,25,25,USA (TX),Texas A&M University - Corpus Christi,0,1,
+11/13/2016 11:43,Meredith Diskin,mdiskin@islander.tamucc.edu,27.37984,-97.17288,,,20160809,755,Muddy Bottom,,25,0,25,17,USA (TX),Texas A&M University - Corpus Christi,0,0.68,
+11/13/2016 11:44,Meredith Diskin,mdiskin@islander.tamucc.edu,27.37985,-97.17283,,,20160809,755,Seagrass Meadow,,25,0,25,25,USA (TX),Texas A&M University - Corpus Christi,0,1,
+11/13/2016 11:54,Meredith Diskin,mdiskin@islander.tamucc.edu,27.53477,-97.06673,,,20160822,845,Muddy Bottom,,25,2,25,25,USA (TX),Texas A&M University - Corpus Christi,0.08,1,
+11/13/2016 11:55,Meredith Diskin,mdiskin@islander.tamucc.edu,27.53467,-97.06679,,,20160822,845,Seagrass Meadow,,25,0,25,7,USA (TX),Texas A&M University - Corpus Christi,0,0.28,
+11/13/2016 11:57,Meredith Diskin,mdiskin@islander.tamucc.edu,27.53477,-97.06673,,,20160901,709,Muddy Bottom,,25,1,25,5,USA (TX),Texas A&M University - Corpus Christi,0.04,0.2,
+11/13/2016 11:59,Meredith Diskin,mdiskin@islander.tamucc.edu,27.53467,-97.06697,,,20160901,703,Seagrass Meadow,,25,0,25,21,USA (TX),Texas A&M University - Corpus Christi,0,0.84,
+11/13/2016 12:00,Meredith Diskin,mdiskin@islander.tamucc.edu,27.53477,-97.06673,,,20160908,718,Muddy Bottom,,25,0,21,21,USA (TX),Texas A&M University - Corpus Christi,0,1,4 stakes missing
+11/13/2016 12:02,Meredith Diskin,mdiskin@islander.tamucc.edu,27.53467,-97.06697,,,20160908,710,Seagrass Meadow,,25,1,25,16,USA (TX),Texas A&M University - Corpus Christi,0.04,0.64,
+11/15/2016 18:05,"Lindsay C. Gaskins, Stacy Zhang",lindsaycgaskins@gmail.com,34.7004,-76.8335,,,20161028,1618,Seagrass Meadow,,25,25,25,25,USA (NC2),Duke University Marine Lab,1,1,Pine Knoll Shores Aquarium 
+11/15/2016 18:05,"Lindsay C. Gaskins, Stacy Zhang",lindsaycgaskins@gmail.com,34.7004,-76.8335,,,20161029,1705,Seagrass Meadow,,25,24,25,25,USA (NC2),Duke University Marine Lab,0.96,1,"I did find the one stake where there was bait left from before! So there were 25 eaten, but I just didn't get the empty stakes back. "
+11/15/2016 18:05,"Lindsay C. Gaskins, Stacy Zhang",lindsaycgaskins@gmail.com,34.7004,-76.8335,,,20161030,1510,Seagrass Meadow,,25,18,25,25,USA (NC2),Duke University Marine Lab,0.72,1," Everything I did find was empty, so I think all 25 were eaten. "
+11/15/2016 18:05,"Lindsay C. Gaskins, Stacy Zhang",lindsaycgaskins@gmail.com,34.7004,-76.8335,,,20161028,1618,Sandy Bottom,,25,25,25,25,USA (NC2),Duke University Marine Lab,1,1,Pine Knoll Shores
+11/15/2016 18:05,"Lindsay C. Gaskins, Stacy Zhang",lindsaycgaskins@gmail.com,34.7004,-76.8335,,,20161029,1705,Sandy Bottom,,25,24,24,17,USA (NC2),Duke University Marine Lab,0.96,0.708333333,I can't assume more than I found. So I'm not sure about the final count. 
+11/15/2016 18:05,"Lindsay C. Gaskins, Stacy Zhang",lindsaycgaskins@gmail.com,34.7004,-76.8335,,,20161030,1510,Sandy Bottom,,25,23,25,25,USA (NC2),Duke University Marine Lab,0.92,1,Pine Knoll Shores
+12/3/2016 5:03,Paul York,paul.york@jcu.edu.au,-20.01734,148.25191,,,20161202,730,Seagrass Meadow,,25,0,25,24,Australia (QLD),James Cook University,0,0.96,Seagrass consisted of dense Halodule uninervis meadow but with a short canopy (approx 10cm)
+12/3/2016 5:08,Paul York,paul.york@jcu.edu.au,-20.02034,148.24826,,,20161202,745,Sandy Bottom,,25,0,25,3,Australia (QLD),James Cook University,0,0.12,
+12/3/2016 21:18,Paul York,paul.york@jcu.edu.au,-20.01734,148.25191,,,20161203,800,Seagrass Meadow,,25,0,25,19,Australia (QLD),James Cook University,0,0.76,
+12/3/2016 21:21,Paul York,paul.york@jcu.edu.au,-20.02034,148.24826,,,20161203,830,Sandy Bottom,,25,1,25,2,Australia (QLD),James Cook University,0.04,0.08,
+12/5/2016 17:52,Paul York,paul.york@jcu.edu.au,-20.01734,148.25191,,,20161204,845,Seagrass Meadow,,25,0,25,22,Australia (QLD),James Cook University,0,0.88,
+12/5/2016 17:54,Paul York,paul.york@jcu.edu.au,-20.02034,148.24826,,,20161204,915,Sandy Bottom,,25,0,25,25,Australia (QLD),James Cook University,0,1,
+12/9/2016 23:22,Brendan Lanham,brendan.lanham@unsw.edu.au,-35.09903,150.57948,,,20160711,1300,Rocky Reef,,25,0,25,11,Australia (NSW1.1),University of New South Wales,0,0.44,
+12/9/2016 23:24,Brendan Lanham,brendan.lanham@unsw.edu.au,-35.09903,150.57948,,,20160711,1300,Sandy Bottom,,25,0,25,5,Australia (NSW1.1),University of New South Wales,0,0.2,WHIPPO - corrected habitat type from Rocky Reef to Sandy Bottom 20161230
+12/9/2016 23:27,Brendan Lanham,brendan.lanham@unsw.edu.au,-35.09903,150.57948,,,20160712,1400,Rocky Reef,,25,0,25,4,Australia (NSW1.1),University of New South Wales,0,0.16,
+12/9/2016 23:38,Brendan Lanham,brendan.lanham@unsw.edu.au,-35.09903,150.57948,,,20160712,1400,Sandy Bottom,,25,0,25,2,Australia (NSW1.1),University of New South Wales,0,0.08,
+12/9/2016 23:40,Brendan Lanham,brendan.lanham@unsw.edu.au,-35.09903,150.57948,,,20160718,1200,Rocky Reef,,25,0,25,15,Australia (NSW1.1),University of New South Wales,0,0.6,
+12/9/2016 23:42,Brendan Lanham,brendan.lanham@unsw.edu.au,-35.09903,150.57948,,,20160718,1200,Sandy Bottom,,25,0,25,12,Australia (NSW1.1),University of New South Wales,0,0.48,
+12/14/2016 0:45,Alistair Poore,a.poore@unsw.edu.au,-32.380278,152.508889,,,20161208,940,Seagrass Meadow,,25,23,25,25,Australia (NSW),University of New South Wales,0.92,1,"Weather warm (26C), sunny and windy"
+12/14/2016 0:47,Alistair Poore,a.poore@unsw.edu.au,-32.380278,152.508889,,,20161208,940,Sandy Bottom,,25,25,25,25,Australia (NSW),University of New South Wales,1,1,"Weather warm (26C), sunny and windy"
+12/14/2016 0:49,Alistair Poore,a.poore@unsw.edu.au,-32.380278,152.508889,,,20161209,950,Seagrass Meadow,,25,23,25,25,Australia (NSW),University of New South Wales,0.92,1,"Weather warm (25C), sunny"
+12/14/2016 0:50,Alistair Poore,a.poore@unsw.edu.au,-32.380278,152.508889,,,20161209,950,Sandy Bottom,,25,25,25,25,Australia (NSW),University of New South Wales,1,1,"Weather warm (25C), sunny"
+12/14/2016 0:52,Alistair Poore,a.poore@unsw.edu.au,-32.380278,152.508889,,,20161210,940,Seagrass Meadow,,25,25,25,25,Australia (NSW),University of New South Wales,1,1,"Weather warm (22C), sunny"
+12/14/2016 0:53,Alistair Poore,a.poore@unsw.edu.au,-32.380278,152.508889,,,20161210,940,Sandy Bottom,,25,25,25,25,Australia (NSW),University of New South Wales,1,1,"Warm (22C), sunny"
+12/22/2016 13:20,Dean Janiak,janiakd@si.edu,27.536592,-80.34928,,,20161115,1000,Seagrass Meadow,,25,12,25,25,USA (FL),SMSFP,0.48,1,
+12/22/2016 13:21,Dean Janiak,janiakdd@si.edu,27.53546,-80.347016,,,20161115,1030,Muddy Bottom,,25,8,25,25,USA (FL),SMSFP,0.32,1,
+12/22/2016 13:23,Dean Janiak,janiakd@si.edu,27.536592,-80.34928,,,20161117,1100,Seagrass Meadow,,25,0,25,25,USA (FL),SMSFP,0,1,
+12/22/2016 13:24,Dean Janiak,janiakd@si.edu,27.53546,-80.347016,,,20161117,1130,Muddy Bottom,,25,0,25,25,USA (FL),SMSFP,0,1,
+12/22/2016 13:25,Dean Janiak,janiakd@si.edu,27.536592,-80.34928,,,20161121,1200,Seagrass Meadow,,25,0,25,25,USA (FL),SMSFP,0,1,
+12/22/2016 13:26,Dean Janiak,janiakd@si.edu,27.53546,-80.347016,,,20161121,1230,Muddy Bottom,,25,25,25,25,USA (FL),SMSFP,1,1,
+10/12/2016 9:04,Janina Seemann,seemannj@gmail.com,9.351809,-82.257631,,,20160929,1215,Seagrass Meadow,,25,0,25,6,Panama,Smithsonian Tropical Research Institute,0,0.24,Manually entered by RW
+10/12/2016 9:04,Janina Seemann,seemannj@gmail.com,9.351809,-82.257631,,,20161004,1150,Seagrass Meadow,,25,1,25,25,Panama,Smithsonian Tropical Research Institute,0.04,1,Manually entered by RW
+10/12/2016 9:04,Janina Seemann,seemannj@gmail.com,9.351809,-82.257631,,,20161005,1150,Seagrass Meadow,,25,0,25,6,Panama,Smithsonian Tropical Research Institute,0,0.24,Manually entered by RW
+10/12/2016 9:04,Janina Seemann,seemannj@gmail.com,9.351617,-82.257759,,,20160929,1220,Sandy Bottom,,25,0,25,0,Panama,Smithsonian Tropical Research Institute,0,0,Manually entered by RW
+10/12/2016 9:04,Janina Seemann,seemannj@gmail.com,9.351617,-82.257759,,,20161004,1145,Sandy Bottom,,25,0,25,0,Panama,Smithsonian Tropical Research Institute,0,0,Manually entered by RW
+10/12/2016 9:04,Janina Seemann,seemannj@gmail.com,9.351617,-82.257759,,,20161005,1145,Sandy Bottom,,25,0,24,24,Panama,Smithsonian Tropical Research Institute,0,1,Manually entered by RW
+7/25/2017 1:59,Adriana Verges,adriana.verges@gmail.com,-33.84018,151.25313,,,20161207,1400,"Artificial Habitat (dock, breakwater, weir, etc.)",,25,18,25,25,Australia (NSW1.2),University of New South Wales,0.72,1,"4.1m depth, 22.85 degrees celsius (water temp)"
+7/25/2017 2:02,Adriana Verges,adriana.verges@gmail.com,-33.84018,151.25313,,,20161207,1354,Sandy Bottom,,25,10,25,25,Australia (NSW1.2),University of New South Wales,0.4,1,"4m depth, water temp 22.63 degrees celcuis"
+7/25/2017 2:05,Adriana Verges,adriana.verges@gmail.com,-33.84018,151.25313,,,20161207,1410,Rocky Reef,,23,5,23,23,Australia (NSW1.2),University of New South Wales,0.217391304,1,"5m depth, water temp 23.19 degrees celsius"
+7/25/2017 2:10,Adriana Verges,adriana.verges@gmail.com,-33.84018,151.25313,,,20161208,1410,"Artificial Habitat (dock, breakwater, weir, etc.)",,25,23,22,22,Australia (NSW1.2),University of New South Wales,0.92,1,4.1m depth
+7/25/2017 2:14,Adriana Verges,adriana.verges@gmail.com,-33.84018,151.25313,,,20161208,1400,Rocky Reef,,25,20,22,22,Australia (NSW1.2),University of New South Wales,0.8,1,5m depth
+7/25/2017 2:22,Adriana Verges,adriana.verges@gmail.com,-33.84018,151.25313,,,20161208,1354,Sandy Bottom,,25,22,25,25,Australia (NSW1.2),University of New South Wales,0.88,1,"4m depth. Would be helpful if this form remembered previous submissions e.g. for name, institution, email, GPS - for ease entering multiple forms."
+7/25/2017 2:27,Adriana Verges,adriana.verges@gmail.com,-33.84018,151.25313,,,20161212,1130,"Artificial Habitat (dock, breakwater, weir, etc.)",,20,20,20,20,Australia (NSW1.2),University of New South Wales,1,1,4.1m depth
+7/25/2017 2:30,Adriana Verges,adriana.verges@gmail.com,-33.84018,151.25313,,,20161212,1000,Rocky Reef,,21,21,21,21,Australia (NSW1.2),University of New South Wales,1,1,5m depth
+7/25/2017 2:32,Adriana Verges,adriana.verges@gmail.com,-33.84018,151.25313,,,20161212,1050,Sandy Bottom,,25,4,25,25,Australia (NSW1.2),University of New South Wales,0.16,1,4m depth
+7/25/2017 2:37,Adriana Verges,adriana.verges@gmail.com,-33.84018,151.25313,,,20161213,1130,"Artificial Habitat (dock, breakwater, weir, etc.)",,25,25,25,25,Australia (NSW1.2),University of New South Wales,1,1,4.1m depth
+7/25/2017 2:39,Adriana Verges,adriana.verges@gmail.com,-33.84018,151.25313,,,20161213,1000,Rocky Reef,,25,25,25,25,Australia (NSW1.2),University of New South Wales,1,1,5m depth
+7/25/2017 2:41,Adriana Verges,adriana.verges@gmail.com,-33.84018,151.25313,,,20161213,1050,Sandy Bottom,,25,1,25,23,Australia (NSW1.2),University of New South Wales,0.04,0.92,4m depth
+4/27/2017 16:06,Augusto Flores,guca@usp.br,-23.78863,-45.36364,,,20170307,930,Seagrass Meadow,,30,0,29,19,Brazil,University of Sao Paulo,0,0.655172414,"depth 1.2, partially cloudy, Manually entered by RW,"
+4/27/2017 16:06,Augusto Flores,guca@usp.br,-23.762,-45.34991,,,20170307,1120,Sandy Bottom,,30,0,30,1,Brazil,University of Sao Paulo,0,0.033333333,"depth 1.1, partially cloudy, no substrate type provided - defaulted to sandy, manually entered by RW"
+4/27/2017 16:06,Augusto Flores,guca@usp.br,-23.78863,-45.36364,,,20170308,930,Seagrass Meadow,,30,0,30,4,Brazil,University of Sao Paulo,0,0.133333333,"depth 1.1, overcast/rainy, Manually entered by RW"
+4/27/2017 16:06,Augusto Flores,guca@usp.br,-23.762,-45.34991,,,20170308,1015,Sandy Bottom,,30,0,29,0,Brazil,University of Sao Paulo,0,0,"depth 1.0, overcast/rainy, no substrate type provided - default to sandy, manually entered by RW"
+4/27/2017 16:06,Augusto Flores,guca@usp.br,-23.78863,-45.36364,,,20170309,945,Seagrass Meadow,,30,0,30,6,Brazil,University of Sao Paulo,0,0.2,"depth 0.8, partially cloudy/windy, Manually entered by RW"
+4/27/2017 16:06,Augusto Flores,guca@usp.br,-23.762,-45.34991,,,20170309,1100,Sandy Bottom,,30,0,30,5,Brazil,University of Sao Paulo,0,0.166666667,"depth 0.9, partially cloudy/windy, no substrate type provided - default to sandy, manually entered by RW"
+3/1/2017 18:03,Brendan Kelaehr,brendan.kelaher@scu.edu.au,-30.50583,153.02362,,,20170222,1448,Seagrass Meadow,,25,25,25,25,Australia (NSW2),Southern Cross University,1,1,"This was carried out in eel grass (Zostera muelleri) directly adjacent to grey mangroves (Avicennia marina). The visibility was less than two metres. However, numerous silver biddys (Gerres subfasciatus) and yellow fin bream (Acanthopagrus australis) were observed biting the squid pops within minutes of deployment."
+3/1/2017 23:51,Brendan Kelaher,brendan.kelaher@scu.edu.au,-30.50439,153.0238,,,20170222,1344,Sandy Bottom,,25,0,25,25,Australia (NSW2),Southern Cross University,0,1,The visibility was less than two metres. Few fish were observed around the squid pops.
+3/1/2017 23:56,Brendan Kelaher,brendan.kelaher@scu.edu.au,-30.50583,153.02362,,,20170223,1404,Seagrass Meadow,,25,24,24,24,Australia (NSW2),Southern Cross University,0.96,1,"The missing squid pop was found floating at the end of the first hour. So it is really 100% of baits gone in 1 hour. The sampling was carried out in eel grass (Zostera muelleri) directly adjacent to grey mangroves (Avicennia marina). The visibility was less than two metres. However, numerous silver biddys (Gerres subfasciatus) and yellow fin bream (Acanthopagrus australis) were observed biting the squid pops within minutes of deployment."
+3/2/2017 0:00,Brendan Kelaher,brendan.kelaher@scu.edu.au,-30.50466,153.02372,,,20170223,1451,Sandy Bottom,,25,0,25,25,Australia (NSW2),Southern Cross University,0,1,The visibility was less than two metres. Few fish were observed around the squid pops in the first hour.
+3/2/2017 0:02,Brendan Kelaher,brendan.kelaher@scu.edu.au,-30.50583,153.02362,,,20170224,1359,Seagrass Meadow,,25,25,25,25,Australia (NSW2),Southern Cross University,1,1,"The sampling was carried out in eel grass (Zostera muelleri) directly adjacent to grey mangroves (Avicennia marina). The visibility was less than two metres. However, numerous silver biddys (Gerres subfasciatus) and yellow fin bream (Acanthopagrus australis) were observed biting the squid pops within minutes of deployment."
+3/2/2017 0:04,Brendan Kelaher,brendan.kelaher@scu.edu.au,-30.50466,153.02372,,,20170224,1505,Sandy Bottom,,25,25,25,25,Australia (NSW2),Southern Cross University,1,1,"The visibility was less than two metres. Unlike the previous two days, silver biddys (Gerres subfasciatus) and yellow fin bream (Acanthopagrus australis) were observed biting the squid pops within minutes of deployment."
+4/17/2017 20:00,Christopher Henderson,chender1@usc.edu.au,-26.393508,153.055206,,,20170301,1200,Seagrass Meadow,,25,22,24,24,Australia (QLD2),University of the Sunshine Coast,0.88,1,
+4/17/2017 20:02,Christopher Henderson,chender1@usc.edu.au,-26.393508,153.055206,,,20170130,1230,Sandy Bottom,,25,23,23,23,Australia (QLD2),University of the Sunshine Coast,0.92,1,
+4/17/2017 20:03,Christopher Henderson,chender1@usc.edu.au,-26.393508,153.055206,,,20170131,1230,Seagrass Meadow,,25,25,25,25,Australia (QLD2),University of the Sunshine Coast,1,1,
+4/17/2017 20:05,Christopher Henderson,chender1@usc.edu.au,-26.393508,153.055206,,,20170131,1300,Sandy Bottom,,25,25,25,25,Australia (QLD2),University of the Sunshine Coast,1,1,
+4/17/2017 20:06,Christopher Henderson,chender1@usc.edu.au,-26.393508,153.055206,,,20170201,1300,Seagrass Meadow,,25,25,25,25,Australia (QLD2),University of the Sunshine Coast,1,1,
+4/17/2017 20:07,Christopher Henderson,chender1@usc.edu.au,-26.393508,153.055206,,,20170201,1330,Sandy Bottom,,25,25,25,25,Australia (QLD2),University of the Sunshine Coast,1,1,
+4/17/2017 20:09,Christopher Henderson,chender1@usc.edu.au,-25.307906,152.909319,,,20170221,1400,Seagrass Meadow,,25,5,25,24,Australia (QLD2),University of the Sunshine Coast,0.2,0.96,
+4/17/2017 20:11,Christopher Henderson,chender1@usc.edu.au,-25.307906,152.909319,,,20170221,1400,Sandy Bottom,,25,6,25,22,Australia (QLD2),University of the Sunshine Coast,0.24,0.88,
+4/17/2017 20:13,Christopher Henderson,chender1@usc.edu.au,-25.307906,152.909319,,,20170222,1430,Seagrass Meadow,,25,3,25,21,Australia (QLD2),University of the Sunshine Coast,0.12,0.84,
+4/17/2017 20:14,Christopher Henderson,chender1@usc.edu.au,-25.307906,152.909319,,,20170222,1430,Sandy Bottom,,25,4,25,21,Australia (QLD2),University of the Sunshine Coast,0.16,0.84,
+4/17/2017 20:16,Christopher Henderson,chender1@usc.edu.au,-25.307906,152.909319,,,20170223,1500,Seagrass Meadow,,25,22,25,25,Australia (QLD2),University of the Sunshine Coast,0.88,1,
+4/17/2017 20:17,Christopher Henderson,chender1@usc.edu.au,-25.307906,152.909319,,,20170223,1500,Sandy Bottom,,25,0,25,25,Australia (QLD2),University of the Sunshine Coast,0,1,
+6/16/2017 2:23,Elrika D'Souza,elrika@ncf-india.org,10.06677,73.63355,,,20170116,1335,Seagrass Meadow,,25,1,25,8,India,Nature Conservation Foundation,0.04,0.32,
+6/16/2017 2:28,Elrika D'Souza,elrika@ncf-india.org,10.06677,73.63355,,,20170117,1430,Seagrass Meadow,,25,0,25,5,India,Nature Conservation Foundation,0,0.2,
+6/16/2017 2:31,Elrika D'Souza,elrika@ncf-india.org,10.06677,73.63355,,,20170118,1345,Seagrass Meadow,,25,1,25,15,India,Nature Conservation Foundation,0.04,0.6,
+6/16/2017 2:37,Elrika D'Souza,elrika@ncf-india.org,10.07013,73.63361,,,20170116,1410,Sandy Bottom,,25,0,25,9,India,Nature Conservation Foundation,0,0.36,
+6/16/2017 2:39,Elrika D'Souza,elrika@ncf-india.org,10.07013,73.63361,,,20170117,1505,Sandy Bottom,,25,6,25,18,India,Nature Conservation Foundation,0.24,0.72,
+6/16/2017 2:41,Elrika D'Souza,elrika@ncf-india.org,10.07013,73.63361,,,20170118,1420,Sandy Bottom,,25,3,25,11,India,Nature Conservation Foundation,0.12,0.44,
+3/5/2017 20:23,Holger Janes,hjanes@deakin.edu.au,-38.193552,144.711297,,,20170222,1140,Seagrass Meadow,,25,5,25,14,Australia (VIC),Deakin University,0.2,0.56,
+3/5/2017 20:28,Holger Janes,hjanes@deakin.edu.au,-38.193552,144.711297,,,20170222,1140,Sandy Bottom,,25,1,25,5,Australia (VIC),Deakin University,0.04,0.2,
+3/5/2017 20:30,Holger Janes,hjanes@deakin.edu.au,-38.193552,144.711297,,,20170223,1300,Seagrass Meadow,,25,0,21,8,Australia (VIC),Deakin University,0,0.380952381,
+3/5/2017 20:31,Holger Janes,hjanes@deakin.edu.au,-38.193552,144.711297,,,20170223,1300,Sandy Bottom,,25,0,25,2,Australia (VIC),Deakin University,0,0.08,
+3/5/2017 20:34,Holger Janes,hjanes@deakin.edu.au,-38.193552,144.711297,,,20170224,1345,Seagrass Meadow,,25,0,25,2,Australia (VIC),Deakin University,0,0.08,
+3/5/2017 20:35,Holger Janes,hjanes@deakin.edu.au,-38.193552,144.711297,,,20170224,1345,Sandy Bottom,,25,0,24,1,Australia (VIC),Deakin University,0,0.041666667,
+3/5/2017 20:52,Holger Janes,hjanes@deakin.edu.au,-38.152773,144.716919,,,20170222,1640,Seagrass Meadow,,25,0,25,2,Australia (VIC),Deakin University,0,0.08,
+3/5/2017 20:53,Holger Janes,hjanes@deakin.edu.au,-38.152773,144.716919,,,20170222,1640,Sandy Bottom,,25,0,25,2,Australia (VIC),Deakin University,0,0.08,
+3/5/2017 20:55,Holger Janes,hjanes@deakin.edu.au,-38.152773,144.716919,,,20170223,1700,Seagrass Meadow,,25,0,25,0,Australia (VIC),Deakin University,0,0,
+3/5/2017 20:56,Holger Janes,hjanes@deakin.edu.au,-38.152773,144.716919,,,20170223,1700,Sandy Bottom,,25,0,25,2,Australia (VIC),Deakin University,0,0.08,
+3/5/2017 20:58,Holger Janes,hjanes@deakin.edu.au,-38.152773,144.716919,,,20170224,1730,Seagrass Meadow,,25,0,14,1,Australia (VIC),Deakin University,0,0.071428571,
+3/5/2017 21:00,Holger Janes,hjanes@deakin.edu.au,-38.180151,144.715595,,,20170223,1045,Seagrass Meadow,,25,0,24,4,Australia (VIC),Deakin University,0,0.166666667,
+3/5/2017 21:01,Holger Janes,hjanes@deakin.edu.au,-38.180151,144.715595,,,20170223,1045,Sandy Bottom,,25,0,25,1,Australia (VIC),Deakin University,0,0.04,
+3/5/2017 21:05,Holger Janes,hjanes@deakin.edu.au,-38.180151,144.715595,,,20170224,1100,Seagrass Meadow,,25,0,16,7,Australia (VIC),Deakin University,0,0.4375,"Heavy onshore wind and poor visibility, hence so many stakes missing"
+3/5/2017 21:07,Holger Janes,hjanes@deakin.edu.au,-38.180151,144.715595,,,20170224,1100,Sandy Bottom,,25,0,20,2,Australia (VIC),Deakin University,0,0.1,"Heavy onshore wind an poor visibility, hence stakes missing"
+1/18/2017 21:48,Jennifer K O'Leary & Erin Aiello,jkoleary@calpoly.edu,35.349373,-120.8442,,,20160723,822,Muddy Bottom,,25,0,25,1,USA (CA2),California Sea Grant & California Polytechnic State University,0,0.04,
+1/18/2017 21:50,Jennifer K O'Leary & Erin Aiello,jkoleary@calpoly.edu,35.350021,-120.844398,,,20160724,903,Seagrass Meadow,,23,0,23,5,USA (CA2),California Sea Grant & California Polytechnic State University,0,0.217391304,
+1/18/2017 21:51,Jennifer K O'Leary & Erin Aiello,jkoleary@calpoly.edu,35.349373,-120.8442,,,20160724,1023,Muddy Bottom,,25,0,25,2,USA (CA2),California Sea Grant & California Polytechnic State University,0,0.08,
+1/18/2017 21:53,Jennifer K O'Leary & Erin Aiello,jkoleary@calpoly.edu,35.349861,-120.844376,,,20160804,602,Seagrass Meadow,,25,1,25,6,USA (CA2),California Sea Grant & California Polytechnic State University,0.04,0.24,
+1/18/2017 21:54,Jennifer K O'Leary & Erin Aiello,jkoleary@calpoly.edu,35.349033,-120.844223,,,20160804,620,Muddy Bottom,,25,0,25,4,USA (CA2),California Sea Grant & California Polytechnic State University,0,0.16,
+1/18/2017 21:46,Jennifer K O'Leary and Erin Aiello,jkoleary@calpoly.edu,35.350021,-120.844398,,,20160723,735,Seagrass Meadow,,24,0,24,5,USA (CA2),California Sea Grant & California Polytechnic State University,0,0.208333333,
+4/27/2017 16:06,Martin Thiel,thiel@ucn.cl,-30.29754,-71.607033,,,20170307,1245,Sandy Bottom,,25,1,25,4,Chile,Universidad Catolica del Norte,0.04,0.16,"poor visibility (1-2m), Manually enetered by RW"
+4/27/2017 16:06,Martin Thiel,thiel@ucn.cl,-30.293,-71.608228,,,20170307,1320,Seagrass,,25,0,25,2,Chile,Universidad Catolica del Norte,0,0.08,"poor visibility (1-2m), Manually enetered by RW"
+4/27/2017 16:06,Martin Thiel,thiel@ucn.cl,-30.29754,-71.607033,,,20170308,1255,Sandy Bottom,,25,0,25,4,Chile,Universidad Catolica del Norte,0,0.16,"poor visibility (1-2m), Manually enetered by RW"
+4/27/2017 16:06,Martin Thiel,thiel@ucn.cl,-30.293,-71.608228,,,20170308,1325,Seagrass,,25,0,24,3,Chile,Universidad Catolica del Norte,0,0.125,"moderate visibility (3 - 4 m), Manually enetered by RW"
+4/27/2017 16:06,Martin Thiel,thiel@ucn.cl,-30.29754,-71.607033,,,20170308,1300,Sandy Bottom,,25,0,25,2,Chile,Universidad Catolica del Norte,0,0.08,"poor visibility (1.2 - 1.5m), Manually enetered by RW"
+4/27/2017 16:06,Martin Thiel,thiel@ucn.cl,-30.293,-71.608228,,,20170308,1330,Seagrass,,25,0,25,0,Chile,Universidad Catolica del Norte,0,0,"moderate visibility (2.5 m), Manually enetered by RW"
+4/3/2017 9:48,Mathieu Cusson,mathieu.cusson@uqac.ca,49.08802,-68.32182,,,20160705,1225,Seagrass Meadow,,25,0,25,0,Canada (QC),UQAC,0,0,"Number of bait was checked after 30 mins instead of 1 h, due to tide rise and strong currents"
+4/3/2017 9:51,Mathieu cusson,mathieu.cusson@uqac.ca,49.08779,-68.32173,,,20160705,1225,Sandy Bottom,,25,0,24,1,Canada (QC),UQAC,0,0.041666667,"Number of bait was checked after 30 mins instead of 1 h, due to tide rise and strong currents"
+4/3/2017 9:53,Mathieu Cusson,mathieu.cusson@uqac.ca,49.08802,-68.32182,,,20160706,1300,Seagrass Meadow,,25,0,25,0,Canada (QC),UQAC,0,0,"Number of bait was checked after 30 mins instead of 1 h, due to tide rise and strong currents
+"
+4/3/2017 9:55,Mathieu Cusson,mathieu.cusson@uqac.ca,49.08779,-68.32173,,,20160706,1300,Sandy Bottom,,25,1,24,1,Canada (QC),UQAC,0.04,0.041666667,"Number of bait was checked after 30 mins instead of 1 h, due to tide rise and strong currents
+"
+4/3/2017 9:57,Mathieu Cusson,mathieu.cusson@uqac.ca,49.08802,-68.32182,,,20160707,1340,Seagrass Meadow,,25,0,25,0,Canada (QC),UQAC,0,0,"Number of bait was checked after 30 mins instead of 1 h, due to tide rise and strong currents
+"
+4/3/2017 9:59,Mathieu Cusson,mathieu.cusson@uqac.ca,49.08779,-68.32173,,,20160707,1340,Sandy Bottom,,25,0,25,0,Canada (QC),UQAC,0,0,"Number of bait was checked after 30 mins instead of 1 h, due to tide rise and strong currents
+"
+1/23/2017 11:59,Max Robinson,maxrobinson@hotmail.com,52.9426,-4.56519,,,20160902,1735,Seagrass Meadow,,25,4,25,25,Wales,Project Seagrass,0.16,1,
+1/23/2017 12:01,Max Robinson,maxrobinson@hotmail.com,52.94046,-4.56424,,,20160902,1815,Sandy Bottom,,25,0,23,3,Wales,Project Seagrass,0,0.130434783,
+1/23/2017 12:03,Max Robinson,maxrobinson@hotmail.com,52.94251,-4.56562,,,20160903,1832,Seagrass Meadow,,25,1,25,25,Wales,Project Seagrass,0.04,1,
+1/23/2017 12:06,Max Robinson,maxrobinson@hotmail.com,52.94046,-4.56424,,,20160903,1802,Sandy Bottom,,25,0,25,6,Wales,Project Seagrass,0,0.24,
+1/23/2017 12:07,Max Robinson,maxrobinson@hotmail.com,52.9425,-4.56553,,,20160904,1824,Seagrass Meadow,,25,9,24,24,Wales,Project Seagrass,0.36,1,
+1/23/2017 12:09,Max Robinson,maxrobinson@hotmail.com,52.94046,-4.56424,,,20160904,1750,Sandy Bottom,,25,0,25,7,Wales,Project Seagrass,0,0.28,
+3/14/2017 6:18,Michael Rasheed,michael.rasheed@jcu.edu.au,-16.75543,145.97242,,,20170313,1230,Seagrass Meadow,,25,1,25,25,Australia (QLD4),James Cook University 2,0.04,1,
+3/14/2017 6:20,Michael Rasheed,michael.rasheed@jcu.edu.au,-16.7556,145.97476,,,20170313,1257,Sandy Bottom,,25,1,25,22,Australia (QLD4),James Cook University 2,0.04,0.88,
+3/15/2017 6:35,Michael Rasheed,michael.rasheed@jcu.edu.au,-16.75542,145.97292,,,20170314,945,Seagrass Meadow,,25,0,24,24,Australia (QLD4),James Cook University 2,0,1,
+3/15/2017 6:38,Michael Rasheed,michael.rasheed@jcu.edu.au,-16.7556,145.97476,,,20170314,1040,Sandy Bottom,,25,1,25,25,Australia (QLD4),James Cook University 2,0.04,1,
+3/16/2017 15:48,Michael Rasheed,michael.rasheed@jcu.edu.au,-16.75543,145.97292,,,20170315,900,Seagrass Meadow,,24,1,24,24,Australia (QLD4),James Cook University 2,0.041666667,1,
+3/16/2017 15:52,Michael Rasheed,michael.rasheed@jcu.edu.au,-16.7556,145.97476,,,20170315,825,Sandy Bottom,,25,22,25,25,Australia (QLD4),James Cook University 2,0.88,1,
+5/23/2017 5:59,Nessa O'Connor and Camilla Bertolini,n.oconnor@tcd.ie,54.530033,-5.571583,,,20160827,1500,Seagrass Meadow,,25,0,24,1,Ireland,Trinity College Dublin,0,0.041666667,site may have been too shallow for methodology around 70cm deep at slack high tide in calm weather neap tide conditions
+5/23/2017 6:05,Nessa O'Connor and Camilla Bertolini,n.oconnor@tcd.ie,54.5265,-5.5752,,,20160827,1500,Muddy Bottom,,25,0,23,2,Ireland,Trinity College Dublin,0,0.086956522,Site may have been too shallow - around 70cm deep at high neap tide calm conditions - our seagrass meadows here are largely intertidal so we wanted to compare with them
+3/7/2017 0:04,Prof Rod M Connolly,r.connolly@griffith.edu.au,-27.49408,153.397264,,,20160208,1430,Seagrass Meadow,,25,4,25,25,Australia (QLD3),Griffith University,0.16,1,
+3/7/2017 0:06,Prof Rod M Connolly,r.connolly@griffith.edu.au,-27.49408,153.397264,,,20160209,1555,Seagrass Meadow,,25,25,25,25,Australia (QLD3),Griffith University,1,1,
+3/7/2017 0:09,Prof Rod M Connolly,r.connolly@griffith.edu.au,-27.49408,153.397264,,,20170210,1554,Seagrass Meadow,,25,11,24,24,Australia (QLD3),Griffith University,0.44,1,Unable to locate one of the 25 squid pops at the end of the 24 hours
+3/7/2017 0:15,Prof Rod M Connolly,r.connolly@griffith.edu.au,-27.494632,153.39706,,,20170208,1450,Sandy Bottom,,25,11,24,23,Australia (QLD3),Griffith University,0.44,0.958333333,Unable to locate one of the squid pops after 24 hours
+3/7/2017 0:17,Prof Rod M Connolly,r.connolly@griffith.edu.au,-27.494632,153.39706,,,20170209,1605,Sandy Bottom,,25,14,24,23,Australia (QLD3),Griffith University,0.56,0.958333333,Unable to locate one of the squid pops after 24 hours
+3/7/2017 0:18,Prof Rod M Connolly,r.connolly@griffith.edu.au,-27.494632,153.39706,,,20170210,1535,Sandy Bottom,,25,13,23,23,Australia (QLD3),Griffith University,0.52,1,Unable to locate two of the squid pops after 24 hours
+,Katrin Sieben,katrin.sieben@gmail.com,67.214334,15.007534,20160721,1330,20160721,1330,Seagrass Meadow,,25,0,25,0,Norway,Netherlands/Norway,0,0,
+,Katrin Sieben,katrin.sieben@gmail.com,67.214334,15.007534,20160721,1400,20160721,1400,unvegetated,,25,0,25,0,Norway,Netherlands/Norway,0,0,
+,Katrin Sieben,katrin.sieben@gmail.com,67.214334,15.007534,20160722,1230,20160722,1230,Seagrass Meadow,,25,0,25,0,Norway,Netherlands/Norway,0,0,
+,Katrin Sieben,katrin.sieben@gmail.com,67.214334,15.007534,20160722,1230,20160722,1230,unvegetated,,25,0,25,1,Norway,Netherlands/Norway,0,0.04,
+,Katrin Sieben,katrin.sieben@gmail.com,67.214334,15.007534,20160723,1300,20160723,1300,Seagrass Meadow,,25,0,25,0,Norway,Netherlands/Norway,0,0,
+,Katrin Sieben,katrin.sieben@gmail.com,67.214334,15.007534,20160723,1245,20160723,1245,unvegetated,,25,0,25,0,Norway,Netherlands/Norway,0,0,
+2/3/2018 15:00,Dean Janiak,janiakd@si.edu,16.80254722,-88.08194444,,,20161104,1330,Seagrass,,25,0,25,6,Belize,Smithsonian Institute,0,0.24,
+2/3/2018 15:00,Dean Janiak,janiakd@si.edu,16.80254722,-88.08194444,,,20161104,1400,Unveg,sandy coral rubble,25,0,25,9,Belize,Smithsonian Institute,0,0.36,
+2/3/2018 15:00,Dean Janiak,janiakd@si.edu,16.80254722,-88.08194444,,,20161105,1100,Seagrass,,25,7,25,24,Belize,Smithsonian Institute,0.28,0.96,
+2/3/2018 15:00,Dean Janiak,janiakd@si.edu,16.80254722,-88.08194444,,,20161105,1130,Unveg,sandy coral rubble,25,21,25,25,Belize,Smithsonian Institute,0.84,1,
+2/3/2018 15:00,Dean Janiak,janiakd@si.edu,16.80254722,-88.08194444,,,20161106,1045,Seagrass,,25,7,25,25,Belize,Smithsonian Institute,0.28,1,
+2/3/2018 15:00,Dean Janiak,janiakd@si.edu,16.80254722,-88.08194444,,,20161106,1100,Unveg,sandy coral rubble,25,24,25,25,Belize,Smithsonian Institute,0.96,1,
+2/3/2018 15:00,Dean Janiak,janiakd@si.edu,16.80254722,-88.08194444,,,20161107,1030,Seagrass,,25,9,25,25,Belize,Smithsonian Institute,0.36,1,
+2/3/2018 15:00,Dean Janiak,janiakd@si.edu,16.80254722,-88.08194444,,,20161107,1100,Unveg,sandy coral rubble,25,19,25,25,Belize,Smithsonian Institute,0.76,1,

@@ -1,0 +1,19 @@
+"","functional_group_name","year","fishing_entity_name","taxon_scientific_name","commercial_group_id","commercial_group_name","catch_status","catch_sum","cell_id","reporting_status_name","taxon_common_name","sector_type_name","fishing_entity_id","functional_group_id","sector_type_id","reporting_status","catch_status_name","taxon_key"
+"1","pelagiclg",2010,"Unknown Fishing Country","Katsuwonus pelamis",4,"Tuna & billfishes","R",0.0139032805257735,116116,"Reported","Skipjack tuna","Industrial",213,3,1,"R","Landings",600107
+"2","pelagiclg",2010,"Unknown Fishing Country","Katsuwonus pelamis",4,"Tuna & billfishes","R",5.1615654400581e-05,116116,"Reported","Skipjack tuna","Industrial",213,3,1,"R","Landings",600107
+"3","pelagiclg",2010,"Unknown Fishing Country","Xiphias gladius",4,"Tuna & billfishes","R",0.0606945917872412,116116,"Reported","Swordfish","Industrial",213,3,1,"R","Landings",600226
+"4","otherdeminvert",2010,"Panama","Lobatus gigas",11,"Molluscs","R",5.59047254291172,116116,"Unreported","Pink conch","Subsistence",135,29,2,"U","Landings",690304
+"5","demersalmd",2010,"Unknown Fishing Country","Marine fishes not identified",12,"Other fishes & inverts","D",0.0744309815383132,116116,"Unreported","Marine fishes nei","Industrial",213,5,1,"U","Discards",100039
+"6","demersalmd",2010,"Unknown Fishing Country","Marine fishes not identified",12,"Other fishes & inverts","D",0.00621001317986808,116116,"Unreported","Marine fishes nei","Industrial",213,5,1,"U","Discards",100039
+"7","demersalmd",2010,"Panama","Marine fishes not identified",12,"Other fishes & inverts","R",155.003278454111,116116,"Unreported","Marine fishes nei","Subsistence",135,5,2,"U","Landings",100039
+"8","pelagicmd",2010,"Unknown Fishing Country","Marine pelagic fishes not identified",12,"Other fishes & inverts","R",0.00039271084175765,116116,"Reported","Pelagic fishes","Industrial",213,2,1,"R","Landings",100339
+"9","pelagicmd",2010,"Unknown Fishing Country","Marine pelagic fishes not identified",12,"Other fishes & inverts","R",0.000125288609158079,116116,"Reported","Pelagic fishes","Industrial",213,2,1,"R","Landings",100339
+"10","lobsters,crab",2010,"Panama","Panulirus",10,"Crustaceans","R",13.529990493642,116116,"Unreported","Spiny lobsters","Artisanal",135,27,3,"U","Landings",590083
+"11","lobsters,crab",2010,"Panama","Panulirus",10,"Crustaceans","R",6.11729554827645,116116,"Unreported","Spiny lobsters","Subsistence",135,27,2,"U","Landings",590083
+"12","lobsters,crab",2010,"Panama","Panulirus",10,"Crustaceans","R",21.8635408261413,116116,"Reported","Spiny lobsters","Artisanal",135,27,3,"R","Landings",590083
+"13","cephalopods",2010,"Panama","Octopus",12,"Other fishes & inverts","R",3.67138870205343,116116,"Unreported","Octopuses, pikas","Subsistence",135,25,2,"U","Landings",590013
+"14","pelagiclg",2010,"Unknown Fishing Country","Istiophoridae",4,"Tuna & billfishes","R",8.34175891715489e-05,116116,"Reported","Billfishes","Industrial",213,3,1,"R","Landings",400419
+"15","pelagiclg",2010,"Unknown Fishing Country","Coryphaena",3,"Perch-likes","R",0.000378427629169508,116116,"Reported","Dolphinfishes","Industrial",213,3,1,"R","Landings",500116
+"16","pelagiclg",2010,"Unknown Fishing Country","Coryphaena",3,"Perch-likes","R",0.000138701767831224,116116,"Reported","Dolphinfishes","Industrial",213,3,1,"R","Landings",500116
+"17","pelagicmd",2010,"Unknown Fishing Country","Scombridae",3,"Perch-likes","R",1.89212201866857e-05,116116,"Reported","Mackerels, tunas, bonitos","Industrial",213,2,1,"R","Landings",400416
+"18","pelagicmd",2010,"Unknown Fishing Country","Scombridae",3,"Perch-likes","R",6.3070733955619e-06,116116,"Reported","Mackerels, tunas, bonitos","Industrial",213,2,1,"R","Landings",400416

@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.xlsx
+*.xls
+*.doc
+*.docx
+*.nc
+Manuscript/
+Communications/
+Fish_Family_Images/

@@ -1,0 +1,261 @@
+"","functional_group_name","year","fishing_entity_name","taxon_scientific_name","commercial_group_id","commercial_group_name","catch_status","catch_sum","cell_id","reporting_status_name","taxon_common_name","sector_type_name","fishing_entity_id","functional_group_id","sector_type_id","reporting_status","catch_status_name","taxon_key"
+"1","pelagicsm",2010,"Russian Federation","Mallotus villosus",6,"Salmon, smelts, etc","R",1.48827252235624,32791,"Reported","Capelin","Industrial",148,1,1,"R","Landings",600252
+"2","pelagicsm",2010,"Russian Federation","Mallotus villosus",6,"Salmon, smelts, etc","D",0.148827252235625,32791,"Unreported","Capelin","Industrial",148,1,1,"U","Discards",600252
+"3","pelagicsm",2010,"Norway","Mallotus villosus",6,"Salmon, smelts, etc","R",2.45428699322553,32791,"Reported","Capelin","Industrial",128,1,1,"R","Landings",600252
+"4","pelagicsm",2010,"Norway","Mallotus villosus",6,"Salmon, smelts, etc","R",19.1481669463035,32791,"Reported","Capelin","Industrial",128,1,1,"R","Landings",600252
+"5","pelagicmd",2010,"Russian Federation","Scomber scombrus",3,"Perch-likes","R",17.5162710503752,32791,"Reported","Atlantic mackerel","Industrial",148,2,1,"R","Landings",600118
+"6","pelagicmd",2010,"Russian Federation","Scomber scombrus",3,"Perch-likes","D",1.75162710503751,32791,"Unreported","Atlantic mackerel","Industrial",148,2,1,"U","Discards",600118
+"7","pelagicmd",2010,"Norway","Scomber scombrus",3,"Perch-likes","R",0.886241545056935,32791,"Reported","Atlantic mackerel","Industrial",128,2,1,"R","Landings",600118
+"8","pelagicmd",2010,"Norway","Scomber scombrus",3,"Perch-likes","R",1.09766949519484e-05,32791,"Reported","Atlantic mackerel","Industrial",128,2,1,"R","Landings",600118
+"9","pelagicmd",2010,"Norway","Scomber scombrus",3,"Perch-likes","R",28.0535818667961,32791,"Reported","Atlantic mackerel","Industrial",128,2,1,"R","Landings",600118
+"10","pelagicmd",2010,"Norway","Scomber scombrus",3,"Perch-likes","R",0.0080396449975408,32791,"Reported","Atlantic mackerel","Industrial",128,2,1,"R","Landings",600118
+"11","pelagicmd",2010,"Norway","Scomber scombrus",3,"Perch-likes","R",1.62448061407048,32791,"Reported","Atlantic mackerel","Industrial",128,2,1,"R","Landings",600118
+"12","pelagicmd",2010,"Norway","Scomber scombrus",3,"Perch-likes","R",0.872159388811141,32791,"Reported","Atlantic mackerel","Artisanal",128,2,3,"R","Landings",600118
+"13","pelagicmd",2010,"Norway","Scomber scombrus",3,"Perch-likes","R",0.0842736456735833,32791,"Reported","Atlantic mackerel","Artisanal",128,2,3,"R","Landings",600118
+"14","pelagicmd",2010,"Norway","Scomber scombrus",3,"Perch-likes","R",0.328006806249501,32791,"Unreported","Atlantic mackerel","Subsistence",128,2,2,"U","Landings",600118
+"15","pelagicmd",2010,"Norway","Scomber scombrus",3,"Perch-likes","R",0.0109085045674479,32791,"Unreported","Atlantic mackerel","Recreational",128,2,4,"U","Landings",600118
+"16","pelagicmd",2010,"Norway","Scomber scombrus",3,"Perch-likes","D",0.0274095323053399,32791,"Unreported","Atlantic mackerel","Industrial",128,2,1,"U","Discards",600118
+"17","pelagicmd",2010,"Norway","Scomber scombrus",3,"Perch-likes","D",3.39485425459167e-07,32791,"Unreported","Atlantic mackerel","Industrial",128,2,1,"U","Discards",600118
+"18","pelagicmd",2010,"Norway","Scomber scombrus",3,"Perch-likes","D",0.867636552074826,32791,"Unreported","Atlantic mackerel","Industrial",128,2,1,"U","Discards",600118
+"19","pelagicmd",2010,"Norway","Scomber scombrus",3,"Perch-likes","D",0.00024864881421119,32791,"Unreported","Atlantic mackerel","Industrial",128,2,1,"U","Discards",600118
+"20","pelagicmd",2010,"Norway","Scomber scombrus",3,"Perch-likes","D",0.0502416684470853,32791,"Unreported","Atlantic mackerel","Industrial",128,2,1,"U","Discards",600118
+"21","pelagicmd",2010,"Norway","Scomber scombrus",3,"Perch-likes","D",0.0269740017188623,32791,"Unreported","Atlantic mackerel","Artisanal",128,2,3,"U","Discards",600118
+"22","pelagicmd",2010,"Norway","Scomber scombrus",3,"Perch-likes","D",0.00260640141288014,32791,"Unreported","Atlantic mackerel","Artisanal",128,2,3,"U","Discards",600118
+"23","pelagicmd",2010,"Netherlands","Scomber scombrus",3,"Perch-likes","R",0.00240628777200998,32791,"Reported","Atlantic mackerel","Industrial",118,2,1,"R","Landings",600118
+"24","pelagicmd",2010,"Denmark","Scomber scombrus",3,"Perch-likes","R",0.77108066830206,32791,"Reported","Atlantic mackerel","Industrial",46,2,1,"R","Landings",600118
+"25","pelagicmd",2010,"Denmark","Scomber scombrus",3,"Perch-likes","R",0.680397137604419,32791,"Reported","Atlantic mackerel","Industrial",46,2,1,"R","Landings",600118
+"26","pelagicmd",2010,"Denmark","Scomber scombrus",3,"Perch-likes","R",0.00582135200485798,32791,"Reported","Atlantic mackerel","Industrial",46,2,1,"R","Landings",600118
+"27","pelagicmd",2010,"Denmark","Scomber scombrus",3,"Perch-likes","R",8.87401220780034e-06,32791,"Reported","Atlantic mackerel","Industrial",46,2,1,"R","Landings",600118
+"28","otherdeminvert",2010,"France","Pecten maximus",11,"Molluscs","R",0.000213363228144227,32791,"Unreported","Great Atlantic scallop","Industrial",58,29,1,"U","Landings",690156
+"29","otherdeminvert",2010,"France","Pecten maximus",11,"Molluscs","R",0.00128017936886536,32791,"Reported","Great Atlantic scallop","Industrial",58,29,1,"R","Landings",690156
+"30","pelagicmd",2010,"United Kingdom","Clupea harengus",2,"Herring-likes","R",1.09576539096747,32791,"Reported","Atlantic herring","Industrial",183,2,1,"R","Landings",600024
+"31","pelagicmd",2010,"Russian Federation","Clupea harengus",2,"Herring-likes","R",7.41695830368245,32791,"Reported","Atlantic herring","Industrial",148,2,1,"R","Landings",600024
+"32","pelagicmd",2010,"Russian Federation","Clupea harengus",2,"Herring-likes","D",0.741695830368245,32791,"Unreported","Atlantic herring","Industrial",148,2,1,"U","Discards",600024
+"33","pelagicmd",2010,"Norway","Clupea harengus",2,"Herring-likes","R",3.76083639749952,32791,"Reported","Atlantic herring","Industrial",128,2,1,"R","Landings",600024
+"34","pelagicmd",2010,"Norway","Clupea harengus",2,"Herring-likes","R",32.9054623698292,32791,"Reported","Atlantic herring","Industrial",128,2,1,"R","Landings",600024
+"35","pelagicmd",2010,"Norway","Clupea harengus",2,"Herring-likes","R",0.000344359298985462,32791,"Reported","Atlantic herring","Industrial",128,2,1,"R","Landings",600024
+"36","pelagicmd",2010,"Norway","Clupea harengus",2,"Herring-likes","R",0.000125154444718344,32791,"Reported","Atlantic herring","Industrial",128,2,1,"R","Landings",600024
+"37","pelagicmd",2010,"Norway","Clupea harengus",2,"Herring-likes","R",0.413174402464172,32791,"Reported","Atlantic herring","Artisanal",128,2,3,"R","Landings",600024
+"38","pelagicmd",2010,"Norway","Clupea harengus",2,"Herring-likes","R",0.000169642824311003,32791,"Unreported","Atlantic herring","Subsistence",128,2,2,"U","Landings",600024
+"39","pelagicmd",2010,"Norway","Clupea harengus",2,"Herring-likes","D",0.116314527757805,32791,"Unreported","Atlantic herring","Industrial",128,2,1,"U","Discards",600024
+"40","pelagicmd",2010,"Norway","Clupea harengus",2,"Herring-likes","D",1.01769471246973,32791,"Unreported","Atlantic herring","Industrial",128,2,1,"U","Discards",600024
+"41","pelagicmd",2010,"Norway","Clupea harengus",2,"Herring-likes","D",1.06502875958933e-05,32791,"Unreported","Atlantic herring","Industrial",128,2,1,"U","Discards",600024
+"42","pelagicmd",2010,"Norway","Clupea harengus",2,"Herring-likes","D",3.87075602249834e-06,32791,"Unreported","Atlantic herring","Industrial",128,2,1,"U","Discards",600024
+"43","pelagicmd",2010,"Norway","Clupea harengus",2,"Herring-likes","D",0.0127785897693729,32791,"Unreported","Atlantic herring","Artisanal",128,2,3,"U","Discards",600024
+"44","pelagicmd",2010,"Netherlands","Clupea harengus",2,"Herring-likes","R",0.846948472245035,32791,"Reported","Atlantic herring","Industrial",118,2,1,"R","Landings",600024
+"45","pelagicmd",2010,"Ireland","Clupea harengus",2,"Herring-likes","R",0.20536944345668,32791,"Reported","Atlantic herring","Industrial",86,2,1,"R","Landings",600024
+"46","pelagicmd",2010,"Iceland","Clupea harengus",2,"Herring-likes","R",0.000167151552821264,32791,"Reported","Atlantic herring","Industrial",81,2,1,"R","Landings",600024
+"47","pelagicmd",2010,"Iceland","Clupea harengus",2,"Herring-likes","R",1.15276932980182e-05,32791,"Reported","Atlantic herring","Industrial",81,2,1,"R","Landings",600024
+"48","pelagicmd",2010,"Iceland","Clupea harengus",2,"Herring-likes","R",1.23116917192164,32791,"Reported","Atlantic herring","Industrial",81,2,1,"R","Landings",600024
+"49","pelagicmd",2010,"Iceland","Clupea harengus",2,"Herring-likes","R",0.23540126099218,32791,"Reported","Atlantic herring","Industrial",81,2,1,"R","Landings",600024
+"50","pelagicmd",2010,"Iceland","Clupea harengus",2,"Herring-likes","D",3.34012659851353e-06,32791,"Unreported","Atlantic herring","Industrial",81,2,1,"U","Discards",600024
+"51","pelagicmd",2010,"Iceland","Clupea harengus",2,"Herring-likes","D",2.30353558518174e-07,32791,"Unreported","Atlantic herring","Industrial",81,2,1,"U","Discards",600024
+"52","pelagicmd",2010,"Iceland","Clupea harengus",2,"Herring-likes","D",0.0246019904032995,32791,"Unreported","Atlantic herring","Industrial",81,2,1,"U","Discards",600024
+"53","pelagicmd",2010,"Iceland","Clupea harengus",2,"Herring-likes","D",0.00470393484172036,32791,"Unreported","Atlantic herring","Industrial",81,2,1,"U","Discards",600024
+"54","pelagicmd",2010,"Denmark","Clupea harengus",2,"Herring-likes","R",0.776452029605607,32791,"Reported","Atlantic herring","Industrial",46,2,1,"R","Landings",600024
+"55","pelagicmd",2010,"Denmark","Clupea harengus",2,"Herring-likes","R",0.415578015947106,32791,"Reported","Atlantic herring","Industrial",46,2,1,"R","Landings",600024
+"56","pelagicmd",2010,"Denmark","Clupea harengus",2,"Herring-likes","R",0.0243093911450839,32791,"Reported","Atlantic herring","Industrial",46,2,1,"R","Landings",600024
+"57","pelagicmd",2010,"Denmark","Clupea harengus",2,"Herring-likes","R",0.00300718504450235,32791,"Reported","Atlantic herring","Industrial",46,2,1,"R","Landings",600024
+"58","benthopelagiclg",2010,"United Kingdom","Gadus morhua",5,"Cod-likes","R",0.0739789927719276,32791,"Reported","Atlantic cod","Industrial",183,15,1,"R","Landings",600069
+"59","benthopelagiclg",2010,"United Kingdom","Gadus morhua",5,"Cod-likes","R",9.13858923104706e-05,32791,"Reported","Atlantic cod","Industrial",183,15,1,"R","Landings",600069
+"60","benthopelagiclg",2010,"United Kingdom","Gadus morhua",5,"Cod-likes","R",0.00953363434463734,32791,"Reported","Atlantic cod","Industrial",183,15,1,"R","Landings",600069
+"61","benthopelagiclg",2010,"United Kingdom","Gadus morhua",5,"Cod-likes","R",2.20083295160035e-05,32791,"Reported","Atlantic cod","Industrial",183,15,1,"R","Landings",600069
+"62","benthopelagiclg",2010,"Russian Federation","Gadus morhua",5,"Cod-likes","R",2.33820646333195,32791,"Reported","Atlantic cod","Industrial",148,15,1,"R","Landings",600069
+"63","benthopelagiclg",2010,"Russian Federation","Gadus morhua",5,"Cod-likes","D",0.233820646333195,32791,"Unreported","Atlantic cod","Industrial",148,15,1,"U","Discards",600069
+"64","benthopelagiclg",2010,"Norway","Gadus morhua",5,"Cod-likes","R",0.401148795908316,32791,"Unreported","Atlantic cod","Subsistence",128,15,2,"U","Landings",600069
+"65","benthopelagiclg",2010,"Norway","Gadus morhua",5,"Cod-likes","R",0.0179459968965076,32791,"Unreported","Atlantic cod","Artisanal",128,15,3,"U","Landings",600069
+"66","benthopelagiclg",2010,"Norway","Gadus morhua",5,"Cod-likes","R",0.0322915790643191,32791,"Unreported","Atlantic cod","Artisanal",128,15,3,"U","Landings",600069
+"67","benthopelagiclg",2010,"Norway","Gadus morhua",5,"Cod-likes","R",0.0233677076807207,32791,"Unreported","Atlantic cod","Artisanal",128,15,3,"U","Landings",600069
+"68","benthopelagiclg",2010,"Norway","Gadus morhua",5,"Cod-likes","R",0.155650639842479,32791,"Unreported","Atlantic cod","Recreational",128,15,4,"U","Landings",600069
+"69","benthopelagiclg",2010,"Norway","Gadus morhua",5,"Cod-likes","D",0.0402527844664551,32791,"Unreported","Atlantic cod","Industrial",128,15,1,"U","Discards",600069
+"70","benthopelagiclg",2010,"Norway","Gadus morhua",5,"Cod-likes","D",0.00125612754495323,32791,"Unreported","Atlantic cod","Industrial",128,15,1,"U","Discards",600069
+"71","benthopelagiclg",2010,"Norway","Gadus morhua",5,"Cod-likes","R",1.26173074711672,32791,"Reported","Atlantic cod","Industrial",128,15,1,"R","Landings",600069
+"72","benthopelagiclg",2010,"Norway","Gadus morhua",5,"Cod-likes","R",0.913039963414704,32791,"Reported","Atlantic cod","Industrial",128,15,1,"R","Landings",600069
+"73","benthopelagiclg",2010,"Norway","Gadus morhua",5,"Cod-likes","R",0.710431025715528,32791,"Reported","Atlantic cod","Industrial",128,15,1,"R","Landings",600069
+"74","benthopelagiclg",2010,"Norway","Gadus morhua",5,"Cod-likes","R",1.1991316021601,32791,"Reported","Atlantic cod","Industrial",128,15,1,"R","Landings",600069
+"75","benthopelagiclg",2010,"Norway","Gadus morhua",5,"Cod-likes","R",0.00203417547959477,32791,"Reported","Atlantic cod","Industrial",128,15,1,"R","Landings",600069
+"76","benthopelagiclg",2010,"Norway","Gadus morhua",5,"Cod-likes","R",0.825861345613522,32791,"Reported","Atlantic cod","Artisanal",128,15,3,"R","Landings",600069
+"77","benthopelagiclg",2010,"Norway","Gadus morhua",5,"Cod-likes","R",1.48603430011926,32791,"Reported","Atlantic cod","Artisanal",128,15,3,"R","Landings",600069
+"78","benthopelagiclg",2010,"Norway","Gadus morhua",5,"Cod-likes","R",1.07536441805911,32791,"Reported","Atlantic cod","Artisanal",128,15,3,"R","Landings",600069
+"79","benthopelagiclg",2010,"Iceland","Gadus morhua",5,"Cod-likes","R",0.106768210303049,32791,"Reported","Atlantic cod","Industrial",81,15,1,"R","Landings",600069
+"80","benthopelagiclg",2010,"Iceland","Gadus morhua",5,"Cod-likes","R",0.00326267985753988,32791,"Reported","Atlantic cod","Industrial",81,15,1,"R","Landings",600069
+"81","benthopelagiclg",2010,"Iceland","Gadus morhua",5,"Cod-likes","R",2.67015888574973e-05,32791,"Reported","Atlantic cod","Industrial",81,15,1,"R","Landings",600069
+"82","benthopelagiclg",2010,"Iceland","Gadus morhua",5,"Cod-likes","R",0.0731623534695422,32791,"Reported","Atlantic cod","Industrial",81,15,1,"R","Landings",600069
+"83","benthopelagiclg",2010,"Iceland","Gadus morhua",5,"Cod-likes","R",0.0112172103286114,32791,"Reported","Atlantic cod","Industrial",81,15,1,"R","Landings",600069
+"84","benthopelagiclg",2010,"Iceland","Gadus morhua",5,"Cod-likes","R",0.0103996331078795,32791,"Reported","Atlantic cod","Industrial",81,15,1,"R","Landings",600069
+"85","benthopelagiclg",2010,"Iceland","Gadus morhua",5,"Cod-likes","R",0.021740179346928,32791,"Reported","Atlantic cod","Industrial",81,15,1,"R","Landings",600069
+"86","benthopelagiclg",2010,"Iceland","Gadus morhua",5,"Cod-likes","R",0.000408152858250314,32791,"Reported","Atlantic cod","Industrial",81,15,1,"R","Landings",600069
+"87","benthopelagiclg",2010,"Iceland","Gadus morhua",5,"Cod-likes","D",0.000467598001327222,32791,"Unreported","Atlantic cod","Industrial",81,15,1,"U","Discards",600069
+"88","benthopelagiclg",2010,"Iceland","Gadus morhua",5,"Cod-likes","D",1.42891088651382e-05,32791,"Unreported","Atlantic cod","Industrial",81,15,1,"U","Discards",600069
+"89","benthopelagiclg",2010,"Iceland","Gadus morhua",5,"Cod-likes","D",1.16941265069331e-07,32791,"Unreported","Atlantic cod","Industrial",81,15,1,"U","Discards",600069
+"90","benthopelagiclg",2010,"Iceland","Gadus morhua",5,"Cod-likes","D",0.000320419066289966,32791,"Unreported","Atlantic cod","Industrial",81,15,1,"U","Discards",600069
+"91","benthopelagiclg",2010,"Iceland","Gadus morhua",5,"Cod-likes","D",4.91264685924587e-05,32791,"Unreported","Atlantic cod","Industrial",81,15,1,"U","Discards",600069
+"92","benthopelagiclg",2010,"Iceland","Gadus morhua",5,"Cod-likes","D",4.55458384286694e-05,32791,"Unreported","Atlantic cod","Industrial",81,15,1,"U","Discards",600069
+"93","benthopelagiclg",2010,"Iceland","Gadus morhua",5,"Cod-likes","D",9.5212464293115e-05,32791,"Unreported","Atlantic cod","Industrial",81,15,1,"U","Discards",600069
+"94","benthopelagiclg",2010,"Iceland","Gadus morhua",5,"Cod-likes","D",1.78753076605977e-06,32791,"Unreported","Atlantic cod","Industrial",81,15,1,"U","Discards",600069
+"95","benthopelagiclg",2010,"France","Gadus morhua",5,"Cod-likes","R",0.00678701252583204,32791,"Reported","Atlantic cod","Industrial",58,15,1,"R","Landings",600069
+"96","benthopelagiclg",2010,"France","Gadus morhua",5,"Cod-likes","R",0.00678701252583204,32791,"Reported","Atlantic cod","Industrial",58,15,1,"R","Landings",600069
+"97","benthopelagiclg",2010,"France","Gadus morhua",5,"Cod-likes","R",0.00678701252583204,32791,"Reported","Atlantic cod","Industrial",58,15,1,"R","Landings",600069
+"98","benthopelagiclg",2010,"France","Gadus morhua",5,"Cod-likes","R",0.00678701252583204,32791,"Reported","Atlantic cod","Industrial",58,15,1,"R","Landings",600069
+"99","sharklg",2010,"Norway","Squalus acanthias",9,"Sharks & rays","R",0.000397221183452636,32791,"Reported","Piked dogfish","Industrial",128,20,1,"R","Landings",600139
+"100","sharklg",2010,"Norway","Squalus acanthias",9,"Sharks & rays","R",0.000602717939413072,32791,"Reported","Piked dogfish","Industrial",128,20,1,"R","Landings",600139
+"101","sharklg",2010,"Norway","Squalus acanthias",9,"Sharks & rays","R",8.38304437635948e-06,32791,"Reported","Piked dogfish","Industrial",128,20,1,"R","Landings",600139
+"102","sharklg",2010,"Norway","Squalus acanthias",9,"Sharks & rays","R",0.00362530181009757,32791,"Reported","Piked dogfish","Industrial",128,20,1,"R","Landings",600139
+"103","sharklg",2010,"Norway","Squalus acanthias",9,"Sharks & rays","R",1.01768938109552e-05,32791,"Reported","Piked dogfish","Industrial",128,20,1,"R","Landings",600139
+"104","sharklg",2010,"Norway","Squalus acanthias",9,"Sharks & rays","R",0.0850384830139165,32791,"Reported","Piked dogfish","Artisanal",128,20,3,"R","Landings",600139
+"105","sharklg",2010,"Norway","Squalus acanthias",9,"Sharks & rays","R",0.0116514894927043,32791,"Reported","Piked dogfish","Artisanal",128,20,3,"R","Landings",600139
+"106","demersallg",2010,"United Kingdom","Anarhichas lupus",3,"Perch-likes","R",0.000376675273449517,32791,"Reported","Atlantic wolffish","Industrial",183,6,1,"R","Landings",602501
+"107","demersallg",2010,"United Kingdom","Anarhichas lupus",3,"Perch-likes","R",3.88296683949131e-05,32791,"Reported","Atlantic wolffish","Industrial",183,6,1,"R","Landings",602501
+"108","demersallg",2010,"Russian Federation","Anarhichas lupus",3,"Perch-likes","R",0.00249302965106658,32791,"Reported","Atlantic wolffish","Industrial",148,6,1,"R","Landings",602501
+"109","demersallg",2010,"Russian Federation","Anarhichas lupus",3,"Perch-likes","D",0.000249302965106658,32791,"Unreported","Atlantic wolffish","Industrial",148,6,1,"U","Discards",602501
+"110","flatfishsm md",2010,"United Kingdom","Reinhardtius hippoglossoides",7,"Flatfishes","R",0.0091492166436551,32791,"Reported","Greenland halibut","Industrial",183,23,1,"R","Landings",600516
+"111","flatfishsm md",2010,"United Kingdom","Reinhardtius hippoglossoides",7,"Flatfishes","R",3.17377155375953e-06,32791,"Reported","Greenland halibut","Industrial",183,23,1,"R","Landings",600516
+"112","flatfishsm md",2010,"Russian Federation","Reinhardtius hippoglossoides",7,"Flatfishes","R",1.97899641841584,32791,"Reported","Greenland halibut","Industrial",148,23,1,"R","Landings",600516
+"113","flatfishsm md",2010,"Russian Federation","Reinhardtius hippoglossoides",7,"Flatfishes","D",0.197899641841584,32791,"Unreported","Greenland halibut","Industrial",148,23,1,"U","Discards",600516
+"114","flatfishsm md",2010,"Norway","Reinhardtius hippoglossoides",7,"Flatfishes","R",0.646560513145285,32791,"Reported","Greenland halibut","Industrial",128,23,1,"R","Landings",600516
+"115","flatfishsm md",2010,"Norway","Reinhardtius hippoglossoides",7,"Flatfishes","R",0.741882450593473,32791,"Reported","Greenland halibut","Industrial",128,23,1,"R","Landings",600516
+"116","flatfishsm md",2010,"Norway","Reinhardtius hippoglossoides",7,"Flatfishes","R",0.0288672877924254,32791,"Reported","Greenland halibut","Industrial",128,23,1,"R","Landings",600516
+"117","flatfishsm md",2010,"Norway","Reinhardtius hippoglossoides",7,"Flatfishes","R",0.246341132273262,32791,"Reported","Greenland halibut","Industrial",128,23,1,"R","Landings",600516
+"118","flatfishsm md",2010,"Norway","Reinhardtius hippoglossoides",7,"Flatfishes","R",1.52956920231605e-06,32791,"Reported","Greenland halibut","Industrial",128,23,1,"R","Landings",600516
+"119","flatfishsm md",2010,"Norway","Reinhardtius hippoglossoides",7,"Flatfishes","R",0.191015986738959,32791,"Reported","Greenland halibut","Artisanal",128,23,3,"R","Landings",600516
+"120","flatfishsm md",2010,"Norway","Reinhardtius hippoglossoides",7,"Flatfishes","R",0.72917779368914,32791,"Reported","Greenland halibut","Artisanal",128,23,3,"R","Landings",600516
+"121","flatfishsm md",2010,"Norway","Reinhardtius hippoglossoides",7,"Flatfishes","D",0.0486944402117325,32791,"Unreported","Greenland halibut","Industrial",128,23,1,"U","Discards",600516
+"122","flatfishsm md",2010,"Norway","Reinhardtius hippoglossoides",7,"Flatfishes","D",0.0558734254568308,32791,"Unreported","Greenland halibut","Industrial",128,23,1,"U","Discards",600516
+"123","flatfishsm md",2010,"Norway","Reinhardtius hippoglossoides",7,"Flatfishes","D",0.00217408330836295,32791,"Unreported","Greenland halibut","Industrial",128,23,1,"U","Discards",600516
+"124","flatfishsm md",2010,"Norway","Reinhardtius hippoglossoides",7,"Flatfishes","D",0.0185527004716357,32791,"Unreported","Greenland halibut","Industrial",128,23,1,"U","Discards",600516
+"125","flatfishsm md",2010,"Norway","Reinhardtius hippoglossoides",7,"Flatfishes","D",1.15196520359252e-07,32791,"Unreported","Greenland halibut","Industrial",128,23,1,"U","Discards",600516
+"126","flatfishsm md",2010,"Norway","Reinhardtius hippoglossoides",7,"Flatfishes","D",0.0143859953639196,32791,"Unreported","Greenland halibut","Artisanal",128,23,3,"U","Discards",600516
+"127","flatfishsm md",2010,"Norway","Reinhardtius hippoglossoides",7,"Flatfishes","D",0.0549165990688549,32791,"Unreported","Greenland halibut","Artisanal",128,23,3,"U","Discards",600516
+"128","flatfishsm md",2010,"France","Reinhardtius hippoglossoides",7,"Flatfishes","R",0.0212169050534387,32791,"Reported","Greenland halibut","Industrial",58,23,1,"R","Landings",600516
+"129","flatfishsm md",2010,"France","Reinhardtius hippoglossoides",7,"Flatfishes","R",0.0212169050534387,32791,"Reported","Greenland halibut","Industrial",58,23,1,"R","Landings",600516
+"130","benthopelagicmd",2010,"France","Merlangius merlangus",5,"Cod-likes","R",0.000213001768520957,32791,"Reported","Whiting","Industrial",58,14,1,"R","Landings",600029
+"131","benthopelagicmd",2010,"France","Merlangius merlangus",5,"Cod-likes","R",0.000213001768520957,32791,"Reported","Whiting","Industrial",58,14,1,"R","Landings",600029
+"132","benthopelagicmd",2010,"France","Merlangius merlangus",5,"Cod-likes","R",0.000213001768520957,32791,"Reported","Whiting","Industrial",58,14,1,"R","Landings",600029
+"133","benthopelagicmd",2010,"France","Merlangius merlangus",5,"Cod-likes","R",0.000213001768520957,32791,"Reported","Whiting","Industrial",58,14,1,"R","Landings",600029
+"134","demersalmd",2010,"Iceland","Eutrigla gurnardus",8,"Scorpionfishes","R",0.00548774459326649,32791,"Reported","Grey gurnard","Industrial",81,5,1,"R","Landings",600068
+"135","demersalmd",2010,"Iceland","Eutrigla gurnardus",8,"Scorpionfishes","D",0.000548774459326649,32791,"Unreported","Grey gurnard","Industrial",81,5,1,"U","Discards",600068
+"136","demersalmd",2010,"Denmark","Eutrigla gurnardus",8,"Scorpionfishes","R",0.000548774459326649,32791,"Reported","Grey gurnard","Industrial",46,5,1,"R","Landings",600068
+"137","demersalmd",2010,"United Kingdom","Melanogrammus aeglefinus",5,"Cod-likes","R",3.35616177705158e-06,32791,"Reported","Haddock","Industrial",183,5,1,"R","Landings",601381
+"138","demersalmd",2010,"United Kingdom","Melanogrammus aeglefinus",5,"Cod-likes","R",0.0151399378288903,32791,"Reported","Haddock","Industrial",183,5,1,"R","Landings",601381
+"139","demersalmd",2010,"United Kingdom","Melanogrammus aeglefinus",5,"Cod-likes","R",0.0773019994042385,32791,"Reported","Haddock","Industrial",183,5,1,"R","Landings",601381
+"140","demersalmd",2010,"Russian Federation","Melanogrammus aeglefinus",5,"Cod-likes","R",5.84430273617666,32791,"Reported","Haddock","Industrial",148,5,1,"R","Landings",601381
+"141","demersalmd",2010,"Russian Federation","Melanogrammus aeglefinus",5,"Cod-likes","D",0.584430273617666,32791,"Unreported","Haddock","Industrial",148,5,1,"U","Discards",601381
+"142","demersalmd",2010,"Norway","Melanogrammus aeglefinus",5,"Cod-likes","D",0.0490040611518016,32791,"Unreported","Haddock","Industrial",128,5,1,"U","Discards",601381
+"143","demersalmd",2010,"Norway","Melanogrammus aeglefinus",5,"Cod-likes","D",0.0098773948918949,32791,"Unreported","Haddock","Industrial",128,5,1,"U","Discards",601381
+"144","demersalmd",2010,"Norway","Melanogrammus aeglefinus",5,"Cod-likes","D",5.46645082584017e-05,32791,"Unreported","Haddock","Industrial",128,5,1,"U","Discards",601381
+"145","demersalmd",2010,"Norway","Melanogrammus aeglefinus",5,"Cod-likes","R",7.38132207033684,32791,"Reported","Haddock","Industrial",128,5,1,"R","Landings",601381
+"146","demersalmd",2010,"Norway","Melanogrammus aeglefinus",5,"Cod-likes","R",5.0525004096296,32791,"Reported","Haddock","Industrial",128,5,1,"R","Landings",601381
+"147","demersalmd",2010,"Norway","Melanogrammus aeglefinus",5,"Cod-likes","R",1.99549657450348,32791,"Reported","Haddock","Industrial",128,5,1,"R","Landings",601381
+"148","demersalmd",2010,"Norway","Melanogrammus aeglefinus",5,"Cod-likes","R",0.40221784089993,32791,"Reported","Haddock","Industrial",128,5,1,"R","Landings",601381
+"149","demersalmd",2010,"Norway","Melanogrammus aeglefinus",5,"Cod-likes","R",0.00222599589609996,32791,"Reported","Haddock","Industrial",128,5,1,"R","Landings",601381
+"150","demersalmd",2010,"Norway","Melanogrammus aeglefinus",5,"Cod-likes","R",0.833420015953258,32791,"Reported","Haddock","Artisanal",128,5,3,"R","Landings",601381
+"151","demersalmd",2010,"Norway","Melanogrammus aeglefinus",5,"Cod-likes","R",0.301968105843012,32791,"Reported","Haddock","Artisanal",128,5,3,"R","Landings",601381
+"152","demersalmd",2010,"Norway","Melanogrammus aeglefinus",5,"Cod-likes","R",2.05847943866802,32791,"Reported","Haddock","Artisanal",128,5,3,"R","Landings",601381
+"153","demersalmd",2010,"Norway","Melanogrammus aeglefinus",5,"Cod-likes","R",0.298260566422757,32791,"Unreported","Haddock","Subsistence",128,5,2,"U","Landings",601381
+"154","demersalmd",2010,"Norway","Melanogrammus aeglefinus",5,"Cod-likes","R",0.0914665737129209,32791,"Unreported","Haddock","Recreational",128,5,4,"U","Landings",601381
+"155","demersalmd",2010,"Norway","Melanogrammus aeglefinus",5,"Cod-likes","D",0.181265536978369,32791,"Unreported","Haddock","Industrial",128,5,1,"U","Discards",601381
+"156","demersalmd",2010,"Norway","Melanogrammus aeglefinus",5,"Cod-likes","D",0.124075902813577,32791,"Unreported","Haddock","Industrial",128,5,1,"U","Discards",601381
+"157","demersalmd",2010,"France","Melanogrammus aeglefinus",5,"Cod-likes","R",0.00970100935680616,32791,"Reported","Haddock","Industrial",58,5,1,"R","Landings",601381
+"158","demersalmd",2010,"France","Melanogrammus aeglefinus",5,"Cod-likes","R",0.00970100935680616,32791,"Reported","Haddock","Industrial",58,5,1,"R","Landings",601381
+"159","demersalmd",2010,"France","Melanogrammus aeglefinus",5,"Cod-likes","R",0.00970100935680616,32791,"Reported","Haddock","Industrial",58,5,1,"R","Landings",601381
+"160","demersalmd",2010,"France","Melanogrammus aeglefinus",5,"Cod-likes","R",0.00970100935680616,32791,"Reported","Haddock","Industrial",58,5,1,"R","Landings",601381
+"161","demersalmd",2010,"United Kingdom","Marine fishes not identified",12,"Other fishes & inverts","R",1.2671077632616e-07,32791,"Reported","Marine fishes nei","Industrial",183,5,1,"R","Landings",100039
+"162","demersalmd",2010,"United Kingdom","Marine fishes not identified",12,"Other fishes & inverts","R",5.01270114348099e-07,32791,"Reported","Marine fishes nei","Industrial",183,5,1,"R","Landings",100039
+"163","demersalmd",2010,"United Kingdom","Marine fishes not identified",12,"Other fishes & inverts","R",4.6311922860088e-05,32791,"Reported","Marine fishes nei","Industrial",183,5,1,"R","Landings",100039
+"164","demersalmd",2010,"United Kingdom","Marine fishes not identified",12,"Other fishes & inverts","R",3.80824908542565e-07,32791,"Reported","Marine fishes nei","Industrial",183,5,1,"R","Landings",100039
+"165","demersalmd",2010,"United Kingdom","Marine fishes not identified",12,"Other fishes & inverts","R",0.000115088301985949,32791,"Reported","Marine fishes nei","Industrial",183,5,1,"R","Landings",100039
+"166","demersalmd",2010,"United Kingdom","Marine fishes not identified",12,"Other fishes & inverts","R",8.07310658853286e-06,32791,"Reported","Marine fishes nei","Industrial",183,5,1,"R","Landings",100039
+"167","demersalmd",2010,"United Kingdom","Marine fishes not identified",12,"Other fishes & inverts","R",1.32540477217571e-06,32791,"Reported","Marine fishes nei","Industrial",183,5,1,"R","Landings",100039
+"168","demersalmd",2010,"United Kingdom","Marine fishes not identified",12,"Other fishes & inverts","R",6.85352567895821e-08,32791,"Reported","Marine fishes nei","Industrial",183,5,1,"R","Landings",100039
+"169","demersalmd",2010,"Norway","Marine fishes not identified",12,"Other fishes & inverts","R",0.00560673108408968,32791,"Reported","Marine fishes nei","Industrial",128,5,1,"R","Landings",100039
+"170","demersalmd",2010,"Norway","Marine fishes not identified",12,"Other fishes & inverts","R",0.2342396117065,32791,"Reported","Marine fishes nei","Industrial",128,5,1,"R","Landings",100039
+"171","demersalmd",2010,"Norway","Marine fishes not identified",12,"Other fishes & inverts","D",0.00245226859053986,32791,"Unreported","Marine fishes nei","Industrial",128,5,1,"U","Discards",100039
+"172","demersalmd",2010,"Norway","Marine fishes not identified",12,"Other fishes & inverts","D",0.000112134621680802,32791,"Unreported","Marine fishes nei","Industrial",128,5,1,"U","Discards",100039
+"173","demersalmd",2010,"Norway","Marine fishes not identified",12,"Other fishes & inverts","R",0.0689973217682703,32791,"Reported","Marine fishes nei","Industrial",128,5,1,"R","Landings",100039
+"174","demersalmd",2010,"Norway","Marine fishes not identified",12,"Other fishes & inverts","R",0.146510920365159,32791,"Reported","Marine fishes nei","Artisanal",128,5,3,"R","Landings",100039
+"175","demersalmd",2010,"Norway","Marine fishes not identified",12,"Other fishes & inverts","R",0.184666427532604,32791,"Reported","Marine fishes nei","Industrial",128,5,1,"R","Landings",100039
+"176","demersalmd",2010,"Norway","Marine fishes not identified",12,"Other fishes & inverts","R",0.309627471075394,32791,"Reported","Marine fishes nei","Artisanal",128,5,3,"R","Landings",100039
+"177","demersalmd",2010,"Norway","Marine fishes not identified",12,"Other fishes & inverts","R",0.146855215731166,32791,"Reported","Marine fishes nei","Artisanal",128,5,3,"R","Landings",100039
+"178","demersalmd",2010,"Norway","Marine fishes not identified",12,"Other fishes & inverts","R",0.0256709605582039,32791,"Unreported","Marine fishes nei","Subsistence",128,5,2,"U","Landings",100039
+"179","demersalmd",2010,"Norway","Marine fishes not identified",12,"Other fishes & inverts","R",0.0173795777793932,32791,"Unreported","Marine fishes nei","Recreational",128,5,4,"U","Landings",100039
+"180","demersalmd",2010,"Norway","Marine fishes not identified",12,"Other fishes & inverts","D",0.00137994643536704,32791,"Unreported","Marine fishes nei","Industrial",128,5,1,"U","Discards",100039
+"181","demersalmd",2010,"Norway","Marine fishes not identified",12,"Other fishes & inverts","D",0.00293021840730319,32791,"Unreported","Marine fishes nei","Artisanal",128,5,3,"U","Discards",100039
+"182","demersalmd",2010,"Norway","Marine fishes not identified",12,"Other fishes & inverts","D",0.00619254942150787,32791,"Unreported","Marine fishes nei","Artisanal",128,5,3,"U","Discards",100039
+"183","demersalmd",2010,"Norway","Marine fishes not identified",12,"Other fishes & inverts","R",0.122613429526982,32791,"Reported","Marine fishes nei","Industrial",128,5,1,"R","Landings",100039
+"184","demersalmd",2010,"Norway","Marine fishes not identified",12,"Other fishes & inverts","D",0.00293710431462331,32791,"Unreported","Marine fishes nei","Artisanal",128,5,3,"U","Discards",100039
+"185","demersalmd",2010,"Norway","Marine fishes not identified",12,"Other fishes & inverts","D",0.00468479223413178,32791,"Unreported","Marine fishes nei","Industrial",128,5,1,"U","Discards",100039
+"186","demersalmd",2010,"Norway","Marine fishes not identified",12,"Other fishes & inverts","D",0.00369332855065308,32791,"Unreported","Marine fishes nei","Industrial",128,5,1,"U","Discards",100039
+"187","demersalmd",2010,"Netherlands","Marine fishes not identified",12,"Other fishes & inverts","R",0.000443273405457287,32791,"Reported","Marine fishes nei","Industrial",118,5,1,"R","Landings",100039
+"188","demersalmd",2010,"France","Marine fishes not identified",12,"Other fishes & inverts","D",0.000241851545384147,32791,"Unreported","Marine fishes nei","Industrial",58,5,1,"U","Discards",100039
+"189","demersalmd",2010,"France","Marine fishes not identified",12,"Other fishes & inverts","R",1.33649859200385e-05,32791,"Reported","Marine fishes nei","Industrial",58,5,1,"R","Landings",100039
+"190","demersalmd",2010,"France","Marine fishes not identified",12,"Other fishes & inverts","D",0.000214998798739075,32791,"Unreported","Marine fishes nei","Industrial",58,5,1,"U","Discards",100039
+"191","demersalmd",2010,"France","Marine fishes not identified",12,"Other fishes & inverts","D",0.000279897296441501,32791,"Unreported","Marine fishes nei","Industrial",58,5,1,"U","Discards",100039
+"192","demersalmd",2010,"France","Marine fishes not identified",12,"Other fishes & inverts","R",6.99437980343314e-05,32791,"Reported","Marine fishes nei","Industrial",58,5,1,"R","Landings",100039
+"193","demersalmd",2010,"France","Marine fishes not identified",12,"Other fishes & inverts","R",4.1654391977185e-05,32791,"Reported","Marine fishes nei","Industrial",58,5,1,"R","Landings",100039
+"194","demersalmd",2010,"France","Marine fishes not identified",12,"Other fishes & inverts","D",0.00031152971990283,32791,"Unreported","Marine fishes nei","Industrial",58,5,1,"U","Discards",100039
+"195","demersalmd",2010,"France","Marine fishes not identified",12,"Other fishes & inverts","R",1.33649859200385e-05,32791,"Reported","Marine fishes nei","Industrial",58,5,1,"R","Landings",100039
+"196","demersalmd",2010,"France","Marine fishes not identified",12,"Other fishes & inverts","D",6.43178198180288e-05,32791,"Unreported","Marine fishes nei","Industrial",58,5,1,"U","Discards",100039
+"197","bathydemersallg",2010,"United Kingdom","Lophius piscatorius",12,"Other fishes & inverts","R",0.0165444937990134,32791,"Reported","Angler","Industrial",183,12,1,"R","Landings",600716
+"198","bathydemersallg",2010,"United Kingdom","Lophius piscatorius",12,"Other fishes & inverts","R",4.32030373242182e-06,32791,"Reported","Angler","Industrial",183,12,1,"R","Landings",600716
+"199","bathydemersallg",2010,"United Kingdom","Lophius piscatorius",12,"Other fishes & inverts","R",0.000288435713226773,32791,"Reported","Angler","Industrial",183,12,1,"R","Landings",600716
+"200","bathydemersallg",2010,"United Kingdom","Lophius piscatorius",12,"Other fishes & inverts","R",0.00408737020484676,32791,"Reported","Angler","Industrial",183,12,1,"R","Landings",600716
+"201","benthopelagiclg",2010,"France","Pollachius pollachius",5,"Cod-likes","R",0.000411759773716652,32791,"Reported","Pollack","Industrial",58,15,1,"R","Landings",600034
+"202","benthopelagiclg",2010,"France","Pollachius pollachius",5,"Cod-likes","R",0.000411759773716652,32791,"Reported","Pollack","Industrial",58,15,1,"R","Landings",600034
+"203","benthopelagiclg",2010,"France","Pollachius pollachius",5,"Cod-likes","R",0.000411759773716652,32791,"Reported","Pollack","Industrial",58,15,1,"R","Landings",600034
+"204","benthopelagiclg",2010,"France","Pollachius pollachius",5,"Cod-likes","R",0.000411759773716652,32791,"Reported","Pollack","Industrial",58,15,1,"R","Landings",600034
+"205","otherdeminvert",2010,"France","Gastropoda",11,"Molluscs","R",1.92741834256062e-05,32791,"Reported","Sea snails","Industrial",58,29,1,"R","Landings",290006
+"206","otherdeminvert",2010,"France","Gastropoda",11,"Molluscs","D",0.004261210285599,32791,"Unreported","Sea snails","Industrial",58,29,1,"U","Discards",290006
+"207","otherdeminvert",2010,"France","Gastropoda",11,"Molluscs","D",0.000409011909419251,32791,"Unreported","Sea snails","Industrial",58,29,1,"U","Discards",290006
+"208","shrimp",2010,"France","Crangonidae",10,"Crustaceans","D",0.00153563961582582,32791,"Unreported","Brown shrimps","Industrial",58,26,1,"U","Discards",490044
+"209","shrimp",2010,"France","Crangonidae",10,"Crustaceans","D",0.000641445383107592,32791,"Unreported","Brown shrimps","Industrial",58,26,1,"U","Discards",490044
+"210","shrimp",2010,"France","Crangonidae",10,"Crustaceans","D",0.00014739823891955,32791,"Unreported","Brown shrimps","Industrial",58,26,1,"U","Discards",490044
+"211","shrimp",2010,"France","Miscellaneous marine crustaceans",10,"Crustaceans","D",0.00103778860532921,32791,"Unreported","Marine crabs, shrimps, lobsters nei","Industrial",58,26,1,"U","Discards",100047
+"212","shrimp",2010,"France","Miscellaneous marine crustaceans",10,"Crustaceans","D",0.00103656555431177,32791,"Unreported","Marine crabs, shrimps, lobsters nei","Industrial",58,26,1,"U","Discards",100047
+"213","shrimp",2010,"France","Miscellaneous marine crustaceans",10,"Crustaceans","D",4.83829965374985e-05,32791,"Unreported","Marine crabs, shrimps, lobsters nei","Industrial",58,26,1,"U","Discards",100047
+"214","demersalmd",2010,"France","Marine finfishes not identified",12,"Other fishes & inverts","D",0.00108149536748887,32791,"Unreported","Finfishes","Industrial",58,5,1,"U","Discards",100139
+"215","demersalmd",2010,"France","Marine finfishes not identified",12,"Other fishes & inverts","D",0.000219419851499703,32791,"Unreported","Finfishes","Industrial",58,5,1,"U","Discards",100139
+"216","demersalmd",2010,"France","Marine finfishes not identified",12,"Other fishes & inverts","D",5.0420660163456e-05,32791,"Unreported","Finfishes","Industrial",58,5,1,"U","Discards",100139
+"217","otherdeminvert",2010,"France","Buccinidae",11,"Molluscs","R",0.00120446186024756,32791,"Reported","Buccinidae","Industrial",58,29,1,"R","Landings",490021
+"218","otherdeminvert",2010,"France","Bivalvia",11,"Molluscs","D",0.000689685678727163,32791,"Unreported","Clams","Industrial",58,29,1,"U","Discards",290004
+"219","otherdeminvert",2010,"France","Bivalvia",11,"Molluscs","D",0.000288085622339886,32791,"Unreported","Clams","Industrial",58,29,1,"U","Discards",290004
+"220","otherdeminvert",2010,"France","Bivalvia",11,"Molluscs","D",6.61994216642748e-05,32791,"Unreported","Clams","Industrial",58,29,1,"U","Discards",290004
+"221","demersalmd",2010,"France","Triglidae",8,"Scorpionfishes","D",0.000613912525144636,32791,"Unreported","Searobins, gurnards","Industrial",58,5,1,"U","Discards",400266
+"222","demersalmd",2010,"France","Triglidae",8,"Scorpionfishes","D",0.000256434746035241,32791,"Unreported","Searobins, gurnards","Industrial",58,5,1,"U","Discards",400266
+"223","demersalmd",2010,"France","Triglidae",8,"Scorpionfishes","D",5.89263419127871e-05,32791,"Unreported","Searobins, gurnards","Industrial",58,5,1,"U","Discards",400266
+"224","raysm md",2010,"Russian Federation","Raja",9,"Sharks & rays","R",0.000541423868059585,32791,"Reported","Stingrays, skates","Industrial",148,21,1,"R","Landings",500108
+"225","raysm md",2010,"Russian Federation","Raja",9,"Sharks & rays","D",5.41423868059585e-05,32791,"Unreported","Stingrays, skates","Industrial",148,21,1,"U","Discards",500108
+"226","raysm md",2010,"France","Raja",9,"Sharks & rays","R",0.000270711934029792,32791,"Reported","Stingrays, skates","Industrial",58,21,1,"R","Landings",500108
+"227","raysm md",2010,"France","Raja",9,"Sharks & rays","R",0.000270711934029792,32791,"Reported","Stingrays, skates","Industrial",58,21,1,"R","Landings",500108
+"228","flatfishsm md",2010,"France","Scophthalmidae",7,"Flatfishes","D",0.00427090332122716,32791,"Unreported","Turbots","Industrial",58,23,1,"U","Discards",400515
+"229","flatfishsm md",2010,"France","Scophthalmidae",7,"Flatfishes","D",0.00178398055693998,32791,"Unreported","Turbots","Industrial",58,23,1,"U","Discards",400515
+"230","flatfishsm md",2010,"France","Scophthalmidae",7,"Flatfishes","D",0.00040994229483068,32791,"Unreported","Turbots","Industrial",58,23,1,"U","Discards",400515
+"231","demersalmd",2010,"Iceland","Marine groundfishes not identified",12,"Other fishes & inverts","R",2.11571639780097e-05,32791,"Reported","Groundfishes","Industrial",81,5,1,"R","Landings",100239
+"232","demersalmd",2010,"Iceland","Marine groundfishes not identified",12,"Other fishes & inverts","R",1.13013422491232e-05,32791,"Reported","Groundfishes","Industrial",81,5,1,"R","Landings",100239
+"233","demersalmd",2010,"Iceland","Marine groundfishes not identified",12,"Other fishes & inverts","R",1.86603558066918e-05,32791,"Reported","Groundfishes","Industrial",81,5,1,"R","Landings",100239
+"234","demersalmd",2010,"Iceland","Marine groundfishes not identified",12,"Other fishes & inverts","R",1.31410956385153e-06,32791,"Reported","Groundfishes","Industrial",81,5,1,"R","Landings",100239
+"235","demersalmd",2010,"Iceland","Marine groundfishes not identified",12,"Other fishes & inverts","R",4.48111361273372e-05,32791,"Reported","Groundfishes","Industrial",81,5,1,"R","Landings",100239
+"236","lobsters,crab",2010,"United Kingdom","Brachyura",10,"Crustaceans","R",3.12841223664266e-05,32791,"Reported","Marine crabs","Industrial",183,27,1,"R","Landings",490097
+"237","sharklg",2010,"France","Squalidae",9,"Sharks & rays","D",0.0018840228639805,32791,"Unreported","Dogfish sharks","Industrial",58,20,1,"U","Discards",400013
+"238","sharklg",2010,"France","Squalidae",9,"Sharks & rays","D",0.00451040762509441,32791,"Unreported","Dogfish sharks","Industrial",58,20,1,"U","Discards",400013
+"239","sharklg",2010,"France","Squalidae",9,"Sharks & rays","D",0.0065355063950777,32791,"Unreported","Dogfish sharks","Industrial",58,20,1,"U","Discards",400013
+"240","sharklg",2010,"France","Squalidae",9,"Sharks & rays","D",0.00507374488061857,32791,"Unreported","Dogfish sharks","Industrial",58,20,1,"U","Discards",400013
+"241","demersalmd",2010,"France","Sebastidae",8,"Scorpionfishes","R",0.129506591882957,32791,"Reported","Rockfishes, rockcods, thornyheads","Industrial",58,5,1,"R","Landings",400573
+"242","demersalmd",2010,"France","Sebastidae",8,"Scorpionfishes","D",0.0046091513325526,32791,"Unreported","Rockfishes, rockcods, thornyheads","Industrial",58,5,1,"U","Discards",400573
+"243","demersalmd",2010,"France","Sebastidae",8,"Scorpionfishes","D",0.000442409001650169,32791,"Unreported","Rockfishes, rockcods, thornyheads","Industrial",58,5,1,"U","Discards",400573
+"244","demersalmd",2010,"France","Gadidae",5,"Cod-likes","D",0.00825559876172309,32791,"Unreported","Cods, haddocks","Industrial",58,5,1,"U","Discards",400183
+"245","demersalmd",2010,"France","Gadidae",5,"Cod-likes","D",0.00581022439516668,32791,"Unreported","Cods, haddocks","Industrial",58,5,1,"U","Discards",400183
+"246","demersalmd",2010,"France","Gadidae",5,"Cod-likes","D",0.00824586940218572,32791,"Unreported","Cods, haddocks","Industrial",58,5,1,"U","Discards",400183
+"247","demersalmd",2010,"France","Gadidae",5,"Cod-likes","D",0.000384886290186929,32791,"Unreported","Cods, haddocks","Industrial",58,5,1,"U","Discards",400183
+"248","flatfishsm md",2010,"France","Pleuronectidae",7,"Flatfishes","D",0.00845055671616448,32791,"Unreported","Righteye flounders","Industrial",58,23,1,"U","Discards",400440
+"249","flatfishsm md",2010,"France","Pleuronectidae",7,"Flatfishes","D",0.00844059759545675,32791,"Unreported","Righteye flounders","Industrial",58,23,1,"U","Discards",400440
+"250","flatfishsm md",2010,"France","Pleuronectidae",7,"Flatfishes","D",0.000393975472691205,32791,"Unreported","Righteye flounders","Industrial",58,23,1,"U","Discards",400440
+"251","sharklg",2010,"France","Squaliformes",9,"Sharks & rays","D",0.00903819475154263,32791,"Unreported","Bramble, sleeper, dogfish sharks","Industrial",58,20,1,"U","Discards",300009
+"252","sharklg",2010,"France","Squaliformes",9,"Sharks & rays","D",0.0065480977007514,32791,"Unreported","Bramble, sleeper, dogfish sharks","Industrial",58,20,1,"U","Discards",300009
+"253","sharklg",2010,"France","Squaliformes",9,"Sharks & rays","D",0.00188765262215724,32791,"Unreported","Bramble, sleeper, dogfish sharks","Industrial",58,20,1,"U","Discards",300009
+"254","pelagicsm",2010,"France","Clupeidae",2,"Herring-likes","D",0.00597436219775796,32791,"Unreported","Herrings, sardines, menhadens","Industrial",58,1,1,"U","Discards",400043
+"255","pelagicsm",2010,"France","Clupeidae",2,"Herring-likes","D",0.00672054327134148,32791,"Unreported","Herrings, sardines, menhadens","Industrial",58,1,1,"U","Discards",400043
+"256","pelagicsm",2010,"France","Clupeidae",2,"Herring-likes","D",0.00249552499770821,32791,"Unreported","Herrings, sardines, menhadens","Industrial",58,1,1,"U","Discards",400043
+"257","pelagicmd",2010,"France","Scombridae",3,"Perch-likes","D",0.00441897949767896,32791,"Unreported","Mackerels, tunas, bonitos","Industrial",58,2,1,"U","Discards",400416
+"258","pelagicmd",2010,"France","Scombridae",3,"Perch-likes","D",0.00640302854361053,32791,"Unreported","Mackerels, tunas, bonitos","Industrial",58,2,1,"U","Discards",400416
+"259","pelagicmd",2010,"France","Scombridae",3,"Perch-likes","D",0.00497089763664935,32791,"Unreported","Mackerels, tunas, bonitos","Industrial",58,2,1,"U","Discards",400416
+"260","pelagicmd",2010,"France","Scombridae",3,"Perch-likes","D",0.00184583281625549,32791,"Unreported","Mackerels, tunas, bonitos","Industrial",58,2,1,"U","Discards",400416

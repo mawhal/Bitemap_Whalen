@@ -1,0 +1,260 @@
+"","functional_group_name","year","fishing_entity_name","taxon_scientific_name","commercial_group_id","commercial_group_name","catch_status","catch_sum","cell_id","reporting_status_name","taxon_common_name","sector_type_name","fishing_entity_id","functional_group_id","sector_type_id","reporting_status","catch_status_name","taxon_key"
+"1","pelagicsm",2010,"Chile","Clupea bentincki",2,"Herring-likes","R",1416.15875700673,173737,"Reported","Araucanian herring","Industrial",30,1,1,"R","Landings",601530
+"2","pelagicsm",2010,"Chile","Clupea bentincki",2,"Herring-likes","R",412.877241169451,173737,"Unreported","Araucanian herring","Industrial",30,1,1,"U","Landings",601530
+"3","pelagiclg",2010,"Chile","Thunnus obesus",4,"Tuna & billfishes","R",0.00741828863441907,173737,"Reported","Bigeye tuna","Artisanal",30,3,3,"R","Landings",600146
+"4","pelagiclg",2010,"Chile","Thunnus obesus",4,"Tuna & billfishes","R",0.00222548659032572,173737,"Unreported","Bigeye tuna","Artisanal",30,3,3,"U","Landings",600146
+"5","pelagicmd",2010,"Korea (South)","Scomber japonicus",3,"Perch-likes","R",0.0616806057813303,173737,"Reported","Chub mackerel","Industrial",95,2,1,"R","Landings",600117
+"6","pelagicmd",2010,"Korea (South)","Scomber japonicus",3,"Perch-likes","R",0.00124437677774018,173018,"Reported","Chub mackerel","Industrial",95,2,1,"R","Landings",600117
+"7","pelagicmd",2010,"Chile","Scomber japonicus",3,"Perch-likes","R",2.66164730356885,173018,"Reported","Chub mackerel","Industrial",30,2,1,"R","Landings",600117
+"8","pelagicmd",2010,"Chile","Scomber japonicus",3,"Perch-likes","R",131.931116842691,173737,"Reported","Chub mackerel","Industrial",30,2,1,"R","Landings",600117
+"9","cephalopods",2010,"Chile","Doryteuthis gahi",12,"Other fishes & inverts","R",1069.56432605491,173737,"Reported","Patagonian squid","Artisanal",30,25,3,"R","Landings",690296
+"10","cephalopods",2010,"Chile","Doryteuthis gahi",12,"Other fishes & inverts","R",320.869297816474,173737,"Unreported","Patagonian squid","Artisanal",30,25,3,"U","Landings",690296
+"11","pelagiclg",2010,"Chile","Thunnus alalunga",4,"Tuna & billfishes","R",0.00310498456762801,173737,"Reported","Albacore","Artisanal",30,3,3,"R","Landings",600142
+"12","pelagiclg",2010,"Chile","Thunnus alalunga",4,"Tuna & billfishes","R",0.000931495370288404,173737,"Unreported","Albacore","Artisanal",30,3,3,"U","Landings",600142
+"13","sharklg",2010,"Chile","Alopias vulpinus",9,"Sharks & rays","R",0.0182001380793152,173737,"Reported","Thresher","Artisanal",30,20,3,"R","Landings",602535
+"14","sharklg",2010,"Chile","Alopias vulpinus",9,"Sharks & rays","R",0.00546004142379457,173737,"Unreported","Thresher","Artisanal",30,20,3,"U","Landings",602535
+"15","sharklg",2010,"Chile","Isurus oxyrinchus",9,"Sharks & rays","R",1.64525021887166,173737,"Reported","Shortfin mako","Artisanal",30,20,3,"R","Landings",600752
+"16","sharklg",2010,"Chile","Isurus oxyrinchus",9,"Sharks & rays","R",0.493575065661498,173737,"Unreported","Shortfin mako","Artisanal",30,20,3,"U","Landings",600752
+"17","cephalopods",2010,"Korea (South)","Dosidicus gigas",12,"Other fishes & inverts","R",0.957878552112732,173737,"Reported","Jumbo flying squid","Industrial",95,25,1,"R","Landings",690206
+"18","cephalopods",2010,"Chile","Dosidicus gigas",12,"Other fishes & inverts","R",632.583141040946,173737,"Reported","Jumbo flying squid","Artisanal",30,25,3,"R","Landings",690206
+"19","cephalopods",2010,"Chile","Dosidicus gigas",12,"Other fishes & inverts","R",189.774942312284,173737,"Unreported","Jumbo flying squid","Artisanal",30,25,3,"U","Landings",690206
+"20","otherdeminvert",2010,"Chile","Semele solida",11,"Molluscs","R",28.3098668024006,173018,"Reported","Chilean semele","Artisanal",30,29,3,"R","Landings",690677
+"21","otherdeminvert",2010,"Chile","Semele solida",11,"Molluscs","R",182.231111406897,173737,"Reported","Chilean semele","Artisanal",30,29,3,"R","Landings",690677
+"22","otherdeminvert",2010,"Chile","Semele solida",11,"Molluscs","R",8.49296004072017,173018,"Unreported","Chilean semele","Artisanal",30,29,3,"U","Landings",690677
+"23","otherdeminvert",2010,"Chile","Semele solida",11,"Molluscs","R",54.6693334220691,173737,"Unreported","Chilean semele","Artisanal",30,29,3,"U","Landings",690677
+"24","otherdeminvert",2010,"Chile","Mesodesma donacium",11,"Molluscs","R",18.0259005610213,173018,"Reported","Macha clam","Artisanal",30,29,3,"R","Landings",690230
+"25","otherdeminvert",2010,"Chile","Mesodesma donacium",11,"Molluscs","R",101.382420474398,173737,"Reported","Macha clam","Artisanal",30,29,3,"R","Landings",690230
+"26","otherdeminvert",2010,"Chile","Mesodesma donacium",11,"Molluscs","R",5.40777016830638,173018,"Unreported","Macha clam","Artisanal",30,29,3,"U","Landings",690230
+"27","otherdeminvert",2010,"Chile","Mesodesma donacium",11,"Molluscs","R",30.4147261423195,173737,"Unreported","Macha clam","Artisanal",30,29,3,"U","Landings",690230
+"28","benthopelagicmd",2010,"Chile","Isacia conceptionis",3,"Perch-likes","R",0.0279250297350287,173018,"Reported","Cabinza grunt","Artisanal",30,14,3,"R","Landings",600397
+"29","benthopelagicmd",2010,"Chile","Isacia conceptionis",3,"Perch-likes","R",0.158236345883666,173737,"Reported","Cabinza grunt","Artisanal",30,14,3,"R","Landings",600397
+"30","benthopelagicmd",2010,"Chile","Isacia conceptionis",3,"Perch-likes","R",0.00837750892050862,173018,"Unreported","Cabinza grunt","Artisanal",30,14,3,"U","Landings",600397
+"31","benthopelagicmd",2010,"Chile","Isacia conceptionis",3,"Perch-likes","R",0.0474709037650997,173737,"Unreported","Cabinza grunt","Artisanal",30,14,3,"U","Landings",600397
+"32","otherdeminvert",2010,"Chile","Mytilus chilensis",11,"Molluscs","R",0.677963434006074,173018,"Reported","Chilean mussel","Artisanal",30,29,3,"R","Landings",690076
+"33","otherdeminvert",2010,"Chile","Mytilus chilensis",11,"Molluscs","R",3.98638795566929,173737,"Reported","Chilean mussel","Artisanal",30,29,3,"R","Landings",690076
+"34","otherdeminvert",2010,"Chile","Mytilus chilensis",11,"Molluscs","R",0.203389030201822,173018,"Unreported","Chilean mussel","Artisanal",30,29,3,"U","Landings",690076
+"35","otherdeminvert",2010,"Chile","Mytilus chilensis",11,"Molluscs","R",1.19591638670079,173737,"Unreported","Chilean mussel","Artisanal",30,29,3,"U","Landings",690076
+"36","otherdeminvert",2010,"Chile","Choromytilus chorus",11,"Molluscs","R",0.0940950747335203,173018,"Reported","Choro mussel","Artisanal",30,29,3,"R","Landings",690082
+"37","otherdeminvert",2010,"Chile","Choromytilus chorus",11,"Molluscs","R",0.652501484120669,173737,"Reported","Choro mussel","Artisanal",30,29,3,"R","Landings",690082
+"38","otherdeminvert",2010,"Chile","Choromytilus chorus",11,"Molluscs","R",0.0282285224200561,173018,"Unreported","Choro mussel","Artisanal",30,29,3,"U","Landings",690082
+"39","otherdeminvert",2010,"Chile","Choromytilus chorus",11,"Molluscs","R",0.195750445236201,173737,"Unreported","Choro mussel","Artisanal",30,29,3,"U","Landings",690082
+"40","otherdeminvert",2010,"Chile","Aulacomya ater",11,"Molluscs","R",1.17432029263714,173018,"Reported","Chilean ribbed mussel","Artisanal",30,29,3,"R","Landings",690081
+"41","otherdeminvert",2010,"Chile","Aulacomya ater",11,"Molluscs","R",7.88833737844195,173737,"Reported","Chilean ribbed mussel","Artisanal",30,29,3,"R","Landings",690081
+"42","otherdeminvert",2010,"Chile","Aulacomya ater",11,"Molluscs","R",0.352296087791143,173018,"Unreported","Chilean ribbed mussel","Artisanal",30,29,3,"U","Landings",690081
+"43","otherdeminvert",2010,"Chile","Aulacomya ater",11,"Molluscs","R",2.36650121353258,173737,"Unreported","Chilean ribbed mussel","Artisanal",30,29,3,"U","Landings",690081
+"44","benthopelagiclg",2010,"Chile","Mugil cephalus",3,"Perch-likes","R",0.0139317598791976,173018,"Reported","Flathead grey mullet","Artisanal",30,15,3,"R","Landings",600785
+"45","benthopelagiclg",2010,"Chile","Mugil cephalus",3,"Perch-likes","R",0.0829245468669294,173737,"Reported","Flathead grey mullet","Artisanal",30,15,3,"R","Landings",600785
+"46","benthopelagiclg",2010,"Chile","Mugil cephalus",3,"Perch-likes","R",0.00417952796375927,173018,"Unreported","Flathead grey mullet","Artisanal",30,15,3,"U","Landings",600785
+"47","benthopelagiclg",2010,"Chile","Mugil cephalus",3,"Perch-likes","R",0.0248773640600788,173737,"Unreported","Flathead grey mullet","Artisanal",30,15,3,"U","Landings",600785
+"48","otherdeminvert",2010,"Chile","Pyura chilensis",12,"Other fishes & inverts","R",0.0289586357589915,173018,"Reported","Red sea squirt","Artisanal",30,29,3,"R","Landings",690322
+"49","otherdeminvert",2010,"Chile","Pyura chilensis",12,"Other fishes & inverts","R",0.194256237319688,173737,"Reported","Red sea squirt","Artisanal",30,29,3,"R","Landings",690322
+"50","otherdeminvert",2010,"Chile","Pyura chilensis",12,"Other fishes & inverts","R",0.00868759072769744,173018,"Unreported","Red sea squirt","Artisanal",30,29,3,"U","Landings",690322
+"51","otherdeminvert",2010,"Chile","Pyura chilensis",12,"Other fishes & inverts","R",0.0582768711959064,173737,"Unreported","Red sea squirt","Artisanal",30,29,3,"U","Landings",690322
+"52","pelagicmd",2010,"Chile","Sardinops sagax",2,"Herring-likes","R",0.0210972815503083,173018,"Reported","Pacific sardine","Industrial",30,2,1,"R","Landings",601477
+"53","pelagicmd",2010,"Chile","Sardinops sagax",2,"Herring-likes","R",0.838062126656176,173737,"Reported","Pacific sardine","Industrial",30,2,1,"R","Landings",601477
+"54","pelagicmd",2010,"Chile","Sardinops sagax",2,"Herring-likes","R",52.4744831123797,173018,"Unreported","Pacific sardine","Industrial",30,2,1,"U","Landings",601477
+"55","pelagicmd",2010,"Chile","Sardinops sagax",2,"Herring-likes","R",2084.48073309719,173737,"Unreported","Pacific sardine","Industrial",30,2,1,"U","Landings",601477
+"56","otherdeminvert",2010,"Chile","Loxechinus albus",12,"Other fishes & inverts","R",10.4013060030487,173018,"Reported","Chilean sea urchin","Artisanal",30,29,3,"R","Landings",690078
+"57","otherdeminvert",2010,"Chile","Loxechinus albus",12,"Other fishes & inverts","R",69.40836936958,173737,"Reported","Chilean sea urchin","Artisanal",30,29,3,"R","Landings",690078
+"58","otherdeminvert",2010,"Chile","Loxechinus albus",12,"Other fishes & inverts","R",3.1203918009146,173018,"Unreported","Chilean sea urchin","Artisanal",30,29,3,"U","Landings",690078
+"59","otherdeminvert",2010,"Chile","Loxechinus albus",12,"Other fishes & inverts","R",20.822510810874,173737,"Unreported","Chilean sea urchin","Artisanal",30,29,3,"U","Landings",690078
+"60","benthopelagiclg",2010,"Chile","Thyrsites atun",3,"Perch-likes","R",0.693109413271156,173018,"Reported","Snoek","Artisanal",30,15,3,"R","Landings",600489
+"61","benthopelagiclg",2010,"Chile","Thyrsites atun",3,"Perch-likes","R",3.04264304551059,173737,"Reported","Snoek","Artisanal",30,15,3,"R","Landings",600489
+"62","benthopelagiclg",2010,"Chile","Thyrsites atun",3,"Perch-likes","R",0.207932823981347,173018,"Unreported","Snoek","Artisanal",30,15,3,"U","Landings",600489
+"63","benthopelagiclg",2010,"Chile","Thyrsites atun",3,"Perch-likes","R",0.912792913653176,173737,"Unreported","Snoek","Artisanal",30,15,3,"U","Landings",600489
+"64","sharklg",2010,"Chile","Squalus acanthias",9,"Sharks & rays","R",0.0593466146813756,173018,"Reported","Piked dogfish","Artisanal",30,20,3,"R","Landings",600139
+"65","sharklg",2010,"Chile","Squalus acanthias",9,"Sharks & rays","R",0.298205532201211,173737,"Reported","Piked dogfish","Artisanal",30,20,3,"R","Landings",600139
+"66","sharklg",2010,"Chile","Squalus acanthias",9,"Sharks & rays","R",0.0178039844044127,173018,"Unreported","Piked dogfish","Artisanal",30,20,3,"U","Landings",600139
+"67","sharklg",2010,"Chile","Squalus acanthias",9,"Sharks & rays","R",0.0894616596603633,173737,"Unreported","Piked dogfish","Artisanal",30,20,3,"U","Landings",600139
+"68","pelagiclg",2010,"Chile","Thunnus albacares",4,"Tuna & billfishes","R",0.0965355038617376,173737,"Reported","Yellowfin tuna","Artisanal",30,3,3,"R","Landings",600143
+"69","pelagiclg",2010,"Chile","Thunnus albacares",4,"Tuna & billfishes","R",0.0289606511585213,173737,"Unreported","Yellowfin tuna","Artisanal",30,3,3,"U","Landings",600143
+"70","sharklg",2010,"Chile","Prionace glauca",9,"Sharks & rays","R",3.62451632121149,173737,"Reported","Blue shark","Artisanal",30,20,3,"R","Landings",600898
+"71","sharklg",2010,"Chile","Prionace glauca",9,"Sharks & rays","R",1.08735489636345,173737,"Unreported","Blue shark","Artisanal",30,20,3,"U","Landings",600898
+"72","otherdeminvert",2010,"Chile","Ostrea chilensis",11,"Molluscs","R",0.322161482096182,173018,"Reported","Chilean flat oyster","Artisanal",30,29,3,"R","Landings",690075
+"73","otherdeminvert",2010,"Chile","Ostrea chilensis",11,"Molluscs","R",1.8421003762454,173737,"Reported","Chilean flat oyster","Artisanal",30,29,3,"R","Landings",690075
+"74","otherdeminvert",2010,"Chile","Ostrea chilensis",11,"Molluscs","R",0.0966484446288545,173018,"Unreported","Chilean flat oyster","Artisanal",30,29,3,"U","Landings",690075
+"75","otherdeminvert",2010,"Chile","Ostrea chilensis",11,"Molluscs","R",0.552630112873619,173737,"Unreported","Chilean flat oyster","Artisanal",30,29,3,"U","Landings",690075
+"76","bathypelagicmd",2010,"Chile","Seriolella caerulea",3,"Perch-likes","R",0.0387914964064206,173018,"Reported","White warehou","Artisanal",30,8,3,"R","Landings",612919
+"77","bathypelagicmd",2010,"Chile","Seriolella caerulea",3,"Perch-likes","R",0.297736307621817,173737,"Reported","White warehou","Artisanal",30,8,3,"R","Landings",612919
+"78","bathypelagicmd",2010,"Chile","Seriolella caerulea",3,"Perch-likes","R",0.0116374489219262,173018,"Unreported","White warehou","Artisanal",30,8,3,"U","Landings",612919
+"79","bathypelagicmd",2010,"Chile","Seriolella caerulea",3,"Perch-likes","R",0.0893208922865451,173737,"Unreported","White warehou","Artisanal",30,8,3,"U","Landings",612919
+"80","pelagicsm",2010,"Chile","Engraulis ringens",1,"Anchovies","R",84.2263739663359,173018,"Reported","Anchoveta","Industrial",30,1,1,"R","Landings",600004
+"81","pelagicsm",2010,"Chile","Engraulis ringens",1,"Anchovies","R",3723.90894338771,173737,"Reported","Anchoveta","Industrial",30,1,1,"R","Landings",600004
+"82","pelagicsm",2010,"Chile","Engraulis ringens",1,"Anchovies","R",48.8115625160701,173018,"Unreported","Anchoveta","Industrial",30,1,1,"U","Landings",600004
+"83","pelagicsm",2010,"Chile","Engraulis ringens",1,"Anchovies","R",2158.11040692518,173737,"Unreported","Anchoveta","Industrial",30,1,1,"U","Landings",600004
+"84","benthopelagiclg",2010,"Chile","Seriola lalandi",3,"Perch-likes","R",0.0285447737286559,173737,"Reported","Yellowtail amberjack","Artisanal",30,15,3,"R","Landings",600382
+"85","benthopelagiclg",2010,"Chile","Seriola lalandi",3,"Perch-likes","R",0.00856343211859676,173737,"Unreported","Yellowtail amberjack","Artisanal",30,15,3,"U","Landings",600382
+"86","reef-associatedmd",2010,"Chile","Heteropriacanthus cruentatus",3,"Perch-likes","R",0.00237389659098355,173018,"Reported","Glasseye","Artisanal",30,17,3,"R","Landings",601150
+"87","reef-associatedmd",2010,"Chile","Heteropriacanthus cruentatus",3,"Perch-likes","R",0.00949755771060301,173737,"Reported","Glasseye","Artisanal",30,17,3,"R","Landings",601150
+"88","reef-associatedmd",2010,"Chile","Heteropriacanthus cruentatus",3,"Perch-likes","R",0.000712168977295066,173018,"Unreported","Glasseye","Artisanal",30,17,3,"U","Landings",601150
+"89","reef-associatedmd",2010,"Chile","Heteropriacanthus cruentatus",3,"Perch-likes","R",0.0028492673131809,173737,"Unreported","Glasseye","Artisanal",30,17,3,"U","Landings",601150
+"90","pelagicmd",2010,"Korea (South)","Trachurus murphyi",3,"Perch-likes","R",14.7394791936937,173737,"Reported","Chilean jack mackerel","Industrial",95,2,1,"R","Landings",600367
+"91","pelagicmd",2010,"Korea (South)","Trachurus murphyi",3,"Perch-likes","R",0.267535494905607,173018,"Reported","Chilean jack mackerel","Industrial",95,2,1,"R","Landings",600367
+"92","pelagicmd",2010,"Chile","Trachurus murphyi",3,"Perch-likes","R",398.706903000758,173737,"Reported","Chilean jack mackerel","Industrial",30,2,1,"R","Landings",600367
+"93","pelagicmd",2010,"Chile","Trachurus murphyi",3,"Perch-likes","R",7.23690757419894,173018,"Reported","Chilean jack mackerel","Industrial",30,2,1,"R","Landings",600367
+"94","pelagicmd",2010,"Chile","Trachurus murphyi",3,"Perch-likes","R",187.751970359293,173737,"Unreported","Chilean jack mackerel","Industrial",30,2,1,"U","Landings",600367
+"95","pelagicmd",2010,"Chile","Trachurus murphyi",3,"Perch-likes","R",3.40787592624489,173018,"Unreported","Chilean jack mackerel","Industrial",30,2,1,"U","Landings",600367
+"96","pelagicsm",2010,"Chile","Ethmidium maculatum",2,"Herring-likes","R",11.3317429312968,173018,"Reported","Pacific menhaden","Artisanal",30,1,3,"R","Landings",601593
+"97","pelagicsm",2010,"Chile","Ethmidium maculatum",2,"Herring-likes","R",68.8035204552166,173737,"Reported","Pacific menhaden","Artisanal",30,1,3,"R","Landings",601593
+"98","pelagicsm",2010,"Chile","Ethmidium maculatum",2,"Herring-likes","R",3.39952287938903,173018,"Unreported","Pacific menhaden","Artisanal",30,1,3,"U","Landings",601593
+"99","pelagicsm",2010,"Chile","Ethmidium maculatum",2,"Herring-likes","R",20.641056136565,173737,"Unreported","Pacific menhaden","Artisanal",30,1,3,"U","Landings",601593
+"100","bathypelagiclg",2010,"Chile","Lampris guttatus",12,"Other fishes & inverts","R",0.112137515010875,173737,"Reported","Opah","Artisanal",30,9,3,"R","Landings",601072
+"101","bathypelagiclg",2010,"Chile","Lampris guttatus",12,"Other fishes & inverts","R",0.0336412545032626,173737,"Unreported","Opah","Artisanal",30,9,3,"U","Landings",601072
+"102","demersalmd",2010,"Chile","Marine fishes not identified",12,"Other fishes & inverts","R",0.000726462366778555,173018,"Unreported","Marine fishes nei","Artisanal",30,5,3,"U","Landings",100039
+"103","demersalmd",2010,"Chile","Marine fishes not identified",12,"Other fishes & inverts","R",0.00473502232646421,173737,"Unreported","Marine fishes nei","Artisanal",30,5,3,"U","Landings",100039
+"104","demersalmd",2010,"Chile","Marine fishes not identified",12,"Other fishes & inverts","R",5.22295307612348,173018,"Unreported","Marine fishes nei","Artisanal",30,5,3,"U","Landings",100039
+"105","demersalmd",2010,"Chile","Marine fishes not identified",12,"Other fishes & inverts","R",34.0427812319949,173737,"Unreported","Marine fishes nei","Artisanal",30,5,3,"U","Landings",100039
+"106","demersalmd",2010,"Chile","Marine fishes not identified",12,"Other fishes & inverts","R",0.330280926038964,173018,"Unreported","Marine fishes nei","Artisanal",30,5,3,"U","Landings",100039
+"107","demersalmd",2010,"Chile","Marine fishes not identified",12,"Other fishes & inverts","R",2.15274407913891,173737,"Unreported","Marine fishes nei","Artisanal",30,5,3,"U","Landings",100039
+"108","demersalmd",2010,"Chile","Marine fishes not identified",12,"Other fishes & inverts","R",3.34966608304686,173018,"Unreported","Marine fishes nei","Artisanal",30,5,3,"U","Landings",100039
+"109","demersalmd",2010,"Chile","Marine fishes not identified",12,"Other fishes & inverts","R",21.832849731446,173737,"Unreported","Marine fishes nei","Artisanal",30,5,3,"U","Landings",100039
+"110","demersalmd",2010,"Chile","Marine fishes not identified",12,"Other fishes & inverts","R",0.00173619061768727,173018,"Reported","Marine fishes nei","Industrial",30,5,1,"R","Landings",100039
+"111","demersalmd",2010,"Chile","Marine fishes not identified",12,"Other fishes & inverts","R",0.0794133757530796,173737,"Reported","Marine fishes nei","Industrial",30,5,1,"R","Landings",100039
+"112","demersalmd",2010,"Chile","Marine fishes not identified",12,"Other fishes & inverts","R",0.00242154122259518,173018,"Reported","Marine fishes nei","Artisanal",30,5,3,"R","Landings",100039
+"113","demersalmd",2010,"Chile","Marine fishes not identified",12,"Other fishes & inverts","R",0.0157834077548807,173737,"Reported","Marine fishes nei","Artisanal",30,5,3,"R","Landings",100039
+"114","demersalmd",2010,"Chile","Marine fishes not identified",12,"Other fishes & inverts","R",17.4098435870783,173018,"Reported","Marine fishes nei","Artisanal",30,5,3,"R","Landings",100039
+"115","demersalmd",2010,"Chile","Marine fishes not identified",12,"Other fishes & inverts","R",113.475937439983,173737,"Reported","Marine fishes nei","Artisanal",30,5,3,"R","Landings",100039
+"116","demersalmd",2010,"Chile","Marine fishes not identified",12,"Other fishes & inverts","R",1.10093642012988,173018,"Reported","Marine fishes nei","Artisanal",30,5,3,"R","Landings",100039
+"117","demersalmd",2010,"Chile","Marine fishes not identified",12,"Other fishes & inverts","R",7.1758135971297,173737,"Reported","Marine fishes nei","Artisanal",30,5,3,"R","Landings",100039
+"118","demersalmd",2010,"Chile","Marine fishes not identified",12,"Other fishes & inverts","R",11.1655536101562,173018,"Reported","Marine fishes nei","Artisanal",30,5,3,"R","Landings",100039
+"119","demersalmd",2010,"Chile","Marine fishes not identified",12,"Other fishes & inverts","R",72.7761657714868,173737,"Reported","Marine fishes nei","Artisanal",30,5,3,"R","Landings",100039
+"120","otherdeminvert",2010,"Chile","Mulinia",11,"Molluscs","R",0.803349839268019,173018,"Reported","Taquilla clams","Artisanal",30,29,3,"R","Landings",590137
+"121","otherdeminvert",2010,"Chile","Mulinia",11,"Molluscs","R",6.20176226788,173737,"Reported","Taquilla clams","Artisanal",30,29,3,"R","Landings",590137
+"122","otherdeminvert",2010,"Chile","Mulinia",11,"Molluscs","R",0.241004951780406,173018,"Unreported","Taquilla clams","Artisanal",30,29,3,"U","Landings",590137
+"123","otherdeminvert",2010,"Chile","Mulinia",11,"Molluscs","R",1.860528680364,173737,"Unreported","Taquilla clams","Artisanal",30,29,3,"U","Landings",590137
+"124","pelagicmd",2010,"Chile","Brama australis",3,"Perch-likes","R",2.52680908118418,173018,"Reported","Southern rays bream","Artisanal",30,2,3,"R","Landings",654793
+"125","pelagicmd",2010,"Chile","Brama australis",3,"Perch-likes","R",17.3272506311109,173737,"Reported","Southern rays bream","Artisanal",30,2,3,"R","Landings",654793
+"126","pelagicmd",2010,"Chile","Brama australis",3,"Perch-likes","R",2.52680908118418,173018,"Reported","Southern rays bream","Artisanal",30,2,3,"R","Landings",654793
+"127","pelagicmd",2010,"Chile","Brama australis",3,"Perch-likes","R",17.3272506311109,173737,"Reported","Southern rays bream","Artisanal",30,2,3,"R","Landings",654793
+"128","pelagicmd",2010,"Chile","Brama australis",3,"Perch-likes","R",0.758042724355253,173018,"Unreported","Southern rays bream","Artisanal",30,2,3,"U","Landings",654793
+"129","pelagicmd",2010,"Chile","Brama australis",3,"Perch-likes","R",5.19817518933326,173737,"Unreported","Southern rays bream","Artisanal",30,2,3,"U","Landings",654793
+"130","pelagicmd",2010,"Chile","Brama australis",3,"Perch-likes","R",0.758042724355253,173018,"Unreported","Southern rays bream","Artisanal",30,2,3,"U","Landings",654793
+"131","pelagicmd",2010,"Chile","Brama australis",3,"Perch-likes","R",5.19817518933326,173737,"Unreported","Southern rays bream","Artisanal",30,2,3,"U","Landings",654793
+"132","pelagicmd",2010,"Chile","Brama australis",3,"Perch-likes","D",3.94296229410626,173737,"Unreported","Southern rays bream","Industrial",30,2,1,"U","Discards",654793
+"133","pelagicmd",2010,"Chile","Brama australis",3,"Perch-likes","D",0.0819366215365552,173018,"Unreported","Southern rays bream","Industrial",30,2,1,"U","Discards",654793
+"134","bathydemersallg",2010,"Chile","Genypterus blacodes",12,"Other fishes & inverts","R",0.482935877494523,173018,"Reported","Pink cusk-eel","Artisanal",30,12,3,"R","Landings",600482
+"135","bathydemersallg",2010,"Chile","Genypterus blacodes",12,"Other fishes & inverts","R",3.36915838434095,173737,"Reported","Pink cusk-eel","Artisanal",30,12,3,"R","Landings",600482
+"136","bathydemersallg",2010,"Chile","Genypterus blacodes",12,"Other fishes & inverts","R",0.482935877494523,173018,"Reported","Pink cusk-eel","Artisanal",30,12,3,"R","Landings",600482
+"137","bathydemersallg",2010,"Chile","Genypterus blacodes",12,"Other fishes & inverts","R",3.36915838434095,173737,"Reported","Pink cusk-eel","Artisanal",30,12,3,"R","Landings",600482
+"138","bathydemersallg",2010,"Chile","Genypterus blacodes",12,"Other fishes & inverts","R",0.144880763248357,173018,"Unreported","Pink cusk-eel","Artisanal",30,12,3,"U","Landings",600482
+"139","bathydemersallg",2010,"Chile","Genypterus blacodes",12,"Other fishes & inverts","R",1.01074751530229,173737,"Unreported","Pink cusk-eel","Artisanal",30,12,3,"U","Landings",600482
+"140","bathydemersallg",2010,"Chile","Genypterus blacodes",12,"Other fishes & inverts","R",0.144880763248357,173018,"Unreported","Pink cusk-eel","Artisanal",30,12,3,"U","Landings",600482
+"141","bathydemersallg",2010,"Chile","Genypterus blacodes",12,"Other fishes & inverts","R",1.01074751530229,173737,"Unreported","Pink cusk-eel","Artisanal",30,12,3,"U","Landings",600482
+"142","benthopelagicmd",2010,"Chile","Beryx splendens",12,"Other fishes & inverts","R",0.853790904410211,173018,"Reported","Splendid alfonsino","Artisanal",30,14,3,"R","Landings",601320
+"143","benthopelagicmd",2010,"Chile","Beryx splendens",12,"Other fishes & inverts","R",4.97477938071239,173737,"Reported","Splendid alfonsino","Artisanal",30,14,3,"R","Landings",601320
+"144","benthopelagicmd",2010,"Chile","Beryx splendens",12,"Other fishes & inverts","R",0.256137271323063,173018,"Unreported","Splendid alfonsino","Artisanal",30,14,3,"U","Landings",601320
+"145","benthopelagicmd",2010,"Chile","Beryx splendens",12,"Other fishes & inverts","R",1.49243381421372,173737,"Unreported","Splendid alfonsino","Artisanal",30,14,3,"U","Landings",601320
+"146","lobsters,crab",2010,"Chile","Cervimunida johni",10,"Crustaceans","R",0.00207719455399308,173018,"Reported","Carrot squat lobster","Industrial",30,27,1,"R","Landings",690606
+"147","lobsters,crab",2010,"Chile","Cervimunida johni",10,"Crustaceans","R",0.261499642173537,173737,"Reported","Carrot squat lobster","Industrial",30,27,1,"R","Landings",690606
+"148","lobsters,crab",2010,"Chile","Cervimunida johni",10,"Crustaceans","D",0.191961770490126,173018,"Unreported","Carrot squat lobster","Industrial",30,27,1,"U","Discards",690606
+"149","lobsters,crab",2010,"Chile","Cervimunida johni",10,"Crustaceans","D",24.1662169764835,173737,"Unreported","Carrot squat lobster","Industrial",30,27,1,"U","Discards",690606
+"150","lobsters,crab",2010,"Chile","Pleuroncodes monodon",10,"Crustaceans","R",1.23190399923493,173018,"Reported","Squat Lobster","Industrial",30,27,1,"R","Landings",690624
+"151","lobsters,crab",2010,"Chile","Pleuroncodes monodon",10,"Crustaceans","R",54.1177050856137,173737,"Reported","Squat Lobster","Industrial",30,27,1,"R","Landings",690624
+"152","lobsters,crab",2010,"Chile","Pleuroncodes monodon",10,"Crustaceans","D",0.959256754761842,173018,"Unreported","Squat Lobster","Industrial",30,27,1,"U","Discards",690624
+"153","lobsters,crab",2010,"Chile","Pleuroncodes monodon",10,"Crustaceans","D",42.140275693418,173737,"Unreported","Squat Lobster","Industrial",30,27,1,"U","Discards",690624
+"154","bathydemersalmd",2010,"Chile","Merluccius gayi gayi",5,"Cod-likes","D",1.4275587967429,173018,"Unreported","South Pacific hake","Industrial",30,11,1,"U","Discards",600324
+"155","bathydemersalmd",2010,"Chile","Merluccius gayi gayi",5,"Cod-likes","D",64.5235110119686,173737,"Unreported","South Pacific hake","Industrial",30,11,1,"U","Discards",600324
+"156","bathydemersalmd",2010,"Chile","Merluccius gayi gayi",5,"Cod-likes","R",7.38857348651522,173018,"Reported","South Pacific hake","Industrial",30,11,1,"R","Landings",600324
+"157","bathydemersalmd",2010,"Chile","Merluccius gayi gayi",5,"Cod-likes","R",333.952411492698,173737,"Reported","South Pacific hake","Industrial",30,11,1,"R","Landings",600324
+"158","bathydemersalmd",2010,"Chile","Emmelichthys nitidus nitidus",3,"Perch-likes","R",0.0717187498188982,173018,"Reported","Cape bonnetmouth","Artisanal",30,11,3,"R","Landings",600395
+"159","bathydemersalmd",2010,"Chile","Emmelichthys nitidus nitidus",3,"Perch-likes","R",0.458359221041776,173737,"Reported","Cape bonnetmouth","Artisanal",30,11,3,"R","Landings",600395
+"160","bathydemersalmd",2010,"Chile","Emmelichthys nitidus nitidus",3,"Perch-likes","R",0.0215156249456695,173018,"Unreported","Cape bonnetmouth","Artisanal",30,11,3,"U","Landings",600395
+"161","bathydemersalmd",2010,"Chile","Emmelichthys nitidus nitidus",3,"Perch-likes","R",0.137507766312533,173737,"Unreported","Cape bonnetmouth","Artisanal",30,11,3,"U","Landings",600395
+"162","otherdeminvert",2010,"Chile","Gastropoda",11,"Molluscs","R",2.83407103963086,173018,"Reported","Sea snails","Artisanal",30,29,3,"R","Landings",290006
+"163","otherdeminvert",2010,"Chile","Gastropoda",11,"Molluscs","R",14.8152762216347,173737,"Reported","Sea snails","Artisanal",30,29,3,"R","Landings",290006
+"164","otherdeminvert",2010,"Chile","Gastropoda",11,"Molluscs","R",0.850221311889258,173018,"Unreported","Sea snails","Artisanal",30,29,3,"U","Landings",290006
+"165","otherdeminvert",2010,"Chile","Gastropoda",11,"Molluscs","R",4.44458286649042,173737,"Unreported","Sea snails","Artisanal",30,29,3,"U","Landings",290006
+"166","shrimp",2010,"Chile","Heterocarpus reedi",10,"Crustaceans","R",2.6082862776521,173018,"Reported","Chilean nylon shrimp","Industrial",30,26,1,"R","Landings",690077
+"167","shrimp",2010,"Chile","Heterocarpus reedi",10,"Crustaceans","R",133.351682322228,173737,"Reported","Chilean nylon shrimp","Industrial",30,26,1,"R","Landings",690077
+"168","shrimp",2010,"Chile","Haliporoides diomedeae",10,"Crustaceans","R",0.509794410070965,173737,"Reported","Chilean knife shrimp","Artisanal",30,26,3,"R","Landings",690609
+"169","shrimp",2010,"Chile","Haliporoides diomedeae",10,"Crustaceans","R",0.152938323021289,173737,"Unreported","Chilean knife shrimp","Artisanal",30,26,3,"U","Landings",690609
+"170","benthopelagicmd",2010,"Chile","Coelorinchus chilensis",5,"Cod-likes","R",0.157559137832654,173018,"Reported","Chilean grenadier","Artisanal",30,14,3,"R","Landings",608445
+"171","benthopelagicmd",2010,"Chile","Coelorinchus chilensis",5,"Cod-likes","R",0.900919296450879,173737,"Reported","Chilean grenadier","Artisanal",30,14,3,"R","Landings",608445
+"172","benthopelagicmd",2010,"Chile","Coelorinchus chilensis",5,"Cod-likes","R",0.0472677413497963,173018,"Unreported","Chilean grenadier","Artisanal",30,14,3,"U","Landings",608445
+"173","benthopelagicmd",2010,"Chile","Coelorinchus chilensis",5,"Cod-likes","R",0.270275788935264,173737,"Unreported","Chilean grenadier","Artisanal",30,14,3,"U","Landings",608445
+"174","demersalmd",2010,"Chile","Aplodactylus punctatus",3,"Perch-likes","R",0.00487090954879667,173018,"Reported","Aplodactylus punctatus","Artisanal",30,5,3,"R","Landings",612909
+"175","demersalmd",2010,"Chile","Aplodactylus punctatus",3,"Perch-likes","R",0.0307675855467406,173737,"Reported","Aplodactylus punctatus","Artisanal",30,5,3,"R","Landings",612909
+"176","demersalmd",2010,"Chile","Aplodactylus punctatus",3,"Perch-likes","R",0.00431948582629139,173018,"Reported","Aplodactylus punctatus","Artisanal",30,5,3,"R","Landings",612909
+"177","demersalmd",2010,"Chile","Aplodactylus punctatus",3,"Perch-likes","R",0.0272844626546568,173737,"Reported","Aplodactylus punctatus","Artisanal",30,5,3,"R","Landings",612909
+"178","demersalmd",2010,"Chile","Aplodactylus punctatus",3,"Perch-likes","R",0.001461272864639,173018,"Unreported","Aplodactylus punctatus","Artisanal",30,5,3,"U","Landings",612909
+"179","demersalmd",2010,"Chile","Aplodactylus punctatus",3,"Perch-likes","R",0.00923027566402218,173737,"Unreported","Aplodactylus punctatus","Artisanal",30,5,3,"U","Landings",612909
+"180","demersalmd",2010,"Chile","Aplodactylus punctatus",3,"Perch-likes","R",0.00129584574788742,173018,"Unreported","Aplodactylus punctatus","Artisanal",30,5,3,"U","Landings",612909
+"181","demersalmd",2010,"Chile","Aplodactylus punctatus",3,"Perch-likes","R",0.00818533879639703,173737,"Unreported","Aplodactylus punctatus","Artisanal",30,5,3,"U","Landings",612909
+"182","demersalmd",2010,"Chile","Pinguipes chilensis",3,"Perch-likes","R",0.0200005738955569,173018,"Reported","Chilean sandperch","Artisanal",30,5,3,"R","Landings",612942
+"183","demersalmd",2010,"Chile","Pinguipes chilensis",3,"Perch-likes","R",0.128015426822393,173737,"Reported","Chilean sandperch","Artisanal",30,5,3,"R","Landings",612942
+"184","demersalmd",2010,"Chile","Pinguipes chilensis",3,"Perch-likes","R",0.00600017216866708,173018,"Unreported","Chilean sandperch","Artisanal",30,5,3,"U","Landings",612942
+"185","demersalmd",2010,"Chile","Pinguipes chilensis",3,"Perch-likes","R",0.0384046280467178,173737,"Unreported","Chilean sandperch","Artisanal",30,5,3,"U","Landings",612942
+"186","shrimp",2010,"Chile","Miscellaneous marine crustaceans",10,"Crustaceans","R",0.31184613754617,173018,"Reported","Marine crabs, shrimps, lobsters nei","Artisanal",30,26,3,"R","Landings",100047
+"187","shrimp",2010,"Chile","Miscellaneous marine crustaceans",10,"Crustaceans","R",1.67595211703374,173737,"Reported","Marine crabs, shrimps, lobsters nei","Artisanal",30,26,3,"R","Landings",100047
+"188","shrimp",2010,"Chile","Miscellaneous marine crustaceans",10,"Crustaceans","R",0.0935538412638511,173018,"Unreported","Marine crabs, shrimps, lobsters nei","Artisanal",30,26,3,"U","Landings",100047
+"189","shrimp",2010,"Chile","Miscellaneous marine crustaceans",10,"Crustaceans","R",0.502785635110121,173737,"Unreported","Marine crabs, shrimps, lobsters nei","Artisanal",30,26,3,"U","Landings",100047
+"190","demersalmd",2010,"Chile","Cilus gilberti",3,"Perch-likes","R",0.559685690200891,173018,"Reported","Corvina drum","Artisanal",30,5,3,"R","Landings",626675
+"191","demersalmd",2010,"Chile","Cilus gilberti",3,"Perch-likes","R",3.38829297637294,173737,"Reported","Corvina drum","Artisanal",30,5,3,"R","Landings",626675
+"192","demersalmd",2010,"Chile","Cilus gilberti",3,"Perch-likes","R",0.167905707060267,173018,"Unreported","Corvina drum","Artisanal",30,5,3,"U","Landings",626675
+"193","demersalmd",2010,"Chile","Cilus gilberti",3,"Perch-likes","R",1.01648789291188,173737,"Unreported","Corvina drum","Artisanal",30,5,3,"U","Landings",626675
+"194","demersalmd",2010,"Chile","Prolatilus jugularis",3,"Perch-likes","R",0.0375929451760363,173018,"Reported","Pacific sandperch","Artisanal",30,5,3,"R","Landings",612917
+"195","demersalmd",2010,"Chile","Prolatilus jugularis",3,"Perch-likes","R",0.210678543761528,173737,"Reported","Pacific sandperch","Artisanal",30,5,3,"R","Landings",612917
+"196","demersalmd",2010,"Chile","Prolatilus jugularis",3,"Perch-likes","R",0.0112778835528109,173018,"Unreported","Pacific sandperch","Artisanal",30,5,3,"U","Landings",612917
+"197","demersalmd",2010,"Chile","Prolatilus jugularis",3,"Perch-likes","R",0.0632035631284584,173737,"Unreported","Pacific sandperch","Artisanal",30,5,3,"U","Landings",612917
+"198","demersalsm",2010,"Chile","Normanichthys crockeri",8,"Scorpionfishes","R",34.924275836243,173018,"Reported","Mote sculpin","Artisanal",30,4,3,"R","Landings",604313
+"199","demersalsm",2010,"Chile","Normanichthys crockeri",8,"Scorpionfishes","R",213.611299258894,173737,"Reported","Mote sculpin","Artisanal",30,4,3,"R","Landings",604313
+"200","demersalsm",2010,"Chile","Normanichthys crockeri",8,"Scorpionfishes","R",10.4772827508729,173018,"Unreported","Mote sculpin","Artisanal",30,4,3,"U","Landings",604313
+"201","demersalsm",2010,"Chile","Normanichthys crockeri",8,"Scorpionfishes","R",64.0833897776683,173737,"Unreported","Mote sculpin","Artisanal",30,4,3,"U","Landings",604313
+"202","demersalmd",2010,"Chile","Sciaenidae",3,"Perch-likes","R",0.07850899605211,173018,"Reported","Drums, croakers","Artisanal",30,5,3,"R","Landings",400331
+"203","demersalmd",2010,"Chile","Sciaenidae",3,"Perch-likes","R",0.328639234255324,173737,"Reported","Drums, croakers","Artisanal",30,5,3,"R","Landings",400331
+"204","demersalmd",2010,"Chile","Sciaenidae",3,"Perch-likes","R",0.023552698815633,173018,"Unreported","Drums, croakers","Artisanal",30,5,3,"U","Landings",400331
+"205","demersalmd",2010,"Chile","Sciaenidae",3,"Perch-likes","R",0.0985917702765971,173737,"Unreported","Drums, croakers","Artisanal",30,5,3,"U","Landings",400331
+"206","demersalmd",2010,"Chile","Nemadactylus",3,"Perch-likes","R",0.0328719514633217,173018,"Reported","Porae","Artisanal",30,5,3,"R","Landings",501523
+"207","demersalmd",2010,"Chile","Nemadactylus",3,"Perch-likes","R",0.145916515692262,173737,"Reported","Porae","Artisanal",30,5,3,"R","Landings",501523
+"208","demersalmd",2010,"Chile","Nemadactylus",3,"Perch-likes","R",0.0169340356023172,173018,"Reported","Porae","Artisanal",30,5,3,"R","Landings",501523
+"209","demersalmd",2010,"Chile","Nemadactylus",3,"Perch-likes","R",0.0751691141444989,173737,"Reported","Porae","Artisanal",30,5,3,"R","Landings",501523
+"210","demersalmd",2010,"Chile","Nemadactylus",3,"Perch-likes","R",0.00986158543899651,173018,"Unreported","Porae","Artisanal",30,5,3,"U","Landings",501523
+"211","demersalmd",2010,"Chile","Nemadactylus",3,"Perch-likes","R",0.0437749547076787,173737,"Unreported","Porae","Artisanal",30,5,3,"U","Landings",501523
+"212","demersalmd",2010,"Chile","Nemadactylus",3,"Perch-likes","R",0.00508021068069517,173018,"Unreported","Porae","Artisanal",30,5,3,"U","Landings",501523
+"213","demersalmd",2010,"Chile","Nemadactylus",3,"Perch-likes","R",0.0225507342433497,173737,"Unreported","Porae","Artisanal",30,5,3,"U","Landings",501523
+"214","reef-associatedmd",2010,"Chile","Serranidae",3,"Perch-likes","R",0.0045707741133037,173018,"Reported","Basses, groupers, hinds","Artisanal",30,17,3,"R","Landings",400289
+"215","reef-associatedmd",2010,"Chile","Serranidae",3,"Perch-likes","R",0.0203517557373702,173737,"Reported","Basses, groupers, hinds","Artisanal",30,17,3,"R","Landings",400289
+"216","reef-associatedmd",2010,"Chile","Serranidae",3,"Perch-likes","R",0.00137123223399111,173018,"Unreported","Basses, groupers, hinds","Artisanal",30,17,3,"U","Landings",400289
+"217","reef-associatedmd",2010,"Chile","Serranidae",3,"Perch-likes","R",0.00610552672121107,173737,"Unreported","Basses, groupers, hinds","Artisanal",30,17,3,"U","Landings",400289
+"218","otherdeminvert",2010,"Chile","Bivalvia",11,"Molluscs","R",2.66301080187907,173018,"Reported","Clams","Artisanal",30,29,3,"R","Landings",290004
+"219","otherdeminvert",2010,"Chile","Bivalvia",11,"Molluscs","R",12.9297145418471,173737,"Reported","Clams","Artisanal",30,29,3,"R","Landings",290004
+"220","otherdeminvert",2010,"Chile","Bivalvia",11,"Molluscs","R",0.798903240563722,173018,"Unreported","Clams","Artisanal",30,29,3,"U","Landings",290004
+"221","otherdeminvert",2010,"Chile","Bivalvia",11,"Molluscs","R",3.87891436255413,173737,"Unreported","Clams","Artisanal",30,29,3,"U","Landings",290004
+"222","benthopelagicmd",2010,"Chile","Seriolella",3,"Perch-likes","R",0.172282421326336,173018,"Reported","Warehous, butterfishes","Artisanal",30,14,3,"R","Landings",502004
+"223","benthopelagicmd",2010,"Chile","Seriolella",3,"Perch-likes","R",1.04160662354683,173737,"Reported","Warehous, butterfishes","Artisanal",30,14,3,"R","Landings",502004
+"224","benthopelagicmd",2010,"Chile","Seriolella",3,"Perch-likes","R",0.0516847263979009,173018,"Unreported","Warehous, butterfishes","Artisanal",30,14,3,"U","Landings",502004
+"225","benthopelagicmd",2010,"Chile","Seriolella",3,"Perch-likes","R",0.312481987064048,173737,"Unreported","Warehous, butterfishes","Artisanal",30,14,3,"U","Landings",502004
+"226","demersalmd",2010,"Chile","Marine groundfishes not identified",12,"Other fishes & inverts","R",0.00103780338111222,173018,"Reported","Groundfishes","Artisanal",30,5,3,"R","Landings",100239
+"227","demersalmd",2010,"Chile","Marine groundfishes not identified",12,"Other fishes & inverts","R",0.00676431760923459,173737,"Reported","Groundfishes","Artisanal",30,5,3,"R","Landings",100239
+"228","demersalmd",2010,"Chile","Marine groundfishes not identified",12,"Other fishes & inverts","R",0.000311341014333666,173018,"Unreported","Groundfishes","Artisanal",30,5,3,"U","Landings",100239
+"229","demersalmd",2010,"Chile","Marine groundfishes not identified",12,"Other fishes & inverts","R",0.00202929528277038,173737,"Unreported","Groundfishes","Artisanal",30,5,3,"U","Landings",100239
+"230","lobsters,crab",2010,"Chile","Lithodes",10,"Crustaceans","R",0.785988385538883,173018,"Reported","King crabs","Artisanal",30,27,3,"R","Landings",590070
+"231","lobsters,crab",2010,"Chile","Lithodes",10,"Crustaceans","R",5.16257073223335,173737,"Reported","King crabs","Artisanal",30,27,3,"R","Landings",590070
+"232","lobsters,crab",2010,"Chile","Lithodes",10,"Crustaceans","R",0.235796515661665,173018,"Unreported","King crabs","Artisanal",30,27,3,"U","Landings",590070
+"233","lobsters,crab",2010,"Chile","Lithodes",10,"Crustaceans","R",1.54877121967001,173737,"Unreported","King crabs","Artisanal",30,27,3,"U","Landings",590070
+"234","flatfishsm md",2010,"Chile","Pleuronectiformes",7,"Flatfishes","D",0.101181503910661,173018,"Unreported","Flatfishes","Industrial",30,23,1,"U","Discards",300061
+"235","flatfishsm md",2010,"Chile","Pleuronectiformes",7,"Flatfishes","D",3.02017409310069,173737,"Unreported","Flatfishes","Industrial",30,23,1,"U","Discards",300061
+"236","shrimp",2010,"Chile","Malacostraca",10,"Crustaceans","R",0.180785517096812,173018,"Reported","Lobsters, crabs, shrimps, krill","Artisanal",30,26,3,"R","Landings",290022
+"237","shrimp",2010,"Chile","Malacostraca",10,"Crustaceans","R",0.971594108849854,173737,"Reported","Lobsters, crabs, shrimps, krill","Artisanal",30,26,3,"R","Landings",290022
+"238","shrimp",2010,"Chile","Malacostraca",10,"Crustaceans","R",0.0542356551290435,173018,"Unreported","Lobsters, crabs, shrimps, krill","Artisanal",30,26,3,"U","Landings",290022
+"239","shrimp",2010,"Chile","Malacostraca",10,"Crustaceans","R",0.291478232654956,173737,"Unreported","Lobsters, crabs, shrimps, krill","Artisanal",30,26,3,"U","Landings",290022
+"240","raylg",2010,"Chile","Rajidae",9,"Sharks & rays","R",0.0193020640039797,173737,"Reported","Stingrays","Artisanal",30,22,3,"R","Landings",400019
+"241","raylg",2010,"Chile","Rajidae",9,"Sharks & rays","R",0.0057906192011939,173737,"Unreported","Stingrays","Artisanal",30,22,3,"U","Landings",400019
+"242","pelagicsm",2010,"Chile","Odontesthes regia",12,"Other fishes & inverts","R",0.264199072165398,173018,"Reported","Chilean silverside","Artisanal",30,1,3,"R","Landings",608172
+"243","pelagicsm",2010,"Chile","Odontesthes regia",12,"Other fishes & inverts","R",1.56043046082786,173737,"Reported","Chilean silverside","Artisanal",30,1,3,"R","Landings",608172
+"244","pelagicsm",2010,"Chile","Odontesthes regia",12,"Other fishes & inverts","R",0.0792597216496193,173018,"Unreported","Chilean silverside","Artisanal",30,1,3,"U","Landings",608172
+"245","pelagicsm",2010,"Chile","Odontesthes regia",12,"Other fishes & inverts","R",0.468129138248359,173737,"Unreported","Chilean silverside","Artisanal",30,1,3,"U","Landings",608172
+"246","pelagiclg",2010,"Chile","Istiophoridae",4,"Tuna & billfishes","R",0.0039037259070164,173018,"Reported","Billfishes","Artisanal",30,3,3,"R","Landings",400419
+"247","pelagiclg",2010,"Chile","Istiophoridae",4,"Tuna & billfishes","R",0.0745216833062598,173737,"Reported","Billfishes","Artisanal",30,3,3,"R","Landings",400419
+"248","pelagiclg",2010,"Chile","Istiophoridae",4,"Tuna & billfishes","R",0.00117111777210492,173018,"Unreported","Billfishes","Artisanal",30,3,3,"U","Landings",400419
+"249","pelagiclg",2010,"Chile","Istiophoridae",4,"Tuna & billfishes","R",0.022356504991878,173737,"Unreported","Billfishes","Artisanal",30,3,3,"U","Landings",400419
+"250","demersalmd",2010,"Chile","Perciformes",3,"Perch-likes","R",0.0894746061305773,173737,"Reported","Perch-likes","Artisanal",30,5,3,"R","Landings",300060
+"251","demersalmd",2010,"Chile","Perciformes",3,"Perch-likes","R",0.0894746061305773,173737,"Reported","Perch-likes","Artisanal",30,5,3,"R","Landings",300060
+"252","demersalmd",2010,"Chile","Perciformes",3,"Perch-likes","R",0.0268423818391732,173737,"Unreported","Perch-likes","Artisanal",30,5,3,"U","Landings",300060
+"253","demersalmd",2010,"Chile","Perciformes",3,"Perch-likes","R",0.0268423818391732,173737,"Unreported","Perch-likes","Artisanal",30,5,3,"U","Landings",300060
+"254","demersalmd",2010,"Chile","Scorpaeniformes",8,"Scorpionfishes","R",0.346269338561756,173737,"Reported","Scorpionfishes, flatheads","Artisanal",30,5,3,"R","Landings",300059
+"255","demersalmd",2010,"Chile","Scorpaeniformes",8,"Scorpionfishes","R",0.103880801568527,173737,"Unreported","Scorpionfishes, flatheads","Artisanal",30,5,3,"U","Landings",300059
+"256","demersalmd",2010,"Chile","Haemulidae",3,"Perch-likes","R",0.00105610566165413,173018,"Reported","Grunts, sweetlips, bonnetmouths","Artisanal",30,5,3,"R","Landings",400327
+"257","demersalmd",2010,"Chile","Haemulidae",3,"Perch-likes","R",0.00404200726941288,173737,"Reported","Grunts, sweetlips, bonnetmouths","Artisanal",30,5,3,"R","Landings",400327
+"258","demersalmd",2010,"Chile","Haemulidae",3,"Perch-likes","R",0.00031683169849624,173018,"Unreported","Grunts, sweetlips, bonnetmouths","Artisanal",30,5,3,"U","Landings",400327
+"259","demersalmd",2010,"Chile","Haemulidae",3,"Perch-likes","R",0.00121260218082387,173737,"Unreported","Grunts, sweetlips, bonnetmouths","Artisanal",30,5,3,"U","Landings",400327

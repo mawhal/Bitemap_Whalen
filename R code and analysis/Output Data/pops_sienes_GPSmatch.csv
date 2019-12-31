@@ -1,0 +1,169 @@
+"Lat","Long","Country","Site.Name","habitat"
+-38.193552,144.711297,"Australia (VIC)",NA,NA
+-38.19355,144.7113,"Australia (VIC)","Edwards Point","Seagrass"
+-38.19355,144.7113,"Australia (VIC)","Edwards Point","Unveg"
+-38.180151,144.715595,"Australia (VIC)",NA,NA
+-38.18015,144.7156,"Australia (VIC)","St. Leonards","Seagrass"
+-38.18015,144.7156,"Australia (VIC)","St. Leonards","Unveg"
+-38.152773,144.716919,"Australia (VIC)",NA,NA
+-38.15277,144.71692,"Australia (VIC)","Indented Head","Seagrass"
+-38.15277,144.71692,"Australia (VIC)","Indented Head","Unveg"
+-35.09903,150.57948,"Australia (NSW1.1)",NA,NA
+-33.84018,151.25313,"Australia (NSW1.2)",NA,NA
+-32.380278,152.508889,"Australia (NSW)","Smiths_Lake_NSW","Seagrass"
+-32.380278,152.508889,"Australia (NSW)","Smiths_Lake_NSW","Unveg"
+-30.50648,153.02373,"Australia (NSW2)","Urunga Lagoon 1","Seagrass"
+-30.50583,153.02362,"Australia (NSW2)",NA,NA
+-30.50466,153.02372,"Australia (NSW2)",NA,NA
+-30.50439,153.0238,"Australia (NSW2)",NA,NA
+-30.5042,153.02395,"Australia (NSW2)","Urunga Lagoon 2","Unveg"
+-30.298295,-71.605056,"Chile","Puerto Aldea (Chile)","Unveg"
+-30.298258,-71.605429,"Chile","Puerto Aldea (Chile)","Unveg"
+-30.29754,-71.607033,"Chile",NA,NA
+-30.293,-71.608228,"Chile",NA,NA
+-30.292541,-71.608146,"Chile","Puerto Aldea (Chile)","Seagrass"
+-27.496161,153.396698,"Australia (QLD3)","Moreton_Bay","Unveg"
+-27.495714,153.396891,"Australia (QLD3)","Moreton_Bay","Unveg"
+-27.495251,153.396907,"Australia (QLD3)","Moreton_Bay","Unveg"
+-27.494632,153.39706,"Australia (QLD3)",NA,NA
+-27.494235,153.397253,"Australia (QLD3)","Moreton_Bay","Seagrass"
+-27.49408,153.397264,"Australia (QLD3)",NA,NA
+-27.493998,153.397206,"Australia (QLD3)","Moreton_Bay","Seagrass"
+-27.493913,153.397212,"Australia (QLD3)","Moreton_Bay","Seagrass"
+-26.393508,153.055206,"Australia (QLD2)","Noosa river","Seagrass"
+-26.393508,153.055206,"Australia (QLD2)","Noosa river","Unveg"
+-25.307906,152.909319,"Australia (QLD2)","Hervey Bay","Seagrass"
+-25.307906,152.909319,"Australia (QLD2)","Hervey Bay","Unveg"
+-23.78863,-45.36364,"Brazil","Praia do Engenho","Seagrass"
+-23.762,-45.34991,"Brazil",NA,NA
+-23.76199,-45.34991,"Brazil","Praia do Barreiro","Unveg"
+-20.02034,148.24826,"Australia (QLD)","Bowen","Unveg"
+-20.01734,148.25191,"Australia (QLD)","Bowen","Seagrass"
+-16.7556,145.97476,"Australia (QLD4)",NA,NA
+-16.75543,145.97242,"Australia (QLD4)",NA,NA
+-16.75543,145.97292,"Australia (QLD4)",NA,NA
+-16.75542,145.97292,"Australia (QLD4)",NA,NA
+9.351617,-82.257759,"Panama",NA,NA
+9.351809,-82.257631,"Panama",NA,NA
+10.06677,73.63355,"India",NA,NA
+10.07013,73.63361,"India",NA,NA
+16.80254722,-88.08194444,"Belize",NA,NA
+19.82687,-87.45509,"Mexico (ICML2)",NA,NA
+19.8271,-87.45401,"Mexico (ICML2)",NA,NA
+19.82721,-87.45526,"Mexico (ICML2)",NA,NA
+19.82738,-87.45408,"Mexico (ICML2)",NA,NA
+20.83433,-86.87647,"Mexico (ICML)",NA,NA
+20.8347,-86.87654,"Mexico (ICML)",NA,NA
+27.37951,-97.17278,"USA (TX)",NA,NA
+27.37981,-97.17288,"USA (TX)",NA,NA
+27.37984,-97.17288,"USA (TX)",NA,NA
+27.37985,-97.17283,"USA (TX)",NA,NA
+27.42443,-97.19447,"USA (TX)",NA,NA
+27.42446,-97.19337,"USA (TX)",NA,NA
+27.42466,-97.19377,"USA (TX)",NA,NA
+27.53467,-97.06697,"USA (TX)",NA,NA
+27.53467,-97.06679,"USA (TX)",NA,NA
+27.53477,-97.06673,"USA (TX)",NA,NA
+27.53546,-80.347016,"USA (FL)",NA,NA
+27.536592,-80.34928,"USA (FL)",NA,NA
+27.6325167,-97.2879667,"USA (TX)","Laguna Madre","Seagrass"
+27.6330167,-97.2881333,"USA (TX)","Laguna Madre","Unveg"
+27.6330667,-97.2881333,"USA (TX)","Laguna Madre","Unveg"
+27.6330833,-97.28805,"USA (TX)","Laguna Madre","Seagrass"
+27.7073833,-97.3241167,"USA (TX)","Oso Bay","Unveg"
+27.7073833,-97.3241167,"USA (TX)","Oso Bay ","Unveg"
+27.7074333,-97.32295,"USA (TX)","Oso Bay","Seagrass"
+27.7074333,-97.3222833,"USA (TX)","Oso Bay","Seagrass"
+27.8911167,-97.1116167,"USA (TX)","Aransas Pass","Seagrass"
+27.8912833,-97.1112167,"USA (TX)","Aransas Pass","Unveg"
+31.753025,-116.625858,"Mexico (BN)",NA,NA
+31.75303,-116.62586,"Mexico (BN)","Punta Banda Estuary","Seagrass"
+31.753106,-116.625137,"Mexico (BN)",NA,NA
+31.75311,-116.62514,"Mexico (BN)","Punta Banda Estuary","Unveg"
+32.765165,-117.246656,"USA (CA)",NA,NA
+32.765211,-117.246564,"USA (CA)","San Diego","Unveg"
+32.765211,-117.246564,"USA (CA)","San Diego","Seagrass"
+32.76538,-117.24635,"USA (CA)",NA,NA
+34.69051,-76.62245,"USA (NC)","NC","Unveg"
+34.69099,-76.62199,"USA (NC)","NC","Seagrass"
+34.7004,-76.8335,"USA (NC2)","Pine Knoll Shores","Seagrass"
+34.7282,128.6047,"Korea","Koje-Korea","Seagrass"
+34.7288,128.6047,"Korea","Koje-Korea","Unveg"
+34.7289,128.6047,"Korea",NA,NA
+35.348999,-120.8442,"USA (CA2)","Windy Cove","Unveg"
+35.349033,-120.844223,"USA (CA2)",NA,NA
+35.349373,-120.8442,"USA (CA2)",NA,NA
+35.349622,-120.844105,"USA (CA2)","Windy Cove","Unveg"
+35.349722,-120.843889,"USA (CA2)","Windy Cove","Unveg"
+35.349861,-120.844376,"USA (CA2)",NA,NA
+35.350021,-120.844398,"USA (CA2)",NA,NA
+35.35009,-120.844383,"USA (CA2)","Windy Cove","Seagrass"
+35.350716,-120.844627,"USA (CA2)","Windy Cove","Seagrass"
+35.350758,-120.844688,"USA (CA2)","Windy Cove","Seagrass"
+36.809236,-121.783232,"USA (CA3)","Elkhorn Slough","Unveg"
+36.810708,-121.782105,"USA (CA3)","Elkhorn Slough","Seagrass"
+37.215796,-76.392675,"USA (VA)","Goodwin Island","Seagrass"
+37.68154,-75.86672,"USA (VA2)","PungSAV2","Seagrass"
+37.68175,-75.86651,"USA (VA2)","PungSand2","Unveg"
+37.68199,-75.86617,"USA (VA2)","PungSand3","Unveg"
+37.68225,-75.86633,"USA (VA2)","PungSAV3","Seagrass"
+37.68751,-75.86738,"USA (VA2)","PungSand1","Unveg"
+37.68882,-75.86724,"USA (VA2)","PungSAV1","Seagrass"
+38.472539,-75.9491,"USA (DE)","UD Lewes, DE","Unveg"
+42.41978,-70.91522,"USA (MA)",NA,NA
+42.41986,-70.91506,"USA (MA)",NA,NA
+42.42026,-70.91574,"USA (MA)","Dorothy Cove","Seagrass"
+42.42035,-70.91564,"USA (MA)","Dorothy Cove","Seagrass"
+42.42044,-70.91594,"USA (MA)","Dorothy Cove","Unveg"
+42.42046,-70.91641,"USA (MA)",NA,NA
+42.42047,-70.91578,"USA (MA)","Dorothy Cove","Unveg"
+42.42049,-70.91531,"USA (MA)","Dorothy Cove","Unveg"
+42.42057,-70.91625,"USA (MA)",NA,NA
+42.42059,-70.91541,"USA (MA)","Dorothy Cove","Seagrass"
+43.06711,9.831426,"Italy",NA,NA
+43.067767,9.83136,"Italy",NA,NA
+43.06781,9.831083,"Italy",NA,NA
+43.068,9.831061,"Italy",NA,NA
+43.315013,-124.320361,"USA (OR)","OIMB-Valino-SSNERR","Seagrass"
+43.315383,-124.320926,"USA (OR)","OIMB-Valino-SSNERR","Unveg"
+43.447124,3.666644,"France","Bouzigues","Unveg"
+43.447124,3.666644,"France","Bouzigues","Seagrass"
+44.20182,15.47361,"Croatia","CR-B-SvetiDuh","Unveg"
+44.20264,15.47251,"Croatia","CR-B-SvetiDuh","Unveg"
+44.202902,15.475608,"Croatia",NA,NA
+44.20323,15.47232,"Croatia","CR-B-SvetiDuh","Unveg"
+44.20603,15.47262,"Croatia","CR-B-SvetiDuh","Seagrass"
+44.20607,15.472477,"Croatia",NA,NA
+44.20628,15.47166,"Croatia","CR-B-SvetiDuh","Seagrass"
+44.20671,15.47138,"Croatia","CR-B-SvetiDuh","Seagrass"
+47.3457,-122.329,"USA (WA)","Redondo S-5","Unveg"
+47.346,-122.33,"USA (WA)",NA,NA
+47.346,-122.329,"USA (WA)","Redondo S-6","Seagrass"
+47.349,-122.324,"USA (WA)","Redondo N-4","Unveg"
+47.349,-122.32,"USA (WA)",NA,NA
+47.3497,-122.324,"USA (WA)","Redondo N-3","Unveg"
+47.35,-122.32,"USA (WA)","Redondo N1","Seagrass"
+47.3503,-122.324,"USA (WA)","Redondo N2","Seagrass"
+47.351,-122.324,"USA (WA)",NA,NA
+48.48532472,-123.07541,"USA (WA2)","False Bay","Unveg"
+48.48532472,-123.07541,"USA (WA2)","False Bay","Seagrass"
+49.08779,-68.32173,"Canada (QC)",NA,NA
+49.08802,-68.32182,"Canada (QC)",NA,NA
+49.0891,-68.32311,"Canada (QC)","QC_Baie St-Ludger","Unveg"
+49.0891,-68.32311,"Canada (QC)","QC_Baie St-Ludger","Seagrass"
+51.67617,-128.12361,"Canada (BC)",NA,NA
+51.676307,-128.123624,"Canada (BC)",NA,NA
+51.676595,-128.123782,"Canada (BC)","Choked Pocket","Seagrass"
+51.681297,-128.114385,"Canada (BC)","Choked Sandspit","Unveg"
+51.681421,-128.113965,"Canada (BC)",NA,NA
+51.68157,-128.1138,"Canada (BC)",NA,NA
+52.94046,-4.56424,"Wales","Porthdinllaen, UK","Unveg"
+52.9425,-4.56553,"Wales","Porthdinllaen, UK","Seagrass"
+52.94251,-4.56562,"Wales","Porthdinllaen, UK","Seagrass"
+52.9426,-4.56519,"Wales","Porthdinllaen, UK","Seagrass"
+54.5265,-5.5752,"Ireland",NA,NA
+54.530033,-5.571583,"Ireland",NA,NA
+58.60853,-134.93083,"USA (AK)","Sunshine Cove","Unveg"
+58.60859,-134.93278,"USA (AK)","Sunshine Cove","Seagrass"
+67.214334,15.007534,"Norway","NN_Juvika","Seagrass"
+67.214334,15.007534,"Norway","NN_Juvika","Unveg"

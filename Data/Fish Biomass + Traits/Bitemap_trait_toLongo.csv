@@ -1,0 +1,154 @@
+Country,sciName,family,active.ambush,feedingTypeFishbase,trophicGroupRLS,waterColumnRLS
+Australia (NSW2),Ambassis jacksoniensis,Ambassidae,ambush,selective plankton feeding,planktivore,demersal
+Australia (QLD2),Ambassis marianus,Ambassidae,ambush,selective plankton feeding,planktivore,demersal
+Australia (QLD2),Ambassis marianus,Ambassidae,ambush,selective plankton feeding,planktivore,demersal
+France,Atherina boyeri,Atherinidae,active,hunting macrofauna (predator),planktivore;benthic invertivore,pelagic site attached
+USA (NC),Menidia menidia,Atherinopsidae,active,selective plankton feeding,Benthic invertivore,pelagic site attached
+USA (VA2),Menidia menidia,Atherinopsidae,active,selective plankton feeding,planktivore,pelagic site attached
+Chile,Odontesthes sp.,Atherinopsidae,active,selective plankton feeding,planktivore,pelagic site attached
+Canada (BC),Aulorhynchus flavidus,Aulorhynchidae,ambush,hunting macrofauna (predator),Planktivore,Pelagic site attached
+USA (AK),Aulorhynchus flavidus,Aulorhynchidae,ambush,hunting macrofauna (predator),planktivore;benthic invertivore,Demersal
+USA (WA),Aulorhynchus flavidus,Aulorhynchidae,ambush,selective plankton feeding,planktivore;benthic invertivore,Benthopelagic
+Australia (NSW2),Aulostomus chinensis,Aulostomidae,ambush,hunting macrofauna (predator),higher carnivore,pelagic site attached
+Mexico (ICML),Balistes vetula,Balistidae,active,hunting macrofauna (predator),NA,NA
+Mexico (ICML),Canthidermis sufflamen,Balistidae,active,selective plankton feeding,NA,NA
+USA (NC),Opsanus tau,Batrachoididae,ambush,hunting macrofauna (predator),benthic invertivore;higher carnivore,benthic
+USA (CA),Strongylura exilis,Belonidae,active,hunting macrofauna (predator),NA,NA
+USA (VA),Strongylura marina,Belonidae,active,hunting macrofauna (predator),NA,NA
+USA (VA2),Strongylura marina,Belonidae,active,hunting macrofauna (predator),higher carnivore,pelagic non-site attached
+USA (NC),Chasmodes saburrae,Blenniidae,ambush,hunting macrofauna (predator),omnivore,benthic
+Mexico (BN),Hypsoblennius gentilis,Blenniidae,ambush,Hunting macrofauna (predator),Benthic invertivore,Benthic
+USA (CA),Hypsoblennius gentilis,Blenniidae,ambush,NA,NA,NA
+USA (CA2),Hypsoblennius gentilis,Blenniidae,ambush,NA,NA,NA
+Chile,Hypsoblennius sordidus,Blenniidae,ambush,variable,omnivore,benthic
+Australia (QLD3),Petroscirtes lupus,Blenniidae,ambush,variable,Omnivore,benthic
+Australia (QLD2),Petroscirtes variabilis,Blenniidae,ambush,hunting macrofauna (predator),scraping herbivore,benthic
+Australia (QLD2),Plagiotremus tapeinosoma,Blenniidae,ambush,hunting macrofauna (predator),NA,NA
+USA (WA),Brachyistius frenatus,Embiotocidae,active,hunting macrofauna (predator),Benthic invertivore,demersal
+USA (WA2),Brachyistius frenatus,Embiotocidae,active,hunting macrofauna (predator),Benthic invertivore,pelagic site attached
+Canada (BC),Cymatogaster aggregata,Embiotocidae,active,hunting macrofauna (predator),Benthic invertivore,Pelagic site attached
+USA (CA),Cymatogaster aggregata,Embiotocidae,active,hunting macrofauna (predator),NA,NA
+USA (CA2),Cymatogaster aggregata,Embiotocidae,active,hunting macrofauna (predator),NA,NA
+USA (CA3),Cymatogaster aggregata,Embiotocidae,active,hunting macrofauna (predator),planktivore;benthic invertivore,demersal
+USA (OR),Cymatogaster aggregata,Embiotocidae,active,hunting macrofauna (predator),NA,NA
+USA (WA),Cymatogaster aggregata,Embiotocidae,active,hunting macrofauna (predator),Benthic invertivore,demersal
+USA (WA),Cymatogaster aggregata,Embiotocidae,active,hunting macrofauna (predator),Benthic invertivore,demersal
+USA (WA),Cymatogaster aggregata,Embiotocidae,active,hunting macrofauna (predator),Benthic invertivore,demersal
+USA (WA2),Cymatogaster aggregata,Embiotocidae,active,hunting macrofauna (predator),Benthic invertivore,Demersal
+Brazil,Eucinostomus argenteus,Gerreidae,active,hunting macrofauna (predator),benthic invertivore,demersal
+Brazil,Eucinostomus argenteus,Gerreidae,active,hunting macrofauna (predator),benthic invertivore,demersal
+USA (TX),Eucinostomus argenteus,Gerreidae,active,hunting macrofauna (predator),NA,demersal
+USA (NC),Eucinostomus harengulus,Gerreidae,active,hunting macrofauna (predator),Benthic invertivore,demersal
+Mexico (ICML2),Eucinostomus melanopterus,Gerreidae,active,NA,NA,demersal
+Mexico (ICML),Gerres cinereus,Gerreidae,active,hunting macrofauna (predator),NA,demersal
+Australia (QLD),Gerres oyena,Gerreidae,active,hunting macrofauna (predator),Benthic invertivore,demersal
+Australia (NSW),Gerres subfasciatus,Gerreidae,active,hunting macrofauna (predator),benthic invertivore,demersal
+Australia (NSW2),Gerres subfasciatus,Gerreidae,active,hunting macrofauna (predator),benthic invertivore,demersal
+Australia (NSW2),Gerres subfasciatus,Gerreidae,active,hunting macrofauna (predator),benthic invertivore,demersal
+Australia (QLD2),Gerres subfasciatus,Gerreidae,active,hunting macrofauna (predator),Benthic invertivore,demersal
+Australia (QLD2),Gerres subfasciatus,Gerreidae,active,hunting macrofauna (predator),Benthic invertivore,demersal
+Australia (QLD3),Gerres subfasciatus,Gerreidae,active,hunting macrofauna (predator),Benthic invertivore,demersal
+Mexico (ICML),Anisotremus virginicus,Haemulidae,active,hunting macrofauna (predator),NA,NA
+Australia (QLD3),Diagramma pictum,Haemulidae,active,hunting macrofauna (predator),NA,NA
+Mexico (ICML),Haemulon plumieri,Haemulidae,active,NA,NA,NA
+Mexico (ICML),Haemulon sciurus,Haemulidae,active,hunting macrofauna (predator),NA,NA
+Chile,Isacia conceptionis,Haemulidae,active,hunting macrofauna (predator),benthic invertivore,benthic
+USA (NC),Orthopristis chrysoptera,Haemulidae,active,hunting macrofauna (predator),higher carnivore,demersal
+USA (NC2),Orthopristis chrysoptera,Haemulidae,active,hunting macrofauna (predator),NA,NA
+Australia (QLD3),Arrhamphus sclerolepis,Hemiramphidae,active,variable,Omnivore,pelagic site attached
+Australia (QLD2),Hemiramphus robustus,Hemiramphidae,active,hunting macrofauna (predator),higher carnivore,pelagic site attached
+Australia (NSW),Hyporhamphus australis,Hemiramphidae,active,variable,omnivore,pelagic site attached
+USA (NC),Hyporhamphus brasiliensis,Hemiramphidae,active,selective plankton feeding,omnivore,pelagic site attached
+USA (VA2),Hyporhamphus meeki,Hemiramphidae,active,variable,NA,pelagic site attached
+Australia (NSW2),Hyporhamphus regularis,Hemiramphidae,active,variable,omnivore,pelagic site attached
+Australia (QLD3),Hyporhamphus regularis,Hemiramphidae,active,variable,Omnivore,pelagic site attached
+Australia (QLD3),Hyporhamphus regularis ardelio,Hemiramphidae,active,variable,Omnivore,pelagic site attached
+Mexico (BN),Hyporhamphus rosae,Hemiramphidae,active,Selective plankton feeding,Planktivore,pelagic site attached
+Australia (QLD2),Hyporhamphus sp.,Hemiramphidae,active,NA,NA,pelagic site attached
+Australia (NSW),Sillago ciliata,Sillaginidae,active,hunting macrofauna (predator),benthic invertivore,demersal
+Australia (QLD),Sillago maculata,Sillaginidae,active,hunting macrofauna (predator),Benthic invertivore,Demersal
+Australia (QLD2),Sillago maculata,Sillaginidae,active,hunting macrofauna (predator),benthic invertivore,benthic
+Australia (QLD2),Sillago maculata,Sillaginidae,active,hunting macrofauna (predator),benthic invertivore,benthic
+Australia (QLD3),Sillago maculata,Sillaginidae,active,hunting macrofauna (predator),Benthic invertivore,benthic
+Australia (NSW2),Sillago sp.,Sillaginidae,active,hunting macrofauna (predator),benthic invertivore,demersal
+Australia (NSW2),Sillago sp.,Sillaginidae,active,hunting macrofauna (predator),benthic invertivore,demersal
+Korea,Sillago sp.,Sillaginidae,active,NA,NA,NA
+Australia (NSW),Acanthopagrus australis,Sparidae,active,hunting macrofauna (predator),benthic invertivore,demersal
+Australia (NSW2),Acanthopagrus australis,Sparidae,active,hunting macrofauna (predator),benthic invertivore,demersal
+Australia (QLD3),Acanthopagrus australis,Sparidae,active,hunting macrofauna (predator),Benthic invertivore,Demersal
+USA (FL),Archosargus probatocephalus,Sparidae,active,hunting macrofauna (predator),benthic invertivore,benthic
+USA (TX),Archosargus probatocephalus,Sparidae,active,hunting macrofauna (predator),NA,NA
+Italy,Boops boops,Sparidae,active,selective plankton feeding,NA,NA
+Croatia,Diplodus annularis,Sparidae,active,hunting macrofauna (predator),NA,NA
+Italy,Diplodus annularis,Sparidae,active,hunting macrofauna (predator),NA,NA
+USA (NC),Diplodus holbrookii,Sparidae,active,grazing on aquatic plants,omnivore,demersal
+Italy,Diplodus puntazzo,Sparidae,active,hunting macrofauna (predator),NA,NA
+France,Diplodus sargus,Sparidae,active,hunting macrofauna (predator),omnivore,Demersal
+Italy,Diplodus sargus,Sparidae,active,hunting macrofauna (predator),omnivore,Demersal
+Italy,Diplodus vulgaris,Sparidae,active,hunting macrofauna (predator),omnivore,Demersal
+USA (NC),Lagodon rhomboides,Sparidae,active,hunting macrofauna (predator),omnivore,demersal
+USA (NC2),Lagodon rhomboides,Sparidae,active,hunting macrofauna (predator),omnivore,demersal
+USA (TX),Lagodon rhomboides,Sparidae,active,hunting macrofauna (predator),omnivore,demersal
+Italy,Oblada melanura,Sparidae,active,hunting macrofauna (predator),NA,NA
+Italy,Sarpa salpa,Sparidae,active,grazing on aquatic plants,Browsing herbivore,Demersal
+Croatia,Sparus aurata,Sparidae,active,hunting macrofauna (predator),NA,NA
+France,Sparus aurata,Sparidae,active,hunting macrofauna (predator),NA,NA
+Italy,Sparus aurata,Sparidae,active,hunting macrofauna (predator),NA,NA
+France,Sparus sp.,Sparidae,active,hunting macrofauna (predator),Higher carnivore,NA
+Italy,Spondyliosoma cantharus,Sparidae,active,variable,NA,NA
+Wales,Entelurus aequoreus,Syngnathidae,ambush,hunting macrofauna (predator),planktivore;benthic invertivore,NA
+Australia (QLD3),Hippichthys penicillus,Syngnathidae,ambush,selective plankton feeding,Planktivore,Demersal
+Australia (QLD3),Hippocampus procerus,Syngnathidae,ambush,selective plankton feeding,Planktivore,Demersal
+USA (NC),Hippocampus sp.,Syngnathidae,ambush,hunting macrofauna (predator),planktivore;benthic invertivore,Demersal
+Australia (QLD3),Hippocampus whitei,Syngnathidae,ambush,selective plankton feeding,Planktivore,Demersal
+Australia (VIC),Stigmatopora argus,Syngnathidae,ambush,hunting macrofauna (predator),Benthic invertivore,Demersal
+France,Syngnathus abaster,Syngnathidae,ambush,selective plankton feeding,NA,Demersal
+Wales,Syngnathus acus,Syngnathidae,ambush,hunting macrofauna (predator),NA,Demersal
+USA (TX),Syngnathus floridae,Syngnathidae,ambush,hunting macrofauna (predator),NA,Demersal
+USA (VA2),Syngnathus fuscus,Syngnathidae,ambush,hunting macrofauna (predator),NA,demersal
+Canada (BC),Syngnathus leptorhynchus,Syngnathidae,ambush,hunting macrofauna (predator),Planktivore,demersal
+Mexico (BN),Syngnathus leptorhynchus,Syngnathidae,ambush,Hunting macrofauna (predator),Benthic invertivore,demersal
+USA (AK),Syngnathus leptorhynchus,Syngnathidae,ambush,hunting macrofauna (predator),planktivore;benthic invertivore,demersal
+USA (CA),Syngnathus leptorhynchus,Syngnathidae,ambush,hunting macrofauna (predator),NA,demersal
+USA (CA2),Syngnathus leptorhynchus,Syngnathidae,ambush,hunting macrofauna (predator),NA,demersal
+USA (OR),Syngnathus leptorhynchus,Syngnathidae,ambush,hunting macrofauna (predator),NA,demersal
+USA (WA),Syngnathus leptorhynchus,Syngnathidae,ambush,hunting macrofauna (predator),Benthic invertivore,demersal
+USA (WA),Syngnathus leptorhynchus,Syngnathidae,ambush,hunting macrofauna (predator),Benthic invertivore,demersal
+USA (WA2),Syngnathus leptorhynchus,Syngnathidae,ambush,hunting macrofauna (predator),Benthic invertivore,demersal
+Australia (QLD),Syngnathus sp.,Syngnathidae,ambush,selective plankton feeding,planktivore,demersal
+Australia (QLD2),Syngnathus sp.,Syngnathidae,ambush,hunting macrofauna (predator),planktivore;benthic invertivore,demersal
+France,Syngnathus sp.,Syngnathidae,ambush,selective plankton feeding,NA,demersal
+USA (NC),Syngnathus sp.,Syngnathidae,ambush,hunting macrofauna (predator),planktivore;benthic invertivore,demersal
+Croatia,Syngnathus typhle,Syngnathidae,ambush,selective plankton feeding,planktivore;benthic invertivore,demersal
+France,Syngnathus typhle,Syngnathidae,ambush,selective plankton feeding,NA,demersal
+Australia (QLD3),Urocampus carinirostris,Syngnathidae,ambush,selective plankton feeding,Planktivore,demersal
+Australia (NSW2),Saurida nebulosa,Synodontidae,ambush,hunting macrofauna (predator),higher carnivore,benthic
+USA (TX),Synodus foetens,Synodontidae,ambush,hunting macrofauna (predator),NA,NA
+Brazil,Synodus myops,Synodontidae,ambush,hunting macrofauna (predator),higher carnivore,benthic
+Australia (NSW),Helotes sexlineatus,Terapontidae,active,hunting macrofauna (predator),benthic invertivore,demersal
+Australia (NSW2),Helotes sexlineatus,Terapontidae,active,hunting macrofauna (predator),benthic invertivore,demersal
+Australia (QLD2),Helotes sexlineatus,Terapontidae,active,hunting macrofauna (predator),Benthic invertivore,benthic
+Australia (QLD2),Helotes sexlineatus,Terapontidae,active,hunting macrofauna (predator),Benthic invertivore,benthic
+Australia (QLD3),Helotes sexlineatus,Terapontidae,active,hunting macrofauna (predator),benthic invertivore,Demersal
+Australia (QLD),Pelates quadrilineatus,Terapontidae,active,hunting macrofauna (predator),Benthic invertivore,Demersal
+Australia (NSW2),Arothron hispidus,Tetraodontidae,active,browsing on substrate,benthic invertivore,Demersal
+Australia (QLD2),Arothron sp.,Tetraodontidae,active,NA,NA,NA
+Korea,Arothron stellatus,Tetraodontidae,active,hunting macrofauna (predator),benthic invertivore,demersal
+USA (VA2),Sphoeroides maculatus,Tetraodontidae,active,hunting macrofauna (predator),NA,pelagic non-site attached
+USA (FL),Sphoeroides nephelus,Tetraodontidae,active,hunting macrofauna (predator),benthic invertivore,benthic
+Mexico (ICML2),Sphoeroides testudineus,Tetraodontidae,active,hunting macrofauna (predator),NA,NA
+Korea,Takifugu niphobles,Tetraodontidae,active,hunting macrofauna (predator),Benthic invertivore,Demersal
+Australia (NSW),Tetractenos glaber,Tetraodontidae,active,hunting macrofauna (predator),benthic invertivore,demersal
+Australia (VIC),Tetractenos glaber,Tetraodontidae,active,hunting macrofauna (predator),Benthic invertivore,Demersal
+Australia (VIC),Tetractenos glaber,Tetraodontidae,active,hunting macrofauna (predator),Benthic invertivore,Demersal
+Australia (VIC),Tetractenos glaber,Tetraodontidae,active,hunting macrofauna (predator),Benthic invertivore,Demersal
+Australia (NSW2),Tetractenos hamiltoni,Tetraodontidae,active,hunting macrofauna (predator),higher carnivore,Demersal
+Australia (QLD2),Tetractenos hamiltoni,Tetraodontidae,active,hunting macrofauna (predator),benthic invertivore,benthic
+Australia (QLD2),Tetractenos hamiltoni,Tetraodontidae,active,hunting macrofauna (predator),benthic invertivore,benthic
+Australia (QLD),Torquigener sp.,Tetraodontidae,active,hunting macrofauna (predator),Benthic invertivore,Demersal
+Australia (NSW),Centropogon australis,Tetrarogidae,ambush,hunting macrofauna (predator),benthic invertivore,demersal
+Australia (NSW2),Centropogon australis,Tetrarogidae,ambush,hunting macrofauna (predator),benthic invertivore,benthic
+Australia (QLD3),Centropogon australis,Tetrarogidae,ambush,hunting macrofauna (predator),Benthic invertivore,benthic
+Australia (QLD3),Centropogon australis,Tetrarogidae,ambush,hunting macrofauna (predator),Benthic invertivore,benthic
+Australia (VIC),Gymnapistes marmoratus,Tetrarogidae,ambush,hunting macrofauna (predator),Benthic invertivore,Demersal
+Australia (VIC),Gymnapistes marmoratus,Tetrarogidae,ambush,hunting macrofauna (predator),Benthic invertivore,Demersal

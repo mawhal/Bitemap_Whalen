@@ -1,0 +1,891 @@
+"","functional_group_name","year","fishing_entity_name","taxon_scientific_name","commercial_group_id","commercial_group_name","catch_status","catch_sum","cell_id","reporting_status_name","taxon_common_name","sector_type_name","fishing_entity_id","functional_group_id","sector_type_id","reporting_status","catch_status_name","taxon_key"
+"1","pelagicmd",2010,"USA","Alosa sapidissima",2,"Herring-likes","R",0.000475476303860462,59874,"Reported","American shad","Industrial",187,2,1,"R","Landings",601584
+"2","pelagicmd",2010,"USA","Alosa sapidissima",2,"Herring-likes","R",0.000910736743184854,59155,"Reported","American shad","Industrial",187,2,1,"R","Landings",601584
+"3","pelagicmd",2010,"USA","Alosa sapidissima",2,"Herring-likes","R",0.176481409778649,59874,"Reported","American shad","Artisanal",187,2,3,"R","Landings",601584
+"4","pelagicmd",2010,"USA","Alosa sapidissima",2,"Herring-likes","R",0.338035989828051,59155,"Reported","American shad","Artisanal",187,2,3,"R","Landings",601584
+"5","pelagicmd",2010,"USA","Oncorhynchus nerka",6,"Salmon, smelts, etc","R",754.132696152127,59155,"Reported","Sockeye salmon","Artisanal",187,2,3,"R","Landings",600243
+"6","pelagicmd",2010,"USA","Oncorhynchus nerka",6,"Salmon, smelts, etc","R",347.399171129772,59874,"Reported","Sockeye salmon","Artisanal",187,2,3,"R","Landings",600243
+"7","pelagicmd",2010,"Canada","Oncorhynchus nerka",6,"Salmon, smelts, etc","R",4.26628408063089e-05,59155,"Reported","Sockeye salmon","Industrial",26,2,1,"R","Landings",600243
+"8","pelagicmd",2010,"Canada","Oncorhynchus nerka",6,"Salmon, smelts, etc","R",0.625822791121764,59874,"Reported","Sockeye salmon","Industrial",26,2,1,"R","Landings",600243
+"9","pelagicmd",2010,"Canada","Oncorhynchus nerka",6,"Salmon, smelts, etc","R",0.000587919567927094,59155,"Reported","Sockeye salmon","Industrial",26,2,1,"R","Landings",600243
+"10","pelagicmd",2010,"Canada","Oncorhynchus nerka",6,"Salmon, smelts, etc","R",8.62421390609381,59874,"Reported","Sockeye salmon","Industrial",26,2,1,"R","Landings",600243
+"11","pelagicmd",2010,"Canada","Oncorhynchus nerka",6,"Salmon, smelts, etc","R",0.000355441568812589,59155,"Reported","Sockeye salmon","Industrial",26,2,1,"R","Landings",600243
+"12","pelagicmd",2010,"Canada","Oncorhynchus nerka",6,"Salmon, smelts, etc","R",5.21398553098926,59874,"Reported","Sockeye salmon","Industrial",26,2,1,"R","Landings",600243
+"13","pelagicmd",2010,"Canada","Oncorhynchus nerka",6,"Salmon, smelts, etc","R",1.49372223100166e-08,59155,"Unreported","Sockeye salmon","Industrial",26,2,1,"U","Landings",600243
+"14","pelagicmd",2010,"Canada","Oncorhynchus nerka",6,"Salmon, smelts, etc","R",0.000219114667026077,59874,"Unreported","Sockeye salmon","Industrial",26,2,1,"U","Landings",600243
+"15","pelagicmd",2010,"Canada","Oncorhynchus nerka",6,"Salmon, smelts, etc","R",2.05843894137431e-07,59155,"Unreported","Sockeye salmon","Industrial",26,2,1,"U","Landings",600243
+"16","pelagicmd",2010,"Canada","Oncorhynchus nerka",6,"Salmon, smelts, etc","R",0.00301953170322896,59874,"Unreported","Sockeye salmon","Industrial",26,2,1,"U","Landings",600243
+"17","pelagicmd",2010,"Canada","Oncorhynchus nerka",6,"Salmon, smelts, etc","R",1.24448105921479e-07,59155,"Unreported","Sockeye salmon","Industrial",26,2,1,"U","Landings",600243
+"18","pelagicmd",2010,"Canada","Oncorhynchus nerka",6,"Salmon, smelts, etc","R",0.00182553387270169,59874,"Unreported","Sockeye salmon","Industrial",26,2,1,"U","Landings",600243
+"19","pelagicmd",2010,"Canada","Oncorhynchus nerka",6,"Salmon, smelts, etc","R",0.184351885929773,59874,"Unreported","Sockeye salmon","Subsistence",26,2,2,"U","Landings",600243
+"20","pelagicmd",2010,"Canada","Oncorhynchus nerka",6,"Salmon, smelts, etc","R",1.25674171015668e-05,59155,"Unreported","Sockeye salmon","Subsistence",26,2,2,"U","Landings",600243
+"21","pelagicmd",2010,"Canada","Oncorhynchus nerka",6,"Salmon, smelts, etc","R",0.864149465295812,59874,"Unreported","Sockeye salmon","Recreational",26,2,4,"U","Landings",600243
+"22","pelagicmd",2010,"Canada","Oncorhynchus nerka",6,"Salmon, smelts, etc","R",5.89097676635944e-05,59155,"Unreported","Sockeye salmon","Recreational",26,2,4,"U","Landings",600243
+"23","pelagicmd",2010,"Canada","Oncorhynchus nerka",6,"Salmon, smelts, etc","D",1.15230000677271e-07,59155,"Unreported","Sockeye salmon","Industrial",26,2,1,"U","Discards",600243
+"24","pelagicmd",2010,"Canada","Oncorhynchus nerka",6,"Salmon, smelts, etc","D",0.00169031314562973,59874,"Unreported","Sockeye salmon","Industrial",26,2,1,"U","Discards",600243
+"25","pelagicmd",2010,"Canada","Oncorhynchus nerka",6,"Salmon, smelts, etc","D",1.58793861191733e-06,59155,"Unreported","Sockeye salmon","Industrial",26,2,1,"U","Discards",600243
+"26","pelagicmd",2010,"Canada","Oncorhynchus nerka",6,"Salmon, smelts, etc","D",0.023293530282052,59874,"Unreported","Sockeye salmon","Industrial",26,2,1,"U","Discards",600243
+"27","pelagicmd",2010,"Canada","Oncorhynchus nerka",6,"Salmon, smelts, etc","D",9.60028245679977e-07,59155,"Unreported","Sockeye salmon","Industrial",26,2,1,"U","Discards",600243
+"28","pelagicmd",2010,"Canada","Oncorhynchus nerka",6,"Salmon, smelts, etc","D",0.0140826898751273,59874,"Unreported","Sockeye salmon","Industrial",26,2,1,"U","Discards",600243
+"29","pelagicmd",2010,"USA","Scomber japonicus",3,"Perch-likes","R",0.000270344381165356,59155,"Reported","Chub mackerel","Industrial",187,2,1,"R","Landings",600117
+"30","pelagicmd",2010,"USA","Scomber japonicus",3,"Perch-likes","R",0.000144666360010104,59874,"Reported","Chub mackerel","Industrial",187,2,1,"R","Landings",600117
+"31","pelagicmd",2010,"USA","Scomber japonicus",3,"Perch-likes","R",0.0310896038340159,59155,"Reported","Chub mackerel","Industrial",187,2,1,"R","Landings",600117
+"32","pelagicmd",2010,"USA","Scomber japonicus",3,"Perch-likes","R",0.016636631401162,59874,"Reported","Chub mackerel","Industrial",187,2,1,"R","Landings",600117
+"33","pelagicmd",2010,"USA","Scomber japonicus",3,"Perch-likes","R",1.96797136946796e-05,59874,"Unreported","Chub mackerel","Recreational",187,2,4,"U","Landings",600117
+"34","pelagicmd",2010,"USA","Scomber japonicus",3,"Perch-likes","R",3.67763450669247e-05,59155,"Unreported","Chub mackerel","Recreational",187,2,4,"U","Landings",600117
+"35","pelagicsm",2010,"USA","Thaleichthys pacificus",6,"Salmon, smelts, etc","R",0.0478855710629262,59155,"Reported","Eulachon","Artisanal",187,1,3,"R","Landings",600256
+"36","pelagicsm",2010,"USA","Thaleichthys pacificus",6,"Salmon, smelts, etc","R",0.0224311541620046,59874,"Reported","Eulachon","Artisanal",187,1,3,"R","Landings",600256
+"37","pelagicsm",2010,"USA","Thaleichthys pacificus",6,"Salmon, smelts, etc","D",6.51825262188203e-06,59874,"Unreported","Eulachon","Industrial",187,1,1,"U","Discards",600256
+"38","pelagicsm",2010,"USA","Thaleichthys pacificus",6,"Salmon, smelts, etc","D",1.39150330614519e-05,59155,"Unreported","Eulachon","Industrial",187,1,1,"U","Discards",600256
+"39","pelagicsm",2010,"USA","Thaleichthys pacificus",6,"Salmon, smelts, etc","D",0.0875451068889059,59874,"Unreported","Eulachon","Industrial",187,1,1,"U","Discards",600256
+"40","pelagicsm",2010,"USA","Thaleichthys pacificus",6,"Salmon, smelts, etc","D",0.186889512787207,59155,"Unreported","Eulachon","Industrial",187,1,1,"U","Discards",600256
+"41","pelagicsm",2010,"USA","Engraulis mordax",1,"Anchovies","R",0.850466474541884,59155,"Reported","Californian anchovy","Industrial",187,1,1,"R","Landings",601664
+"42","pelagicsm",2010,"USA","Engraulis mordax",1,"Anchovies","R",0.440904620332424,59874,"Reported","Californian anchovy","Industrial",187,1,1,"R","Landings",601664
+"43","pelagicmd",2010,"USA","Trachurus symmetricus",3,"Perch-likes","R",0.000859723864944068,59874,"Reported","Pacific jack mackerel","Industrial",187,2,1,"R","Landings",600368
+"44","pelagicmd",2010,"USA","Trachurus symmetricus",3,"Perch-likes","R",0.00176350242962418,59155,"Reported","Pacific jack mackerel","Industrial",187,2,1,"R","Landings",600368
+"45","pelagicmd",2010,"USA","Trachurus symmetricus",3,"Perch-likes","R",0.000108857422012603,59874,"Unreported","Pacific jack mackerel","Recreational",187,2,4,"U","Landings",600368
+"46","pelagicmd",2010,"USA","Trachurus symmetricus",3,"Perch-likes","R",0.00022329300651775,59155,"Unreported","Pacific jack mackerel","Recreational",187,2,4,"U","Landings",600368
+"47","pelagicmd",2010,"USA","Clupea pallasii pallasii",2,"Herring-likes","R",2.40811490490148,59874,"Reported","Pacific herring","Industrial",187,2,1,"R","Landings",601520
+"48","pelagicmd",2010,"USA","Clupea pallasii pallasii",2,"Herring-likes","R",4.97550588917868,59155,"Reported","Pacific herring","Industrial",187,2,1,"R","Landings",601520
+"49","pelagicmd",2010,"USA","Clupea pallasii pallasii",2,"Herring-likes","R",0.00338227169869716,59874,"Unreported","Pacific herring","Recreational",187,2,4,"U","Landings",601520
+"50","pelagicmd",2010,"USA","Clupea pallasii pallasii",2,"Herring-likes","R",0.00698825150706232,59155,"Unreported","Pacific herring","Recreational",187,2,4,"U","Landings",601520
+"51","pelagicmd",2010,"Canada","Clupea pallasii pallasii",2,"Herring-likes","R",1.85146341665284e-07,59155,"Reported","Pacific herring","Industrial",26,2,1,"R","Landings",601520
+"52","pelagicmd",2010,"Canada","Clupea pallasii pallasii",2,"Herring-likes","R",0.00285348567781149,59874,"Reported","Pacific herring","Industrial",26,2,1,"R","Landings",601520
+"53","pelagicmd",2010,"Canada","Clupea pallasii pallasii",2,"Herring-likes","R",0.000525089834164869,59155,"Reported","Pacific herring","Industrial",26,2,1,"R","Landings",601520
+"54","pelagicmd",2010,"Canada","Clupea pallasii pallasii",2,"Herring-likes","R",8.09271362251718,59874,"Reported","Pacific herring","Industrial",26,2,1,"R","Landings",601520
+"55","pelagicmd",2010,"Canada","Clupea pallasii pallasii",2,"Herring-likes","R",0.000423667869941852,59155,"Reported","Pacific herring","Industrial",26,2,1,"R","Landings",601520
+"56","pelagicmd",2010,"Canada","Clupea pallasii pallasii",2,"Herring-likes","R",6.52959268951441,59874,"Reported","Pacific herring","Industrial",26,2,1,"R","Landings",601520
+"57","pelagicmd",2010,"Canada","Clupea pallasii pallasii",2,"Herring-likes","R",8.49959402090949e-13,59155,"Unreported","Pacific herring","Industrial",26,2,1,"U","Landings",601520
+"58","pelagicmd",2010,"Canada","Clupea pallasii pallasii",2,"Herring-likes","R",1.30996214063597e-08,59874,"Unreported","Pacific herring","Industrial",26,2,1,"U","Landings",601520
+"59","pelagicmd",2010,"Canada","Clupea pallasii pallasii",2,"Herring-likes","R",2.41055284958133e-09,59155,"Unreported","Pacific herring","Industrial",26,2,1,"U","Landings",601520
+"60","pelagicmd",2010,"Canada","Clupea pallasii pallasii",2,"Herring-likes","R",3.71515741008981e-05,59874,"Unreported","Pacific herring","Industrial",26,2,1,"U","Landings",601520
+"61","pelagicmd",2010,"Canada","Clupea pallasii pallasii",2,"Herring-likes","R",1.94495060600187e-09,59155,"Unreported","Pacific herring","Industrial",26,2,1,"U","Landings",601520
+"62","pelagicmd",2010,"Canada","Clupea pallasii pallasii",2,"Herring-likes","R",2.99756865210464e-05,59874,"Unreported","Pacific herring","Industrial",26,2,1,"U","Landings",601520
+"63","pelagicmd",2010,"USA","Sebastes entomelas",8,"Scorpionfishes","R",0.252191545902717,59155,"Reported","Widow rockfish","Industrial",187,2,1,"R","Landings",600502
+"64","pelagicmd",2010,"USA","Sebastes entomelas",8,"Scorpionfishes","R",0.128034099733662,59874,"Reported","Widow rockfish","Industrial",187,2,1,"R","Landings",600502
+"65","pelagicmd",2010,"USA","Sebastes entomelas",8,"Scorpionfishes","R",0.0700683538345928,59155,"Reported","Widow rockfish","Industrial",187,2,1,"R","Landings",600502
+"66","pelagicmd",2010,"USA","Sebastes entomelas",8,"Scorpionfishes","R",0.0355727174395147,59874,"Reported","Widow rockfish","Industrial",187,2,1,"R","Landings",600502
+"67","pelagicmd",2010,"USA","Sebastes entomelas",8,"Scorpionfishes","R",0.00201214197463337,59155,"Reported","Widow rockfish","Artisanal",187,2,3,"R","Landings",600502
+"68","pelagicmd",2010,"USA","Sebastes entomelas",8,"Scorpionfishes","R",0.00102153618002922,59874,"Reported","Widow rockfish","Artisanal",187,2,3,"R","Landings",600502
+"69","pelagicmd",2010,"USA","Sebastes entomelas",8,"Scorpionfishes","R",0.00227174996342564,59874,"Unreported","Widow rockfish","Recreational",187,2,4,"U","Landings",600502
+"70","pelagicmd",2010,"USA","Sebastes entomelas",8,"Scorpionfishes","R",0.00447471518546684,59155,"Unreported","Widow rockfish","Recreational",187,2,4,"U","Landings",600502
+"71","pelagicmd",2010,"USA","Sebastes entomelas",8,"Scorpionfishes","D",0.0503887508128822,59155,"Unreported","Widow rockfish","Industrial",187,2,1,"U","Discards",600502
+"72","pelagicmd",2010,"USA","Sebastes entomelas",8,"Scorpionfishes","D",0.025581659860715,59874,"Unreported","Widow rockfish","Industrial",187,2,1,"U","Discards",600502
+"73","pelagicmd",2010,"USA","Sebastes entomelas",8,"Scorpionfishes","D",0.000198210465412109,59155,"Unreported","Widow rockfish","Industrial",187,2,1,"U","Discards",600502
+"74","pelagicmd",2010,"USA","Sebastes entomelas",8,"Scorpionfishes","D",0.000100628664636597,59874,"Unreported","Widow rockfish","Industrial",187,2,1,"U","Discards",600502
+"75","pelagicmd",2010,"USA","Sebastes entomelas",8,"Scorpionfishes","D",0.0642837209104082,59155,"Unreported","Widow rockfish","Industrial",187,2,1,"U","Discards",600502
+"76","pelagicmd",2010,"USA","Sebastes entomelas",8,"Scorpionfishes","D",0.0326359406887851,59874,"Unreported","Widow rockfish","Industrial",187,2,1,"U","Discards",600502
+"77","pelagicmd",2010,"USA","Sebastes entomelas",8,"Scorpionfishes","D",0.000263349310181507,59874,"Unreported","Widow rockfish","Artisanal",187,2,3,"U","Discards",600502
+"78","pelagicmd",2010,"USA","Sebastes entomelas",8,"Scorpionfishes","D",0.000518724849267497,59155,"Unreported","Widow rockfish","Artisanal",187,2,3,"U","Discards",600502
+"79","pelagicmd",2010,"USA","Sebastes entomelas",8,"Scorpionfishes","D",3.74311759594394e-05,59874,"Unreported","Widow rockfish","Recreational",187,2,4,"U","Discards",600502
+"80","pelagicmd",2010,"USA","Sebastes entomelas",8,"Scorpionfishes","D",7.37289993054587e-05,59155,"Unreported","Widow rockfish","Recreational",187,2,4,"U","Discards",600502
+"81","sharklg",2010,"USA","Alopias vulpinus",9,"Sharks & rays","R",1.21968526990314e-05,59155,"Unreported","Thresher","Recreational",187,20,4,"U","Landings",602535
+"82","benthopelagicmd",2010,"USA","Merluccius productus",5,"Cod-likes","R",837.071558068632,59155,"Reported","North Pacific hake","Industrial",187,14,1,"R","Landings",600326
+"83","benthopelagicmd",2010,"USA","Merluccius productus",5,"Cod-likes","R",515.399786089241,59874,"Reported","North Pacific hake","Industrial",187,14,1,"R","Landings",600326
+"84","benthopelagicmd",2010,"USA","Merluccius productus",5,"Cod-likes","D",1.63676438521333,59155,"Unreported","North Pacific hake","Industrial",187,14,1,"U","Discards",600326
+"85","benthopelagicmd",2010,"USA","Merluccius productus",5,"Cod-likes","D",1.0077848254262,59874,"Unreported","North Pacific hake","Industrial",187,14,1,"U","Discards",600326
+"86","benthopelagicmd",2010,"USA","Merluccius productus",5,"Cod-likes","D",1.29516058818099,59874,"Unreported","North Pacific hake","Industrial",187,14,1,"U","Discards",600326
+"87","benthopelagicmd",2010,"USA","Merluccius productus",5,"Cod-likes","D",2.10349736410258,59155,"Unreported","North Pacific hake","Industrial",187,14,1,"U","Discards",600326
+"88","benthopelagicmd",2010,"USA","Merluccius productus",5,"Cod-likes","D",16.9641011453739,59155,"Unreported","North Pacific hake","Industrial",187,14,1,"U","Discards",600326
+"89","benthopelagicmd",2010,"USA","Merluccius productus",5,"Cod-likes","D",10.4450975752841,59874,"Unreported","North Pacific hake","Industrial",187,14,1,"U","Discards",600326
+"90","benthopelagicmd",2010,"USA","Merluccius productus",5,"Cod-likes","D",0.0044994863653867,59874,"Unreported","North Pacific hake","Artisanal",187,14,3,"U","Discards",600326
+"91","benthopelagicmd",2010,"USA","Merluccius productus",5,"Cod-likes","D",0.00730770972784135,59155,"Unreported","North Pacific hake","Artisanal",187,14,3,"U","Discards",600326
+"92","benthopelagicmd",2010,"Canada","Merluccius productus",5,"Cod-likes","R",0.0011740992227808,59155,"Reported","North Pacific hake","Industrial",26,14,1,"R","Landings",600326
+"93","benthopelagicmd",2010,"Canada","Merluccius productus",5,"Cod-likes","R",23.0200917127177,59874,"Reported","North Pacific hake","Industrial",26,14,1,"R","Landings",600326
+"94","benthopelagicmd",2010,"Canada","Merluccius productus",5,"Cod-likes","R",0.024719003867119,59155,"Reported","North Pacific hake","Industrial",26,14,1,"R","Landings",600326
+"95","benthopelagicmd",2010,"Canada","Merluccius productus",5,"Cod-likes","R",484.655576826272,59874,"Reported","North Pacific hake","Industrial",26,14,1,"R","Landings",600326
+"96","benthopelagicmd",2010,"Canada","Merluccius productus",5,"Cod-likes","R",1.61831904345452e-09,59155,"Reported","North Pacific hake","Industrial",26,14,1,"R","Landings",600326
+"97","benthopelagicmd",2010,"Canada","Merluccius productus",5,"Cod-likes","R",3.17297312509302e-05,59874,"Reported","North Pacific hake","Industrial",26,14,1,"R","Landings",600326
+"98","otherdeminvert",2010,"USA","Crassostrea gigas",11,"Molluscs","R",431.695496682967,59874,"Reported","Pacific cupped oyster","Artisanal",187,29,3,"R","Landings",690283
+"99","otherdeminvert",2010,"USA","Crassostrea gigas",11,"Molluscs","R",846.72880989593,59155,"Reported","Pacific cupped oyster","Artisanal",187,29,3,"R","Landings",690283
+"100","otherdeminvert",2010,"USA","Crassostrea gigas",11,"Molluscs","R",0.721230219113035,59155,"Unreported","Pacific cupped oyster","Recreational",187,29,4,"U","Landings",690283
+"101","otherdeminvert",2010,"USA","Crassostrea gigas",11,"Molluscs","R",0.367711401837188,59874,"Unreported","Pacific cupped oyster","Recreational",187,29,4,"U","Landings",690283
+"102","otherdeminvert",2010,"USA","Leukoma staminea",11,"Molluscs","R",0.745615170919738,59155,"Reported","Pacific littleneck clam","Artisanal",187,29,3,"R","Landings",690285
+"103","otherdeminvert",2010,"USA","Leukoma staminea",11,"Molluscs","R",0.417666058336927,59874,"Reported","Pacific littleneck clam","Artisanal",187,29,3,"R","Landings",690285
+"104","otherdeminvert",2010,"USA","Leukoma staminea",11,"Molluscs","R",0.224145604238965,59874,"Unreported","Pacific littleneck clam","Recreational",187,29,4,"U","Landings",690285
+"105","otherdeminvert",2010,"USA","Leukoma staminea",11,"Molluscs","R",0.40014351101694,59155,"Unreported","Pacific littleneck clam","Recreational",187,29,4,"U","Landings",690285
+"106","sharklg",2010,"USA","Elasmobranchii",9,"Sharks & rays","D",4.61661162530694e-05,59155,"Unreported","Sharks, rays, skates","Recreational",187,20,4,"U","Discards",200004
+"107","sharklg",2010,"USA","Elasmobranchii",9,"Sharks & rays","R",4.68253598573243e-08,59155,"Reported","Sharks, rays, skates","Industrial",187,20,1,"R","Landings",200004
+"108","sharklg",2010,"USA","Elasmobranchii",9,"Sharks & rays","R",2.67573484898996e-08,59155,"Reported","Sharks, rays, skates","Industrial",187,20,1,"R","Landings",200004
+"109","sharklg",2010,"USA","Elasmobranchii",9,"Sharks & rays","R",5.65278277169646e-05,59155,"Unreported","Sharks, rays, skates","Recreational",187,20,4,"U","Landings",200004
+"110","otherdeminvert",2010,"USA","Clinocardium nuttallii",11,"Molluscs","R",2.62761602033036,59155,"Reported","Nuttall cockle","Artisanal",187,29,3,"R","Landings",690651
+"111","otherdeminvert",2010,"USA","Clinocardium nuttallii",11,"Molluscs","R",1.36926413814573,59874,"Reported","Nuttall cockle","Artisanal",187,29,3,"R","Landings",690651
+"112","otherdeminvert",2010,"USA","Clinocardium nuttallii",11,"Molluscs","R",0.605668657345117,59874,"Unreported","Nuttall cockle","Recreational",187,29,4,"U","Landings",690651
+"113","otherdeminvert",2010,"USA","Clinocardium nuttallii",11,"Molluscs","R",1.16227733036752,59155,"Unreported","Nuttall cockle","Recreational",187,29,4,"U","Landings",690651
+"114","otherdeminvert",2010,"USA","Siliqua patula",11,"Molluscs","R",3.65776972319516,59155,"Reported","Pacific razor clam","Artisanal",187,29,3,"R","Landings",690286
+"115","otherdeminvert",2010,"USA","Siliqua patula",11,"Molluscs","R",2.04182990575288,59874,"Reported","Pacific razor clam","Artisanal",187,29,3,"R","Landings",690286
+"116","otherdeminvert",2010,"USA","Siliqua patula",11,"Molluscs","R",12.7245487708151,59155,"Unreported","Pacific razor clam","Recreational",187,29,4,"U","Landings",690286
+"117","otherdeminvert",2010,"USA","Siliqua patula",11,"Molluscs","R",7.10306175172938,59874,"Unreported","Pacific razor clam","Recreational",187,29,4,"U","Landings",690286
+"118","lobsters,crab",2010,"USA","Metacarcinus magister",10,"Crustaceans","R",245.557677730258,59874,"Reported","Dungeness crab","Artisanal",187,27,3,"R","Landings",690115
+"119","lobsters,crab",2010,"USA","Metacarcinus magister",10,"Crustaceans","R",469.925996048748,59155,"Reported","Dungeness crab","Artisanal",187,27,3,"R","Landings",690115
+"120","lobsters,crab",2010,"USA","Metacarcinus magister",10,"Crustaceans","R",0.444205418868415,59155,"Reported","Dungeness crab","Artisanal",187,27,3,"R","Landings",690115
+"121","lobsters,crab",2010,"USA","Metacarcinus magister",10,"Crustaceans","R",0.232117507883538,59874,"Reported","Dungeness crab","Artisanal",187,27,3,"R","Landings",690115
+"122","lobsters,crab",2010,"USA","Metacarcinus magister",10,"Crustaceans","R",17.757220656034,59874,"Unreported","Dungeness crab","Recreational",187,27,4,"U","Landings",690115
+"123","lobsters,crab",2010,"USA","Metacarcinus magister",10,"Crustaceans","R",33.9821571900131,59155,"Unreported","Dungeness crab","Recreational",187,27,4,"U","Landings",690115
+"124","lobsters,crab",2010,"USA","Metacarcinus magister",10,"Crustaceans","D",1.04126481310613,59874,"Unreported","Dungeness crab","Industrial",187,27,1,"U","Discards",690115
+"125","lobsters,crab",2010,"USA","Metacarcinus magister",10,"Crustaceans","D",1.99267810768644,59155,"Unreported","Dungeness crab","Industrial",187,27,1,"U","Discards",690115
+"126","lobsters,crab",2010,"USA","Metacarcinus magister",10,"Crustaceans","D",0.00438513762509513,59874,"Unreported","Dungeness crab","Industrial",187,27,1,"U","Discards",690115
+"127","lobsters,crab",2010,"USA","Metacarcinus magister",10,"Crustaceans","D",0.0083918784489153,59155,"Unreported","Dungeness crab","Industrial",187,27,1,"U","Discards",690115
+"128","lobsters,crab",2010,"USA","Metacarcinus magister",10,"Crustaceans","D",0.0173096679857257,59874,"Unreported","Dungeness crab","Artisanal",187,27,3,"U","Discards",690115
+"129","lobsters,crab",2010,"USA","Metacarcinus magister",10,"Crustaceans","D",0.0331256715108727,59155,"Unreported","Dungeness crab","Artisanal",187,27,3,"U","Discards",690115
+"130","lobsters,crab",2010,"Canada","Metacarcinus magister",10,"Crustaceans","R",0.000691727993826514,59155,"Reported","Dungeness crab","Industrial",26,27,1,"R","Landings",690115
+"131","lobsters,crab",2010,"Canada","Metacarcinus magister",10,"Crustaceans","R",11.510123823722,59874,"Reported","Dungeness crab","Industrial",26,27,1,"R","Landings",690115
+"132","lobsters,crab",2010,"USA","Cancer productus",10,"Crustaceans","R",0.0140092505832374,59874,"Reported","Pacific rock crab","Artisanal",187,27,3,"R","Landings",690287
+"133","lobsters,crab",2010,"USA","Cancer productus",10,"Crustaceans","R",0.0267903460042311,59155,"Reported","Pacific rock crab","Artisanal",187,27,3,"R","Landings",690287
+"134","lobsters,crab",2010,"USA","Cancer productus",10,"Crustaceans","R",0.406185776143197,59874,"Unreported","Pacific rock crab","Recreational",187,27,4,"U","Landings",690287
+"135","lobsters,crab",2010,"USA","Cancer productus",10,"Crustaceans","R",0.776762284336181,59155,"Unreported","Pacific rock crab","Recreational",187,27,4,"U","Landings",690287
+"136","otherdeminvert",2010,"USA","Panopea abrupta",11,"Molluscs","R",63.0350805443066,59155,"Reported","Pacific geoduck","Industrial",187,29,1,"R","Landings",690284
+"137","otherdeminvert",2010,"USA","Panopea abrupta",11,"Molluscs","R",32.64360898953,59874,"Reported","Pacific geoduck","Industrial",187,29,1,"R","Landings",690284
+"138","otherdeminvert",2010,"USA","Panopea abrupta",11,"Molluscs","R",21.951173203822,59155,"Reported","Pacific geoduck","Artisanal",187,29,3,"R","Landings",690284
+"139","otherdeminvert",2010,"USA","Panopea abrupta",11,"Molluscs","R",11.3677259519499,59874,"Reported","Pacific geoduck","Artisanal",187,29,3,"R","Landings",690284
+"140","otherdeminvert",2010,"USA","Panopea abrupta",11,"Molluscs","R",0.0213095896436833,59874,"Unreported","Pacific geoduck","Recreational",187,29,4,"U","Landings",690284
+"141","otherdeminvert",2010,"USA","Panopea abrupta",11,"Molluscs","R",0.0411489945436822,59155,"Unreported","Pacific geoduck","Recreational",187,29,4,"U","Landings",690284
+"142","otherdeminvert",2010,"Canada","Panopea abrupta",11,"Molluscs","R",8.2783578671495,59874,"Reported","Pacific geoduck","Industrial",26,29,1,"R","Landings",690284
+"143","otherdeminvert",2010,"Canada","Panopea abrupta",11,"Molluscs","R",0.000502004651011123,59155,"Reported","Pacific geoduck","Industrial",26,29,1,"R","Landings",690284
+"144","otherdeminvert",2010,"USA","Mya arenaria",11,"Molluscs","R",25.8448932481908,59155,"Reported","Sand gaper","Artisanal",187,29,3,"R","Landings",690337
+"145","otherdeminvert",2010,"USA","Mya arenaria",11,"Molluscs","R",13.7362733198093,59874,"Reported","Sand gaper","Artisanal",187,29,3,"R","Landings",690337
+"146","otherdeminvert",2010,"USA","Mya arenaria",11,"Molluscs","R",0.0169947930862022,59155,"Unreported","Sand gaper","Recreational",187,29,4,"U","Landings",690337
+"147","otherdeminvert",2010,"USA","Mya arenaria",11,"Molluscs","R",0.00903254351271195,59874,"Unreported","Sand gaper","Recreational",187,29,4,"U","Landings",690337
+"148","pelagicmd",2010,"USA","Sardinops sagax",2,"Herring-likes","R",539.476372154119,59874,"Reported","Pacific sardine","Industrial",187,2,1,"R","Landings",601477
+"149","pelagicmd",2010,"USA","Sardinops sagax",2,"Herring-likes","R",1035.99970835901,59155,"Reported","Pacific sardine","Industrial",187,2,1,"R","Landings",601477
+"150","demersalmd",2010,"USA","Scorpaenichthys marmoratus",8,"Scorpionfishes","R",0.0255003365221306,59874,"Reported","Cabezon","Artisanal",187,5,3,"R","Landings",604140
+"151","demersalmd",2010,"USA","Scorpaenichthys marmoratus",8,"Scorpionfishes","R",0.045334852732798,59155,"Reported","Cabezon","Artisanal",187,5,3,"R","Landings",604140
+"152","demersalmd",2010,"USA","Scorpaenichthys marmoratus",8,"Scorpionfishes","R",0.40254102652792,59874,"Reported","Cabezon","Artisanal",187,5,3,"R","Landings",604140
+"153","demersalmd",2010,"USA","Scorpaenichthys marmoratus",8,"Scorpionfishes","R",0.715643032424882,59155,"Reported","Cabezon","Artisanal",187,5,3,"R","Landings",604140
+"154","demersalmd",2010,"USA","Scorpaenichthys marmoratus",8,"Scorpionfishes","R",0.399947484202676,59874,"Unreported","Cabezon","Recreational",187,5,4,"U","Landings",604140
+"155","demersalmd",2010,"USA","Scorpaenichthys marmoratus",8,"Scorpionfishes","R",0.711032196827903,59155,"Unreported","Cabezon","Recreational",187,5,4,"U","Landings",604140
+"156","demersalmd",2010,"USA","Scorpaenichthys marmoratus",8,"Scorpionfishes","D",0.00259019877622897,59874,"Unreported","Cabezon","Artisanal",187,5,3,"U","Discards",604140
+"157","demersalmd",2010,"USA","Scorpaenichthys marmoratus",8,"Scorpionfishes","D",0.00460489138906479,59155,"Unreported","Cabezon","Artisanal",187,5,3,"U","Discards",604140
+"158","demersalmd",2010,"USA","Scorpaenichthys marmoratus",8,"Scorpionfishes","D",0.0184589301883061,59874,"Unreported","Cabezon","Recreational",187,5,4,"U","Discards",604140
+"159","demersalmd",2010,"USA","Scorpaenichthys marmoratus",8,"Scorpionfishes","D",0.0328165426744704,59155,"Unreported","Cabezon","Recreational",187,5,4,"U","Discards",604140
+"160","demersalmd",2010,"USA","Oncorhynchus gorbuscha",6,"Salmon, smelts, etc","R",0.215377929877373,59155,"Reported","Pink salmon","Artisanal",187,5,3,"R","Landings",600240
+"161","demersalmd",2010,"USA","Oncorhynchus gorbuscha",6,"Salmon, smelts, etc","R",0.104326781793719,59874,"Reported","Pink salmon","Artisanal",187,5,3,"R","Landings",600240
+"162","demersalmd",2010,"USA","Oncorhynchus gorbuscha",6,"Salmon, smelts, etc","R",0.000538444824693432,59155,"Unreported","Pink salmon","Recreational",187,5,4,"U","Landings",600240
+"163","demersalmd",2010,"USA","Oncorhynchus gorbuscha",6,"Salmon, smelts, etc","R",0.000260816954484297,59874,"Unreported","Pink salmon","Recreational",187,5,4,"U","Landings",600240
+"164","demersalmd",2010,"Canada","Oncorhynchus gorbuscha",6,"Salmon, smelts, etc","R",2.14655905017598e-06,59155,"Reported","Pink salmon","Industrial",26,5,1,"R","Landings",600240
+"165","demersalmd",2010,"Canada","Oncorhynchus gorbuscha",6,"Salmon, smelts, etc","R",0.0331099137588121,59874,"Reported","Pink salmon","Industrial",26,5,1,"R","Landings",600240
+"166","demersalmd",2010,"Canada","Oncorhynchus gorbuscha",6,"Salmon, smelts, etc","R",4.30550210336953e-05,59155,"Reported","Pink salmon","Industrial",26,5,1,"R","Landings",600240
+"167","demersalmd",2010,"Canada","Oncorhynchus gorbuscha",6,"Salmon, smelts, etc","R",0.664108463819164,59874,"Reported","Pink salmon","Industrial",26,5,1,"R","Landings",600240
+"168","demersalmd",2010,"Canada","Oncorhynchus gorbuscha",6,"Salmon, smelts, etc","R",1.00310355953886e-05,59155,"Reported","Pink salmon","Industrial",26,5,1,"R","Landings",600240
+"169","demersalmd",2010,"Canada","Oncorhynchus gorbuscha",6,"Salmon, smelts, etc","R",0.154725174435645,59874,"Reported","Pink salmon","Industrial",26,5,1,"R","Landings",600240
+"170","demersalmd",2010,"Canada","Oncorhynchus gorbuscha",6,"Salmon, smelts, etc","R",2.89819756161082e-10,59155,"Unreported","Pink salmon","Industrial",26,5,1,"U","Landings",600240
+"171","demersalmd",2010,"Canada","Oncorhynchus gorbuscha",6,"Salmon, smelts, etc","R",4.47036718198211e-06,59874,"Unreported","Pink salmon","Industrial",26,5,1,"U","Landings",600240
+"172","demersalmd",2010,"Canada","Oncorhynchus gorbuscha",6,"Salmon, smelts, etc","R",5.81311550524213e-09,59155,"Unreported","Pink salmon","Industrial",26,5,1,"U","Landings",600240
+"173","demersalmd",2010,"Canada","Oncorhynchus gorbuscha",6,"Salmon, smelts, etc","R",8.96652496155656e-05,59874,"Unreported","Pink salmon","Industrial",26,5,1,"U","Landings",600240
+"174","demersalmd",2010,"Canada","Oncorhynchus gorbuscha",6,"Salmon, smelts, etc","R",1.35435001895723e-09,59155,"Unreported","Pink salmon","Industrial",26,5,1,"U","Landings",600240
+"175","demersalmd",2010,"Canada","Oncorhynchus gorbuscha",6,"Salmon, smelts, etc","R",2.08903697865863e-05,59874,"Unreported","Pink salmon","Industrial",26,5,1,"U","Landings",600240
+"176","demersalmd",2010,"Canada","Oncorhynchus gorbuscha",6,"Salmon, smelts, etc","R",0.0405874798740886,59874,"Unreported","Pink salmon","Subsistence",26,5,2,"U","Landings",600240
+"177","demersalmd",2010,"Canada","Oncorhynchus gorbuscha",6,"Salmon, smelts, etc","R",2.63133974603478e-06,59155,"Unreported","Pink salmon","Subsistence",26,5,2,"U","Landings",600240
+"178","demersalmd",2010,"Canada","Oncorhynchus gorbuscha",6,"Salmon, smelts, etc","R",0.0631360798041379,59874,"Unreported","Pink salmon","Recreational",26,5,4,"U","Landings",600240
+"179","demersalmd",2010,"Canada","Oncorhynchus gorbuscha",6,"Salmon, smelts, etc","R",4.09319516049855e-06,59155,"Unreported","Pink salmon","Recreational",26,5,4,"U","Landings",600240
+"180","demersalmd",2010,"Canada","Oncorhynchus gorbuscha",6,"Salmon, smelts, etc","D",5.0586623334862e-09,59155,"Unreported","Pink salmon","Industrial",26,5,1,"U","Discards",600240
+"181","demersalmd",2010,"Canada","Oncorhynchus gorbuscha",6,"Salmon, smelts, etc","D",7.80280764151111e-05,59874,"Unreported","Pink salmon","Industrial",26,5,1,"U","Discards",600240
+"182","demersalmd",2010,"Canada","Oncorhynchus gorbuscha",6,"Salmon, smelts, etc","D",1.0146509277383e-07,59155,"Unreported","Pink salmon","Industrial",26,5,1,"U","Discards",600240
+"183","demersalmd",2010,"Canada","Oncorhynchus gorbuscha",6,"Salmon, smelts, etc","D",0.0015650631511842,59874,"Unreported","Pink salmon","Industrial",26,5,1,"U","Discards",600240
+"184","demersalmd",2010,"Canada","Oncorhynchus gorbuscha",6,"Salmon, smelts, etc","D",2.36395182923533e-08,59155,"Unreported","Pink salmon","Industrial",26,5,1,"U","Discards",600240
+"185","demersalmd",2010,"Canada","Oncorhynchus gorbuscha",6,"Salmon, smelts, etc","D",0.00036463120448306,59874,"Unreported","Pink salmon","Industrial",26,5,1,"U","Discards",600240
+"186","benthopelagiclg",2010,"USA","Oncorhynchus keta",6,"Salmon, smelts, etc","R",154.547684957027,59155,"Reported","Chum salmon","Artisanal",187,15,3,"R","Landings",600241
+"187","benthopelagiclg",2010,"USA","Oncorhynchus keta",6,"Salmon, smelts, etc","R",75.3362166875944,59874,"Reported","Chum salmon","Artisanal",187,15,3,"R","Landings",600241
+"188","benthopelagiclg",2010,"USA","Oncorhynchus keta",6,"Salmon, smelts, etc","R",0.0360576709631724,59155,"Reported","Chum salmon","Artisanal",187,15,3,"R","Landings",600241
+"189","benthopelagiclg",2010,"USA","Oncorhynchus keta",6,"Salmon, smelts, etc","R",0.0175767661203522,59874,"Reported","Chum salmon","Artisanal",187,15,3,"R","Landings",600241
+"190","benthopelagiclg",2010,"USA","Oncorhynchus keta",6,"Salmon, smelts, etc","R",0.00108173012889517,59155,"Unreported","Chum salmon","Recreational",187,15,4,"U","Landings",600241
+"191","benthopelagiclg",2010,"USA","Oncorhynchus keta",6,"Salmon, smelts, etc","R",0.000527302983610565,59874,"Unreported","Chum salmon","Recreational",187,15,4,"U","Landings",600241
+"192","benthopelagiclg",2010,"Canada","Oncorhynchus keta",6,"Salmon, smelts, etc","R",1.32813218362813e-07,59155,"Reported","Chum salmon","Industrial",26,15,1,"R","Landings",600241
+"193","benthopelagiclg",2010,"Canada","Oncorhynchus keta",6,"Salmon, smelts, etc","R",0.00206159427956536,59874,"Reported","Chum salmon","Industrial",26,15,1,"R","Landings",600241
+"194","benthopelagiclg",2010,"Canada","Oncorhynchus keta",6,"Salmon, smelts, etc","R",1.58711791804438e-05,59155,"Reported","Chum salmon","Industrial",26,15,1,"R","Landings",600241
+"195","benthopelagiclg",2010,"Canada","Oncorhynchus keta",6,"Salmon, smelts, etc","R",0.246360509983102,59874,"Reported","Chum salmon","Industrial",26,15,1,"R","Landings",600241
+"196","benthopelagiclg",2010,"Canada","Oncorhynchus keta",6,"Salmon, smelts, etc","R",1.99883888417139e-05,59155,"Reported","Chum salmon","Industrial",26,15,1,"R","Landings",600241
+"197","benthopelagiclg",2010,"Canada","Oncorhynchus keta",6,"Salmon, smelts, etc","R",0.310269930973553,59874,"Reported","Chum salmon","Industrial",26,15,1,"R","Landings",600241
+"198","benthopelagiclg",2010,"Canada","Oncorhynchus keta",6,"Salmon, smelts, etc","R",1.79244632503804e-11,59155,"Unreported","Chum salmon","Industrial",26,15,1,"U","Landings",600241
+"199","benthopelagiclg",2010,"Canada","Oncorhynchus keta",6,"Salmon, smelts, etc","R",2.78232628926418e-07,59874,"Unreported","Chum salmon","Industrial",26,15,1,"U","Landings",600241
+"200","benthopelagiclg",2010,"Canada","Oncorhynchus keta",6,"Salmon, smelts, etc","R",2.14197330255887e-09,59155,"Unreported","Chum salmon","Industrial",26,15,1,"U","Landings",600241
+"201","benthopelagiclg",2010,"Canada","Oncorhynchus keta",6,"Salmon, smelts, etc","R",3.32487982895949e-05,59874,"Unreported","Chum salmon","Industrial",26,15,1,"U","Landings",600241
+"202","benthopelagiclg",2010,"Canada","Oncorhynchus keta",6,"Salmon, smelts, etc","R",2.69763164874809e-09,59155,"Unreported","Chum salmon","Industrial",26,15,1,"U","Landings",600241
+"203","benthopelagiclg",2010,"Canada","Oncorhynchus keta",6,"Salmon, smelts, etc","R",4.18740095601108e-05,59874,"Unreported","Chum salmon","Industrial",26,15,1,"U","Landings",600241
+"204","benthopelagiclg",2010,"Canada","Oncorhynchus keta",6,"Salmon, smelts, etc","R",13.4820925641952,59874,"Unreported","Chum salmon","Subsistence",26,15,2,"U","Landings",600241
+"205","benthopelagiclg",2010,"Canada","Oncorhynchus keta",6,"Salmon, smelts, etc","R",0.000868551258199553,59155,"Unreported","Chum salmon","Subsistence",26,15,2,"U","Landings",600241
+"206","benthopelagiclg",2010,"Canada","Oncorhynchus keta",6,"Salmon, smelts, etc","R",0.0369372399019046,59874,"Unreported","Chum salmon","Recreational",26,15,4,"U","Landings",600241
+"207","benthopelagiclg",2010,"Canada","Oncorhynchus keta",6,"Salmon, smelts, etc","R",2.37959248821796e-06,59155,"Unreported","Chum salmon","Recreational",26,15,4,"U","Landings",600241
+"208","benthopelagiclg",2010,"Canada","Oncorhynchus keta",6,"Salmon, smelts, etc","D",2.45042838307773e-10,59155,"Unreported","Chum salmon","Industrial",26,15,1,"U","Discards",600241
+"209","benthopelagiclg",2010,"Canada","Oncorhynchus keta",6,"Salmon, smelts, etc","D",3.80367948259292e-06,59874,"Unreported","Chum salmon","Industrial",26,15,1,"U","Discards",600241
+"210","benthopelagiclg",2010,"Canada","Oncorhynchus keta",6,"Salmon, smelts, etc","D",2.9282618414103e-08,59155,"Unreported","Chum salmon","Industrial",26,15,1,"U","Discards",600241
+"211","benthopelagiclg",2010,"Canada","Oncorhynchus keta",6,"Salmon, smelts, etc","D",0.000454539686315688,59874,"Unreported","Chum salmon","Industrial",26,15,1,"U","Discards",600241
+"212","benthopelagiclg",2010,"Canada","Oncorhynchus keta",6,"Salmon, smelts, etc","D",3.68789462024242e-08,59155,"Unreported","Chum salmon","Industrial",26,15,1,"U","Discards",600241
+"213","benthopelagiclg",2010,"Canada","Oncorhynchus keta",6,"Salmon, smelts, etc","D",0.000572453747183677,59874,"Unreported","Chum salmon","Industrial",26,15,1,"U","Discards",600241
+"214","reef-associatedmd",2010,"USA","Sebastes melanops",8,"Scorpionfishes","R",0.00801405502679574,59155,"Reported","Black rockfish","Industrial",187,17,1,"R","Landings",603979
+"215","reef-associatedmd",2010,"USA","Sebastes melanops",8,"Scorpionfishes","R",0.00439814714563717,59874,"Reported","Black rockfish","Industrial",187,17,1,"R","Landings",603979
+"216","reef-associatedmd",2010,"USA","Sebastes melanops",8,"Scorpionfishes","R",0.00297410965502746,59155,"Reported","Black rockfish","Artisanal",187,17,3,"R","Landings",603979
+"217","reef-associatedmd",2010,"USA","Sebastes melanops",8,"Scorpionfishes","R",0.00163220391636355,59874,"Reported","Black rockfish","Artisanal",187,17,3,"R","Landings",603979
+"218","reef-associatedmd",2010,"USA","Sebastes melanops",8,"Scorpionfishes","R",1.64689375161082,59874,"Reported","Black rockfish","Artisanal",187,17,3,"R","Landings",603979
+"219","reef-associatedmd",2010,"USA","Sebastes melanops",8,"Scorpionfishes","R",3.00087664192271,59155,"Reported","Black rockfish","Artisanal",187,17,3,"R","Landings",603979
+"220","reef-associatedmd",2010,"USA","Sebastes melanops",8,"Scorpionfishes","R",8.19138400060804,59874,"Unreported","Black rockfish","Recreational",187,17,4,"U","Landings",603979
+"221","reef-associatedmd",2010,"USA","Sebastes melanops",8,"Scorpionfishes","R",14.9258766015726,59155,"Unreported","Black rockfish","Recreational",187,17,4,"U","Landings",603979
+"222","reef-associatedmd",2010,"USA","Sebastes melanops",8,"Scorpionfishes","D",0.0187223349257949,59874,"Unreported","Black rockfish","Artisanal",187,17,3,"U","Discards",603979
+"223","reef-associatedmd",2010,"USA","Sebastes melanops",8,"Scorpionfishes","D",0.0341147797215933,59155,"Unreported","Black rockfish","Artisanal",187,17,3,"U","Discards",603979
+"224","reef-associatedmd",2010,"USA","Sebastes melanops",8,"Scorpionfishes","D",0.0903434404205026,59874,"Unreported","Black rockfish","Recreational",187,17,4,"U","Discards",603979
+"225","reef-associatedmd",2010,"USA","Sebastes melanops",8,"Scorpionfishes","D",0.164618707092459,59155,"Unreported","Black rockfish","Recreational",187,17,4,"U","Discards",603979
+"226","flatfishsm md",2010,"USA","Platichthys stellatus",7,"Flatfishes","R",0.000910021917413111,59155,"Unreported","Starry flounder","Recreational",187,23,4,"U","Landings",604249
+"227","flatfishsm md",2010,"USA","Platichthys stellatus",7,"Flatfishes","R",0.000439858915395913,59874,"Unreported","Starry flounder","Recreational",187,23,4,"U","Landings",604249
+"228","flatfishsm md",2010,"USA","Platichthys stellatus",7,"Flatfishes","D",0.0730229732907582,59155,"Unreported","Starry flounder","Industrial",187,23,1,"U","Discards",604249
+"229","flatfishsm md",2010,"USA","Platichthys stellatus",7,"Flatfishes","D",0.0352956395273831,59874,"Unreported","Starry flounder","Industrial",187,23,1,"U","Discards",604249
+"230","flatfishsm md",2010,"USA","Platichthys stellatus",7,"Flatfishes","D",0.00154082280569868,59155,"Unreported","Starry flounder","Artisanal",187,23,3,"U","Discards",604249
+"231","flatfishsm md",2010,"USA","Platichthys stellatus",7,"Flatfishes","D",0.000744756401096921,59874,"Unreported","Starry flounder","Artisanal",187,23,3,"U","Discards",604249
+"232","demersalmd",2010,"USA","Sebastes goodei",8,"Scorpionfishes","D",0.00259900159092721,59874,"Unreported","Chilipepper rockfish","Industrial",187,5,1,"U","Discards",603971
+"233","demersalmd",2010,"USA","Sebastes goodei",8,"Scorpionfishes","D",0.00442454793065554,59155,"Unreported","Chilipepper rockfish","Industrial",187,5,1,"U","Discards",603971
+"234","demersalmd",2010,"USA","Sebastes goodei",8,"Scorpionfishes","D",0.000431565285082923,59155,"Unreported","Chilipepper rockfish","Industrial",187,5,1,"U","Discards",603971
+"235","demersalmd",2010,"USA","Sebastes goodei",8,"Scorpionfishes","D",0.000253503607622415,59874,"Unreported","Chilipepper rockfish","Industrial",187,5,1,"U","Discards",603971
+"236","demersalmd",2010,"USA","Sebastes goodei",8,"Scorpionfishes","D",0.0244082979440132,59155,"Unreported","Chilipepper rockfish","Industrial",187,5,1,"U","Discards",603971
+"237","demersalmd",2010,"USA","Sebastes goodei",8,"Scorpionfishes","D",0.014337556329493,59874,"Unreported","Chilipepper rockfish","Industrial",187,5,1,"U","Discards",603971
+"238","demersallg",2010,"USA","Ophiodon elongatus",8,"Scorpionfishes","R",1.5131817659139,59874,"Reported","Lingcod","Industrial",187,6,1,"R","Landings",600509
+"239","demersallg",2010,"USA","Ophiodon elongatus",8,"Scorpionfishes","R",2.7013238639938,59155,"Reported","Lingcod","Industrial",187,6,1,"R","Landings",600509
+"240","demersallg",2010,"USA","Ophiodon elongatus",8,"Scorpionfishes","R",0.0174054372680013,59155,"Reported","Lingcod","Industrial",187,6,1,"R","Landings",600509
+"241","demersallg",2010,"USA","Ophiodon elongatus",8,"Scorpionfishes","R",0.00974988251233183,59874,"Reported","Lingcod","Industrial",187,6,1,"R","Landings",600509
+"242","demersallg",2010,"USA","Ophiodon elongatus",8,"Scorpionfishes","R",0.0382984641099701,59874,"Reported","Lingcod","Artisanal",187,6,3,"R","Landings",600509
+"243","demersallg",2010,"USA","Ophiodon elongatus",8,"Scorpionfishes","R",0.0683702093893468,59155,"Reported","Lingcod","Artisanal",187,6,3,"R","Landings",600509
+"244","demersallg",2010,"USA","Ophiodon elongatus",8,"Scorpionfishes","R",0.178522213405517,59155,"Reported","Lingcod","Artisanal",187,6,3,"R","Landings",600509
+"245","demersallg",2010,"USA","Ophiodon elongatus",8,"Scorpionfishes","R",0.100001545176033,59874,"Reported","Lingcod","Artisanal",187,6,3,"R","Landings",600509
+"246","demersallg",2010,"USA","Ophiodon elongatus",8,"Scorpionfishes","R",1.675070130039,59155,"Reported","Lingcod","Artisanal",187,6,3,"R","Landings",600509
+"247","demersallg",2010,"USA","Ophiodon elongatus",8,"Scorpionfishes","R",0.938312370694268,59874,"Reported","Lingcod","Artisanal",187,6,3,"R","Landings",600509
+"248","demersallg",2010,"USA","Ophiodon elongatus",8,"Scorpionfishes","R",5.72037403774613,59155,"Unreported","Lingcod","Recreational",187,6,4,"U","Landings",600509
+"249","demersallg",2010,"USA","Ophiodon elongatus",8,"Scorpionfishes","R",3.20434209192815,59874,"Unreported","Lingcod","Recreational",187,6,4,"U","Landings",600509
+"250","demersallg",2010,"USA","Ophiodon elongatus",8,"Scorpionfishes","D",0.147680170454926,59874,"Unreported","Lingcod","Industrial",187,6,1,"U","Discards",600509
+"251","demersallg",2010,"USA","Ophiodon elongatus",8,"Scorpionfishes","D",0.263637837618024,59155,"Unreported","Lingcod","Industrial",187,6,1,"U","Discards",600509
+"252","demersallg",2010,"USA","Ophiodon elongatus",8,"Scorpionfishes","D",0.00368691840567878,59155,"Unreported","Lingcod","Industrial",187,6,1,"U","Discards",600509
+"253","demersallg",2010,"USA","Ophiodon elongatus",8,"Scorpionfishes","D",0.00206527539265032,59874,"Unreported","Lingcod","Industrial",187,6,1,"U","Discards",600509
+"254","demersallg",2010,"USA","Ophiodon elongatus",8,"Scorpionfishes","D",0.0183442084361383,59155,"Unreported","Lingcod","Industrial",187,6,1,"U","Discards",600509
+"255","demersallg",2010,"USA","Ophiodon elongatus",8,"Scorpionfishes","D",0.0102757474161758,59874,"Unreported","Lingcod","Industrial",187,6,1,"U","Discards",600509
+"256","demersallg",2010,"USA","Ophiodon elongatus",8,"Scorpionfishes","D",0.142488958026605,59874,"Unreported","Lingcod","Artisanal",187,6,3,"U","Discards",600509
+"257","demersallg",2010,"USA","Ophiodon elongatus",8,"Scorpionfishes","D",0.254370511255377,59155,"Unreported","Lingcod","Artisanal",187,6,3,"U","Discards",600509
+"258","demersallg",2010,"USA","Ophiodon elongatus",8,"Scorpionfishes","D",0.144957933202081,59155,"Unreported","Lingcod","Artisanal",187,6,3,"U","Discards",600509
+"259","demersallg",2010,"USA","Ophiodon elongatus",8,"Scorpionfishes","D",0.0812000760533051,59874,"Unreported","Lingcod","Artisanal",187,6,3,"U","Discards",600509
+"260","demersallg",2010,"USA","Ophiodon elongatus",8,"Scorpionfishes","D",0.0294983774205765,59874,"Unreported","Lingcod","Recreational",187,6,4,"U","Discards",600509
+"261","demersallg",2010,"USA","Ophiodon elongatus",8,"Scorpionfishes","D",0.0526603425949336,59155,"Unreported","Lingcod","Recreational",187,6,4,"U","Discards",600509
+"262","demersallg",2010,"Canada","Ophiodon elongatus",8,"Scorpionfishes","R",13.1409547307926,59874,"Reported","Lingcod","Artisanal",26,6,3,"R","Landings",600509
+"263","demersallg",2010,"Canada","Ophiodon elongatus",8,"Scorpionfishes","R",0.000736702126154891,59155,"Reported","Lingcod","Artisanal",26,6,3,"R","Landings",600509
+"264","demersallg",2010,"Canada","Ophiodon elongatus",8,"Scorpionfishes","R",5.34784716248032,59874,"Unreported","Lingcod","Industrial",26,6,1,"U","Landings",600509
+"265","demersallg",2010,"Canada","Ophiodon elongatus",8,"Scorpionfishes","R",0.000299808500362146,59155,"Unreported","Lingcod","Industrial",26,6,1,"U","Landings",600509
+"266","demersallg",2010,"Canada","Ophiodon elongatus",8,"Scorpionfishes","R",0.0394539964443413,59874,"Unreported","Lingcod","Industrial",26,6,1,"U","Landings",600509
+"267","demersallg",2010,"Canada","Ophiodon elongatus",8,"Scorpionfishes","R",2.21185145122683e-06,59155,"Unreported","Lingcod","Industrial",26,6,1,"U","Landings",600509
+"268","demersallg",2010,"Canada","Ophiodon elongatus",8,"Scorpionfishes","R",3.93615249549949,59874,"Unreported","Lingcod","Industrial",26,6,1,"U","Landings",600509
+"269","demersallg",2010,"Canada","Ophiodon elongatus",8,"Scorpionfishes","R",0.000220666735794502,59155,"Unreported","Lingcod","Industrial",26,6,1,"U","Landings",600509
+"270","demersallg",2010,"Canada","Ophiodon elongatus",8,"Scorpionfishes","R",0.110814565330499,59874,"Unreported","Lingcod","Industrial",26,6,1,"U","Landings",600509
+"271","demersallg",2010,"Canada","Ophiodon elongatus",8,"Scorpionfishes","R",6.21243420775157e-06,59155,"Unreported","Lingcod","Industrial",26,6,1,"U","Landings",600509
+"272","reef-associatedmd",2010,"USA","Sebastes paucispinis",8,"Scorpionfishes","R",0.0481163465973659,59155,"Reported","Bocaccio rockfish","Industrial",187,17,1,"R","Landings",603987
+"273","reef-associatedmd",2010,"USA","Sebastes paucispinis",8,"Scorpionfishes","R",0.0266000951773802,59874,"Reported","Bocaccio rockfish","Industrial",187,17,1,"R","Landings",603987
+"274","reef-associatedmd",2010,"USA","Sebastes paucispinis",8,"Scorpionfishes","R",0.021846115355913,59874,"Unreported","Bocaccio rockfish","Recreational",187,17,4,"U","Landings",603987
+"275","reef-associatedmd",2010,"USA","Sebastes paucispinis",8,"Scorpionfishes","R",0.039516973242853,59155,"Unreported","Bocaccio rockfish","Recreational",187,17,4,"U","Landings",603987
+"276","reef-associatedmd",2010,"USA","Sebastes paucispinis",8,"Scorpionfishes","D",3.4102711350762e-05,59155,"Unreported","Bocaccio rockfish","Industrial",187,17,1,"U","Discards",603987
+"277","reef-associatedmd",2010,"USA","Sebastes paucispinis",8,"Scorpionfishes","D",1.88529560510451e-05,59874,"Unreported","Bocaccio rockfish","Industrial",187,17,1,"U","Discards",603987
+"278","reef-associatedmd",2010,"USA","Sebastes paucispinis",8,"Scorpionfishes","D",0.0373236339534106,59155,"Unreported","Bocaccio rockfish","Industrial",187,17,1,"U","Discards",603987
+"279","reef-associatedmd",2010,"USA","Sebastes paucispinis",8,"Scorpionfishes","D",0.020633574361624,59874,"Unreported","Bocaccio rockfish","Industrial",187,17,1,"U","Discards",603987
+"280","reef-associatedmd",2010,"USA","Sebastes paucispinis",8,"Scorpionfishes","D",0.000308836468346573,59874,"Unreported","Bocaccio rockfish","Recreational",187,17,4,"U","Discards",603987
+"281","reef-associatedmd",2010,"USA","Sebastes paucispinis",8,"Scorpionfishes","D",0.000558647716412679,59155,"Unreported","Bocaccio rockfish","Recreational",187,17,4,"U","Discards",603987
+"282","flatfishsm md",2010,"USA","Eopsetta jordani",7,"Flatfishes","R",14.4912579227604,59874,"Reported","Petrale sole","Industrial",187,23,1,"R","Landings",604237
+"283","flatfishsm md",2010,"USA","Eopsetta jordani",7,"Flatfishes","R",27.8026533188653,59155,"Reported","Petrale sole","Industrial",187,23,1,"R","Landings",604237
+"284","flatfishsm md",2010,"USA","Eopsetta jordani",7,"Flatfishes","R",0.00533997466023845,59874,"Reported","Petrale sole","Artisanal",187,23,3,"R","Landings",604237
+"285","flatfishsm md",2010,"USA","Eopsetta jordani",7,"Flatfishes","R",0.0102451742799656,59155,"Reported","Petrale sole","Artisanal",187,23,3,"R","Landings",604237
+"286","flatfishsm md",2010,"USA","Eopsetta jordani",7,"Flatfishes","R",0.00169277196729559,59874,"Unreported","Petrale sole","Recreational",187,23,4,"U","Landings",604237
+"287","flatfishsm md",2010,"USA","Eopsetta jordani",7,"Flatfishes","R",0.0032477202467491,59155,"Unreported","Petrale sole","Recreational",187,23,4,"U","Landings",604237
+"288","flatfishsm md",2010,"USA","Eopsetta jordani",7,"Flatfishes","D",2.96116543925131,59874,"Unreported","Petrale sole","Industrial",187,23,1,"U","Discards",604237
+"289","flatfishsm md",2010,"USA","Eopsetta jordani",7,"Flatfishes","D",5.68123599525495,59155,"Unreported","Petrale sole","Industrial",187,23,1,"U","Discards",604237
+"290","flatfishsm md",2010,"USA","Eopsetta jordani",7,"Flatfishes","D",0.0577886130111476,59155,"Unreported","Petrale sole","Industrial",187,23,1,"U","Discards",604237
+"291","flatfishsm md",2010,"USA","Eopsetta jordani",7,"Flatfishes","D",0.0301204955706473,59874,"Unreported","Petrale sole","Industrial",187,23,1,"U","Discards",604237
+"292","flatfishsm md",2010,"USA","Eopsetta jordani",7,"Flatfishes","D",0.00171825443174707,59874,"Unreported","Petrale sole","Artisanal",187,23,3,"U","Discards",604237
+"293","flatfishsm md",2010,"USA","Eopsetta jordani",7,"Flatfishes","D",0.00329661042057939,59155,"Unreported","Petrale sole","Artisanal",187,23,3,"U","Discards",604237
+"294","flatfishsm md",2010,"USA","Citharichthys sordidus",7,"Flatfishes","R",1.57641267439588,59874,"Reported","Pacific sanddab","Industrial",187,23,1,"R","Landings",604215
+"295","flatfishsm md",2010,"USA","Citharichthys sordidus",7,"Flatfishes","R",2.8564824493236,59155,"Reported","Pacific sanddab","Industrial",187,23,1,"R","Landings",604215
+"296","flatfishsm md",2010,"USA","Citharichthys sordidus",7,"Flatfishes","R",0.00210365221108509,59874,"Unreported","Pacific sanddab","Recreational",187,23,4,"U","Landings",604215
+"297","flatfishsm md",2010,"USA","Citharichthys sordidus",7,"Flatfishes","R",0.0038118480441244,59155,"Unreported","Pacific sanddab","Recreational",187,23,4,"U","Landings",604215
+"298","reef-associatedmd",2010,"USA","Sebastes flavidus",8,"Scorpionfishes","R",26.7812418027555,59155,"Reported","Yellowtail rockfish","Industrial",187,17,1,"R","Landings",600503
+"299","reef-associatedmd",2010,"USA","Sebastes flavidus",8,"Scorpionfishes","R",15.0018616074217,59874,"Reported","Yellowtail rockfish","Industrial",187,17,1,"R","Landings",600503
+"300","reef-associatedmd",2010,"USA","Sebastes flavidus",8,"Scorpionfishes","R",4.03622506790344,59155,"Reported","Yellowtail rockfish","Industrial",187,17,1,"R","Landings",600503
+"301","reef-associatedmd",2010,"USA","Sebastes flavidus",8,"Scorpionfishes","R",2.26094407163986,59874,"Reported","Yellowtail rockfish","Industrial",187,17,1,"R","Landings",600503
+"302","reef-associatedmd",2010,"USA","Sebastes flavidus",8,"Scorpionfishes","R",0.370676565016638,59155,"Reported","Yellowtail rockfish","Artisanal",187,17,3,"R","Landings",600503
+"303","reef-associatedmd",2010,"USA","Sebastes flavidus",8,"Scorpionfishes","R",0.207639310285756,59874,"Reported","Yellowtail rockfish","Artisanal",187,17,3,"R","Landings",600503
+"304","reef-associatedmd",2010,"USA","Sebastes flavidus",8,"Scorpionfishes","R",0.0512637802682584,59155,"Reported","Yellowtail rockfish","Artisanal",187,17,3,"R","Landings",600503
+"305","reef-associatedmd",2010,"USA","Sebastes flavidus",8,"Scorpionfishes","R",0.0287160748267535,59874,"Reported","Yellowtail rockfish","Artisanal",187,17,3,"R","Landings",600503
+"306","reef-associatedmd",2010,"USA","Sebastes flavidus",8,"Scorpionfishes","R",1.81321155819575,59155,"Unreported","Yellowtail rockfish","Recreational",187,17,4,"U","Landings",600503
+"307","reef-associatedmd",2010,"USA","Sebastes flavidus",8,"Scorpionfishes","R",1.01569409258184,59874,"Unreported","Yellowtail rockfish","Recreational",187,17,4,"U","Landings",600503
+"308","reef-associatedmd",2010,"USA","Sebastes flavidus",8,"Scorpionfishes","D",0.59901771298872,59155,"Unreported","Yellowtail rockfish","Industrial",187,17,1,"U","Discards",600503
+"309","reef-associatedmd",2010,"USA","Sebastes flavidus",8,"Scorpionfishes","D",0.335547578295135,59874,"Unreported","Yellowtail rockfish","Industrial",187,17,1,"U","Discards",600503
+"310","reef-associatedmd",2010,"USA","Sebastes flavidus",8,"Scorpionfishes","D",0.00780895346825219,59155,"Unreported","Yellowtail rockfish","Industrial",187,17,1,"U","Discards",600503
+"311","reef-associatedmd",2010,"USA","Sebastes flavidus",8,"Scorpionfishes","D",0.0043742870510755,59874,"Unreported","Yellowtail rockfish","Industrial",187,17,1,"U","Discards",600503
+"312","reef-associatedmd",2010,"USA","Sebastes flavidus",8,"Scorpionfishes","D",1.41087000063535,59155,"Unreported","Yellowtail rockfish","Industrial",187,17,1,"U","Discards",600503
+"313","reef-associatedmd",2010,"USA","Sebastes flavidus",8,"Scorpionfishes","D",0.790317217232877,59874,"Unreported","Yellowtail rockfish","Industrial",187,17,1,"U","Discards",600503
+"314","reef-associatedmd",2010,"USA","Sebastes flavidus",8,"Scorpionfishes","D",0.011255971568082,59155,"Unreported","Yellowtail rockfish","Artisanal",187,17,3,"U","Discards",600503
+"315","reef-associatedmd",2010,"USA","Sebastes flavidus",8,"Scorpionfishes","D",0.0063051792143583,59874,"Unreported","Yellowtail rockfish","Artisanal",187,17,3,"U","Discards",600503
+"316","reef-associatedmd",2010,"USA","Sebastes flavidus",8,"Scorpionfishes","D",0.0367198507410315,59155,"Unreported","Yellowtail rockfish","Recreational",187,17,4,"U","Discards",600503
+"317","reef-associatedmd",2010,"USA","Sebastes flavidus",8,"Scorpionfishes","D",0.0205691030975251,59874,"Unreported","Yellowtail rockfish","Recreational",187,17,4,"U","Discards",600503
+"318","flatfishsm md",2010,"USA","Parophrys vetulus",7,"Flatfishes","R",3.93343404612461,59874,"Reported","English sole","Industrial",187,23,1,"R","Landings",604248
+"319","flatfishsm md",2010,"USA","Parophrys vetulus",7,"Flatfishes","R",7.12743909054948,59155,"Reported","English sole","Industrial",187,23,1,"R","Landings",604248
+"320","flatfishsm md",2010,"USA","Parophrys vetulus",7,"Flatfishes","R",4.43544797597449e-05,59874,"Unreported","English sole","Recreational",187,23,4,"U","Landings",604248
+"321","flatfishsm md",2010,"USA","Parophrys vetulus",7,"Flatfishes","R",8.03709548704959e-05,59155,"Unreported","English sole","Recreational",187,23,4,"U","Landings",604248
+"322","flatfishsm md",2010,"USA","Parophrys vetulus",7,"Flatfishes","D",1.44074406356508,59874,"Unreported","English sole","Industrial",187,23,1,"U","Discards",604248
+"323","flatfishsm md",2010,"USA","Parophrys vetulus",7,"Flatfishes","D",2.61064897433532,59155,"Unreported","English sole","Industrial",187,23,1,"U","Discards",604248
+"324","flatfishsm md",2010,"USA","Parophrys vetulus",7,"Flatfishes","D",0.0922409552812314,59155,"Unreported","English sole","Industrial",187,23,1,"U","Discards",604248
+"325","flatfishsm md",2010,"USA","Parophrys vetulus",7,"Flatfishes","D",0.0509052002185938,59874,"Unreported","English sole","Industrial",187,23,1,"U","Discards",604248
+"326","flatfishsm md",2010,"USA","Parophrys vetulus",7,"Flatfishes","D",4.27278002327514e-05,59155,"Unreported","English sole","Industrial",187,23,1,"U","Discards",604248
+"327","flatfishsm md",2010,"USA","Parophrys vetulus",7,"Flatfishes","D",2.35802764522199e-05,59874,"Unreported","English sole","Industrial",187,23,1,"U","Discards",604248
+"328","flatfishsm md",2010,"USA","Parophrys vetulus",7,"Flatfishes","D",0.000858154913291704,59155,"Unreported","English sole","Artisanal",187,23,3,"U","Discards",604248
+"329","flatfishsm md",2010,"USA","Parophrys vetulus",7,"Flatfishes","D",0.000473591669946619,59874,"Unreported","English sole","Artisanal",187,23,3,"U","Discards",604248
+"330","flatfishsm md",2010,"USA","Lepidopsetta bilineata",7,"Flatfishes","R",0.00116863224728718,59155,"Unreported","Rock sole","Recreational",187,23,4,"U","Landings",624237
+"331","flatfishsm md",2010,"USA","Lepidopsetta bilineata",7,"Flatfishes","R",0.000605521842499802,59874,"Unreported","Rock sole","Recreational",187,23,4,"U","Landings",624237
+"332","demersalmd",2010,"USA","Sebastes alutus",8,"Scorpionfishes","R",2.23857555071651,59155,"Reported","Pacific ocean perch","Industrial",187,5,1,"R","Landings",600504
+"333","demersalmd",2010,"USA","Sebastes alutus",8,"Scorpionfishes","R",1.14692922341846,59874,"Reported","Pacific ocean perch","Industrial",187,5,1,"R","Landings",600504
+"334","demersalmd",2010,"USA","Sebastes alutus",8,"Scorpionfishes","R",0.599828475060641,59155,"Reported","Pacific ocean perch","Industrial",187,5,1,"R","Landings",600504
+"335","demersalmd",2010,"USA","Sebastes alutus",8,"Scorpionfishes","R",0.307320790162916,59874,"Reported","Pacific ocean perch","Industrial",187,5,1,"R","Landings",600504
+"336","demersalmd",2010,"USA","Sebastes alutus",8,"Scorpionfishes","R",0.0173947370824747,59155,"Reported","Pacific ocean perch","Artisanal",187,5,3,"R","Landings",600504
+"337","demersalmd",2010,"USA","Sebastes alutus",8,"Scorpionfishes","R",0.00891215507821498,59874,"Reported","Pacific ocean perch","Artisanal",187,5,3,"R","Landings",600504
+"338","demersalmd",2010,"USA","Sebastes alutus",8,"Scorpionfishes","D",2.35613266688955,59155,"Unreported","Pacific ocean perch","Industrial",187,5,1,"U","Discards",600504
+"339","demersalmd",2010,"USA","Sebastes alutus",8,"Scorpionfishes","D",1.2071593514195,59874,"Unreported","Pacific ocean perch","Industrial",187,5,1,"U","Discards",600504
+"340","demersalmd",2010,"USA","Sebastes alutus",8,"Scorpionfishes","D",0.00239782534047648,59155,"Unreported","Pacific ocean perch","Industrial",187,5,1,"U","Discards",600504
+"341","demersalmd",2010,"USA","Sebastes alutus",8,"Scorpionfishes","D",0.0012285205003537,59874,"Unreported","Pacific ocean perch","Industrial",187,5,1,"U","Discards",600504
+"342","demersalmd",2010,"USA","Sebastes alutus",8,"Scorpionfishes","D",0.170046464708759,59155,"Unreported","Pacific ocean perch","Industrial",187,5,1,"U","Discards",600504
+"343","demersalmd",2010,"USA","Sebastes alutus",8,"Scorpionfishes","D",0.0871229294231539,59874,"Unreported","Pacific ocean perch","Industrial",187,5,1,"U","Discards",600504
+"344","demersalmd",2010,"USA","Sebastes alutus",8,"Scorpionfishes","D",0.00641116045539962,59155,"Unreported","Pacific ocean perch","Artisanal",187,5,3,"U","Discards",600504
+"345","demersalmd",2010,"USA","Sebastes alutus",8,"Scorpionfishes","D",0.00328474388195306,59874,"Unreported","Pacific ocean perch","Artisanal",187,5,3,"U","Discards",600504
+"346","demersalmd",2010,"Canada","Sebastes alutus",8,"Scorpionfishes","R",20.0407705552873,59874,"Reported","Pacific ocean perch","Industrial",26,5,1,"R","Landings",600504
+"347","demersalmd",2010,"Canada","Sebastes alutus",8,"Scorpionfishes","R",0.00122836929683603,59155,"Reported","Pacific ocean perch","Industrial",26,5,1,"R","Landings",600504
+"348","demersalmd",2010,"Canada","Sebastes alutus",8,"Scorpionfishes","R",0.478793252345401,59874,"Reported","Pacific ocean perch","Industrial",26,5,1,"R","Landings",600504
+"349","demersalmd",2010,"Canada","Sebastes alutus",8,"Scorpionfishes","R",2.93469220203308e-05,59155,"Reported","Pacific ocean perch","Industrial",26,5,1,"R","Landings",600504
+"350","demersalmd",2010,"Canada","Sebastes alutus",8,"Scorpionfishes","R",2.68875097470433e-05,59874,"Reported","Pacific ocean perch","Industrial",26,5,1,"R","Landings",600504
+"351","demersalmd",2010,"Canada","Sebastes alutus",8,"Scorpionfishes","R",1.64803001713594e-09,59155,"Reported","Pacific ocean perch","Industrial",26,5,1,"R","Landings",600504
+"352","demersalmd",2010,"Canada","Sebastes alutus",8,"Scorpionfishes","R",0.00191701787051438,59874,"Reported","Pacific ocean perch","Industrial",26,5,1,"R","Landings",600504
+"353","demersalmd",2010,"Canada","Sebastes alutus",8,"Scorpionfishes","R",1.17500766107249e-07,59155,"Reported","Pacific ocean perch","Industrial",26,5,1,"R","Landings",600504
+"354","demersalmd",2010,"Canada","Sebastes alutus",8,"Scorpionfishes","R",0.00330845676233217,59874,"Reported","Pacific ocean perch","Industrial",26,5,1,"R","Landings",600504
+"355","demersalmd",2010,"Canada","Sebastes alutus",8,"Scorpionfishes","R",2.02786948513124e-07,59155,"Reported","Pacific ocean perch","Industrial",26,5,1,"R","Landings",600504
+"356","demersalmd",2010,"Canada","Sebastes alutus",8,"Scorpionfishes","R",20.0407705552873,59874,"Unreported","Pacific ocean perch","Industrial",26,5,1,"U","Landings",600504
+"357","demersalmd",2010,"Canada","Sebastes alutus",8,"Scorpionfishes","R",0.00122836929683603,59155,"Unreported","Pacific ocean perch","Industrial",26,5,1,"U","Landings",600504
+"358","demersalmd",2010,"Canada","Sebastes alutus",8,"Scorpionfishes","R",0.478793252345401,59874,"Unreported","Pacific ocean perch","Industrial",26,5,1,"U","Landings",600504
+"359","demersalmd",2010,"Canada","Sebastes alutus",8,"Scorpionfishes","R",2.93469220203308e-05,59155,"Unreported","Pacific ocean perch","Industrial",26,5,1,"U","Landings",600504
+"360","demersalmd",2010,"Canada","Sebastes alutus",8,"Scorpionfishes","R",2.68875097470433e-05,59874,"Unreported","Pacific ocean perch","Industrial",26,5,1,"U","Landings",600504
+"361","demersalmd",2010,"Canada","Sebastes alutus",8,"Scorpionfishes","R",1.64803001713594e-09,59155,"Unreported","Pacific ocean perch","Industrial",26,5,1,"U","Landings",600504
+"362","demersalmd",2010,"Canada","Sebastes alutus",8,"Scorpionfishes","R",0.00191701787051438,59874,"Unreported","Pacific ocean perch","Industrial",26,5,1,"U","Landings",600504
+"363","demersalmd",2010,"Canada","Sebastes alutus",8,"Scorpionfishes","R",1.17500766107249e-07,59155,"Unreported","Pacific ocean perch","Industrial",26,5,1,"U","Landings",600504
+"364","demersalmd",2010,"Canada","Sebastes alutus",8,"Scorpionfishes","R",0.00330845676233217,59874,"Unreported","Pacific ocean perch","Industrial",26,5,1,"U","Landings",600504
+"365","demersalmd",2010,"Canada","Sebastes alutus",8,"Scorpionfishes","R",2.02786948513124e-07,59155,"Unreported","Pacific ocean perch","Industrial",26,5,1,"U","Landings",600504
+"366","reef-associatedmd",2010,"USA","Sebastes pinniger",8,"Scorpionfishes","R",0.141309526746193,59874,"Reported","Canary rockfish","Industrial",187,17,1,"R","Landings",603989
+"367","reef-associatedmd",2010,"USA","Sebastes pinniger",8,"Scorpionfishes","R",0.255611798419859,59155,"Reported","Canary rockfish","Industrial",187,17,1,"R","Landings",603989
+"368","reef-associatedmd",2010,"USA","Sebastes pinniger",8,"Scorpionfishes","R",0.0284013109355399,59155,"Reported","Canary rockfish","Industrial",187,17,1,"R","Landings",603989
+"369","reef-associatedmd",2010,"USA","Sebastes pinniger",8,"Scorpionfishes","R",0.0157010585273548,59874,"Reported","Canary rockfish","Industrial",187,17,1,"R","Landings",603989
+"370","reef-associatedmd",2010,"USA","Sebastes pinniger",8,"Scorpionfishes","R",0.0118901271217722,59155,"Reported","Canary rockfish","Artisanal",187,17,3,"R","Landings",603989
+"371","reef-associatedmd",2010,"USA","Sebastes pinniger",8,"Scorpionfishes","R",0.00657320304119406,59874,"Reported","Canary rockfish","Artisanal",187,17,3,"R","Landings",603989
+"372","reef-associatedmd",2010,"USA","Sebastes pinniger",8,"Scorpionfishes","R",0.178351906826583,59155,"Reported","Canary rockfish","Artisanal",187,17,3,"R","Landings",603989
+"373","reef-associatedmd",2010,"USA","Sebastes pinniger",8,"Scorpionfishes","R",0.0985980456179109,59874,"Reported","Canary rockfish","Artisanal",187,17,3,"R","Landings",603989
+"374","reef-associatedmd",2010,"USA","Sebastes pinniger",8,"Scorpionfishes","R",0.0914680812228621,59874,"Unreported","Canary rockfish","Recreational",187,17,4,"U","Landings",603989
+"375","reef-associatedmd",2010,"USA","Sebastes pinniger",8,"Scorpionfishes","R",0.165454665938153,59155,"Unreported","Canary rockfish","Recreational",187,17,4,"U","Landings",603989
+"376","reef-associatedmd",2010,"USA","Sebastes pinniger",8,"Scorpionfishes","D",0.00583497508970972,59874,"Unreported","Canary rockfish","Industrial",187,17,1,"U","Discards",603989
+"377","reef-associatedmd",2010,"USA","Sebastes pinniger",8,"Scorpionfishes","D",0.0105547623770239,59155,"Unreported","Canary rockfish","Industrial",187,17,1,"U","Discards",603989
+"378","reef-associatedmd",2010,"USA","Sebastes pinniger",8,"Scorpionfishes","D",0.000553563370373426,59155,"Unreported","Canary rockfish","Industrial",187,17,1,"U","Discards",603989
+"379","reef-associatedmd",2010,"USA","Sebastes pinniger",8,"Scorpionfishes","D",0.000306025693551942,59874,"Unreported","Canary rockfish","Industrial",187,17,1,"U","Discards",603989
+"380","reef-associatedmd",2010,"USA","Sebastes pinniger",8,"Scorpionfishes","D",0.0213847092661117,59155,"Unreported","Canary rockfish","Industrial",187,17,1,"U","Discards",603989
+"381","reef-associatedmd",2010,"USA","Sebastes pinniger",8,"Scorpionfishes","D",0.0118220800631259,59874,"Unreported","Canary rockfish","Industrial",187,17,1,"U","Discards",603989
+"382","reef-associatedmd",2010,"USA","Sebastes pinniger",8,"Scorpionfishes","D",0.0153424962314947,59874,"Unreported","Canary rockfish","Artisanal",187,17,3,"U","Discards",603989
+"383","reef-associatedmd",2010,"USA","Sebastes pinniger",8,"Scorpionfishes","D",0.0277527149875845,59155,"Unreported","Canary rockfish","Artisanal",187,17,3,"U","Discards",603989
+"384","reef-associatedmd",2010,"USA","Sebastes pinniger",8,"Scorpionfishes","D",0.0618659855829966,59874,"Unreported","Canary rockfish","Recreational",187,17,4,"U","Discards",603989
+"385","reef-associatedmd",2010,"USA","Sebastes pinniger",8,"Scorpionfishes","D",0.111908064985306,59155,"Unreported","Canary rockfish","Recreational",187,17,4,"U","Discards",603989
+"386","flatfishsm md",2010,"USA","Glyptocephalus zachirus",7,"Flatfishes","R",14.8485305095045,59155,"Reported","Rex sole","Industrial",187,23,1,"R","Landings",604238
+"387","flatfishsm md",2010,"USA","Glyptocephalus zachirus",7,"Flatfishes","R",7.73932915392652,59874,"Reported","Rex sole","Industrial",187,23,1,"R","Landings",604238
+"388","flatfishsm md",2010,"USA","Glyptocephalus zachirus",7,"Flatfishes","R",0.0961941598179871,59155,"Reported","Rex sole","Industrial",187,23,1,"R","Landings",604238
+"389","flatfishsm md",2010,"USA","Glyptocephalus zachirus",7,"Flatfishes","R",0.0501381779860489,59874,"Reported","Rex sole","Industrial",187,23,1,"R","Landings",604238
+"390","raysm md",2010,"USA","Hydrolagus colliei",9,"Sharks & rays","D",0.0186472485872236,59155,"Unreported","Spotted ratfish","Artisanal",187,21,3,"U","Discards",602589
+"391","raysm md",2010,"USA","Hydrolagus colliei",9,"Sharks & rays","D",0.0105416051967054,59874,"Unreported","Spotted ratfish","Artisanal",187,21,3,"U","Discards",602589
+"392","flatfishsm md",2010,"USA","Hippoglossoides elassodon",7,"Flatfishes","R",0.173108768096167,59155,"Reported","Flathead sole","Industrial",187,23,1,"R","Landings",600519
+"393","flatfishsm md",2010,"USA","Hippoglossoides elassodon",7,"Flatfishes","R",0.0888920294681032,59874,"Reported","Flathead sole","Industrial",187,23,1,"R","Landings",600519
+"394","flatfishlg",2010,"USA","Hippoglossus stenolepis",7,"Flatfishes","R",0.648486124164803,59155,"Reported","Pacific halibut","Artisanal",187,24,3,"R","Landings",600514
+"395","flatfishlg",2010,"USA","Hippoglossus stenolepis",7,"Flatfishes","R",0.358501714899822,59874,"Reported","Pacific halibut","Artisanal",187,24,3,"R","Landings",600514
+"396","flatfishlg",2010,"USA","Hippoglossus stenolepis",7,"Flatfishes","R",26.1328531088869,59155,"Reported","Pacific halibut","Artisanal",187,24,3,"R","Landings",600514
+"397","flatfishlg",2010,"USA","Hippoglossus stenolepis",7,"Flatfishes","R",14.4469901600858,59874,"Reported","Pacific halibut","Artisanal",187,24,3,"R","Landings",600514
+"398","flatfishlg",2010,"USA","Hippoglossus stenolepis",7,"Flatfishes","R",7.82849258861304,59155,"Unreported","Pacific halibut","Recreational",187,24,4,"U","Landings",600514
+"399","flatfishlg",2010,"USA","Hippoglossus stenolepis",7,"Flatfishes","R",4.32781506576244,59874,"Unreported","Pacific halibut","Recreational",187,24,4,"U","Landings",600514
+"400","flatfishlg",2010,"USA","Hippoglossus stenolepis",7,"Flatfishes","D",6.03971437915389,59155,"Unreported","Pacific halibut","Industrial",187,24,1,"U","Discards",600514
+"401","flatfishlg",2010,"USA","Hippoglossus stenolepis",7,"Flatfishes","D",3.33892717736971,59874,"Unreported","Pacific halibut","Industrial",187,24,1,"U","Discards",600514
+"402","flatfishlg",2010,"USA","Hippoglossus stenolepis",7,"Flatfishes","D",0.0524454427114324,59155,"Unreported","Pacific halibut","Industrial",187,24,1,"U","Discards",600514
+"403","flatfishlg",2010,"USA","Hippoglossus stenolepis",7,"Flatfishes","D",0.0289933435598853,59874,"Unreported","Pacific halibut","Industrial",187,24,1,"U","Discards",600514
+"404","flatfishlg",2010,"USA","Hippoglossus stenolepis",7,"Flatfishes","D",0.00304233272181455,59155,"Unreported","Pacific halibut","Artisanal",187,24,3,"U","Discards",600514
+"405","flatfishlg",2010,"USA","Hippoglossus stenolepis",7,"Flatfishes","D",0.00168188872116742,59874,"Unreported","Pacific halibut","Artisanal",187,24,3,"U","Discards",600514
+"406","flatfishlg",2010,"USA","Hippoglossus stenolepis",7,"Flatfishes","D",3.92117246046386,59155,"Unreported","Pacific halibut","Artisanal",187,24,3,"U","Discards",600514
+"407","flatfishlg",2010,"USA","Hippoglossus stenolepis",7,"Flatfishes","D",2.16773651603531,59874,"Unreported","Pacific halibut","Artisanal",187,24,3,"U","Discards",600514
+"408","flatfishlg",2010,"USA","Hippoglossus stenolepis",7,"Flatfishes","D",0.12425524774723,59155,"Unreported","Pacific halibut","Recreational",187,24,4,"U","Discards",600514
+"409","flatfishlg",2010,"USA","Hippoglossus stenolepis",7,"Flatfishes","D",0.0686918620811747,59874,"Unreported","Pacific halibut","Recreational",187,24,4,"U","Discards",600514
+"410","flatfishlg",2010,"Canada","Hippoglossus stenolepis",7,"Flatfishes","R",0.425307322629322,59874,"Reported","Pacific halibut","Industrial",26,24,1,"R","Landings",600514
+"411","flatfishlg",2010,"Canada","Hippoglossus stenolepis",7,"Flatfishes","R",2.41597098012869e-05,59155,"Reported","Pacific halibut","Industrial",26,24,1,"R","Landings",600514
+"412","flatfishlg",2010,"Canada","Hippoglossus stenolepis",7,"Flatfishes","R",14.6959726199777,59874,"Reported","Pacific halibut","Industrial",26,24,1,"R","Landings",600514
+"413","flatfishlg",2010,"Canada","Hippoglossus stenolepis",7,"Flatfishes","R",0.00083480912473206,59155,"Reported","Pacific halibut","Industrial",26,24,1,"R","Landings",600514
+"414","flatfishlg",2010,"Canada","Hippoglossus stenolepis",7,"Flatfishes","R",0.192325546796528,59874,"Reported","Pacific halibut","Industrial",26,24,1,"R","Landings",600514
+"415","flatfishlg",2010,"Canada","Hippoglossus stenolepis",7,"Flatfishes","R",1.09251102690927e-05,59155,"Reported","Pacific halibut","Industrial",26,24,1,"R","Landings",600514
+"416","flatfishlg",2010,"Canada","Hippoglossus stenolepis",7,"Flatfishes","R",7.66374152643044,59874,"Unreported","Pacific halibut","Subsistence",26,24,2,"U","Landings",600514
+"417","flatfishlg",2010,"Canada","Hippoglossus stenolepis",7,"Flatfishes","R",0.000435341181012668,59155,"Unreported","Pacific halibut","Subsistence",26,24,2,"U","Landings",600514
+"418","flatfishlg",2010,"Canada","Hippoglossus stenolepis",7,"Flatfishes","R",6.35359152274191,59874,"Unreported","Pacific halibut","Recreational",26,24,4,"U","Landings",600514
+"419","flatfishlg",2010,"Canada","Hippoglossus stenolepis",7,"Flatfishes","R",0.000360917709403863,59155,"Unreported","Pacific halibut","Recreational",26,24,4,"U","Landings",600514
+"420","flatfishlg",2010,"Canada","Hippoglossus stenolepis",7,"Flatfishes","D",0.0727065136890573,59874,"Unreported","Pacific halibut","Industrial",26,24,1,"U","Discards",600514
+"421","flatfishlg",2010,"Canada","Hippoglossus stenolepis",7,"Flatfishes","D",4.130115278833e-06,59155,"Unreported","Pacific halibut","Industrial",26,24,1,"U","Discards",600514
+"422","flatfishlg",2010,"Canada","Hippoglossus stenolepis",7,"Flatfishes","D",2.5122843591378,59874,"Unreported","Pacific halibut","Industrial",26,24,1,"U","Discards",600514
+"423","flatfishlg",2010,"Canada","Hippoglossus stenolepis",7,"Flatfishes","D",0.00014271106521244,59155,"Unreported","Pacific halibut","Industrial",26,24,1,"U","Discards",600514
+"424","flatfishlg",2010,"Canada","Hippoglossus stenolepis",7,"Flatfishes","D",0.0328781548233637,59874,"Unreported","Pacific halibut","Industrial",26,24,1,"U","Discards",600514
+"425","flatfishlg",2010,"Canada","Hippoglossus stenolepis",7,"Flatfishes","D",1.86765342863976e-06,59155,"Unreported","Pacific halibut","Industrial",26,24,1,"U","Discards",600514
+"426","sharklg",2010,"USA","Prionace glauca",9,"Sharks & rays","R",3.88680306926254e-06,59155,"Reported","Blue shark","Artisanal",187,20,3,"R","Landings",600898
+"427","sharklg",2010,"USA","Prionace glauca",9,"Sharks & rays","R",2.17660971878702e-07,59155,"Unreported","Blue shark","Recreational",187,20,4,"U","Landings",600898
+"428","sharklg",2010,"USA","Prionace glauca",9,"Sharks & rays","D",0.000817580377482546,59155,"Unreported","Blue shark","Artisanal",187,20,3,"U","Discards",600898
+"429","lobsters,crab",2010,"USA","Upogebia pugettensis",10,"Crustaceans","R",0.0381525544358682,59155,"Reported","Blue mud shrimp","Artisanal",187,27,3,"R","Landings",690665
+"430","lobsters,crab",2010,"USA","Upogebia pugettensis",10,"Crustaceans","R",0.0199364426431459,59874,"Reported","Blue mud shrimp","Artisanal",187,27,3,"R","Landings",690665
+"431","reef-associatedlg",2010,"USA","Cottidae",8,"Scorpionfishes","R",0.00304094636455883,59874,"Unreported","Sculpins","Recreational",187,18,4,"U","Landings",400277
+"432","reef-associatedlg",2010,"USA","Cottidae",8,"Scorpionfishes","R",0.00650855044127963,59155,"Unreported","Sculpins","Recreational",187,18,4,"U","Landings",400277
+"433","reef-associatedlg",2010,"USA","Cottidae",8,"Scorpionfishes","D",0.00828266557756666,59874,"Unreported","Sculpins","Artisanal",187,18,3,"U","Discards",400277
+"434","reef-associatedlg",2010,"USA","Cottidae",8,"Scorpionfishes","D",0.0177274243729267,59155,"Unreported","Sculpins","Artisanal",187,18,3,"U","Discards",400277
+"435","reef-associatedlg",2010,"USA","Cottidae",8,"Scorpionfishes","D",0.000852445346173506,59874,"Unreported","Sculpins","Recreational",187,18,4,"U","Discards",400277
+"436","reef-associatedlg",2010,"USA","Cottidae",8,"Scorpionfishes","D",0.00182449240100598,59155,"Unreported","Sculpins","Recreational",187,18,4,"U","Discards",400277
+"437","reef-associatedlg",2010,"USA","Cottidae",8,"Scorpionfishes","R",0.0114116523406207,59155,"Reported","Sculpins","Artisanal",187,18,3,"R","Landings",400277
+"438","reef-associatedlg",2010,"USA","Cottidae",8,"Scorpionfishes","R",0.00533178977591164,59874,"Reported","Sculpins","Artisanal",187,18,3,"R","Landings",400277
+"439","flatfishsm md",2010,"USA","Psettichthys melanostictus",7,"Flatfishes","R",2.42462409388686,59155,"Reported","Pacific sand sole","Industrial",187,23,1,"R","Landings",604255
+"440","flatfishsm md",2010,"USA","Psettichthys melanostictus",7,"Flatfishes","R",1.35818478375295,59874,"Reported","Pacific sand sole","Industrial",187,23,1,"R","Landings",604255
+"441","flatfishsm md",2010,"USA","Psettichthys melanostictus",7,"Flatfishes","R",0.00954732603803407,59155,"Unreported","Pacific sand sole","Recreational",187,23,4,"U","Landings",604255
+"442","flatfishsm md",2010,"USA","Psettichthys melanostictus",7,"Flatfishes","R",0.00534805914563726,59874,"Unreported","Pacific sand sole","Recreational",187,23,4,"U","Landings",604255
+"443","flatfishsm md",2010,"USA","Pleuronichthys decurrens",7,"Flatfishes","R",0.00154144956812756,59155,"Reported","Curlfin sole","Industrial",187,23,1,"R","Landings",604252
+"444","flatfishsm md",2010,"USA","Pleuronichthys decurrens",7,"Flatfishes","R",0.00101043550003829,59874,"Reported","Curlfin sole","Industrial",187,23,1,"R","Landings",604252
+"445","demersallg",2010,"USA","Gadus macrocephalus",5,"Cod-likes","R",10.6404173647267,59155,"Reported","Pacific cod","Industrial",187,6,1,"R","Landings",600308
+"446","demersallg",2010,"USA","Gadus macrocephalus",5,"Cod-likes","R",5.87746098602995,59874,"Reported","Pacific cod","Industrial",187,6,1,"R","Landings",600308
+"447","demersallg",2010,"USA","Gadus macrocephalus",5,"Cod-likes","R",0.245288325031757,59155,"Reported","Pacific cod","Artisanal",187,6,3,"R","Landings",600308
+"448","demersallg",2010,"USA","Gadus macrocephalus",5,"Cod-likes","R",0.135490227824494,59874,"Reported","Pacific cod","Artisanal",187,6,3,"R","Landings",600308
+"449","demersallg",2010,"USA","Gadus macrocephalus",5,"Cod-likes","R",0.00648692043724777,59155,"Unreported","Pacific cod","Recreational",187,6,4,"U","Landings",600308
+"450","demersallg",2010,"USA","Gadus macrocephalus",5,"Cod-likes","R",0.00358318859166361,59874,"Unreported","Pacific cod","Recreational",187,6,4,"U","Landings",600308
+"451","demersallg",2010,"USA","Gadus macrocephalus",5,"Cod-likes","D",0.00230466637231696,59155,"Unreported","Pacific cod","Industrial",187,6,1,"U","Discards",600308
+"452","demersallg",2010,"USA","Gadus macrocephalus",5,"Cod-likes","D",0.00127303151979847,59874,"Unreported","Pacific cod","Industrial",187,6,1,"U","Discards",600308
+"453","demersallg",2010,"USA","Gadus macrocephalus",5,"Cod-likes","D",0.00162031834014325,59155,"Unreported","Pacific cod","Industrial",187,6,1,"U","Discards",600308
+"454","demersallg",2010,"USA","Gadus macrocephalus",5,"Cod-likes","D",0.00089501731959415,59874,"Unreported","Pacific cod","Industrial",187,6,1,"U","Discards",600308
+"455","demersallg",2010,"USA","Gadus macrocephalus",5,"Cod-likes","D",0.00103981795147946,59155,"Unreported","Pacific cod","Artisanal",187,6,3,"U","Discards",600308
+"456","demersallg",2010,"USA","Gadus macrocephalus",5,"Cod-likes","D",0.000574365580276644,59874,"Unreported","Pacific cod","Artisanal",187,6,3,"U","Discards",600308
+"457","demersallg",2010,"USA","Gadus macrocephalus",5,"Cod-likes","D",0.000108391752802925,59155,"Unreported","Pacific cod","Recreational",187,6,4,"U","Discards",600308
+"458","demersallg",2010,"USA","Gadus macrocephalus",5,"Cod-likes","D",5.98724920138907e-05,59874,"Unreported","Pacific cod","Recreational",187,6,4,"U","Discards",600308
+"459","demersallg",2010,"Canada","Gadus macrocephalus",5,"Cod-likes","R",7.51412697786829,59874,"Reported","Pacific cod","Industrial",26,6,1,"R","Landings",600308
+"460","demersallg",2010,"Canada","Gadus macrocephalus",5,"Cod-likes","R",0.000427195665207808,59155,"Reported","Pacific cod","Industrial",26,6,1,"R","Landings",600308
+"461","demersallg",2010,"Canada","Gadus macrocephalus",5,"Cod-likes","R",0.0117385164688963,59874,"Reported","Pacific cod","Industrial",26,6,1,"R","Landings",600308
+"462","demersallg",2010,"Canada","Gadus macrocephalus",5,"Cod-likes","R",6.67362072300991e-07,59155,"Reported","Pacific cod","Industrial",26,6,1,"R","Landings",600308
+"463","demersallg",2010,"Canada","Gadus macrocephalus",5,"Cod-likes","R",0.0548624288120656,59874,"Reported","Pacific cod","Industrial",26,6,1,"R","Landings",600308
+"464","demersallg",2010,"Canada","Gadus macrocephalus",5,"Cod-likes","R",3.11905718925384e-06,59155,"Reported","Pacific cod","Industrial",26,6,1,"R","Landings",600308
+"465","demersallg",2010,"Canada","Gadus macrocephalus",5,"Cod-likes","R",0.00693485821396863,59874,"Reported","Pacific cod","Industrial",26,6,1,"R","Landings",600308
+"466","demersallg",2010,"Canada","Gadus macrocephalus",5,"Cod-likes","R",3.94262883308184e-07,59155,"Reported","Pacific cod","Industrial",26,6,1,"R","Landings",600308
+"467","flatfishsm md",2010,"USA","Microstomus pacificus",7,"Flatfishes","R",130.094183258355,59874,"Reported","Dover sole","Industrial",187,23,1,"R","Landings",604247
+"468","flatfishsm md",2010,"USA","Microstomus pacificus",7,"Flatfishes","R",236.44280564165,59155,"Reported","Dover sole","Industrial",187,23,1,"R","Landings",604247
+"469","flatfishsm md",2010,"USA","Microstomus pacificus",7,"Flatfishes","R",0.0248936295997,59155,"Reported","Dover sole","Industrial",187,23,1,"R","Landings",604247
+"470","flatfishsm md",2010,"USA","Microstomus pacificus",7,"Flatfishes","R",0.0136968278748021,59874,"Reported","Dover sole","Industrial",187,23,1,"R","Landings",604247
+"471","flatfishsm md",2010,"USA","Microstomus pacificus",7,"Flatfishes","R",0.0106909598756151,59155,"Reported","Dover sole","Artisanal",187,23,3,"R","Landings",604247
+"472","flatfishsm md",2010,"USA","Microstomus pacificus",7,"Flatfishes","R",0.00588231771845793,59874,"Reported","Dover sole","Artisanal",187,23,3,"R","Landings",604247
+"473","flatfishsm md",2010,"USA","Microstomus pacificus",7,"Flatfishes","R",0.0745093577671337,59874,"Reported","Dover sole","Artisanal",187,23,3,"R","Landings",604247
+"474","flatfishsm md",2010,"USA","Microstomus pacificus",7,"Flatfishes","R",0.135418825091124,59155,"Reported","Dover sole","Artisanal",187,23,3,"R","Landings",604247
+"475","flatfishsm md",2010,"USA","Microstomus pacificus",7,"Flatfishes","R",0.000169273531363905,59155,"Unreported","Dover sole","Recreational",187,23,4,"U","Landings",604247
+"476","flatfishsm md",2010,"USA","Microstomus pacificus",7,"Flatfishes","R",9.31366972089172e-05,59874,"Unreported","Dover sole","Recreational",187,23,4,"U","Landings",604247
+"477","flatfishsm md",2010,"USA","Microstomus pacificus",7,"Flatfishes","D",6.45553938792548,59874,"Unreported","Dover sole","Industrial",187,23,1,"U","Discards",604247
+"478","flatfishsm md",2010,"USA","Microstomus pacificus",7,"Flatfishes","D",11.7327754906617,59155,"Unreported","Dover sole","Industrial",187,23,1,"U","Discards",604247
+"479","flatfishsm md",2010,"USA","Microstomus pacificus",7,"Flatfishes","D",0.0929368613546931,59155,"Unreported","Dover sole","Industrial",187,23,1,"U","Discards",604247
+"480","flatfishsm md",2010,"USA","Microstomus pacificus",7,"Flatfishes","D",0.0511351785042597,59874,"Unreported","Dover sole","Industrial",187,23,1,"U","Discards",604247
+"481","flatfishsm md",2010,"USA","Microstomus pacificus",7,"Flatfishes","D",0.0586387153048641,59155,"Unreported","Dover sole","Industrial",187,23,1,"U","Discards",604247
+"482","flatfishsm md",2010,"USA","Microstomus pacificus",7,"Flatfishes","D",0.0322638523688779,59874,"Unreported","Dover sole","Industrial",187,23,1,"U","Discards",604247
+"483","flatfishsm md",2010,"USA","Microstomus pacificus",7,"Flatfishes","D",0.0773487653271013,59874,"Unreported","Dover sole","Artisanal",187,23,3,"U","Discards",604247
+"484","flatfishsm md",2010,"USA","Microstomus pacificus",7,"Flatfishes","D",0.140579374681786,59155,"Unreported","Dover sole","Artisanal",187,23,3,"U","Discards",604247
+"485","otherdeminvert",2010,"USA","Saxidomus gigantea",11,"Molluscs","R",1.01717901291203,59155,"Reported","Butter clam","Artisanal",187,29,3,"R","Landings",690064
+"486","otherdeminvert",2010,"USA","Saxidomus gigantea",11,"Molluscs","R",0.487350096224153,59874,"Reported","Butter clam","Artisanal",187,29,3,"R","Landings",690064
+"487","otherdeminvert",2010,"USA","Saxidomus gigantea",11,"Molluscs","R",3.35568274146211,59155,"Unreported","Butter clam","Recreational",187,29,4,"U","Landings",690064
+"488","otherdeminvert",2010,"USA","Saxidomus gigantea",11,"Molluscs","R",1.60777236473589,59874,"Unreported","Butter clam","Recreational",187,29,4,"U","Landings",690064
+"489","otherdeminvert",2010,"Canada","Saxidomus gigantea",11,"Molluscs","R",3.14980960774246,59874,"Reported","Butter clam","Artisanal",26,29,3,"R","Landings",690064
+"490","otherdeminvert",2010,"Canada","Saxidomus gigantea",11,"Molluscs","R",0.000206452473255737,59155,"Reported","Butter clam","Artisanal",26,29,3,"R","Landings",690064
+"491","demersallg",2010,"USA","Oncorhynchus kisutch",6,"Salmon, smelts, etc","R",58.759543473723,59155,"Reported","Coho salmon","Artisanal",187,6,3,"R","Landings",600245
+"492","demersallg",2010,"USA","Oncorhynchus kisutch",6,"Salmon, smelts, etc","R",30.237824760881,59874,"Reported","Coho salmon","Artisanal",187,6,3,"R","Landings",600245
+"493","demersallg",2010,"USA","Oncorhynchus kisutch",6,"Salmon, smelts, etc","R",1.73020822006803,59155,"Reported","Coho salmon","Artisanal",187,6,3,"R","Landings",600245
+"494","demersallg",2010,"USA","Oncorhynchus kisutch",6,"Salmon, smelts, etc","R",0.890369969971759,59874,"Reported","Coho salmon","Artisanal",187,6,3,"R","Landings",600245
+"495","demersallg",2010,"USA","Oncorhynchus kisutch",6,"Salmon, smelts, etc","R",0.0128640016361935,59155,"Reported","Coho salmon","Artisanal",187,6,3,"R","Landings",600245
+"496","demersallg",2010,"USA","Oncorhynchus kisutch",6,"Salmon, smelts, etc","R",0.00661985107785694,59874,"Reported","Coho salmon","Artisanal",187,6,3,"R","Landings",600245
+"497","demersallg",2010,"USA","Oncorhynchus kisutch",6,"Salmon, smelts, etc","R",15.6269833636217,59155,"Unreported","Coho salmon","Recreational",187,6,4,"U","Landings",600245
+"498","demersallg",2010,"USA","Oncorhynchus kisutch",6,"Salmon, smelts, etc","R",8.04168917176337,59874,"Unreported","Coho salmon","Recreational",187,6,4,"U","Landings",600245
+"499","demersallg",2010,"USA","Oncorhynchus kisutch",6,"Salmon, smelts, etc","D",1.35504247635008,59155,"Unreported","Coho salmon","Artisanal",187,6,3,"U","Discards",600245
+"500","demersallg",2010,"USA","Oncorhynchus kisutch",6,"Salmon, smelts, etc","D",0.697308633137139,59874,"Unreported","Coho salmon","Artisanal",187,6,3,"U","Discards",600245
+"501","demersallg",2010,"USA","Oncorhynchus kisutch",6,"Salmon, smelts, etc","D",2.62024276527299,59155,"Unreported","Coho salmon","Recreational",187,6,4,"U","Discards",600245
+"502","demersallg",2010,"USA","Oncorhynchus kisutch",6,"Salmon, smelts, etc","D",1.34838422634652,59874,"Unreported","Coho salmon","Recreational",187,6,4,"U","Discards",600245
+"503","demersallg",2010,"Canada","Oncorhynchus kisutch",6,"Salmon, smelts, etc","R",4.26432883683306e-05,59155,"Reported","Coho salmon","Industrial",26,6,1,"R","Landings",600245
+"504","demersallg",2010,"Canada","Oncorhynchus kisutch",6,"Salmon, smelts, etc","R",0.698784747870354,59874,"Reported","Coho salmon","Industrial",26,6,1,"R","Landings",600245
+"505","demersallg",2010,"Canada","Oncorhynchus kisutch",6,"Salmon, smelts, etc","R",1.65605022986221e-07,59155,"Reported","Coho salmon","Industrial",26,6,1,"R","Landings",600245
+"506","demersallg",2010,"Canada","Oncorhynchus kisutch",6,"Salmon, smelts, etc","R",0.00271372749760624,59874,"Reported","Coho salmon","Industrial",26,6,1,"R","Landings",600245
+"507","demersallg",2010,"Canada","Oncorhynchus kisutch",6,"Salmon, smelts, etc","R",6.70700263868763e-06,59155,"Reported","Coho salmon","Industrial",26,6,1,"R","Landings",600245
+"508","demersallg",2010,"Canada","Oncorhynchus kisutch",6,"Salmon, smelts, etc","R",0.109905950670582,59874,"Reported","Coho salmon","Industrial",26,6,1,"R","Landings",600245
+"509","demersallg",2010,"Canada","Oncorhynchus kisutch",6,"Salmon, smelts, etc","R",6.57440503165343e-07,59155,"Unreported","Coho salmon","Industrial",26,6,1,"U","Landings",600245
+"510","demersallg",2010,"Canada","Oncorhynchus kisutch",6,"Salmon, smelts, etc","R",0.0107733107324185,59874,"Unreported","Coho salmon","Industrial",26,6,1,"U","Landings",600245
+"511","demersallg",2010,"Canada","Oncorhynchus kisutch",6,"Salmon, smelts, etc","R",2.55316730497798e-09,59155,"Unreported","Coho salmon","Industrial",26,6,1,"U","Landings",600245
+"512","demersallg",2010,"Canada","Oncorhynchus kisutch",6,"Salmon, smelts, etc","R",4.18381048869781e-05,59874,"Unreported","Coho salmon","Industrial",26,6,1,"U","Landings",600245
+"513","demersallg",2010,"Canada","Oncorhynchus kisutch",6,"Salmon, smelts, etc","R",1.03403263637257e-07,59155,"Unreported","Coho salmon","Industrial",26,6,1,"U","Landings",600245
+"514","demersallg",2010,"Canada","Oncorhynchus kisutch",6,"Salmon, smelts, etc","R",0.00169444304776914,59874,"Unreported","Coho salmon","Industrial",26,6,1,"U","Landings",600245
+"515","demersallg",2010,"Canada","Oncorhynchus kisutch",6,"Salmon, smelts, etc","R",0.209339306561261,59874,"Unreported","Coho salmon","Subsistence",26,6,2,"U","Landings",600245
+"516","demersallg",2010,"Canada","Oncorhynchus kisutch",6,"Salmon, smelts, etc","R",1.27749173823169e-05,59155,"Unreported","Coho salmon","Subsistence",26,6,2,"U","Landings",600245
+"517","demersallg",2010,"Canada","Oncorhynchus kisutch",6,"Salmon, smelts, etc","R",0.0444053074523887,59874,"Unreported","Coho salmon","Recreational",26,6,4,"U","Landings",600245
+"518","demersallg",2010,"Canada","Oncorhynchus kisutch",6,"Salmon, smelts, etc","R",2.70983095988541e-06,59155,"Unreported","Coho salmon","Recreational",26,6,4,"U","Landings",600245
+"519","demersallg",2010,"Canada","Oncorhynchus kisutch",6,"Salmon, smelts, etc","D",1.44798941827948e-07,59155,"Unreported","Coho salmon","Industrial",26,6,1,"U","Discards",600245
+"520","demersallg",2010,"Canada","Oncorhynchus kisutch",6,"Salmon, smelts, etc","D",0.00237278352417777,59874,"Unreported","Coho salmon","Industrial",26,6,1,"U","Discards",600245
+"521","demersallg",2010,"Canada","Oncorhynchus kisutch",6,"Salmon, smelts, etc","D",5.62326054282585e-10,59155,"Unreported","Coho salmon","Industrial",26,6,1,"U","Discards",600245
+"522","demersallg",2010,"Canada","Oncorhynchus kisutch",6,"Salmon, smelts, etc","D",9.2146943891553e-06,59874,"Unreported","Coho salmon","Industrial",26,6,1,"U","Discards",600245
+"523","demersallg",2010,"Canada","Oncorhynchus kisutch",6,"Salmon, smelts, etc","D",2.27742025082772e-08,59155,"Unreported","Coho salmon","Industrial",26,6,1,"U","Discards",600245
+"524","demersallg",2010,"Canada","Oncorhynchus kisutch",6,"Salmon, smelts, etc","D",0.000373195078677697,59874,"Unreported","Coho salmon","Industrial",26,6,1,"U","Discards",600245
+"525","benthopelagiclg",2010,"USA","Oncorhynchus tshawytscha",6,"Salmon, smelts, etc","R",110.825634415319,59155,"Reported","Chinook salmon","Artisanal",187,15,3,"R","Landings",600244
+"526","benthopelagiclg",2010,"USA","Oncorhynchus tshawytscha",6,"Salmon, smelts, etc","R",49.5982019564234,59874,"Reported","Chinook salmon","Artisanal",187,15,3,"R","Landings",600244
+"527","benthopelagiclg",2010,"USA","Oncorhynchus tshawytscha",6,"Salmon, smelts, etc","R",12.9208054778198,59874,"Reported","Chinook salmon","Artisanal",187,15,3,"R","Landings",600244
+"528","benthopelagiclg",2010,"USA","Oncorhynchus tshawytscha",6,"Salmon, smelts, etc","R",28.8711366088315,59155,"Reported","Chinook salmon","Artisanal",187,15,3,"R","Landings",600244
+"529","benthopelagiclg",2010,"USA","Oncorhynchus tshawytscha",6,"Salmon, smelts, etc","R",1.14604252898569,59155,"Reported","Chinook salmon","Artisanal",187,15,3,"R","Landings",600244
+"530","benthopelagiclg",2010,"USA","Oncorhynchus tshawytscha",6,"Salmon, smelts, etc","R",0.512892609215918,59874,"Reported","Chinook salmon","Artisanal",187,15,3,"R","Landings",600244
+"531","benthopelagiclg",2010,"USA","Oncorhynchus tshawytscha",6,"Salmon, smelts, etc","R",100.583742996734,59155,"Unreported","Chinook salmon","Recreational",187,15,4,"U","Landings",600244
+"532","benthopelagiclg",2010,"USA","Oncorhynchus tshawytscha",6,"Salmon, smelts, etc","R",45.0146107893196,59874,"Unreported","Chinook salmon","Recreational",187,15,4,"U","Landings",600244
+"533","benthopelagiclg",2010,"USA","Oncorhynchus tshawytscha",6,"Salmon, smelts, etc","D",4.93296566824274,59155,"Unreported","Chinook salmon","Artisanal",187,15,3,"U","Discards",600244
+"534","benthopelagiclg",2010,"USA","Oncorhynchus tshawytscha",6,"Salmon, smelts, etc","D",2.2076681874946,59874,"Unreported","Chinook salmon","Artisanal",187,15,3,"U","Discards",600244
+"535","benthopelagiclg",2010,"USA","Oncorhynchus tshawytscha",6,"Salmon, smelts, etc","D",2.19060216156409,59155,"Unreported","Chinook salmon","Recreational",187,15,4,"U","Discards",600244
+"536","benthopelagiclg",2010,"USA","Oncorhynchus tshawytscha",6,"Salmon, smelts, etc","D",0.980368206224455,59874,"Unreported","Chinook salmon","Recreational",187,15,4,"U","Discards",600244
+"537","benthopelagiclg",2010,"Canada","Oncorhynchus tshawytscha",6,"Salmon, smelts, etc","R",6.20400849956565e-05,59155,"Reported","Chinook salmon","Industrial",26,15,1,"R","Landings",600244
+"538","benthopelagiclg",2010,"Canada","Oncorhynchus tshawytscha",6,"Salmon, smelts, etc","R",0.884135212961678,59874,"Reported","Chinook salmon","Industrial",26,15,1,"R","Landings",600244
+"539","benthopelagiclg",2010,"Canada","Oncorhynchus tshawytscha",6,"Salmon, smelts, etc","R",1.10335517285689e-05,59155,"Reported","Chinook salmon","Industrial",26,15,1,"R","Landings",600244
+"540","benthopelagiclg",2010,"Canada","Oncorhynchus tshawytscha",6,"Salmon, smelts, etc","R",0.157239494561378,59874,"Reported","Chinook salmon","Industrial",26,15,1,"R","Landings",600244
+"541","benthopelagiclg",2010,"Canada","Oncorhynchus tshawytscha",6,"Salmon, smelts, etc","R",1.3774949354677e-06,59155,"Unreported","Chinook salmon","Industrial",26,15,1,"U","Landings",600244
+"542","benthopelagiclg",2010,"Canada","Oncorhynchus tshawytscha",6,"Salmon, smelts, etc","R",0.0196307238813202,59874,"Unreported","Chinook salmon","Industrial",26,15,1,"U","Landings",600244
+"543","benthopelagiclg",2010,"Canada","Oncorhynchus tshawytscha",6,"Salmon, smelts, etc","R",2.44981315344565e-07,59155,"Unreported","Chinook salmon","Industrial",26,15,1,"U","Landings",600244
+"544","benthopelagiclg",2010,"Canada","Oncorhynchus tshawytscha",6,"Salmon, smelts, etc","R",0.00349123647120991,59874,"Unreported","Chinook salmon","Industrial",26,15,1,"U","Landings",600244
+"545","benthopelagiclg",2010,"Canada","Oncorhynchus tshawytscha",6,"Salmon, smelts, etc","R",1.11681552130735,59874,"Unreported","Chinook salmon","Subsistence",26,15,2,"U","Landings",600244
+"546","benthopelagiclg",2010,"Canada","Oncorhynchus tshawytscha",6,"Salmon, smelts, etc","R",7.8367354512399e-05,59155,"Unreported","Chinook salmon","Subsistence",26,15,2,"U","Landings",600244
+"547","benthopelagiclg",2010,"Canada","Oncorhynchus tshawytscha",6,"Salmon, smelts, etc","R",0.0718742662227502,59874,"Unreported","Chinook salmon","Recreational",26,15,4,"U","Landings",600244
+"548","benthopelagiclg",2010,"Canada","Oncorhynchus tshawytscha",6,"Salmon, smelts, etc","R",5.0434436072336e-06,59155,"Unreported","Chinook salmon","Recreational",26,15,4,"U","Landings",600244
+"549","benthopelagiclg",2010,"Canada","Oncorhynchus tshawytscha",6,"Salmon, smelts, etc","D",1.64272069714889e-07,59155,"Unreported","Chinook salmon","Industrial",26,15,1,"U","Discards",600244
+"550","benthopelagiclg",2010,"Canada","Oncorhynchus tshawytscha",6,"Salmon, smelts, etc","D",0.00234104645973966,59874,"Unreported","Chinook salmon","Industrial",26,15,1,"U","Discards",600244
+"551","benthopelagiclg",2010,"Canada","Oncorhynchus tshawytscha",6,"Salmon, smelts, etc","D",2.9215053120659e-08,59155,"Unreported","Chinook salmon","Industrial",26,15,1,"U","Discards",600244
+"552","benthopelagiclg",2010,"Canada","Oncorhynchus tshawytscha",6,"Salmon, smelts, etc","D",0.000416344645793586,59874,"Unreported","Chinook salmon","Industrial",26,15,1,"U","Discards",600244
+"553","demersalmd",2010,"USA","Marine fishes not identified",12,"Other fishes & inverts","R",0.00895412889235914,59155,"Reported","Marine fishes nei","Industrial",187,5,1,"R","Landings",100039
+"554","demersalmd",2010,"USA","Marine fishes not identified",12,"Other fishes & inverts","R",0.197888340300012,59155,"Unreported","Marine fishes nei","Recreational",187,5,4,"U","Landings",100039
+"555","demersalmd",2010,"USA","Marine fishes not identified",12,"Other fishes & inverts","R",0.123438532510911,59874,"Unreported","Marine fishes nei","Recreational",187,5,4,"U","Landings",100039
+"556","demersalmd",2010,"USA","Marine fishes not identified",12,"Other fishes & inverts","D",1.71281269261077,59874,"Unreported","Marine fishes nei","Recreational",187,5,4,"U","Discards",100039
+"557","demersalmd",2010,"USA","Marine fishes not identified",12,"Other fishes & inverts","R",0.00558539487148992,59874,"Reported","Marine fishes nei","Industrial",187,5,1,"R","Landings",100039
+"558","demersalmd",2010,"USA","Marine fishes not identified",12,"Other fishes & inverts","R",0.23877677046291,59155,"Reported","Marine fishes nei","Industrial",187,5,1,"R","Landings",100039
+"559","demersalmd",2010,"USA","Marine fishes not identified",12,"Other fishes & inverts","R",0.148943863239731,59874,"Reported","Marine fishes nei","Industrial",187,5,1,"R","Landings",100039
+"560","demersalmd",2010,"USA","Marine fishes not identified",12,"Other fishes & inverts","D",7.75501100594691,59874,"Unreported","Marine fishes nei","Artisanal",187,5,3,"U","Discards",100039
+"561","demersalmd",2010,"USA","Marine fishes not identified",12,"Other fishes & inverts","D",12.4323112545065,59155,"Unreported","Marine fishes nei","Artisanal",187,5,3,"U","Discards",100039
+"562","demersalmd",2010,"USA","Marine fishes not identified",12,"Other fishes & inverts","D",0.667290525379434,59155,"Unreported","Marine fishes nei","Artisanal",187,5,3,"U","Discards",100039
+"563","demersalmd",2010,"USA","Marine fishes not identified",12,"Other fishes & inverts","D",0.416241619321252,59874,"Unreported","Marine fishes nei","Artisanal",187,5,3,"U","Discards",100039
+"564","demersalmd",2010,"USA","Marine fishes not identified",12,"Other fishes & inverts","D",2.74586593092866,59155,"Unreported","Marine fishes nei","Recreational",187,5,4,"U","Discards",100039
+"565","demersalmd",2010,"USA","Marine fishes not identified",12,"Other fishes & inverts","R",0.883112989125572,59874,"Reported","Marine fishes nei","Industrial",187,5,1,"R","Landings",100039
+"566","demersalmd",2010,"USA","Marine fishes not identified",12,"Other fishes & inverts","R",1.41574726820301,59155,"Reported","Marine fishes nei","Industrial",187,5,1,"R","Landings",100039
+"567","demersalmd",2010,"USA","Marine fishes not identified",12,"Other fishes & inverts","D",11.5419886966079,59155,"Unreported","Marine fishes nei","Industrial",187,5,1,"U","Discards",100039
+"568","demersalmd",2010,"USA","Marine fishes not identified",12,"Other fishes & inverts","D",7.19964669347568,59874,"Unreported","Marine fishes nei","Industrial",187,5,1,"U","Discards",100039
+"569","demersalmd",2010,"USA","Marine fishes not identified",12,"Other fishes & inverts","D",0.843745462654105,59155,"Unreported","Marine fishes nei","Industrial",187,5,1,"U","Discards",100039
+"570","demersalmd",2010,"USA","Marine fishes not identified",12,"Other fishes & inverts","D",0.526310447013175,59874,"Unreported","Marine fishes nei","Industrial",187,5,1,"U","Discards",100039
+"571","demersalmd",2010,"USA","Marine fishes not identified",12,"Other fishes & inverts","D",2.62288626100027,59155,"Unreported","Marine fishes nei","Industrial",187,5,1,"U","Discards",100039
+"572","demersalmd",2010,"USA","Marine fishes not identified",12,"Other fishes & inverts","D",1.6361005796101,59874,"Unreported","Marine fishes nei","Industrial",187,5,1,"U","Discards",100039
+"573","demersalmd",2010,"USA","Marine fishes not identified",12,"Other fishes & inverts","R",12.0664834030072,59874,"Reported","Marine fishes nei","Artisanal",187,5,3,"R","Landings",100039
+"574","demersalmd",2010,"USA","Marine fishes not identified",12,"Other fishes & inverts","R",19.3441733736397,59155,"Reported","Marine fishes nei","Artisanal",187,5,3,"R","Landings",100039
+"575","demersalmd",2010,"USA","Marine fishes not identified",12,"Other fishes & inverts","R",44.0262993509945,59155,"Reported","Marine fishes nei","Artisanal",187,5,3,"R","Landings",100039
+"576","demersalmd",2010,"USA","Marine fishes not identified",12,"Other fishes & inverts","R",27.4626679648417,59874,"Reported","Marine fishes nei","Artisanal",187,5,3,"R","Landings",100039
+"577","demersalmd",2010,"USA","Marine fishes not identified",12,"Other fishes & inverts","R",0.00184164887103284,59874,"Reported","Marine fishes nei","Artisanal",187,5,3,"R","Landings",100039
+"578","demersalmd",2010,"USA","Marine fishes not identified",12,"Other fishes & inverts","R",0.00295240741355918,59155,"Reported","Marine fishes nei","Artisanal",187,5,3,"R","Landings",100039
+"579","demersalmd",2010,"USA","Marine fishes not identified",12,"Other fishes & inverts","R",0.345431667386424,59155,"Reported","Marine fishes nei","Artisanal",187,5,3,"R","Landings",100039
+"580","demersalmd",2010,"USA","Marine fishes not identified",12,"Other fishes & inverts","R",0.215472917910842,59874,"Reported","Marine fishes nei","Artisanal",187,5,3,"R","Landings",100039
+"581","demersalmd",2010,"USA","Marine fishes not identified",12,"Other fishes & inverts","R",19.6566550600819,59874,"Reported","Marine fishes nei","Artisanal",187,5,3,"R","Landings",100039
+"582","demersalmd",2010,"USA","Marine fishes not identified",12,"Other fishes & inverts","R",31.5122252878825,59155,"Reported","Marine fishes nei","Artisanal",187,5,3,"R","Landings",100039
+"583","demersalmd",2010,"Canada","Marine fishes not identified",12,"Other fishes & inverts","R",0.000587604053481031,59155,"Unreported","Marine fishes nei","Industrial",26,5,1,"U","Landings",100039
+"584","demersalmd",2010,"Canada","Marine fishes not identified",12,"Other fishes & inverts","R",11.6717485850365,59874,"Unreported","Marine fishes nei","Industrial",26,5,1,"U","Landings",100039
+"585","demersalmd",2010,"Canada","Marine fishes not identified",12,"Other fishes & inverts","R",9.24890167244286e-10,59155,"Unreported","Marine fishes nei","Industrial",26,5,1,"U","Landings",100039
+"586","demersalmd",2010,"Canada","Marine fishes not identified",12,"Other fishes & inverts","R",1.83713598245219e-05,59874,"Unreported","Marine fishes nei","Industrial",26,5,1,"U","Landings",100039
+"587","demersalmd",2010,"Canada","Marine fishes not identified",12,"Other fishes & inverts","R",1.49033046828875e-07,59155,"Unreported","Marine fishes nei","Industrial",26,5,1,"U","Landings",100039
+"588","demersalmd",2010,"Canada","Marine fishes not identified",12,"Other fishes & inverts","R",0.00296028634102122,59874,"Unreported","Marine fishes nei","Industrial",26,5,1,"U","Landings",100039
+"589","demersalmd",2010,"Canada","Marine fishes not identified",12,"Other fishes & inverts","R",7.15563787328997e-08,59155,"Unreported","Marine fishes nei","Industrial",26,5,1,"U","Landings",100039
+"590","demersalmd",2010,"Canada","Marine fishes not identified",12,"Other fishes & inverts","R",0.00142134496397414,59874,"Unreported","Marine fishes nei","Industrial",26,5,1,"U","Landings",100039
+"591","demersalmd",2010,"Canada","Marine fishes not identified",12,"Other fishes & inverts","R",22.9057417400231,59874,"Reported","Marine fishes nei","Industrial",26,5,1,"R","Landings",100039
+"592","demersalmd",2010,"Canada","Marine fishes not identified",12,"Other fishes & inverts","R",0.00115316968973121,59155,"Reported","Marine fishes nei","Industrial",26,5,1,"R","Landings",100039
+"593","demersalmd",2010,"Canada","Marine fishes not identified",12,"Other fishes & inverts","R",0.000415356186888476,59155,"Reported","Marine fishes nei","Industrial",26,5,1,"R","Landings",100039
+"594","demersalmd",2010,"Canada","Marine fishes not identified",12,"Other fishes & inverts","R",8.25033959157027,59874,"Reported","Marine fishes nei","Industrial",26,5,1,"R","Landings",100039
+"595","demersalmd",2010,"Canada","Marine fishes not identified",12,"Other fishes & inverts","R",5.51283446114715e-06,59155,"Reported","Marine fishes nei","Industrial",26,5,1,"R","Landings",100039
+"596","demersalmd",2010,"Canada","Marine fishes not identified",12,"Other fishes & inverts","R",0.10950301898064,59874,"Reported","Marine fishes nei","Industrial",26,5,1,"R","Landings",100039
+"597","demersalmd",2010,"Canada","Marine fishes not identified",12,"Other fishes & inverts","R",0.000303145684893969,59155,"Reported","Marine fishes nei","Industrial",26,5,1,"R","Landings",100039
+"598","demersalmd",2010,"Canada","Marine fishes not identified",12,"Other fishes & inverts","R",6.02147006604222,59874,"Reported","Marine fishes nei","Industrial",26,5,1,"R","Landings",100039
+"599","demersalmd",2010,"Canada","Marine fishes not identified",12,"Other fishes & inverts","R",0.00192388386231296,59155,"Reported","Marine fishes nei","Industrial",26,5,1,"R","Landings",100039
+"600","demersalmd",2010,"Canada","Marine fishes not identified",12,"Other fishes & inverts","R",38.214659369178,59874,"Reported","Marine fishes nei","Industrial",26,5,1,"R","Landings",100039
+"601","demersalmd",2010,"Canada","Marine fishes not identified",12,"Other fishes & inverts","R",0.000184374310584293,59155,"Reported","Marine fishes nei","Industrial",26,5,1,"R","Landings",100039
+"602","demersalmd",2010,"Canada","Marine fishes not identified",12,"Other fishes & inverts","R",3.66228004373146,59874,"Reported","Marine fishes nei","Industrial",26,5,1,"R","Landings",100039
+"603","demersalmd",2010,"Canada","Marine fishes not identified",12,"Other fishes & inverts","R",3.87386841250505e-05,59155,"Reported","Marine fishes nei","Industrial",26,5,1,"R","Landings",100039
+"604","demersalmd",2010,"Canada","Marine fishes not identified",12,"Other fishes & inverts","R",0.769477642205083,59874,"Reported","Marine fishes nei","Industrial",26,5,1,"R","Landings",100039
+"605","bathydemersalmd",2010,"USA","Sebastolobus alascanus",8,"Scorpionfishes","D",0.0941135310665246,59155,"Unreported","Shortspine thornyhead","Artisanal",187,11,3,"U","Discards",604009
+"606","bathydemersalmd",2010,"USA","Sebastolobus alascanus",8,"Scorpionfishes","D",0.0472468186055641,59874,"Unreported","Shortspine thornyhead","Artisanal",187,11,3,"U","Discards",604009
+"607","bathydemersalmd",2010,"USA","Sebastolobus alascanus",8,"Scorpionfishes","R",20.8316839096217,59155,"Reported","Shortspine thornyhead","Industrial",187,11,1,"R","Landings",604009
+"608","bathydemersalmd",2010,"USA","Sebastolobus alascanus",8,"Scorpionfishes","R",10.457909414825,59874,"Reported","Shortspine thornyhead","Industrial",187,11,1,"R","Landings",604009
+"609","bathydemersalmd",2010,"USA","Sebastolobus alascanus",8,"Scorpionfishes","R",0.0409015759668606,59155,"Reported","Shortspine thornyhead","Industrial",187,11,1,"R","Landings",604009
+"610","bathydemersalmd",2010,"USA","Sebastolobus alascanus",8,"Scorpionfishes","R",0.0205333845425452,59874,"Reported","Shortspine thornyhead","Industrial",187,11,1,"R","Landings",604009
+"611","bathydemersalmd",2010,"USA","Sebastolobus alascanus",8,"Scorpionfishes","R",0.00881968404351135,59155,"Reported","Shortspine thornyhead","Artisanal",187,11,3,"R","Landings",604009
+"612","bathydemersalmd",2010,"USA","Sebastolobus alascanus",8,"Scorpionfishes","R",0.0044276525111742,59874,"Reported","Shortspine thornyhead","Artisanal",187,11,3,"R","Landings",604009
+"613","bathydemersalmd",2010,"USA","Sebastolobus alascanus",8,"Scorpionfishes","R",0.670295987306862,59155,"Reported","Shortspine thornyhead","Artisanal",187,11,3,"R","Landings",604009
+"614","bathydemersalmd",2010,"USA","Sebastolobus alascanus",8,"Scorpionfishes","R",0.336501590849239,59874,"Reported","Shortspine thornyhead","Artisanal",187,11,3,"R","Landings",604009
+"615","bathydemersalmd",2010,"USA","Sebastolobus alascanus",8,"Scorpionfishes","D",1.91612327669466,59155,"Unreported","Shortspine thornyhead","Industrial",187,11,1,"U","Discards",604009
+"616","bathydemersalmd",2010,"USA","Sebastolobus alascanus",8,"Scorpionfishes","D",0.96193105378558,59874,"Unreported","Shortspine thornyhead","Industrial",187,11,1,"U","Discards",604009
+"617","bathydemersalmd",2010,"USA","Sebastolobus alascanus",8,"Scorpionfishes","D",0.00434276410282369,59155,"Unreported","Shortspine thornyhead","Industrial",187,11,1,"U","Discards",604009
+"618","bathydemersalmd",2010,"USA","Sebastolobus alascanus",8,"Scorpionfishes","D",0.00218015182038679,59874,"Unreported","Shortspine thornyhead","Industrial",187,11,1,"U","Discards",604009
+"619","bathydemersalmd",2010,"USA","Sebastolobus alascanus",8,"Scorpionfishes","D",0.0687467978228608,59155,"Unreported","Shortspine thornyhead","Industrial",187,11,1,"U","Discards",604009
+"620","bathydemersalmd",2010,"USA","Sebastolobus alascanus",8,"Scorpionfishes","D",0.0345122260547887,59874,"Unreported","Shortspine thornyhead","Industrial",187,11,1,"U","Discards",604009
+"621","flatfishsm md",2010,"USA","Atheresthes stomias",7,"Flatfishes","R",125.055533000763,59155,"Reported","Arrowtooth flounder","Industrial",187,23,1,"R","Landings",600517
+"622","flatfishsm md",2010,"USA","Atheresthes stomias",7,"Flatfishes","R",64.7969934877535,59874,"Reported","Arrowtooth flounder","Industrial",187,23,1,"R","Landings",600517
+"623","flatfishsm md",2010,"USA","Atheresthes stomias",7,"Flatfishes","R",0.285645347192242,59155,"Reported","Arrowtooth flounder","Industrial",187,23,1,"R","Landings",600517
+"624","flatfishsm md",2010,"USA","Atheresthes stomias",7,"Flatfishes","R",0.148005923909898,59874,"Reported","Arrowtooth flounder","Industrial",187,23,1,"R","Landings",600517
+"625","flatfishsm md",2010,"USA","Atheresthes stomias",7,"Flatfishes","R",0.00908580353955378,59155,"Reported","Arrowtooth flounder","Artisanal",187,23,3,"R","Landings",600517
+"626","flatfishsm md",2010,"USA","Atheresthes stomias",7,"Flatfishes","R",0.00470777056908466,59874,"Reported","Arrowtooth flounder","Artisanal",187,23,3,"R","Landings",600517
+"627","flatfishsm md",2010,"USA","Atheresthes stomias",7,"Flatfishes","R",0.163544463711968,59155,"Reported","Arrowtooth flounder","Artisanal",187,23,3,"R","Landings",600517
+"628","flatfishsm md",2010,"USA","Atheresthes stomias",7,"Flatfishes","R",0.0847398702435238,59874,"Reported","Arrowtooth flounder","Artisanal",187,23,3,"R","Landings",600517
+"629","flatfishsm md",2010,"USA","Atheresthes stomias",7,"Flatfishes","R",0.000981266782271808,59155,"Unreported","Arrowtooth flounder","Recreational",187,23,4,"U","Landings",600517
+"630","flatfishsm md",2010,"USA","Atheresthes stomias",7,"Flatfishes","R",0.000508439221461143,59874,"Unreported","Arrowtooth flounder","Recreational",187,23,4,"U","Landings",600517
+"631","flatfishsm md",2010,"USA","Atheresthes stomias",7,"Flatfishes","D",29.6181186016555,59155,"Unreported","Arrowtooth flounder","Industrial",187,23,1,"U","Discards",600517
+"632","flatfishsm md",2010,"USA","Atheresthes stomias",7,"Flatfishes","D",15.3465024065689,59874,"Unreported","Arrowtooth flounder","Industrial",187,23,1,"U","Discards",600517
+"633","flatfishsm md",2010,"USA","Atheresthes stomias",7,"Flatfishes","D",0.928519767832754,59155,"Unreported","Arrowtooth flounder","Industrial",187,23,1,"U","Discards",600517
+"634","flatfishsm md",2010,"USA","Atheresthes stomias",7,"Flatfishes","D",0.481108575572918,59874,"Unreported","Arrowtooth flounder","Industrial",187,23,1,"U","Discards",600517
+"635","flatfishsm md",2010,"USA","Atheresthes stomias",7,"Flatfishes","D",0.254385655781179,59155,"Unreported","Arrowtooth flounder","Industrial",187,23,1,"U","Discards",600517
+"636","flatfishsm md",2010,"USA","Atheresthes stomias",7,"Flatfishes","D",0.131808847521607,59874,"Unreported","Arrowtooth flounder","Industrial",187,23,1,"U","Discards",600517
+"637","flatfishsm md",2010,"USA","Atheresthes stomias",7,"Flatfishes","D",2.97928058657701,59155,"Unreported","Arrowtooth flounder","Artisanal",187,23,3,"U","Discards",600517
+"638","flatfishsm md",2010,"USA","Atheresthes stomias",7,"Flatfishes","D",1.54370160013622,59874,"Unreported","Arrowtooth flounder","Artisanal",187,23,3,"U","Discards",600517
+"639","flatfishsm md",2010,"USA","Atheresthes stomias",7,"Flatfishes","D",0.340072636321996,59155,"Unreported","Arrowtooth flounder","Artisanal",187,23,3,"U","Discards",600517
+"640","flatfishsm md",2010,"USA","Atheresthes stomias",7,"Flatfishes","D",0.176207194185749,59874,"Unreported","Arrowtooth flounder","Artisanal",187,23,3,"U","Discards",600517
+"641","flatfishsm md",2010,"Canada","Atheresthes stomias",7,"Flatfishes","R",0.0800508662288266,59874,"Reported","Arrowtooth flounder","Industrial",26,23,1,"R","Landings",600517
+"642","flatfishsm md",2010,"Canada","Atheresthes stomias",7,"Flatfishes","R",1.62843773588884e-05,59874,"Reported","Arrowtooth flounder","Industrial",26,23,1,"R","Landings",600517
+"643","demersalmd",2010,"USA","Sebastes crameri",8,"Scorpionfishes","R",6.20325349176325,59155,"Reported","Darkblotched rockfish","Industrial",187,5,1,"R","Landings",603962
+"644","demersalmd",2010,"USA","Sebastes crameri",8,"Scorpionfishes","R",3.22765555899534,59874,"Reported","Darkblotched rockfish","Industrial",187,5,1,"R","Landings",603962
+"645","demersalmd",2010,"USA","Sebastes crameri",8,"Scorpionfishes","R",0.208221096227018,59155,"Reported","Darkblotched rockfish","Industrial",187,5,1,"R","Landings",603962
+"646","demersalmd",2010,"USA","Sebastes crameri",8,"Scorpionfishes","R",0.108340885896347,59874,"Reported","Darkblotched rockfish","Industrial",187,5,1,"R","Landings",603962
+"647","demersalmd",2010,"USA","Sebastes crameri",8,"Scorpionfishes","R",0.496532263416342,59155,"Reported","Darkblotched rockfish","Artisanal",187,5,3,"R","Landings",603962
+"648","demersalmd",2010,"USA","Sebastes crameri",8,"Scorpionfishes","R",0.258353964724679,59874,"Reported","Darkblotched rockfish","Artisanal",187,5,3,"R","Landings",603962
+"649","demersalmd",2010,"USA","Sebastes crameri",8,"Scorpionfishes","D",5.64356559367342,59155,"Unreported","Darkblotched rockfish","Industrial",187,5,1,"U","Discards",603962
+"650","demersalmd",2010,"USA","Sebastes crameri",8,"Scorpionfishes","D",2.93644067345653,59874,"Unreported","Darkblotched rockfish","Industrial",187,5,1,"U","Discards",603962
+"651","demersalmd",2010,"USA","Sebastes crameri",8,"Scorpionfishes","D",0.523510215881373,59155,"Unreported","Darkblotched rockfish","Industrial",187,5,1,"U","Discards",603962
+"652","demersalmd",2010,"USA","Sebastes crameri",8,"Scorpionfishes","D",0.272391038142159,59874,"Unreported","Darkblotched rockfish","Industrial",187,5,1,"U","Discards",603962
+"653","demersalmd",2010,"USA","Sebastes crameri",8,"Scorpionfishes","D",0.191941226917916,59155,"Unreported","Darkblotched rockfish","Industrial",187,5,1,"U","Discards",603962
+"654","demersalmd",2010,"USA","Sebastes crameri",8,"Scorpionfishes","D",0.0998702001916582,59874,"Unreported","Darkblotched rockfish","Industrial",187,5,1,"U","Discards",603962
+"655","demersalmd",2010,"USA","Sebastes crameri",8,"Scorpionfishes","D",0.238771861697246,59155,"Unreported","Darkblotched rockfish","Artisanal",187,5,3,"U","Discards",603962
+"656","demersalmd",2010,"USA","Sebastes crameri",8,"Scorpionfishes","D",0.124236956345475,59874,"Unreported","Darkblotched rockfish","Artisanal",187,5,3,"U","Discards",603962
+"657","shrimp",2010,"USA","Pandalus jordani",10,"Crustaceans","R",1.10890536336017,59155,"Reported","Ocean shrimp","Industrial",187,26,1,"R","Landings",690660
+"658","shrimp",2010,"USA","Pandalus jordani",10,"Crustaceans","R",0.574253124334397,59874,"Reported","Ocean shrimp","Industrial",187,26,1,"R","Landings",690660
+"659","shrimp",2010,"USA","Pandalus jordani",10,"Crustaceans","R",846.592202468525,59155,"Reported","Ocean shrimp","Industrial",187,26,1,"R","Landings",690660
+"660","shrimp",2010,"USA","Pandalus jordani",10,"Crustaceans","R",438.412720659542,59874,"Reported","Ocean shrimp","Industrial",187,26,1,"R","Landings",690660
+"661","shrimp",2010,"USA","Pandalus jordani",10,"Crustaceans","D",20.7925238788353,59155,"Unreported","Ocean shrimp","Industrial",187,26,1,"U","Discards",690660
+"662","shrimp",2010,"USA","Pandalus jordani",10,"Crustaceans","D",10.7675300298287,59874,"Unreported","Ocean shrimp","Industrial",187,26,1,"U","Discards",690660
+"663","bathydemersallg",2010,"USA","Anoplopoma fimbria",8,"Scorpionfishes","R",51.0214954825158,59155,"Reported","Sablefish","Artisanal",187,12,3,"R","Landings",600512
+"664","bathydemersallg",2010,"USA","Anoplopoma fimbria",8,"Scorpionfishes","R",25.9028956463593,59874,"Reported","Sablefish","Artisanal",187,12,3,"R","Landings",600512
+"665","bathydemersallg",2010,"USA","Anoplopoma fimbria",8,"Scorpionfishes","R",0.00374481692062677,59155,"Unreported","Sablefish","Recreational",187,12,4,"U","Landings",600512
+"666","bathydemersallg",2010,"USA","Anoplopoma fimbria",8,"Scorpionfishes","R",0.00190119088028215,59874,"Unreported","Sablefish","Recreational",187,12,4,"U","Landings",600512
+"667","bathydemersallg",2010,"USA","Anoplopoma fimbria",8,"Scorpionfishes","D",3.30763876744436,59155,"Unreported","Sablefish","Industrial",187,12,1,"U","Discards",600512
+"668","bathydemersallg",2010,"USA","Anoplopoma fimbria",8,"Scorpionfishes","D",1.67924166655951,59874,"Unreported","Sablefish","Industrial",187,12,1,"U","Discards",600512
+"669","bathydemersallg",2010,"USA","Anoplopoma fimbria",8,"Scorpionfishes","D",0.019227050086001,59155,"Unreported","Sablefish","Industrial",187,12,1,"U","Discards",600512
+"670","bathydemersallg",2010,"USA","Anoplopoma fimbria",8,"Scorpionfishes","D",0.00976130282037594,59874,"Unreported","Sablefish","Industrial",187,12,1,"U","Discards",600512
+"671","bathydemersallg",2010,"USA","Anoplopoma fimbria",8,"Scorpionfishes","D",0.180057905677429,59155,"Unreported","Sablefish","Industrial",187,12,1,"U","Discards",600512
+"672","bathydemersallg",2010,"USA","Anoplopoma fimbria",8,"Scorpionfishes","D",0.091412865450419,59874,"Unreported","Sablefish","Industrial",187,12,1,"U","Discards",600512
+"673","bathydemersallg",2010,"USA","Anoplopoma fimbria",8,"Scorpionfishes","D",0.993620816721696,59874,"Unreported","Sablefish","Artisanal",187,12,3,"U","Discards",600512
+"674","bathydemersallg",2010,"USA","Anoplopoma fimbria",8,"Scorpionfishes","D",1.95715647794092,59155,"Unreported","Sablefish","Artisanal",187,12,3,"U","Discards",600512
+"675","bathydemersallg",2010,"USA","Anoplopoma fimbria",8,"Scorpionfishes","D",0.865022904472777,59155,"Unreported","Sablefish","Artisanal",187,12,3,"U","Discards",600512
+"676","bathydemersallg",2010,"USA","Anoplopoma fimbria",8,"Scorpionfishes","D",0.439159962176085,59874,"Unreported","Sablefish","Artisanal",187,12,3,"U","Discards",600512
+"677","bathydemersallg",2010,"USA","Anoplopoma fimbria",8,"Scorpionfishes","R",28.328654597583,59155,"Reported","Sablefish","Industrial",187,12,1,"R","Landings",600512
+"678","bathydemersallg",2010,"USA","Anoplopoma fimbria",8,"Scorpionfishes","R",14.3820593790505,59874,"Reported","Sablefish","Industrial",187,12,1,"R","Landings",600512
+"679","bathydemersallg",2010,"USA","Anoplopoma fimbria",8,"Scorpionfishes","R",0.0593074141759768,59155,"Reported","Sablefish","Industrial",187,12,1,"R","Landings",600512
+"680","bathydemersallg",2010,"USA","Anoplopoma fimbria",8,"Scorpionfishes","R",0.0301095397721292,59874,"Reported","Sablefish","Industrial",187,12,1,"R","Landings",600512
+"681","bathydemersallg",2010,"USA","Anoplopoma fimbria",8,"Scorpionfishes","R",12.6154970470588,59155,"Reported","Sablefish","Artisanal",187,12,3,"R","Landings",600512
+"682","bathydemersallg",2010,"USA","Anoplopoma fimbria",8,"Scorpionfishes","R",6.40471041561099,59874,"Reported","Sablefish","Artisanal",187,12,3,"R","Landings",600512
+"683","bathydemersallg",2010,"USA","Anoplopoma fimbria",8,"Scorpionfishes","R",0.0354439009951482,59155,"Reported","Sablefish","Artisanal",187,12,3,"R","Landings",600512
+"684","bathydemersallg",2010,"USA","Anoplopoma fimbria",8,"Scorpionfishes","R",0.0179943700217848,59874,"Reported","Sablefish","Artisanal",187,12,3,"R","Landings",600512
+"685","bathydemersallg",2010,"Canada","Anoplopoma fimbria",8,"Scorpionfishes","R",0.803324533736282,59874,"Reported","Sablefish","Industrial",26,12,1,"R","Landings",600512
+"686","bathydemersallg",2010,"Canada","Anoplopoma fimbria",8,"Scorpionfishes","R",4.96907213764457e-05,59155,"Reported","Sablefish","Industrial",26,12,1,"R","Landings",600512
+"687","bathydemersallg",2010,"Canada","Anoplopoma fimbria",8,"Scorpionfishes","R",0.00192322301118579,59874,"Reported","Sablefish","Industrial",26,12,1,"R","Landings",600512
+"688","bathydemersallg",2010,"Canada","Anoplopoma fimbria",8,"Scorpionfishes","R",1.18963550570428e-07,59155,"Reported","Sablefish","Industrial",26,12,1,"R","Landings",600512
+"689","bathydemersallg",2010,"Canada","Anoplopoma fimbria",8,"Scorpionfishes","R",0.567999512659105,59874,"Reported","Sablefish","Industrial",26,12,1,"R","Landings",600512
+"690","bathydemersallg",2010,"Canada","Anoplopoma fimbria",8,"Scorpionfishes","R",3.51343751375656e-05,59155,"Reported","Sablefish","Industrial",26,12,1,"R","Landings",600512
+"691","bathydemersallg",2010,"Canada","Anoplopoma fimbria",8,"Scorpionfishes","R",7.90325503708182,59874,"Reported","Sablefish","Industrial",26,12,1,"R","Landings",600512
+"692","bathydemersallg",2010,"Canada","Anoplopoma fimbria",8,"Scorpionfishes","R",0.000488866488600916,59155,"Reported","Sablefish","Industrial",26,12,1,"R","Landings",600512
+"693","otherdeminvert",2010,"USA","Echinoidea",12,"Other fishes & inverts","R",12.780914330243,59155,"Reported","Sea urchins, sea hedgehogs","Artisanal",187,29,3,"R","Landings",290011
+"694","otherdeminvert",2010,"USA","Echinoidea",12,"Other fishes & inverts","R",6.27618897704785,59874,"Reported","Sea urchins, sea hedgehogs","Artisanal",187,29,3,"R","Landings",290011
+"695","otherdeminvert",2010,"USA","Echinoidea",12,"Other fishes & inverts","R",13.4424034268175,59155,"Reported","Sea urchins, sea hedgehogs","Artisanal",187,29,3,"R","Landings",290011
+"696","otherdeminvert",2010,"USA","Echinoidea",12,"Other fishes & inverts","R",6.60101946014829,59874,"Reported","Sea urchins, sea hedgehogs","Artisanal",187,29,3,"R","Landings",290011
+"697","otherdeminvert",2010,"Canada","Echinoidea",12,"Other fishes & inverts","R",0.000175150654473731,59155,"Reported","Sea urchins, sea hedgehogs","Industrial",26,29,1,"R","Landings",290011
+"698","otherdeminvert",2010,"Canada","Echinoidea",12,"Other fishes & inverts","R",2.73883866021174,59874,"Reported","Sea urchins, sea hedgehogs","Industrial",26,29,1,"R","Landings",290011
+"699","cephalopods",2010,"USA","Teuthida",12,"Other fishes & inverts","R",0.245562201132962,59155,"Reported","Squids","Industrial",187,25,1,"R","Landings",390002
+"700","cephalopods",2010,"USA","Teuthida",12,"Other fishes & inverts","R",0.128207726165409,59874,"Reported","Squids","Industrial",187,25,1,"R","Landings",390002
+"701","cephalopods",2010,"USA","Teuthida",12,"Other fishes & inverts","R",0.179208159550226,59155,"Reported","Squids","Industrial",187,25,1,"R","Landings",390002
+"702","cephalopods",2010,"USA","Teuthida",12,"Other fishes & inverts","R",0.0935643618611392,59874,"Reported","Squids","Industrial",187,25,1,"R","Landings",390002
+"703","shrimp",2010,"USA","Miscellaneous marine crustaceans",10,"Crustaceans","R",1.58832868622234,59155,"Reported","Marine crabs, shrimps, lobsters nei","Artisanal",187,26,3,"R","Landings",100047
+"704","shrimp",2010,"USA","Miscellaneous marine crustaceans",10,"Crustaceans","R",0.75148578320351,59874,"Reported","Marine crabs, shrimps, lobsters nei","Artisanal",187,26,3,"R","Landings",100047
+"705","otherdeminvert",2010,"USA","Veneridae",11,"Molluscs","R",84.8737609374347,59155,"Reported","Venus clams","Artisanal",187,29,3,"R","Landings",490060
+"706","otherdeminvert",2010,"USA","Veneridae",11,"Molluscs","R",43.0270753906351,59874,"Reported","Venus clams","Artisanal",187,29,3,"R","Landings",490060
+"707","otherdeminvert",2010,"USA","Veneridae",11,"Molluscs","R",0.291512457673619,59874,"Unreported","Venus clams","Recreational",187,29,4,"U","Landings",490060
+"708","otherdeminvert",2010,"USA","Veneridae",11,"Molluscs","R",0.575027663819787,59155,"Unreported","Venus clams","Recreational",187,29,4,"U","Landings",490060
+"709","otherdeminvert",2010,"USA","Haliotis",11,"Molluscs","R",0.000231795650795017,59155,"Unreported","Abalones","Recreational",187,29,4,"U","Landings",590046
+"710","otherdeminvert",2010,"USA","Haliotis",11,"Molluscs","R",0.000143360045461244,59874,"Unreported","Abalones","Recreational",187,29,4,"U","Landings",590046
+"711","shrimp",2010,"Canada","Dendrobranchiata",10,"Crustaceans","R",3.54466689945614e-05,59155,"Reported","Shrimps and prawns","Industrial",26,26,1,"R","Landings",390045
+"712","shrimp",2010,"Canada","Dendrobranchiata",10,"Crustaceans","R",0.529830130772909,59874,"Reported","Shrimps and prawns","Industrial",26,26,1,"R","Landings",390045
+"713","demersalmd",2010,"USA","Hexagrammidae",8,"Scorpionfishes","R",0.00422018303931686,59874,"Reported","Greenlings","Artisanal",187,5,3,"R","Landings",400271
+"714","demersalmd",2010,"USA","Hexagrammidae",8,"Scorpionfishes","R",0.00859838750303941,59155,"Reported","Greenlings","Artisanal",187,5,3,"R","Landings",400271
+"715","demersalmd",2010,"USA","Hexagrammidae",8,"Scorpionfishes","R",0.381926565058176,59874,"Reported","Greenlings","Artisanal",187,5,3,"R","Landings",400271
+"716","demersalmd",2010,"USA","Hexagrammidae",8,"Scorpionfishes","R",0.778154069025067,59155,"Reported","Greenlings","Artisanal",187,5,3,"R","Landings",400271
+"717","demersalmd",2010,"USA","Hexagrammidae",8,"Scorpionfishes","R",0.205425640211622,59874,"Unreported","Greenlings","Recreational",187,5,4,"U","Landings",400271
+"718","demersalmd",2010,"USA","Hexagrammidae",8,"Scorpionfishes","R",0.418543281450988,59155,"Unreported","Greenlings","Recreational",187,5,4,"U","Landings",400271
+"719","demersalmd",2010,"USA","Hexagrammidae",8,"Scorpionfishes","D",0.00174166034633717,59155,"Unreported","Greenlings","Industrial",187,5,1,"U","Discards",400271
+"720","demersalmd",2010,"USA","Hexagrammidae",8,"Scorpionfishes","D",0.000854826022798711,59874,"Unreported","Greenlings","Industrial",187,5,1,"U","Discards",400271
+"721","demersalmd",2010,"USA","Hexagrammidae",8,"Scorpionfishes","D",0.00553747461339656,59874,"Unreported","Greenlings","Artisanal",187,5,3,"U","Discards",400271
+"722","demersalmd",2010,"USA","Hexagrammidae",8,"Scorpionfishes","D",0.0112822955949167,59155,"Unreported","Greenlings","Artisanal",187,5,3,"U","Discards",400271
+"723","demersalmd",2010,"USA","Hexagrammidae",8,"Scorpionfishes","D",0.00835769165981511,59874,"Unreported","Greenlings","Recreational",187,5,4,"U","Discards",400271
+"724","demersalmd",2010,"USA","Hexagrammidae",8,"Scorpionfishes","D",0.0170283304900547,59155,"Unreported","Greenlings","Recreational",187,5,4,"U","Discards",400271
+"725","shrimp",2010,"USA","Penaeidae",10,"Crustaceans","R",0.246688385869636,59874,"Reported","Commercial shrimps and prawns","Industrial",187,26,1,"R","Landings",490043
+"726","shrimp",2010,"USA","Penaeidae",10,"Crustaceans","R",0.484930414551647,59155,"Reported","Commercial shrimps and prawns","Industrial",187,26,1,"R","Landings",490043
+"727","shrimp",2010,"USA","Penaeidae",10,"Crustaceans","R",0.396239838146302,59874,"Reported","Commercial shrimps and prawns","Artisanal",187,26,3,"R","Landings",490043
+"728","shrimp",2010,"USA","Penaeidae",10,"Crustaceans","R",0.778912824257437,59155,"Reported","Commercial shrimps and prawns","Artisanal",187,26,3,"R","Landings",490043
+"729","raysm md",2010,"USA","Raja",9,"Sharks & rays","R",0.0014533942145513,59874,"Unreported","Stingrays, skates","Recreational",187,21,4,"U","Landings",500108
+"730","raysm md",2010,"USA","Raja",9,"Sharks & rays","R",0.00290626651899536,59155,"Unreported","Stingrays, skates","Recreational",187,21,4,"U","Landings",500108
+"731","raysm md",2010,"USA","Raja",9,"Sharks & rays","D",7.9226748867439,59155,"Unreported","Stingrays, skates","Industrial",187,21,1,"U","Discards",500108
+"732","raysm md",2010,"USA","Raja",9,"Sharks & rays","D",3.96204879061414,59874,"Unreported","Stingrays, skates","Industrial",187,21,1,"U","Discards",500108
+"733","raysm md",2010,"USA","Raja",9,"Sharks & rays","D",0.0163703428223338,59155,"Unreported","Stingrays, skates","Industrial",187,21,1,"U","Discards",500108
+"734","raysm md",2010,"USA","Raja",9,"Sharks & rays","D",0.00818664124280669,59874,"Unreported","Stingrays, skates","Industrial",187,21,1,"U","Discards",500108
+"735","raysm md",2010,"USA","Raja",9,"Sharks & rays","D",0.424708799137973,59155,"Unreported","Stingrays, skates","Industrial",187,21,1,"U","Discards",500108
+"736","raysm md",2010,"USA","Raja",9,"Sharks & rays","D",0.212392532578016,59874,"Unreported","Stingrays, skates","Industrial",187,21,1,"U","Discards",500108
+"737","raysm md",2010,"USA","Raja",9,"Sharks & rays","D",0.945913660161112,59874,"Unreported","Stingrays, skates","Artisanal",187,21,3,"U","Discards",500108
+"738","raysm md",2010,"USA","Raja",9,"Sharks & rays","D",1.89148764517086,59155,"Unreported","Stingrays, skates","Artisanal",187,21,3,"U","Discards",500108
+"739","demersalmd",2010,"Canada","Marine groundfishes not identified",12,"Other fishes & inverts","R",2.79939988426597e-07,59155,"Unreported","Groundfishes","Industrial",26,5,1,"U","Landings",100239
+"740","demersalmd",2010,"Canada","Marine groundfishes not identified",12,"Other fishes & inverts","R",0.00556052863225992,59874,"Unreported","Groundfishes","Industrial",26,5,1,"U","Landings",100239
+"741","demersalmd",2010,"Canada","Marine groundfishes not identified",12,"Other fishes & inverts","R",3.35843795397629e-06,59155,"Unreported","Groundfishes","Industrial",26,5,1,"U","Landings",100239
+"742","demersalmd",2010,"Canada","Marine groundfishes not identified",12,"Other fishes & inverts","R",0.0667096205430124,59874,"Unreported","Groundfishes","Industrial",26,5,1,"U","Landings",100239
+"743","demersalmd",2010,"Canada","Marine groundfishes not identified",12,"Other fishes & inverts","R",7.03007187754147e-08,59155,"Unreported","Groundfishes","Industrial",26,5,1,"U","Landings",100239
+"744","demersalmd",2010,"Canada","Marine groundfishes not identified",12,"Other fishes & inverts","R",0.00139640342852142,59874,"Unreported","Groundfishes","Industrial",26,5,1,"U","Landings",100239
+"745","demersalmd",2010,"Canada","Marine groundfishes not identified",12,"Other fishes & inverts","D",6.0946934623162e-05,59155,"Unreported","Groundfishes","Industrial",26,5,1,"U","Discards",100239
+"746","demersalmd",2010,"Canada","Marine groundfishes not identified",12,"Other fishes & inverts","D",1.2106065193663,59874,"Unreported","Groundfishes","Industrial",26,5,1,"U","Discards",100239
+"747","demersalmd",2010,"Canada","Marine groundfishes not identified",12,"Other fishes & inverts","D",0.000731179920265695,59155,"Unreported","Groundfishes","Industrial",26,5,1,"U","Discards",100239
+"748","demersalmd",2010,"Canada","Marine groundfishes not identified",12,"Other fishes & inverts","D",14.523637386793,59874,"Unreported","Groundfishes","Industrial",26,5,1,"U","Discards",100239
+"749","demersalmd",2010,"Canada","Marine groundfishes not identified",12,"Other fishes & inverts","D",1.53054707733903e-05,59155,"Unreported","Groundfishes","Industrial",26,5,1,"U","Discards",100239
+"750","demersalmd",2010,"Canada","Marine groundfishes not identified",12,"Other fishes & inverts","D",0.30401697500952,59874,"Unreported","Groundfishes","Industrial",26,5,1,"U","Discards",100239
+"751","cephalopods",2010,"USA","Octopodidae",12,"Other fishes & inverts","R",0.0316011483444974,59874,"Reported","Octopuses","Industrial",187,25,1,"R","Landings",490012
+"752","cephalopods",2010,"USA","Octopodidae",12,"Other fishes & inverts","R",0.0564508810846351,59155,"Reported","Octopuses","Industrial",187,25,1,"R","Landings",490012
+"753","cephalopods",2010,"USA","Octopodidae",12,"Other fishes & inverts","R",0.0203127937544403,59874,"Reported","Octopuses","Artisanal",187,25,3,"R","Landings",490012
+"754","cephalopods",2010,"USA","Octopodidae",12,"Other fishes & inverts","R",0.0362858679226209,59155,"Reported","Octopuses","Artisanal",187,25,3,"R","Landings",490012
+"755","cephalopods",2010,"USA","Octopodidae",12,"Other fishes & inverts","R",0.00184661761404003,59874,"Reported","Octopuses","Artisanal",187,25,3,"R","Landings",490012
+"756","cephalopods",2010,"USA","Octopodidae",12,"Other fishes & inverts","R",0.00329871526569281,59155,"Reported","Octopuses","Artisanal",187,25,3,"R","Landings",490012
+"757","lobsters,crab",2010,"USA","Chionoecetes",10,"Crustaceans","D",2.16709990540733,59155,"Unreported","Tanner, snow crabs","Industrial",187,27,1,"U","Discards",590065
+"758","lobsters,crab",2010,"USA","Chionoecetes",10,"Crustaceans","D",1.12000822811706,59874,"Unreported","Tanner, snow crabs","Industrial",187,27,1,"U","Discards",590065
+"759","lobsters,crab",2010,"USA","Chionoecetes",10,"Crustaceans","D",0.000765751778544161,59155,"Unreported","Tanner, snow crabs","Industrial",187,27,1,"U","Discards",590065
+"760","lobsters,crab",2010,"USA","Chionoecetes",10,"Crustaceans","D",0.000395758539107834,59874,"Unreported","Tanner, snow crabs","Industrial",187,27,1,"U","Discards",590065
+"761","lobsters,crab",2010,"USA","Chionoecetes",10,"Crustaceans","D",0.0591801719751268,59155,"Unreported","Tanner, snow crabs","Artisanal",187,27,3,"U","Discards",590065
+"762","lobsters,crab",2010,"USA","Chionoecetes",10,"Crustaceans","D",0.0305857057852592,59874,"Unreported","Tanner, snow crabs","Artisanal",187,27,3,"U","Discards",590065
+"763","benthopelagicmd",2010,"USA","Theragra chalcogramma",5,"Cod-likes","R",0.020632153023054,59155,"Reported","Alaska pollock","Industrial",187,14,1,"R","Landings",600318
+"764","benthopelagicmd",2010,"USA","Theragra chalcogramma",5,"Cod-likes","R",0.00962202438332301,59874,"Reported","Alaska pollock","Industrial",187,14,1,"R","Landings",600318
+"765","benthopelagicmd",2010,"USA","Theragra chalcogramma",5,"Cod-likes","D",0.0036943832058769,59155,"Unreported","Alaska pollock","Artisanal",187,14,3,"U","Discards",600318
+"766","benthopelagicmd",2010,"USA","Theragra chalcogramma",5,"Cod-likes","D",0.00172291498367521,59874,"Unreported","Alaska pollock","Artisanal",187,14,3,"U","Discards",600318
+"767","benthopelagicmd",2010,"Canada","Theragra chalcogramma",5,"Cod-likes","R",1.8928130582728,59874,"Reported","Alaska pollock","Industrial",26,14,1,"R","Landings",600318
+"768","benthopelagicmd",2010,"Canada","Theragra chalcogramma",5,"Cod-likes","R",0.000127457448321833,59155,"Reported","Alaska pollock","Industrial",26,14,1,"R","Landings",600318
+"769","benthopelagicmd",2010,"Canada","Theragra chalcogramma",5,"Cod-likes","R",9.07642882711413,59874,"Reported","Alaska pollock","Industrial",26,14,1,"R","Landings",600318
+"770","benthopelagicmd",2010,"Canada","Theragra chalcogramma",5,"Cod-likes","R",0.00061118474068133,59155,"Reported","Alaska pollock","Industrial",26,14,1,"R","Landings",600318
+"771","benthopelagicmd",2010,"Canada","Theragra chalcogramma",5,"Cod-likes","R",0.000197449909022577,59874,"Reported","Alaska pollock","Industrial",26,14,1,"R","Landings",600318
+"772","benthopelagicmd",2010,"Canada","Theragra chalcogramma",5,"Cod-likes","R",1.32957987929142e-08,59155,"Reported","Alaska pollock","Industrial",26,14,1,"R","Landings",600318
+"773","lobsters,crab",2010,"USA","Brachyura",10,"Crustaceans","R",0.0621803506741992,59155,"Reported","Marine crabs","Artisanal",187,27,3,"R","Landings",490097
+"774","lobsters,crab",2010,"USA","Brachyura",10,"Crustaceans","R",0.0337531879338347,59874,"Reported","Marine crabs","Artisanal",187,27,3,"R","Landings",490097
+"775","lobsters,crab",2010,"USA","Brachyura",10,"Crustaceans","D",6.81896075434405e-06,59155,"Unreported","Marine crabs","Industrial",187,27,1,"U","Discards",490097
+"776","lobsters,crab",2010,"USA","Brachyura",10,"Crustaceans","D",3.70151759217916e-06,59874,"Unreported","Marine crabs","Industrial",187,27,1,"U","Discards",490097
+"777","reef-associatedlg",2010,"USA","Sebastes",8,"Scorpionfishes","R",2.11631423957859,59874,"Reported","Redfishes","Artisanal",187,18,3,"R","Landings",501135
+"778","reef-associatedlg",2010,"USA","Sebastes",8,"Scorpionfishes","R",0.928519735700389,59874,"Unreported","Redfishes","Recreational",187,18,4,"U","Landings",501135
+"779","reef-associatedlg",2010,"USA","Sebastes",8,"Scorpionfishes","R",1.78846515352659,59155,"Unreported","Redfishes","Recreational",187,18,4,"U","Landings",501135
+"780","reef-associatedlg",2010,"USA","Sebastes",8,"Scorpionfishes","D",0.0593178901622432,59874,"Unreported","Redfishes","Recreational",187,18,4,"U","Discards",501135
+"781","reef-associatedlg",2010,"USA","Sebastes",8,"Scorpionfishes","D",0.114254953833444,59155,"Unreported","Redfishes","Recreational",187,18,4,"U","Discards",501135
+"782","reef-associatedlg",2010,"USA","Sebastes",8,"Scorpionfishes","R",4.07633152626897,59155,"Reported","Redfishes","Artisanal",187,18,3,"R","Landings",501135
+"783","reef-associatedlg",2010,"USA","Sebastes",8,"Scorpionfishes","D",5.90970835657468,59155,"Unreported","Redfishes","Industrial",187,18,1,"U","Discards",501135
+"784","reef-associatedlg",2010,"USA","Sebastes",8,"Scorpionfishes","D",3.06815080186991,59874,"Unreported","Redfishes","Industrial",187,18,1,"U","Discards",501135
+"785","reef-associatedlg",2010,"USA","Sebastes",8,"Scorpionfishes","D",0.114869518508361,59155,"Unreported","Redfishes","Industrial",187,18,1,"U","Discards",501135
+"786","reef-associatedlg",2010,"USA","Sebastes",8,"Scorpionfishes","D",0.0596369539843275,59874,"Unreported","Redfishes","Industrial",187,18,1,"U","Discards",501135
+"787","reef-associatedlg",2010,"USA","Sebastes",8,"Scorpionfishes","D",4.06436099119309,59155,"Unreported","Redfishes","Industrial",187,18,1,"U","Discards",501135
+"788","reef-associatedlg",2010,"USA","Sebastes",8,"Scorpionfishes","D",2.11009946376536,59874,"Unreported","Redfishes","Industrial",187,18,1,"U","Discards",501135
+"789","reef-associatedlg",2010,"USA","Sebastes",8,"Scorpionfishes","D",0.726250730608694,59874,"Unreported","Redfishes","Artisanal",187,18,3,"U","Discards",501135
+"790","reef-associatedlg",2010,"USA","Sebastes",8,"Scorpionfishes","D",1.39886539238407,59155,"Unreported","Redfishes","Artisanal",187,18,3,"U","Discards",501135
+"791","reef-associatedlg",2010,"USA","Sebastes",8,"Scorpionfishes","D",0.0582694023172899,59155,"Unreported","Redfishes","Artisanal",187,18,3,"U","Discards",501135
+"792","reef-associatedlg",2010,"USA","Sebastes",8,"Scorpionfishes","D",0.0302517999483434,59874,"Unreported","Redfishes","Artisanal",187,18,3,"U","Discards",501135
+"793","reef-associatedlg",2010,"USA","Sebastes",8,"Scorpionfishes","R",28.1501692207081,59155,"Reported","Redfishes","Industrial",187,18,1,"R","Landings",501135
+"794","reef-associatedlg",2010,"USA","Sebastes",8,"Scorpionfishes","R",14.6147591481739,59874,"Reported","Redfishes","Industrial",187,18,1,"R","Landings",501135
+"795","reef-associatedlg",2010,"USA","Sebastes",8,"Scorpionfishes","R",1.07206558904705,59155,"Reported","Redfishes","Industrial",187,18,1,"R","Landings",501135
+"796","reef-associatedlg",2010,"USA","Sebastes",8,"Scorpionfishes","R",0.556585655031938,59874,"Reported","Redfishes","Industrial",187,18,1,"R","Landings",501135
+"797","reef-associatedlg",2010,"USA","Sebastes",8,"Scorpionfishes","R",0.0737830644751038,59874,"Reported","Redfishes","Artisanal",187,18,3,"R","Landings",501135
+"798","reef-associatedlg",2010,"USA","Sebastes",8,"Scorpionfishes","R",0.14211700049067,59155,"Reported","Redfishes","Artisanal",187,18,3,"R","Landings",501135
+"799","reef-associatedlg",2010,"USA","Sebastes",8,"Scorpionfishes","R",0.0233946301994232,59874,"Reported","Redfishes","Artisanal",187,18,3,"R","Landings",501135
+"800","reef-associatedlg",2010,"USA","Sebastes",8,"Scorpionfishes","R",0.0450614879604563,59155,"Reported","Redfishes","Artisanal",187,18,3,"R","Landings",501135
+"801","shrimp",2010,"USA","Pandalus",10,"Crustaceans","R",3.46827256592392,59874,"Reported","Seabed shrimps","Artisanal",187,26,3,"R","Landings",590093
+"802","shrimp",2010,"USA","Pandalus",10,"Crustaceans","R",7.29098837665946,59155,"Reported","Seabed shrimps","Artisanal",187,26,3,"R","Landings",590093
+"803","shrimp",2010,"USA","Pandalus",10,"Crustaceans","R",2.0126684807983,59155,"Unreported","Seabed shrimps","Recreational",187,26,4,"U","Landings",590093
+"804","shrimp",2010,"USA","Pandalus",10,"Crustaceans","R",0.957412426907584,59874,"Unreported","Seabed shrimps","Recreational",187,26,4,"U","Landings",590093
+"805","lobsters,crab",2010,"USA","Decapoda",10,"Crustaceans","R",0.432844531788888,59874,"Reported","Crabs, lobsters, shrimps","Artisanal",187,27,3,"R","Landings",390013
+"806","lobsters,crab",2010,"USA","Decapoda",10,"Crustaceans","R",0.914853483433879,59155,"Reported","Crabs, lobsters, shrimps","Artisanal",187,27,3,"R","Landings",390013
+"807","demersalmd",2010,"USA","Sebastidae",8,"Scorpionfishes","D",7.99235754081576,59155,"Unreported","Rockfishes, rockcods, thornyheads","Industrial",187,5,1,"U","Discards",400573
+"808","demersalmd",2010,"USA","Sebastidae",8,"Scorpionfishes","D",4.15166030998258,59874,"Unreported","Rockfishes, rockcods, thornyheads","Industrial",187,5,1,"U","Discards",400573
+"809","demersalmd",2010,"USA","Sebastidae",8,"Scorpionfishes","D",0.000228640838101453,59155,"Unreported","Rockfishes, rockcods, thornyheads","Industrial",187,5,1,"U","Discards",400573
+"810","demersalmd",2010,"USA","Sebastidae",8,"Scorpionfishes","D",0.000118768346878795,59874,"Unreported","Rockfishes, rockcods, thornyheads","Industrial",187,5,1,"U","Discards",400573
+"811","demersalmd",2010,"USA","Sebastidae",8,"Scorpionfishes","D",0.000625608129099607,59874,"Unreported","Rockfishes, rockcods, thornyheads","Artisanal",187,5,3,"U","Discards",400573
+"812","demersalmd",2010,"USA","Sebastidae",8,"Scorpionfishes","D",0.0012043576382919,59155,"Unreported","Rockfishes, rockcods, thornyheads","Artisanal",187,5,3,"U","Discards",400573
+"813","demersalmd",2010,"Canada","Sebastidae",8,"Scorpionfishes","R",28.1901856019851,59874,"Unreported","Rockfishes, rockcods, thornyheads","Industrial",26,5,1,"U","Landings",400573
+"814","demersalmd",2010,"Canada","Sebastidae",8,"Scorpionfishes","R",0.00170423871236659,59155,"Unreported","Rockfishes, rockcods, thornyheads","Industrial",26,5,1,"U","Landings",400573
+"815","demersalmd",2010,"Canada","Sebastidae",8,"Scorpionfishes","R",10.6646515857328,59874,"Unreported","Rockfishes, rockcods, thornyheads","Industrial",26,5,1,"U","Landings",400573
+"816","demersalmd",2010,"Canada","Sebastidae",8,"Scorpionfishes","R",0.000644731905739128,59155,"Unreported","Rockfishes, rockcods, thornyheads","Industrial",26,5,1,"U","Landings",400573
+"817","demersalmd",2010,"Canada","Sebastidae",8,"Scorpionfishes","R",0.141927204497954,59874,"Unreported","Rockfishes, rockcods, thornyheads","Industrial",26,5,1,"U","Landings",400573
+"818","demersalmd",2010,"Canada","Sebastidae",8,"Scorpionfishes","R",8.58021439299607e-06,59155,"Unreported","Rockfishes, rockcods, thornyheads","Industrial",26,5,1,"U","Landings",400573
+"819","demersalmd",2010,"Canada","Sebastidae",8,"Scorpionfishes","R",2.97253202532054,59874,"Unreported","Rockfishes, rockcods, thornyheads","Industrial",26,5,1,"U","Landings",400573
+"820","demersalmd",2010,"Canada","Sebastidae",8,"Scorpionfishes","R",0.000179704533443867,59155,"Unreported","Rockfishes, rockcods, thornyheads","Industrial",26,5,1,"U","Landings",400573
+"821","demersalmd",2010,"Canada","Sebastidae",8,"Scorpionfishes","R",0.914610031267188,59874,"Unreported","Rockfishes, rockcods, thornyheads","Industrial",26,5,1,"U","Landings",400573
+"822","demersalmd",2010,"Canada","Sebastidae",8,"Scorpionfishes","R",5.52927832406537e-05,59155,"Unreported","Rockfishes, rockcods, thornyheads","Industrial",26,5,1,"U","Landings",400573
+"823","flatfishsm md",2010,"USA","Pleuronectiformes",7,"Flatfishes","R",0.000744416381270017,59155,"Reported","Flatfishes","Industrial",187,23,1,"R","Landings",300061
+"824","flatfishsm md",2010,"USA","Pleuronectiformes",7,"Flatfishes","R",0.000368590590024013,59874,"Reported","Flatfishes","Industrial",187,23,1,"R","Landings",300061
+"825","flatfishsm md",2010,"USA","Pleuronectiformes",7,"Flatfishes","R",0.0219177985337311,59874,"Unreported","Flatfishes","Recreational",187,23,4,"U","Landings",300061
+"826","flatfishsm md",2010,"USA","Pleuronectiformes",7,"Flatfishes","R",0.0442658292791571,59155,"Unreported","Flatfishes","Recreational",187,23,4,"U","Landings",300061
+"827","flatfishsm md",2010,"USA","Pleuronectiformes",7,"Flatfishes","D",2.22002217521084,59155,"Unreported","Flatfishes","Industrial",187,23,1,"U","Discards",300061
+"828","flatfishsm md",2010,"USA","Pleuronectiformes",7,"Flatfishes","D",1.09922256416674,59874,"Unreported","Flatfishes","Industrial",187,23,1,"U","Discards",300061
+"829","flatfishsm md",2010,"USA","Pleuronectiformes",7,"Flatfishes","D",1.22523773201088,59155,"Unreported","Flatfishes","Industrial",187,23,1,"U","Discards",300061
+"830","flatfishsm md",2010,"USA","Pleuronectiformes",7,"Flatfishes","D",0.606664643503815,59874,"Unreported","Flatfishes","Industrial",187,23,1,"U","Discards",300061
+"831","flatfishsm md",2010,"USA","Pleuronectiformes",7,"Flatfishes","D",0.0406390954354662,59155,"Unreported","Flatfishes","Industrial",187,23,1,"U","Discards",300061
+"832","flatfishsm md",2010,"USA","Pleuronectiformes",7,"Flatfishes","D",0.0201220560716911,59874,"Unreported","Flatfishes","Industrial",187,23,1,"U","Discards",300061
+"833","flatfishsm md",2010,"USA","Pleuronectiformes",7,"Flatfishes","D",0.000250745267733206,59874,"Unreported","Flatfishes","Artisanal",187,23,3,"U","Discards",300061
+"834","flatfishsm md",2010,"USA","Pleuronectiformes",7,"Flatfishes","D",0.000506412502923265,59155,"Unreported","Flatfishes","Artisanal",187,23,3,"U","Discards",300061
+"835","flatfishsm md",2010,"USA","Pleuronectiformes",7,"Flatfishes","D",0.00859092253495437,59155,"Unreported","Flatfishes","Artisanal",187,23,3,"U","Discards",300061
+"836","flatfishsm md",2010,"USA","Pleuronectiformes",7,"Flatfishes","D",0.00425371245509864,59874,"Unreported","Flatfishes","Artisanal",187,23,3,"U","Discards",300061
+"837","flatfishsm md",2010,"USA","Pleuronectiformes",7,"Flatfishes","D",0.00635354036652011,59874,"Unreported","Flatfishes","Recreational",187,23,4,"U","Discards",300061
+"838","flatfishsm md",2010,"USA","Pleuronectiformes",7,"Flatfishes","D",0.0128317966218086,59155,"Unreported","Flatfishes","Recreational",187,23,4,"U","Discards",300061
+"839","flatfishsm md",2010,"Canada","Pleuronectiformes",7,"Flatfishes","R",0.438501931142679,59874,"Reported","Flatfishes","Industrial",26,23,1,"R","Landings",300061
+"840","flatfishsm md",2010,"Canada","Pleuronectiformes",7,"Flatfishes","R",5.26070439853441,59874,"Reported","Flatfishes","Industrial",26,23,1,"R","Landings",300061
+"841","flatfishsm md",2010,"Canada","Pleuronectiformes",7,"Flatfishes","R",0.110120033643642,59874,"Reported","Flatfishes","Industrial",26,23,1,"R","Landings",300061
+"842","flatfishsm md",2010,"Canada","Pleuronectiformes",7,"Flatfishes","R",0.00247071180495086,59874,"Unreported","Flatfishes","Industrial",26,23,1,"U","Landings",300061
+"843","flatfishsm md",2010,"Canada","Pleuronectiformes",7,"Flatfishes","R",0.0296411111028533,59874,"Unreported","Flatfishes","Industrial",26,23,1,"U","Landings",300061
+"844","flatfishsm md",2010,"Canada","Pleuronectiformes",7,"Flatfishes","R",0.000620464467228095,59874,"Unreported","Flatfishes","Industrial",26,23,1,"U","Landings",300061
+"845","demersalmd",2010,"USA","Gadidae",5,"Cod-likes","R",0.0059788961751432,59155,"Unreported","Cods, haddocks","Recreational",187,5,4,"U","Landings",400183
+"846","demersalmd",2010,"USA","Gadidae",5,"Cod-likes","R",0.00296201927908497,59874,"Unreported","Cods, haddocks","Recreational",187,5,4,"U","Landings",400183
+"847","demersalmd",2010,"USA","Gadidae",5,"Cod-likes","D",0.000369024094217288,59155,"Unreported","Cods, haddocks","Recreational",187,5,4,"U","Discards",400183
+"848","demersalmd",2010,"USA","Gadidae",5,"Cod-likes","D",0.000182819110668417,59874,"Unreported","Cods, haddocks","Recreational",187,5,4,"U","Discards",400183
+"849","flatfishsm md",2010,"USA","Pleuronectidae",7,"Flatfishes","R",2.75813257445545e-05,59874,"Unreported","Righteye flounders","Recreational",187,23,4,"U","Landings",400440
+"850","flatfishsm md",2010,"USA","Pleuronectidae",7,"Flatfishes","R",5.70169647708312e-05,59155,"Unreported","Righteye flounders","Recreational",187,23,4,"U","Landings",400440
+"851","raylg",2010,"USA","Rajiformes",9,"Sharks & rays","R",4.89980565895967,59155,"Reported","Skates and rays","Industrial",187,22,1,"R","Landings",300014
+"852","raylg",2010,"USA","Rajiformes",9,"Sharks & rays","R",2.55754747262361,59874,"Reported","Skates and rays","Industrial",187,22,1,"R","Landings",300014
+"853","raylg",2010,"USA","Rajiformes",9,"Sharks & rays","R",0.770106159331077,59874,"Reported","Skates and rays","Artisanal",187,22,3,"R","Landings",300014
+"854","raylg",2010,"USA","Rajiformes",9,"Sharks & rays","R",1.47538629330275,59155,"Reported","Skates and rays","Artisanal",187,22,3,"R","Landings",300014
+"855","raylg",2010,"USA","Rajiformes",9,"Sharks & rays","D",0.518012675321623,59155,"Unreported","Skates and rays","Industrial",187,22,1,"U","Discards",300014
+"856","raylg",2010,"USA","Rajiformes",9,"Sharks & rays","D",0.270386644036226,59874,"Unreported","Skates and rays","Industrial",187,22,1,"U","Discards",300014
+"857","raylg",2010,"USA","Rajiformes",9,"Sharks & rays","D",0.000274099955429066,59155,"Unreported","Skates and rays","Industrial",187,22,1,"U","Discards",300014
+"858","raylg",2010,"USA","Rajiformes",9,"Sharks & rays","D",0.000143071725094235,59874,"Unreported","Skates and rays","Industrial",187,22,1,"U","Discards",300014
+"859","raylg",2010,"USA","Rajiformes",9,"Sharks & rays","D",0.000173659572159567,59155,"Unreported","Skates and rays","Industrial",187,22,1,"U","Discards",300014
+"860","raylg",2010,"USA","Rajiformes",9,"Sharks & rays","D",9.06449420216189e-05,59874,"Unreported","Skates and rays","Industrial",187,22,1,"U","Discards",300014
+"861","raylg",2010,"USA","Rajiformes",9,"Sharks & rays","D",0.0269264243465426,59874,"Unreported","Skates and rays","Artisanal",187,22,3,"U","Discards",300014
+"862","raylg",2010,"USA","Rajiformes",9,"Sharks & rays","D",0.0515862351276993,59155,"Unreported","Skates and rays","Artisanal",187,22,3,"U","Discards",300014
+"863","raylg",2010,"USA","Rajidae",9,"Sharks & rays","D",0.00117361204779741,59874,"Unreported","Stingrays","Industrial",187,22,1,"U","Discards",400019
+"864","raylg",2010,"USA","Rajidae",9,"Sharks & rays","D",0.00224197161471255,59155,"Unreported","Stingrays","Industrial",187,22,1,"U","Discards",400019
+"865","raylg",2010,"USA","Rajidae",9,"Sharks & rays","D",0.32630277937793,59155,"Unreported","Stingrays","Artisanal",187,22,3,"U","Discards",400019
+"866","raylg",2010,"USA","Rajidae",9,"Sharks & rays","D",0.170810760418714,59874,"Unreported","Stingrays","Artisanal",187,22,3,"U","Discards",400019
+"867","raylg",2010,"Canada","Rajidae",9,"Sharks & rays","R",2.20047235821474,59874,"Reported","Stingrays","Industrial",26,22,1,"R","Landings",400019
+"868","raylg",2010,"Canada","Rajidae",9,"Sharks & rays","R",0.00013200818723448,59155,"Reported","Stingrays","Industrial",26,22,1,"R","Landings",400019
+"869","raylg",2010,"Canada","Rajidae",9,"Sharks & rays","R",0.0142832628274305,59874,"Reported","Stingrays","Industrial",26,22,1,"R","Landings",400019
+"870","raylg",2010,"Canada","Rajidae",9,"Sharks & rays","R",8.56864948384291e-07,59155,"Reported","Stingrays","Industrial",26,22,1,"R","Landings",400019
+"871","raylg",2010,"Canada","Rajidae",9,"Sharks & rays","R",0.970681397193016,59874,"Reported","Stingrays","Industrial",26,22,1,"R","Landings",400019
+"872","raylg",2010,"Canada","Rajidae",9,"Sharks & rays","R",5.82319933024024e-05,59155,"Reported","Stingrays","Industrial",26,22,1,"R","Landings",400019
+"873","raylg",2010,"Canada","Rajidae",9,"Sharks & rays","R",0.264350650294333,59874,"Reported","Stingrays","Industrial",26,22,1,"R","Landings",400019
+"874","raylg",2010,"Canada","Rajidae",9,"Sharks & rays","R",1.58586178141872e-05,59155,"Reported","Stingrays","Industrial",26,22,1,"R","Landings",400019
+"875","pelagicsm",2010,"Canada","Clupeidae",2,"Herring-likes","R",0.00162567519472067,59155,"Unreported","Herrings, sardines, menhadens","Industrial",26,1,1,"U","Landings",400043
+"876","pelagicsm",2010,"Canada","Clupeidae",2,"Herring-likes","R",22.8652458806524,59874,"Unreported","Herrings, sardines, menhadens","Industrial",26,1,1,"U","Landings",400043
+"877","demersalmd",2010,"USA","Perciformes",3,"Perch-likes","R",6.90919227701845e-06,59155,"Unreported","Perch-likes","Recreational",187,5,4,"U","Landings",300060
+"878","demersalmd",2010,"USA","Perciformes",3,"Perch-likes","D",1.73501129611267e-07,59155,"Unreported","Perch-likes","Recreational",187,5,4,"U","Discards",300060
+"879","otherdeminvert",2010,"USA","Mollusca",11,"Molluscs","R",0.0116238853824631,59874,"Reported","Clams, seasnails, squids, octopuses","Artisanal",187,29,3,"R","Landings",190195
+"880","otherdeminvert",2010,"USA","Mollusca",11,"Molluscs","R",0.024665421979916,59155,"Reported","Clams, seasnails, squids, octopuses","Artisanal",187,29,3,"R","Landings",190195
+"881","otherdeminvert",2010,"USA","Mollusca",11,"Molluscs","R",0.00290597134561577,59874,"Reported","Clams, seasnails, squids, octopuses","Artisanal",187,29,3,"R","Landings",190195
+"882","otherdeminvert",2010,"USA","Mollusca",11,"Molluscs","R",0.006166355494979,59155,"Reported","Clams, seasnails, squids, octopuses","Artisanal",187,29,3,"R","Landings",190195
+"883","otherdeminvert",2010,"USA","Mollusca",11,"Molluscs","R",0.043164488464853,59155,"Reported","Clams, seasnails, squids, octopuses","Artisanal",187,29,3,"R","Landings",190195
+"884","otherdeminvert",2010,"USA","Mollusca",11,"Molluscs","R",0.0203417994193104,59874,"Reported","Clams, seasnails, squids, octopuses","Artisanal",187,29,3,"R","Landings",190195
+"885","otherdeminvert",2010,"USA","Mollusca",11,"Molluscs","R",0.308032962635271,59874,"Reported","Clams, seasnails, squids, octopuses","Artisanal",187,29,3,"R","Landings",190195
+"886","otherdeminvert",2010,"USA","Mollusca",11,"Molluscs","R",0.653633682467774,59155,"Reported","Clams, seasnails, squids, octopuses","Artisanal",187,29,3,"R","Landings",190195
+"887","otherdeminvert",2010,"Canada","Mollusca",11,"Molluscs","R",0.000148815321456437,59155,"Reported","Clams, seasnails, squids, octopuses","Industrial",26,29,1,"R","Landings",190195
+"888","otherdeminvert",2010,"Canada","Mollusca",11,"Molluscs","R",2.23321745164374,59874,"Reported","Clams, seasnails, squids, octopuses","Industrial",26,29,1,"R","Landings",190195
+"889","pelagicmd",2010,"Canada","Scombridae",3,"Perch-likes","R",7.95942976695151e-05,59155,"Unreported","Mackerels, tunas, bonitos","Industrial",26,2,1,"U","Landings",400416
+"890","pelagicmd",2010,"Canada","Scombridae",3,"Perch-likes","R",1.36459034439704,59874,"Unreported","Mackerels, tunas, bonitos","Industrial",26,2,1,"U","Landings",400416

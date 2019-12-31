@@ -1,0 +1,112 @@
+Species,a,b,fishbaseRef,fishbaseURL,Notes
+Acropoma japonicum,0.01413,3.04,93245,http://www.fishbase.org/summary/Acropoma-japonicum.html,
+Ambassis marinus,0.01,3.04,93245,http://www.fishbase.org/summary/Ambassis-marianus.html,
+Ambassis sp.,0.01,3.04,,,"using estimate for Ambassis marinus, consider A. jacksonensis"
+Ammodytes hexapterus,0.00339,3.1,93245,http://www.fishbase.se/summary/Ammodytes-hexapterus.html,
+Anchoa delicatissima,0.00501,3.15,93245,http://www.fishbase.se/summary/Anchoa-delicatissima.html,
+Apodichthys flavidus,0.00178,3.15,93245,http://www.fishbase.se/summary/Apodichthys-flavidus.html,
+Arrhamphus sclerolepis,0.00257,3.16,93245,http://www.fishbase.se/summary/Arrhamphus-sclerolepis.html,
+Artedius lateralis,0.00692,3.14,93245,http://www.fishbase.se/summary/Artedius-lateralis.html,
+Atherinosoma microstoma,0.01,3.04,93245,http://www.fishbase.se/summary/Atherinosoma-microstoma.html,
+Chasmodes saburrae,0.00741,3,93245,http://www.fishbase.se/summary/Chasmodes-saburrae.html,
+Chilomycterus schoepfi,0.0236,3.124,6937,http://www.fishbase.se/popdyn/FishLWSummary.php?ID=6407&id2=7935&genusname=Chilomycterus&speciesname=schoepfii&fc=449&variable_Length=10&gm_a=0.0236&gm_b=3.124,
+Citharichthys sordidus,0.00933,3.08,93245,http://www.fishbase.se/summary/Citharichthys-sordidus.html,
+Clevelandia ios,0.00871,3.05,93245,http://www.fishbase.se/summary/Clevelandia-ios.html,
+Cottoidea sp.,0.0158,3.04,,http://www.fishbase.se/popdyn/LWRelationshipList_family.php?ID=4059&GenusName=Clinocottus&SpeciesName=globiceps&fc=277,used mean estimate from 4 studies within the family Cottidae
+Cottus asper,0.00692,3.14,93245,http://www.fishbase.se/summary/Cottus-asper.html,
+Cottus bairdi,0.00692,3.14,93245,http://www.fishbase.se/summary/Cottus-bairdii.html,
+Ctenogobius sagittula,0.015,2.6,51108,rfishbase,
+Culaea inconstans,0.01047,3.07,93245,http://www.fishbase.se/summary/Culaea-inconstans.html,
+Cyprinodon variegatus,0.0233,3.35,96646,http://www.fishbase.se/popdyn/FishLWSummary.php?ID=3181&id2=39668&genusname=Cyprinodon&speciesname=variegatus&fc=212&variable_Length=10&gm_a=0.0233&gm_b=3.35,
+Diplodus holbrookii,0.01259,3.04,93245,http://www.fishbase.se/summary/Diplodus-holbrookii.html,
+Ditema temminckii,0.02345,2.657,108906,http://www.fishbase.se/popdyn/FishLWSummary.php?ID=13038&id2=37165&genusname=Ditrema&speciesname=temminckii+temminckii&fc=348&variable_Length=10&gm_a=0.02345&gm_b=2.657,
+Echiichthys vipera,0.0115,2.989,106276,http://www.fishbase.se/popdyn/FishLWSummary.php?ID=1364&id2=38999&genusname=Echiichthys&speciesname=vipera&fc=377&variable_Length=10&gm_a=0.013236703804443&gm_b=3.0097581195588,
+Embiotoca sp.,0.0616,2.864,91739,http://www.fishbase.se/popdyn/FishLWSummary.php?ID=3628&id2=11226&genusname=Embiotoca&speciesname=jacksoni&fc=348&variable_Length=10&gm_a=0.0616&gm_b=2.8636,Using estimate for Embiotica jacksoni
+Embiotocidae sp.,0.0182,3.05,,http://www.fishbase.se/popdyn/LWRelationshipList_family.php?ID=3628&GenusName=Embiotoca&SpeciesName=jacksoni&fc=348,used relationship for entire family Embiotocidae
+Embiotocidae spp.,0.0182,3.05,,http://www.fishbase.se/popdyn/LWRelationshipList_family.php?ID=3628&GenusName=Embiotoca&SpeciesName=jacksoni&fc=348,used relationship for entire family Embiotocidae
+Enophrys bison,0.00912,3.08,93245,http://www.fishbase.se/summary/Enophrys-bison.html,
+Epinephelus coioides,0.0144,3.024,3627,http://www.fishbase.se/popdyn/FishLWSummary.php?ID=6465&id2=7991&genusname=Epinephelus&speciesname=coioides&fc=289&variable_Length=10&gm_a=0.013683031628772&gm_b=3.0798505918605,
+Epinephelus sp.,0.0141,3.04,,http://www.fishbase.se/popdyn/LWRelationshipList_genus.php?ID=6465&GenusName=Epinephelus&SpeciesName=coioides&fc=289,used mean estimates for all species in genus
+Ethmidium maculatum,0.00724,3.11,93245,http://www.fishbase.se/summary/Ethmidium-maculatum.html,
+Eucinostomus harengulus,0.01175,3.08,93245,http://www.fishbase.se/summary/Eucinostomus-harengulus.html,
+Favonigobius exquisitus,0.01,3.04,93245,http://www.fishbase.se/summary/Favonigobius-exquisitus.html,
+Favonigobius hymnauchen,0.01,3.11,93245,http://www.fishbase.ca/summary/9945,using estimate for another species in the genus based on body shape
+Fundulus grandis,0.00603,3.08,93245,http://www.fishbase.ca/summary/Fundulus-grandis.html,
+Fundulus heteroclitus,0.0138,3.14,93245,http://www.fishbase.ca/summary/Fundulus-heteroclitus.html,
+Fundulus similis,0.00603,3.08,93245,http://www.fishbase.ca/summary/Fundulus-similis.html,
+Gadus chalcogrammus,0.0135,2.82,,http://www.fishbase.ca/popdyn/LWRelationshipList.php?ID=318&GenusName=Gadus&SpeciesName=chalcogrammus&fc=183,mean of selected estimates on fishbase
+Gasterosteus wheatlandi,0.01047,3.07,93245,http://www.fishbase.ca/summary/Gasterosteus-wheatlandi.html,
+Gobiidae sp.,0.0095,3.05,,http://www.fishbase.org/popdyn/LWRelationshipList_family.php?ID=5125&GenusName=Oligolepis&SpeciesName=acutipennis&fc=405,
+Gobiosoma bosc,0.00631,3.08,93245,http://www.fishbase.org/summary/Gobiosoma-bosc.html,
+Gobiosoma bosci,0.00631,3.08,93245,http://www.fishbase.org/summary/Gobiosoma-bosc.html,
+Gobiosoma sp.,0.00631,3.08,93245,http://www.fishbase.org/summary/Gobiosoma-bosc.html,used estimate for Gobiosoma bosc since no other seem available for the genus
+Gobius geniporus,0.00631,3.08,93245,http://www.fishbase.org/summary/Gobius-geniporus.html,
+Gobius sp.,0.0107,3.05,,http://www.fishbase.org/popdyn/LWRelationshipList_genus.php?ID=73&GenusName=Gobius&SpeciesName=paganellus&fc=405,used mean estimates for all species in genus
+Parajulis poecilopterus,0.00666,3.15,5740,http://www.fishbase.org/summary/Parajulis-poecilepterus.html,
+Helotes sexlineatus,0.0138,3.01,93245,http://www.fishbase.org/summary/Helotes-sexlineatus.html,
+Hemiramphus robustus,0.00257,3.16,93245,http://www.fishbase.org/summary/Hemiramphus-robustus.html,
+Arripis georgianus,0.00955,3.01,93245,http://www.fishbase.se/summary/Arripis-georgianus.html,
+Hippichthys penicillus,0.00049,3.1,93245,http://www.fishbase.org/summary/Hippichthys-penicillus.html,
+Hippocampus procerus,0.00427,3,93245,http://www.fishbase.org/summary/Hippocampus-procerus.html,
+Hippocampus sp.,0.0026,2.96,,http://www.fishbase.org/popdyn/LWRelationshipList_genus.php?ID=1801&GenusName=Hippocampus&SpeciesName=hippocampus&fc=258,used mean of all estimates available for this genus
+Hypsoblennius sordidus,0.0339,2.541,95867,http://www.fishbase.org/popdyn/FishLWSummary.php?ID=27242&id2=35845&genusname=Hypsoblennius&speciesname=sordidus&fc=392&variable_Length=10&gm_a=0.0339&gm_b=2.541,
+Hypomesus pretiosus,0.00427,3.1,93245,http://www.fishbase.se/summary/Hypomesus-pretiosus.html,
+Hyporhamphus regularis,0.00204,3.15,93245,http://www.fishbase.se/summary/Hyporhamphus-regularis.html,
+Hyporhamphus rosae,0.01,3.04,93245,http://www.fishbase.se/summary/Hyporhamphus-rosae.html,
+Hyporhamphus sajori,0.00101,3.255,108906,http://www.fishbase.se/popdyn/FishLWSummary.php?ID=305&id2=37171&genusname=Hyporhamphus&speciesname=sajori&fc=475&variable_Length=10&gm_a=0.00101&gm_b=3.255,
+Ilypnus gilberti,0.00912,2.95,93245,http://www.fishbase.org/summary/Ilypnus-gilberti.html,
+Lepidopsetta sp.,0.0095,3.07,,http://www.fishbase.org/popdyn/LWRelationshipList_genus.php?ID=24237&GenusName=Lepidopsetta&SpeciesName=bilineata&fc=440,used average of estimates for genus
+Liparis sp.,0.00417,3.19,93245,http://www.fishbase.org/summary/Liparis-mucosus.html,"used estimate for Liparis mucosus, a likely candidate for this taxon from British Columbia"
+Liza argentea,0.01023,2.97,93245,http://www.fishbase.org/summary/Liza-argentea.html,
+Liza sp.,0.0115,2.898,59118,http://www.fishbase.org/popdyn/FishLWSummary.php?ID=1735&id2=4101&genusname=Liza&speciesname=aurata&fc=359&variable_Length=10&gm_a=0.010351553577636&gm_b=2.9563281683096,used estimate from Liza aurata from the Reef Life Survey database
+Menidia beryllina,0.00513,3.1,93245,http://www.fishbase.org/summary/Menidia-beryllina.html,
+Menticirrhus ophicephalus,0.00537,3.09,93245,http://www.fishbase.org/summary/Menticirrhus-ophicephalus.html,
+Micrometrus minimus,0.0195,3.02,93245,http://www.fishbase.se/summary/Micrometrus-minimus.html,
+Mullus barbatus,0.0085,3.11,,http://www.fishbase.org/popdyn/LWRelationshipList.php?ID=790&GenusName=Mullus&SpeciesName=barbatus+barbatus&fc=332,"Not found in fishbase because subspecies ""barbatus"" included in species name. Used estimate from 56 studies on this species"
+Myoxocephalus aenaeus,0.00912,3.08,93245,http://www.fishbase.se/summary/Myoxocephalus-aenaeus.html,
+Arothron stellatus,0.0947,2.664,26587,http://www.fishbase.se/popdyn/FishLWSummary.php?ID=6526&id2=8038&genusname=Arothron&speciesname=stellatus&fc=448&variable_Length=10&gm_a=0.093086250327317&gm_b=2.6681917022583,
+Nautichthys oculofasciatus,0.00457,3.11,93245,http://www.fishbase.se/summary/Nautichthys-oculofasciatus.html,
+noID bellyfish,,,,,Croatia site. Does bellyfish mean flatfish??
+Odontesthes sp.,0.0068,3.02,,http://www.fishbase.se/popdyn/LWRelationshipList_genus.php?ID=12927&GenusName=Odontesthes&SpeciesName=argentinensis&fc=623,used mean estimate from two species in the genus (3 studies)
+Oligocottus maculosus,0.00692,3.14,93245,http://www.fishbase.se/summary/Oligocottus-maculosus.html,
+Oncorhynchus tshawytscha,0.01333,3,6323,http://www.fishbase.se/popdyn/FishLWSummary.php?ID=244&id2=1105&genusname=Oncorhynchus&speciesname=tshawytscha&fc=76&variable_Length=10&gm_a=0.01333&gm_b=3,estimate based on one individual from one study. Other studies exist but using this one for consistency in the dataset
+Orthopistis chrysoptera,0.0174,3.12,,http://www.fishbase.se/popdyn/LWRelationshipList.php?ID=5&GenusName=Orthopristis&SpeciesName=chrysoptera&fc=327,used mean estimate from two studies
+Paralichthys sp.,0.0059,3.18,,http://www.fishbase.se/popdyn/LWRelationshipList_genus.php?ID=980&GenusName=Paralichthys&SpeciesName=albigutta&fc=514,Based on estimates for many species in this genus (21 studies)
+Paralichthys albigutta,0.0114,3,40637,http://www.fishbase.se/popdyn/FishLWSummary.php?ID=980&id2=2533&genusname=Paralichthys&speciesname=albigutta&fc=514&variable_Length=10&gm_a=0.0114&gm_b=3,based only on one individual
+Paralichthys microps,0.00708,3.15,93245,http://www.fishbase.se/summary/Paralichthys-microps.html,
+Petroscirtis variabilis,0.0055,3.05,93245,http://www.fishbase.se/summary/Petroscirtes-variabilis.html,
+Phanerodon furcatus,0.01318,3.05,93245,http://www.fishbase.se/summary/Phanerodon-furcatus.html,
+Philypnodon grandiceps,0.01,3.04,93245,http://www.fishbase.se/summary/Philypnodon-grandiceps.html,
+Pholis fangi,0.00178,3.15,93245,http://www.fishbase.se/summary/Pholis-fangi.html,
+Pholis ornata,0.00178,3.15,93245,http://www.fishbase.se/summary/Pholis-ornata.html,
+Pholis sp.,0.00178,3.15,93245,,used guessestimate for others in this genus based on shape/genus
+Platycephalidae sp.,0.0038,3.16,,http://www.fishbase.se/popdyn/LWRelationshipList_family.php?ID=49820&GenusName=Platycephalus&SpeciesName=fuscus&fc=273,used 15 estimates from species within this family
+Platycephalus aurimaculatus,0.0022,3.31,,,used estimates from several species in the same genus (12 studies)
+Pomatoschistus sp.,0.0068,3.17,,http://www.fishbase.se/popdyn/LWRelationshipList_genus.php?ID=9191&GenusName=Pomatoschistus&SpeciesName=marmoratus&fc=405,used mean estimate from several species in the genus (11 studies)
+Porocottus leptosomus,0.00692,3.14,93245,http://www.fishbase.ca/summary/59889,
+Psettichthys melanostictus,0.00912,3.09,93245,http://www.fishbase.se/summary/Psettichthys-melanostictus.html,
+Pseudoblennius cottoides,0.00477,3.33,108906,http://www.fishbase.se/popdyn/FishLWSummary.php?ID=23979&id2=37163&genusname=Pseudoblennius&speciesname=cottoides&fc=277&variable_Length=10&gm_a=0.00477&gm_b=3.33,
+Pseudomugil signifer,0.01122,3.04,93245,http://www.fishbase.se/summary/Pseudomugil-signifer.html,
+Pterogobius elapoides,0.00639,3.172,108906,http://www.fishbase.se/popdyn/FishLWSummary.php?ID=23701&id2=37169&genusname=Pterogobius&speciesname=elapoides&fc=405&variable_Length=10&gm_a=0.00639&gm_b=3.172,
+Repomucenus lunatus,0.00933,2.77,93245,http://www.fishbase.se/summary/Callionymus-lunatus.html,
+Repomucenus macdonaldi,0.00933,2.77,93245,http://www.fishbase.se/summary/Callionymus-macdonaldi.html,
+Rudarius ercodes,0.02922,2.873,108906,http://www.fishbase.se/popdyn/FishLWSummary.php?ID=4575&id2=37173&genusname=Rudarius&speciesname=ercodes&fc=517&variable_Length=10&gm_a=0.02922&gm_b=2.873,
+scorpaenichthys marmoratus,0.0088,3,,,taken from Reef Life Survey table of coefficients for length-weight relationships
+sculpin sp.,0.00692,3.14,93245,http://www.fishbase.org/summary/Oligocottus-maculosus.html,
+Sillago sp.,0.0052,3.13,,http://www.fishbase.se/popdyn/LWRelationshipList_genus.php?ID=6576&GenusName=Sillago&SpeciesName=japonica&fc=307,Used estimate for all species available in genus (12 studies)
+Sparus sp.,0.0141,3,,http://www.fishbase.org/popdyn/LWRelationshipList_genus.php?ID=1164&GenusName=Sparus&SpeciesName=aurata&fc=330,"used mean estimate from 14 studies on Sparus aurata, a possible candidate for this taxon"
+Sphyraena borealis,0.00708,2.91,93245,http://www.fishbase.ca/summary/3679,
+Strongylura exilis,0.0012,3.11,93245,http://www.fishbase.org/summary/3162,
+Syngnathus abaster,0.0004,3.14,,http://www.fishbase.se/popdyn/LWRelationshipList.php?ID=1769&GenusName=Syngnathus&SpeciesName=abaster&fc=258,used mean from 5 studies for this species
+Syngnathus floridae,0.00038,3.13,93245,http://www.fishbase.se/summary/Syngnathus-floridae.html,
+Syngnathus leptorhynchus ,0.0002,3.12,93899,http://www.fishbase.se/popdyn/LWRelationshipList.php?ID=3303&GenusName=Syngnathus&SpeciesName=leptorhynchus&fc=258,
+Syngnathus sp.,0.0003,3.15,,http://www.fishbase.se/popdyn/LWRelationshipList_genus.php?ID=1770&GenusName=Syngnathus&SpeciesName=acus&fc=258,used mean estimate from several species in the genus (23 studies)
+Torquigener sp.,0.0294,2.82,,,taken from Reef Life Survey table of coefficients for length-weight relationships
+Unknown goby sp.,0.0095,3.05,,http://www.fishbase.org/popdyn/LWRelationshipList_family.php?ID=5125&GenusName=Oligolepis&SpeciesName=acutipennis&fc=405,used mean estimates for all species in family from 146 studies
+unknown unknown,,,,,
+Urocampus carinirostris,0.00049,3.1,93245,http://www.fishbase.ca/summary/23128,
+Urophycis regia,0.00661,3.15,93245,http://www.fishbase.ca/summary/1883,
+Xiphister atropurpureus,0.00389,3.12,93245,http://www.fishbase.ca/summary/Xiphister-atropurpureus.html,
+Albula vulpes,0.0178,2.92,,http://www.fishbase.org/popdyn/LWRelationshipList.php?ID=228&GenusName=Albula&SpeciesName=vulpes&fc=48,used mean from 6 studies for this species
+Caranx latus,0.0186,2.856,59090,http://www.fishbase.org/popdyn/FishLWSummary.php?ID=1935&id2=4530&genusname=Caranx&speciesname=latus&fc=314&variable_Length=10&gm_a=0.027041701941595&gm_b=2.8953906433756,"used this one because many individuals, good size distributin (all small), and estimate based on total length"
+Siganus canaliculatus,0.0295,2.86,,http://www.fishbase.org/popdyn/LWRelationshipList.php?ID=4456&GenusName=Siganus&SpeciesName=canaliculatus&fc=413,used mean from 6 studies for this species

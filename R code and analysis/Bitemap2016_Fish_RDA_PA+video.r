@@ -78,7 +78,13 @@ video <- video %>%
   distinct()
 video$habitat[ video$habitat == "seagrass" ] <- "Seagrass"
 video$habitat[ video$habitat == "unveg" ] <- "Unvegetated"
-video$Genus[ video$Genus=="Athrina" ] <- "Atherina"
+# fix some names
+video$Genus <- gsub( "Athrina", "Atherina", video$Genus )
+video$Genus <- gsub( "Eucinostramus", "Eucinostomus", video$Genus )
+video$Genus <- gsub( "Lactophris", "Lactophrys", video$Genus )
+video$Genus <- gsub( "Lactrophris", "Lactophrys", video$Genus )
+video$Genus <- gsub( "Alters", "Aluterus", video$Genus )
+video$Genus <- gsub( "Sphyraema", "Sphyraena", video$Genus )
 
 genfam <- seine %>% select(family,Genus) %>% distinct()
 video1 <- left_join(video, genfam)
@@ -106,8 +112,14 @@ taxfam <-  read_csv( "Output Data/families_taxize_RDA.csv" )
 
 famfam <- bind_rows( genfam, taxfam )
 video <- left_join(video, famfam)
-video <- filter( video, !is.na(family) )
 
+# vet taxa without family info
+video %>% filter( Country %in% c("Mexico (ICML)","Mexico (ICML2)")) %>% 
+  arrange( Country, family, Genus )
+filter( video, is.na(family) )
+video$family[ video$Genus %in% "Aluterus"] <- "Monacanthidae"
+
+video <- filter( video, !is.na(family) )
 
 
 ## summarize seine data
@@ -134,6 +146,7 @@ mean.catch %>%
 tax <- seine %>% 
   select( phylum, family, SPECIES_NAME ) %>% 
   distinct()
+tax$family[ tax$SPECIES_NAME == "Menticirrhus ophicephalus" ] <- "Sciaenidae"
 mean.catch.tax <- left_join( mean.catch, tax )
 
 site <- select( oracle, Site, Country )
@@ -156,6 +169,8 @@ video$P <- 1
 catch.video <- bind_rows( catch.fam, video )
 catch.video <- catch.video %>% 
   distinct()
+
+
 
 # because we are merging seine and video data in some cases, we get discrepancies
 # for example: Sparids were caught on video but not in the seine in Croatia
@@ -295,7 +310,7 @@ capspec2 %>%
   mutate( image_length = sqrt(abs(CAP1/max(CAP1))) ) %>% 
   arrange( CAP1 )
 
-# write constrained ordination sites and taxa to disk
+####### write constrained ordination sites and taxa to disk
 # write_csv( sr, "Output Data/multivar_constr_sites.csv" )
 # write_csv( capspec, "Output Data/multivar_constr_taxa.csv" )
 
@@ -313,7 +328,7 @@ aspec <- asite +
              # hjust = c(0,0,0,1,0,0,0,0), nudge_x = c(0.1,0.1,0.1,-0.1,0.1,0.1,0.1,0.1 ) ) +
   # geom_segment( data=capspec2, aes(x=0,y=0,xend=CAP1*1,yend=CAP2*1), col='slateblue',
   #               arrow = arrow(length = unit(0.2, "cm")) ) +
-  geom_point( data=capspec2, aes(x=MDS1*1,y=MDS2*1), 
+  geom_point( data=capspec2, aes(x=CAP1*1,y=MDS1*1), 
               fill='white', col='black', alpha=0.75,
               pch=23, size=3 ) 
   # geom_segment( data=data.frame(CAP1=1.8,MDS1=0), aes(x=0,y=0,xend=CAP1,yend=MDS1),
@@ -384,8 +399,7 @@ capunc <- data.frame(ts,fam.meta)
 capunc <- capunc %>% 
   select( Site, MDS1, MDS2, SST=sstmean, rate )
 xlimits <- c(-1.3,1.3)
-ylimits <- c(-1.15,1.85)
-viridis::viridis.map
+ylimits <- c(-1.9,1.1)
 a <- ggplot( capunc, aes(x=MDS1,y=MDS2,fill=SST)) + 
   geom_point(aes(size=rate), pch=21, alpha=0.75) +
   # geom_text_repel(aes(label=Site), point.padding = 0.5) +
@@ -407,10 +421,12 @@ a <- ggplot( capunc, aes(x=MDS1,y=MDS2,fill=SST)) +
 tt <- as.data.frame(tt)
 tt$family <- row.names(tt)
 spec.score.all <- left_join( tt %>% arrange(family), capspec2 %>% arrange(family), by='family' )
-
-spec.score.all[abs(spec.score.all$CAP1) > 0.12 & 
+spec.score.all %>% filter(family=="Monacanthidae")
+spec.score.all %>% filter(family=="Lethrinidae")
+specmax <- spec.score.all[abs(spec.score.all$CAP1) > 0.12 & 
                  (abs(spec.score.all$MDS1.x) > sd(spec.score.all$MDS1.x)*1.2 |
-                    abs(spec.score.all$MDS2) > sd(spec.score.all$MDS2)*1.2), ]
+                    abs(spec.score.all$MDS2) > sd(spec.score.all$MDS2)*1.5), ]
+specmax %>% arrange(CAP1,MDS2)
 tt2 <- tt[ abs(tt$MDS1) > sd(tt$MDS1)*1.5 |
                        abs(tt$MDS2) > sd(tt$MDS2)*1.5   , ] 
 selected.families <- c( "Cancridae", "Pleuronectidae", "Cottidae", "Embiotocidae",

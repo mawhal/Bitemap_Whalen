@@ -92,17 +92,17 @@ md <- trait.final %>%
 ## read seine data
 seine <- read_csv( "Output Data/Bitemap_seine_abundance_biomass.csv" )
 seine <- seine %>% 
-  select( Country, habitat, Lat, Long, Date, Time, sciName=SPECIES_NAME, length=Length, biomass, abun=Abundance )
+  select( Country, habitat, Lat, Long, Date, Time, family, sciName=SPECIES_NAME, length=Length, biomass, abun=Abundance )
 # change some taxon names
 seine$sciName[ seine$sciName=="Pelates sexlineatus"] <- "Helotes sexlineatus"
 unique(seine$sciName[ !(seine$sciName %in% trait.final$sciName) ]) # still a few missing taxa
 # summarize median per capita length and biomass per seine
 seine_per <- seine %>% 
-  group_by( Country, habitat, Lat, Long, Date, Time, sciName ) %>% 
+  group_by( Country, habitat, Lat, Long, Date, Time, family, sciName ) %>% 
   summarize( length=median(length,na.rm=T), biomass=median(biomass,na.rm=T), abun=sum(abun,na.rm=T) )
 # summarize mean across multiple seines within habitats
 seine_hab <- seine_per %>% 
-  group_by( Country, habitat, sciName ) %>% 
+  group_by( Country, habitat, family, sciName ) %>% 
   summarize( length=mean(length,na.rm=T), biomass=mean(biomass,na.rm=T), abun=mean(abun,na.rm=T) )
 
 
@@ -121,10 +121,37 @@ rate.hab <- rate.env %>%
   group_by( Country, Site, habitat ) %>% 
   summarize( rate=mean(rate,na.rm=T) )
 
-## merge
+
+trait.final <- ungroup(trait.final)
+
+
+
+# clean up duplicate entries
+options( stringsAsFactors = FALSE )
+clean <- function(column){
+  unlist( lapply(strsplit( column, split=';' ),function(z) unlist(paste(sort(unique(z)),collapse=";")) ) )
+}
+trait.final <- data.frame(apply(trait.final,2,clean))
+
+# simplify scinames
+trait.final <- trait.final %>% 
+  mutate( name=vegan::make.cepnames( trait.final$sciName ) )
+
+### switch which traits to use
+trait.use <- trait.final %>% 
+  select( sciName, name, act, feed, troph, watercol, body  )
+
+## merge 
 ss <- left_join( rate.hab, sites )
 s1 <- left_join( seine_hab, ss )
-s1 <- left_join( s1, trait.final )
+s1 <- left_join( s1, trait.use )
+
+# filter out taxa not in trait.final and vice versa
+s1 <- s1 %>% 
+  filter( sciName %in% trait.use$sciName )
+trait.use <- trait.use %>% 
+  filter( sciName %in% s1$sciName )
+
 
 
 # duplicate entries?
@@ -135,21 +162,16 @@ s1 %>%
   filter( entries>1 )
 
 
+# filter taxa based on multivariate analysis
+multivar <- read_csv( "Output Data/multivar_constr_taxa.csv" )
+fam.pos <- multivar %>% filter( CAP1>0 )
+suse <- s1 %>% filter( family %in% fam.pos$family)
+
+
+
 ## write the seine-trait data to disk
-write_csv( s1, "Output Data/Bitemap_seine_trait.csv" )
+write_csv( suse, "Output Data/Bitemap_seine_trait_filtered.csv" )
 
-# mean food
-prey.troph.mean <- s1 %>% 
-  dplyr::group_by( Site, habitat, rate ) %>% 
-  dplyr::summarize( food = mean(as.numeric(food),na.rm=T))
-ggplot( prey.troph.mean, aes(x=food,y=rate)) +geom_point() #+ geom_smooth()
-
-prey.troph.mean %>% arrange(-food)
-prey.troph.mean %>% filter( rate>0.5 ) %>% arrange(-food)
-
-### summarize trait data by site
-# filter out only fish?
-suse <- s1 #filter( s1, phylum=="Chordata" )
 
 # indvidual and taxon based ratios below are currently the same because only one individual per site*habitat combination
 # ratio of active to ambush at each site by individuals 
@@ -168,7 +190,7 @@ rat <- left_join( rat.ind, rat.tax )
 rat.site <- left_join( rat, ss )
 
 # write to disk
-write_csv( rat, "Output Data/consumer_active_ratio2.csv" )
+write_csv( rat, "Output Data/consumer_active_ratio2_filtered.csv" )
 
 
 # plot
@@ -177,16 +199,6 @@ ggplot( rat.site, aes(x=abs(meanLat), y=act.ratio.tax)) + geom_point() + geom_sm
 ggplot( rat.site, aes(x=act.ratio.tax,  y=act.ratio.ind)) + geom_point() + geom_smooth()
 ggplot( rat.site, aes(x=act.ratio.ind,  y=rate)) + geom_point() + geom_smooth(method='glm', method.args=list(family='quasibinomial'))
 ggplot( rat.site, aes(x=act.ratio.tax,  y=rate)) + geom_point() + geom_smooth(method='glm', method.args=list(family='quasibinomial' ))
-# there is some relationship here, but not very strong -- just one trait that is not very well identified across all taxa
-hilo <- rat.site %>% 
-  filter( act.ratio.tax==1, rate<0.5 ) %>% 
-  arrange(rate) %>% 
-  select( Site ) %>% 
-  unlist()
-suse %>% 
-  filter( Site %in% hilo ) %>% 
-  select( Site,  family, sciName ) %>% 
-  distinct()
 
 # nice figure
 # windows(3,3)
@@ -238,32 +250,7 @@ Mode( c(0,1, NA))
 #              Herbivory2=Mode(Herbivory2),Climate=Mode(Climate), FoodI=Mode(FoodI),FoodII=Mode(FoodII) )
 # trait.mode[,26:35] <- apply(trait.mode[,25:34],2,as.numeric)
 
-trait.final <- ungroup(trait.final)
 
-
-# simplify scinames
-trait.final <- trait.final %>% 
-  mutate( name=vegan::make.cepnames( trait.final$sciName ) )
-# clean up duplicate entries
-options( stringsAsFactors = FALSE )
-clean <- function(column){
-  unlist( lapply(strsplit( column, split=';' ),function(z) unlist(paste(sort(unique(z)),collapse=";")) ) )
-}
-trait.final <- data.frame(apply(trait.final,2,clean))
-
-### switch which traits to use
-trait.use <- trait.final %>% 
-  select( sciName, name, act, feed, troph, watercol, body  )
-
-## merge again
-s1 <- left_join( seine_hab, ss )
-s1 <- left_join( s1, trait.use )
-
-# filter out taxa not in trait.final and vice versa
-s1 <- s1 %>% 
-  filter( sciName %in% trait.use$sciName )
-trait.use <- trait.use %>% 
-  filter( sciName %in% s1$sciName )
 
 # # add size as a trait
 # size <- pred_biom %>%
@@ -276,7 +263,8 @@ trait.use <- trait.use %>%
 # only retain site and taxa that are in trait - more in trait because based on videos + seine
 # trait.keep <- trait.size[ trait.size$sciName %in% s1$sciName, ]
 # trait.keep <- trait.keep[ trait.keep$squidpop == 1, ]
-xuse <- data.frame( trait.use[ trait.use$sciName %in% s1$sciName,-c(1,2)] )
+trait.use <- data.frame( trait.use[ trait.use$sciName %in% suse$sciName,] )
+xuse <- trait.use[,-c(1,2)]
 xuse[xuse==""] <- NA
 xuse$act[ xuse$act == "active;ambush" ] <- "ambush"
 # to numeric
@@ -293,7 +281,7 @@ mice::md.pattern( xuse )
 
 
 # abundance patterns
-comm <- s1 %>% 
+comm <- suse %>% 
   ungroup() %>% 
   unite( "SH", Site, habitat  ) %>% 
   select( SH, name, abun ) %>% 
@@ -360,15 +348,15 @@ cwm <- cwm %>%
   separate( SH, c("Site","habitat"))
 cwm.ss <- left_join( cwm, ss )
 
-write_csv( cwm, "Output Data/FunctionalDiversity_CWM.csv")
+write_csv( cwm, "Output Data/FunctionalDiversity_CWM_filtered.csv")
 
 # quantitative traits
 ggplot( cwm.ss, aes( x=abs(meanLat), y=as.numeric(act))) + geom_point() + geom_smooth(method='glm', method.args=list(family='quasibinomial'))
-ggplot( cwm.ss, aes( x=abs(meanLat), y=food)) + geom_point() + geom_smooth()
-ggplot( cwm.ss, aes( x=abs(meanLat), y=asp)) + geom_point() + geom_smooth()
-ggplot( cwm.ss, aes( x=abs(meanLat), y=tl)) + geom_point() + geom_smooth()
-ggplot( cwm.ss, aes( x=abs(meanLat), y=snoutx)) + geom_point() + geom_smooth()
-ggplot( cwm.ss, aes( x=abs(meanLat), y=snouty)) + geom_point() + geom_smooth()
+# ggplot( cwm.ss, aes( x=abs(meanLat), y=food)) + geom_point() + geom_smooth()
+# ggplot( cwm.ss, aes( x=abs(meanLat), y=asp)) + geom_point() + geom_smooth()
+# ggplot( cwm.ss, aes( x=abs(meanLat), y=tl)) + geom_point() + geom_smooth()
+# ggplot( cwm.ss, aes( x=abs(meanLat), y=snoutx)) + geom_point() + geom_smooth()
+# ggplot( cwm.ss, aes( x=abs(meanLat), y=snouty)) + geom_point() + geom_smooth()
 # qualitative traits
 ggplot( cwm.ss, aes( x=abs(meanLat), y=feed)) + geom_point() 
 ggplot( cwm.ss, aes( x=abs(meanLat), y=troph)) + geom_point() 
@@ -390,7 +378,7 @@ gr.abun <- left_join( gr.abun, ss )
 # can we define groups based on trait bundles?
 # taxa in each group
 groups <- data.frame( name=names(m1$spfgr), functgroup=m1$spfgr )
-seine.group <- left_join( s1, groups )
+seine.group <- left_join( suse, groups )
 ggplot( seine.group, aes(x=functgroup,y=rate) ) + geom_point()
 
 # summarize groups by site (distribution based on presence-absence and abundance)

@@ -615,7 +615,7 @@ rate.env$Site[ rate.env$Country == "USA (CA4)"] <- "CA4"
 #   mutate( habitat = factor( habitat, c("Unveg", "Seagrass"), c("Unvegetated","Seagrass") ) )
 
 # write these data to disk
-write.csv( rate.env, "Output Data/Bitemap_rate.env.20190423.csv", row.names=FALSE )
+write_csv( rate.env, "Output Data/Bitemap_rate.env.20190423.csv" )
 
 ##
 

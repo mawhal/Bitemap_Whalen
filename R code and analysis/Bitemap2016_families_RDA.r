@@ -30,9 +30,15 @@ sr <- left_join(seine,rate.mean)
 
 
 ## read the families that were positively associated with predation rates in RDA
+##----
 # these include all families from both abundance weighted and presence-absence analysis
-fam <- read_csv( "Output Data/multivar_families_positive.csv" )
-top <- fam$taxon
+# fam <- read_csv( "Output Data/multivar_families_positive.csv" )
+# DELETED THIS BECAUSE WE WANT JUST THE PRESENCE-ABBSENCE ANALYSIS
+##----
+#
+fam <- read_csv( "Output Data/multivar_constr_taxa.csv" )
+fam.pos <- fam %>% filter( CAP1 >0 )
+top <- fam.pos$family
 # top <- fam$taxon[-12] # gets rid of Serranids when more taxa are included (e.g., video data also included for presence-absence analysis)
 # the abundance-weight families were a bit more conservative
 # top <- c( 'Penaeidae','Tetraodontidae','Sillaginidae','Palaemonidae','Sphyraenidae','Terapontidae','Hemiramphidae',
@@ -48,7 +54,7 @@ sf <- sr[ sr$family %in% top, ]
 # which taxa don't have length-weight regression estimates
 miss <- sf[ is.na(sf$A), ]
 sort(unique(miss$SPECIES_NAME))
-misslw <- rfishbase::length_weight(sort(unique(miss$SPECIES_NAME)))
+# misslw <- rfishbase::length_weight(sort(unique(miss$SPECIES_NAME)))
 # lwadd <- misslw %>% filter( !is.na(Species) ) %>%
 #   select( SPECIES_NAME=Species, A=a, B=b ) %>%
 #   group_by( SPECIES_NAME ) %>%

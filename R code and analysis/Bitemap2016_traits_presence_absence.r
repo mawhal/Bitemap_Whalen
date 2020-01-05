@@ -82,6 +82,21 @@ trait.final <- tp_fill %>%
           snouty=replace(snouty,snouty=="",NA) )
 
 
+# clean up duplicate entries
+options( stringsAsFactors = FALSE )
+clean <- function(column){
+  unlist( lapply(strsplit( column, split=';' ),function(z) unlist(paste(sort(unique(z)),collapse=";")) ) )
+}
+trait.final <- data.frame(apply(trait.final,2,clean))
+
+# simplify scinames
+trait.final <- trait.final %>% 
+  mutate( name=vegan::make.cepnames( trait.final$sciName ) )
+
+### switch which traits to use
+trait.use <- trait.final %>% 
+  select( sciName, name, act, feed, troph, watercol, body  )
+
 
 ## mice package 
 md <- trait.final %>%
@@ -92,18 +107,93 @@ md <- trait.final %>%
 ## read seine data
 seine <- read_csv( "Output Data/Bitemap_seine_abundance_biomass.csv" )
 seine <- seine %>% 
-  select( Country, habitat, Lat, Long, Date, Time, sciName=SPECIES_NAME, length=Length, biomass, abun=Abundance )
+  select( Country, habitat, Lat, Long, Date, Time, 
+          sciName=SPECIES_NAME, family, Genus,
+          length=Length, biomass, abun=Abundance )
 # change some taxon names
 seine$sciName[ seine$sciName=="Pelates sexlineatus"] <- "Helotes sexlineatus"
+seine$family[ seine$sciName %in% "Carcinus maenas" ] <- "Carcinidae"
 unique(seine$sciName[ !(seine$sciName %in% trait.final$sciName) ]) # still a few missing taxa
+seine$family[ seine$sciName %in% "Menticirrhus ophicephalus" ] <- "Sciaenidae" 
 # summarize median per capita length and biomass per seine
 seine_per <- seine %>% 
-  group_by( Country, habitat, Lat, Long, Date, Time, sciName ) %>% 
+  group_by( Country, habitat, Lat, Long, Date, Time, family, sciName ) %>% 
   summarize( length=median(length,na.rm=T), biomass=median(biomass,na.rm=T), abun=sum(abun,na.rm=T) )
 # summarize mean across multiple seines within habitats
 seine_hab <- seine_per %>% 
-  group_by( Country, habitat, sciName ) %>% 
+  group_by( Country, habitat, family, sciName ) %>% 
   summarize( length=mean(length,na.rm=T), biomass=mean(biomass,na.rm=T), abun=mean(abun,na.rm=T) )
+
+
+# trait information that includes video data
+video <- read_csv( "../Data/Video Data/Bitemap_Video_Data_ALL.csv" )
+# some sites list the full species name under Species instead of the epithet
+video$Species[ grep( "[A-Z]", video$Species ) ] <- 
+  unlist( lapply( strsplit( video$Species[ grep( "[A-Z]", video$Species ) ], " " ), 
+                  function(z) paste(z[-1],collapse=" ") ) )
+# fix some names
+video$Genus <- gsub( "Athrina", "Atherina", video$Genus )
+video$Genus <- gsub( "Eucinostramus", "Eucinostomus", video$Genus )
+video$Genus <- gsub( "Lactophris", "Lactophrys", video$Genus )
+video$Genus <- gsub( "Lactrophris", "Lactophrys", video$Genus )
+video$Genus <- gsub( "Alters", "Aluterus", video$Genus )
+video$Genus <- gsub( "Sphyraema", "Sphyraena", video$Genus )
+
+# 
+video <- video %>% 
+  unite( sciName, Genus, Species, sep=" ", remove = F ) %>% 
+  select( Country, habitat, sciName, Genus ) %>% 
+  mutate( habitat=tolower(habitat) ) %>% 
+  distinct()
+video$habitat[ video$habitat == "seagrass" ] <- "Seagrass"
+video$habitat[ video$habitat == "unveg" ] <- "Unvegetated"
+# fix more names
+video$sciName <- gsub( " sp", " sp.", video$sciName )
+video$sciName <- gsub( " sp..", " sp.", video$sciName )
+video$sciName <- gsub( " NA", "", video$sciName )
+
+genfam <- seine %>% select(family,Genus) %>% distinct()
+video1 <- left_join(video, genfam)
+
+
+# lookup taxa with taxize
+taxa <- video1 %>% 
+  filter( is.na(family) ) %>% 
+  separate( sciName, c("Genus","species")) %>% 
+  select( Genus ) %>% 
+  distinct() %>%
+  arrange( Genus ) %>% 
+  unlist()
+taxa <- na.omit(taxa)
+taxa <- taxa[ !(taxa %in% c("NO","Not", "NA")) ]
+# do the lookup
+# library(taxize)
+# options(ENTREZ_KEY = "a06da45de96c4b7d680015d4c5b46694d908")
+# taxclass <- taxize::classification( taxa, db="ncbi", 
+#                                     ENTREZ_KEY = "a06da45de96c4b7d680015d4c5b46694d908" )
+# taxfam <- rbind(taxclass) %>% 
+#   filter(rank=='family') %>% 
+#   select( family=name, Genus=query )
+# # write taxfam to disk so we don't have to look it up every time
+# write_csv( taxfam, "Output Data/families_taxize_RDA.csv" )
+taxfam <-  read_csv( "Output Data/families_taxize_RDA.csv" )
+
+famfam <- bind_rows( genfam, taxfam )
+video_fam <- left_join(video, famfam, by="Genus")
+video_fam <- video_fam %>% filter( sciName != "NA" ) %>% 
+  filter( sciName != "NO ID" )
+
+# name change Romaleon polyodon to Romaleon  
+video_fam$sciName[ video_fam$sciName=="Romaleon polyodon" ] <- "Romaleon setosum"
+video_fam$sciName[ video_fam$sciName=="Sparisoma viridae" ] <- "Sparisoma viride"
+video_fam$sciName[ video_fam$sciName=="Diodon histrix" ] <- "Diodon hystrix"
+video_fam$sciName[ video_fam$sciName=="Zosterisessor offiocephalus" ] <- "Zosterisessor ophiocephalus"
+# other names to fix
+# z ophiocephalus appears twice
+video_fam <- video_fam %>% distinct()
+# cleanup
+# taxa with traits needed
+video_fam %>% filter(is.na(family))
 
 
 ## read site data
@@ -123,8 +213,37 @@ rate.hab <- rate.env %>%
 
 ## merge
 ss <- left_join( rate.hab, sites )
-s1 <- left_join( seine_hab, ss )
+all_taxa <- full_join( video_fam, seine_hab )
+s1 <- left_join( all_taxa, ss )
 s1 <- left_join( s1, trait.final )
+
+# fill missing traits for video only taxa
+missingtaxa <- s1 %>% filter(is.na(act)) %>% 
+  select(sciName, Genus, family, act, feed, troph, watercol, body ) %>%  
+  distinct()
+# manually fill in missing taxa
+# library(rfishbase)
+# eco <- ecology(unlist(missingtaxa$sciName), fields = "FeedingType")
+# morph <- morphology( unlist(missingtaxa$sciName),fields = c('Species','BodyShapeI') )
+s1[ s1$sciName == "Aluterus scriptus", c("act","feed","troph","watercol","body")] <- 
+  c("active","variable","omnivore","demersal","short and / or deep")
+s1[ s1$sciName == "Arripis georgianus", c("act","feed","troph","watercol","body")] <- 
+  c("active","selective plankton feeding","planktivore;higher carnivore",
+    "pelagic site attached", "fusiform / normal" )
+s1[ s1$sciName == "Mallotus villosus", c("act")] <- "active"
+s1[ s1$sciName == "Mallotus villosus", c("feed")] <- "selective plankton feeding"
+s1[ s1$sciName == "Mallotus villosus", c("troph")] <- "planktivore"
+s1[ s1$sciName == "Mallotus villosus", c("watercol")] <- "pelagic non-site attached"
+s1[ s1$sciName == "Mallotus villosus", c("body")] <- "elongated"
+s1[ s1$sciName == "Hyporhamphus sajori", "act" ] <- "active"
+s1[ s1$sciName == "Hyporhamphus sajori", "feed" ] <- "selective plankton feeding"
+s1[ s1$sciName == "Hyporhamphus sajori", "troph" ] <- "planktivore"
+s1[ s1$sciName == "Hyporhamphus sajori", "watercol" ] <- "pelagic site attached"
+s1[ s1$sciName == "Hyporhamphus sajori", "body" ] <- "elongated"
+
+
+# remove rows with NA for activity - omit things like barracuda and green sea turtles
+s1 <- s1 %>% filter( !is.na(act) )
 
 
 # duplicate entries?
@@ -135,17 +254,22 @@ s1 %>%
   filter( entries>1 )
 
 
-## write the seine-trait data to disk
-write_csv( s1, "Output Data/Bitemap_seine_trait.csv" )
+trait.final <- ungroup(trait.final)
 
-# mean food
-prey.troph.mean <- s1 %>% 
-  dplyr::group_by( Site, habitat, rate ) %>% 
-  dplyr::summarize( food = mean(as.numeric(food),na.rm=T))
-ggplot( prey.troph.mean, aes(x=food,y=rate)) +geom_point() #+ geom_smooth()
 
-prey.troph.mean %>% arrange(-food)
-prey.troph.mean %>% filter( rate>0.5 ) %>% arrange(-food)
+# filter out taxa not in trait.final and vice versa
+s1 <- s1 %>% 
+  filter( sciName %in% trait.use$sciName )
+trait.use <- trait.use %>% 
+  filter( sciName %in% s1$sciName )
+
+
+## write the seine-trait data to disk as well as the trait data themselvees
+write_csv( s1, "Output Data/Bitemap_presence+absence_trait.csv" )
+write_csv( trait.use, "Output Data/Bitemap_presence+absence_trait_use.csv" )
+
+
+
 
 ### summarize trait data by site
 # filter out only fish?
@@ -168,7 +292,7 @@ rat <- left_join( rat.ind, rat.tax )
 rat.site <- left_join( rat, ss )
 
 # write to disk
-write_csv( rat, "Output Data/consumer_active_ratio2.csv" )
+write_csv( rat, "Output Data/consumer_active_ratio_PA.csv" )
 
 
 # plot
@@ -238,32 +362,7 @@ Mode( c(0,1, NA))
 #              Herbivory2=Mode(Herbivory2),Climate=Mode(Climate), FoodI=Mode(FoodI),FoodII=Mode(FoodII) )
 # trait.mode[,26:35] <- apply(trait.mode[,25:34],2,as.numeric)
 
-trait.final <- ungroup(trait.final)
 
-
-# simplify scinames
-trait.final <- trait.final %>% 
-  mutate( name=vegan::make.cepnames( trait.final$sciName ) )
-# clean up duplicate entries
-options( stringsAsFactors = FALSE )
-clean <- function(column){
-  unlist( lapply(strsplit( column, split=';' ),function(z) unlist(paste(sort(unique(z)),collapse=";")) ) )
-}
-trait.final <- data.frame(apply(trait.final,2,clean))
-
-### switch which traits to use
-trait.use <- trait.final %>% 
-  select( sciName, name, act, feed, troph, watercol, body  )
-
-## merge again
-s1 <- left_join( seine_hab, ss )
-s1 <- left_join( s1, trait.use )
-
-# filter out taxa not in trait.final and vice versa
-s1 <- s1 %>% 
-  filter( sciName %in% trait.use$sciName )
-trait.use <- trait.use %>% 
-  filter( sciName %in% s1$sciName )
 
 # # add size as a trait
 # size <- pred_biom %>%
@@ -291,16 +390,18 @@ mice::md.pattern( xuse )
   
 
 
-
+### Ignore abundance patterns for Presence-Absence analysis,
+# but can fill a matrix with ones and zeros
 # abundance patterns
-comm <- s1 %>% 
-  ungroup() %>% 
-  unite( "SH", Site, habitat  ) %>% 
-  select( SH, name, abun ) %>% 
+scomm <- s1 %>% mutate( abun=1 )
+comm <- scomm %>%
+  ungroup() %>%
+  unite( "SH", Site, habitat  ) %>%
+  select( SH, name, abun ) %>%
   spread( name,abun,fill=0  )
 ause <- as.matrix( comm[,-1] )
 rownames(ause) <- comm$SH
-  
+
 
 # sort(unique(seine.keep$sciName))
 # sort(unique(trait.keep$sciName))
@@ -331,7 +432,7 @@ rownames(ause) <- comm$SH
 # use dbFD
 # m1 <- dbFD( xuse, ause, w.abun = T, corr="cailliez", calc.FGR=T, clust.type='ward.D' )
 # cwm <- functcomp( as.matrix(xuse), as.matrix(ause) )
-xmat <- list( trait=xuse, abun=ause )
+# xmat <- list( trait=xuse, abun=ause )
 # debugonce(FD::dbFD)
 # x <- as.list( body(dbFD) )
 # as.list( x[[54]] )
@@ -347,28 +448,28 @@ xmat <- list( trait=xuse, abun=ause )
 
 
 
-gd <- gowdis( xmat$trait, asym.bin = 1 )
-m1 <- dbFD( gd, xmat$abun, w.abun = T, 
+gd <- gowdis( xuse, asym.bin = 1 )
+m1 <- dbFD( gd, ause, w.abun = T, 
             corr="lingoes", print.pco=T, calc.FGR = T, clust.type="kmeans",
             km.inf.gr=3,km.sup.gr=20,
-            calc.CWM = FALSE, m="min", calc.FDiv = FALSE )
+            calc.CWM = FALSE, m="min", calc.FDiv = FALSE, stand.FRic = FALSE )
 
 # Community weight means
-cwm <- functcomp( xmat$trait, xmat$abun )
+cwm <- functcomp( xuse, ause )
 cwm$SH <- comm$SH
 cwm <- cwm %>% 
   separate( SH, c("Site","habitat"))
 cwm.ss <- left_join( cwm, ss )
 
-write_csv( cwm, "Output Data/FunctionalDiversity_CWM.csv")
+write_csv( cwm, "Output Data/FunctionalDiversity_CWM_PA.csv")
 
 # quantitative traits
 ggplot( cwm.ss, aes( x=abs(meanLat), y=as.numeric(act))) + geom_point() + geom_smooth(method='glm', method.args=list(family='quasibinomial'))
-ggplot( cwm.ss, aes( x=abs(meanLat), y=food)) + geom_point() + geom_smooth()
-ggplot( cwm.ss, aes( x=abs(meanLat), y=asp)) + geom_point() + geom_smooth()
-ggplot( cwm.ss, aes( x=abs(meanLat), y=tl)) + geom_point() + geom_smooth()
-ggplot( cwm.ss, aes( x=abs(meanLat), y=snoutx)) + geom_point() + geom_smooth()
-ggplot( cwm.ss, aes( x=abs(meanLat), y=snouty)) + geom_point() + geom_smooth()
+# ggplot( cwm.ss, aes( x=abs(meanLat), y=food)) + geom_point() + geom_smooth()
+# ggplot( cwm.ss, aes( x=abs(meanLat), y=asp)) + geom_point() + geom_smooth()
+# ggplot( cwm.ss, aes( x=abs(meanLat), y=tl)) + geom_point() + geom_smooth()
+# ggplot( cwm.ss, aes( x=abs(meanLat), y=snoutx)) + geom_point() + geom_smooth()
+# ggplot( cwm.ss, aes( x=abs(meanLat), y=snouty)) + geom_point() + geom_smooth()
 # qualitative traits
 ggplot( cwm.ss, aes( x=abs(meanLat), y=feed)) + geom_point() 
 ggplot( cwm.ss, aes( x=abs(meanLat), y=troph)) + geom_point() 
@@ -382,106 +483,106 @@ ggplot( cwm.ss, aes( x=abs(meanLat), y=watercol)) + geom_point()
 # fdm$Site <- rownames(cwm)
 # fdm.site <- left_join( fdm, sites )
 # group abundance
-gr.abun <- m1$gr.abun
-gr.abun$SH <- comm$SH 
-gr.abun <- gr.abun %>% 
-  separate( SH, c("Site", "habitat") )
-gr.abun <- left_join( gr.abun, ss )
-# can we define groups based on trait bundles?
-# taxa in each group
-groups <- data.frame( name=names(m1$spfgr), functgroup=m1$spfgr )
-seine.group <- left_join( s1, groups )
-ggplot( seine.group, aes(x=functgroup,y=rate) ) + geom_point()
+# gr.abun <- m1$gr.abun
+# gr.abun$SH <- comm$SH 
+# gr.abun <- gr.abun %>% 
+#   separate( SH, c("Site", "habitat") )
+# gr.abun <- left_join( gr.abun, ss )
+# # can we define groups based on trait bundles?
+# # taxa in each group
+# groups <- data.frame( name=names(m1$spfgr), functgroup=m1$spfgr )
+# seine.group <- left_join( s1, groups )
+# ggplot( seine.group, aes(x=functgroup,y=rate) ) + geom_point()
 
 # summarize groups by site (distribution based on presence-absence and abundance)
 # functional group richness
 # without abundance
-group.site <- seine.group %>%
-  dplyr::group_by( Site, habitat, sciName, functgroup ) %>%
-  dplyr::summarize( n=sum(abun,na.rm=T))
-group.long <- group.site %>%
-  dplyr::ungroup() %>%
-  dplyr::select( Site, habitat, functgroup ) %>%
-  dplyr::group_by( Site, habitat, functgroup ) %>%
-  dplyr::summarize( count=length(functgroup) ) #%>%
-# spread( functgroup, count, fill=0 )
-# names(group.wide)[-1] <- paste0("group",names(group.wide)[-1])
-group.rate <- right_join( ss, group.long )
-group.rate <- group.rate %>% arrange(rate)
-# size of point is number in each group, location of points based on group number and site (rate?)
-site.ord <- unique(group.rate$Site)
-reps <- table(group.rate$Site)[site.ord]
-group.rate$index <- rep( 1:length(site.ord), as.vector(reps) )
-# functional group richness
-ggr <- ggplot( group.rate, aes( y=factor(functgroup), x=index, size=count, col=rate)) + 
-  geom_point() + scale_color_continuous(guide=FALSE)
+# group.site <- seine.group %>%
+#   dplyr::group_by( Site, habitat, sciName, functgroup ) %>%
+#   dplyr::summarize( n=sum(abun,na.rm=T))
+# group.long <- group.site %>%
+#   dplyr::ungroup() %>%
+#   dplyr::select( Site, habitat, functgroup ) %>%
+#   dplyr::group_by( Site, habitat, functgroup ) %>%
+#   dplyr::summarize( count=length(functgroup) ) #%>%
+# # spread( functgroup, count, fill=0 )
+# # names(group.wide)[-1] <- paste0("group",names(group.wide)[-1])
+# group.rate <- right_join( ss, group.long )
+# group.rate <- group.rate %>% arrange(rate)
+# # size of point is number in each group, location of points based on group number and site (rate?)
+# site.ord <- unique(group.rate$Site)
+# reps <- table(group.rate$Site)[site.ord]
+# group.rate$index <- rep( 1:length(site.ord), as.vector(reps) )
+# # functional group richness
+# ggr <- ggplot( group.rate, aes( y=factor(functgroup), x=index, size=count, col=rate)) + 
+#   geom_point() + scale_color_continuous(guide=FALSE)
+# 
+# # based on abundance
+# group.n <- group.site %>%
+#   dplyr::ungroup() %>%
+#   dplyr::select( Site, habitat, functgroup, abun ) %>%
+#   dplyr::group_by( Site, habitat, functgroup ) %>%
+#   dplyr::summarize( count=length(functgroup), cpua=sum(cpua) )
+# group.rate.n <- right_join( sites, group.n )
+# group.rate.n <- group.rate.n %>% arrange(rate)
+# 
+# # size of point is number in each group, location of points based on group number and site (rate?)
+# group.rate.n$index <- rep( 1:length(site.ord), as.vector(reps) )
+# # richness within functional groups 
+# ggn <- ggplot( group.rate.n, aes( y=factor(functgroup), x=index, size=cpua, col=rate)) + 
+#   geom_point()
+# 
+# windows(5,5)
+# plot_grid( ggr,ggn,ncol=1, align = 'hv')
+#   # group4, group6, group8
+# 
+# par(mfrow=c(3,3))
+# for(i in 1:9) {
+#   plot( formula(paste0('rate~group',i)),gr.abun )
+# }
+# dev.off()
+# plot(m1$x.axes[,1:2])
 
-# based on abundance
-group.n <- group.site %>%
-  dplyr::ungroup() %>%
-  dplyr::select( Site, habitat, functgroup, abun ) %>%
-  dplyr::group_by( Site, habitat, functgroup ) %>%
-  dplyr::summarize( count=length(functgroup), cpua=sum(cpua) )
-group.rate.n <- right_join( sites, group.n )
-group.rate.n <- group.rate.n %>% arrange(rate)
-
-# size of point is number in each group, location of points based on group number and site (rate?)
-group.rate.n$index <- rep( 1:length(site.ord), as.vector(reps) )
-# richness within functional groups 
-ggn <- ggplot( group.rate.n, aes( y=factor(functgroup), x=index, size=cpua, col=rate)) + 
-  geom_point()
-
-windows(5,5)
-plot_grid( ggr,ggn,ncol=1, align = 'hv')
-  # group4, group6, group8
-
-par(mfrow=c(3,3))
-for(i in 1:9) {
-  plot( formula(paste0('rate~group',i)),gr.abun )
-}
-dev.off()
-plot(m1$x.axes[,1:2])
-
-
-
-# remaining questions:
-# do all families associated with squidpop consumption fall into the same functional group - NO
-# what is it about the taxa strongly associated with consumption?
-# which families are represented by each functional group?
-spec.group <- data.frame( sciName=names(m1$spfgr), group=m1$spfgr )
-fam.group <- left_join( spec.group, select(trait, sciName, family ))
-fam.group %>%
-  dplyr::group_by( group ) %>%
-  dplyr::summarize( n=length(unique(family)), fams = paste(sort(unique(family)),collapse=";") )
-# CWM for functional groups
-b2 <- seine.group %>%
-  dplyr:: mutate( area=Distance*width.transect ) %>%
-  dplyr::mutate( bpua = biomass/area ) %>%
-  dplyr::group_by( functgroup, sciName ) %>%
-  dplyr::summarise( n = sum(bpua,na.rm=T) )
-b2s <- b2 %>%
-  # group_by( Site) %>%
-  spread( sciName, n, fill=0 )
-b2s <- data.frame(b2s)
-rownames(b2s) <- b2s$functgroup
-b2s <- b2s[,-1]
-buse <- b2s
-trait.keep2 <- trait.keep[ trait.keep$sciName %in% b2$sciName, ]
-# trait.keep <- trait.keep[ trait.keep$squidpop == 1, ]
-xuse2 <- trait.keep2[,-c(1,6)]
-row.names(xuse2) <- trait.keep2$sciName
-cwm2 <- functcomp( as.matrix(xuse2), as.matrix(buse) )
-cwm2$functgroup <- (rownames(cwm2))
-plot( activty ~ functgroup, cwm2 )
-choose <- 12:18
-par( mfcol=c( 3,3  ))
-for( i in choose ){
-  plot(  cwm2$functgroup, as.numeric(cwm2[,i] ),
-         xlab="Functional group", ylab=names(cwm2)[i] )
-}
-
-plot( as.numeric(HL) ~ (functgroup), cwm2 )
-plot( as.numeric(BD) ~ (functgroup), cwm2 )
+# 
+# 
+# # remaining questions:
+# # do all families associated with squidpop consumption fall into the same functional group - NO
+# # what is it about the taxa strongly associated with consumption?
+# # which families are represented by each functional group?
+# spec.group <- data.frame( sciName=names(m1$spfgr), group=m1$spfgr )
+# fam.group <- left_join( spec.group, select(trait, sciName, family ))
+# fam.group %>%
+#   dplyr::group_by( group ) %>%
+#   dplyr::summarize( n=length(unique(family)), fams = paste(sort(unique(family)),collapse=";") )
+# # CWM for functional groups
+# b2 <- seine.group %>%
+#   dplyr:: mutate( area=Distance*width.transect ) %>%
+#   dplyr::mutate( bpua = biomass/area ) %>%
+#   dplyr::group_by( functgroup, sciName ) %>%
+#   dplyr::summarise( n = sum(bpua,na.rm=T) )
+# b2s <- b2 %>%
+#   # group_by( Site) %>%
+#   spread( sciName, n, fill=0 )
+# b2s <- data.frame(b2s)
+# rownames(b2s) <- b2s$functgroup
+# b2s <- b2s[,-1]
+# buse <- b2s
+# trait.keep2 <- trait.keep[ trait.keep$sciName %in% b2$sciName, ]
+# # trait.keep <- trait.keep[ trait.keep$squidpop == 1, ]
+# xuse2 <- trait.keep2[,-c(1,6)]
+# row.names(xuse2) <- trait.keep2$sciName
+# cwm2 <- functcomp( as.matrix(xuse2), as.matrix(buse) )
+# cwm2$functgroup <- (rownames(cwm2))
+# plot( activty ~ functgroup, cwm2 )
+# choose <- 12:18
+# par( mfcol=c( 3,3  ))
+# for( i in choose ){
+#   plot(  cwm2$functgroup, as.numeric(cwm2[,i] ),
+#          xlab="Functional group", ylab=names(cwm2)[i] )
+# }
+# 
+# plot( as.numeric(HL) ~ (functgroup), cwm2 )
+# plot( as.numeric(BD) ~ (functgroup), cwm2 )
 
 
 ## Other dimensions of functional diversity
@@ -497,6 +598,6 @@ psych::pairs.panels( fds[,c("FRic","FEve","FDis","RaoQ","FGR","rate")])
 #RaoQ, FGR, Fric
 # from the help page: Rao's quadratic entropy (Q) is computed from the uncorrected species-species distance matrix via divc. See Botta-Dukát (2005) for details. Rao's Q is conceptually similar to FDis, and simulations (via simul.dbFD) have shown high positive correlations between the two indices (Laliberté and Legendre 2010). Still, one potential advantage of FDis over Rao's Q is that in the unweighted case (i.e. with presence-absence data), it opens possibilities for formal statistical tests for differences in FD between two or more communities through a distance-based test for homogeneity of multivariate dispersions (Anderson 2006); see betadisper for more details.
 psych::pairs.panels( fds[,c("FRic","RaoQ","FGR","rate")])
-write_csv( fd, "Output Data/FunctionalDiversity_indices.csv" )
+write_csv( fd, "Output Data/FunctionalDiversity_indices_PA.csv" )
 
 with(fds,plot(FRic~cwm$act))

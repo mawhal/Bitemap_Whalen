@@ -180,14 +180,15 @@ rdaunc <- rdaunc %>% separate( SH, c("Site", "habitat") )
 brda <- read_csv( "Output Data/biomass_RDAselected.csv" ) # 30 sites
 brda <- brda %>%
   select( Site, habitat, biomass, cpua )
-active <- read_csv( "Output Data/consumer_active_ratio.csv" )
+active <- read_csv( "Output Data/consumer_active_ratio2.csv" )
 active <- active %>% 
   select( Site, habitat, act.ratio )
 fds  <- read_csv( "Output Data/FunctionalDiversity_indices.csv" ) # only 21 sites
 fds <- as.data.frame(fds)
 fds[is.na(fds)] <- 0
+cwm <- read_csv( "Output Data/FunctionalDiversity_CWM.csv" )
 
-addon <- left_join(left_join(left_join(rdaunc,brda),active),fds) 
+addon <- left_join(left_join(left_join(left_join(rdaunc,brda),active),fds),cwm) 
 addon <- addon %>% 
   replace_na( replace=list(FRic=0,qual.FRic=0,FEve=0,FDis=0,RaoQ=0,FGR=0)  )
 
@@ -196,23 +197,16 @@ rate.mean <- left_join(fam.meta, addon)
 rate.mean.pairs <- rate.mean %>% 
   mutate( log.cpua = log10(cpua+0.001),
           logit.rate = car::logit(rate) ) %>% 
-  select( Site, habitat, `mean annual\nSST`=sstmean, MDS1, 
-          activity=act.ratio, abundance=log.cpua, `consumption\nrate`=logit.rate )
+  select( Site, habitat, `mean\nannual\nSST`=sstmean, MDS1, 
+          activity=act.ratio.tax, `selected\nabundance`=log.cpua, 
+          `consumption\nrate`=logit.rate, FRic, act )
 # bivariate correlations
-psych::pairs.panels( rate.mean.pairs[,c("mean annual\nSST",
-                                  "activity",
-                                  "MDS1",
-                                  "abundance",
-                                  "consumption\nrate")],
-                     method="spearman",smooth=4,
-                     ellipses = F, smoother=T, cex=1.2,
-                     col="red",line.lwd=4,
-                     hist.col="whitesmoke")
 chart.Correlation <- source("chart.correlation.r")$value
 
-chart.Correlation( rate.mean.pairs[,c("mean annual\nSST",
+chart.Correlation( rate.mean.pairs[,c("mean\nannual\nSST",
                                       "activity",
+                                      "FRic",
                                       "MDS1",
-                                      "abundance",
-                                      "consumption\nrate")],
+                                      "selected\nabundance",
+                                      "consumption\nrate") ],
                    histogram = F, method="spearman" )

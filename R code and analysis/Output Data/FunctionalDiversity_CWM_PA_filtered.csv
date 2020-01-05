@@ -1,0 +1,53 @@
+act,feed,troph,watercol,body,Site,habitat
+1,hunting macrofauna (predator),benthic invertivore,benthic,elongated,Baja,Seagrass
+0,hunting macrofauna (predator),benthic invertivore,benthic,elongated;fusiform / normal,Baja,Unvegetated
+0,hunting macrofauna (predator),benthic invertivore;higher carnivore,benthic,fusiform / normal,Brazil,Seagrass
+0,hunting macrofauna (predator),benthic invertivore;higher carnivore,benthic,crab,Brazil,Unvegetated
+1,hunting macrofauna (predator),benthic invertivore,benthic,fusiform / normal,CA,Seagrass
+1,hunting macrofauna (predator),benthic invertivore,benthic,fusiform / normal,CA,Unvegetated
+1,hunting macrofauna (predator);variable,omnivore,benthic,fusiform / normal,CA2,Seagrass
+1,hunting macrofauna (predator);variable,omnivore,benthic,fusiform / normal,CA2,Unvegetated
+1,hunting macrofauna (predator);variable,omnivore,benthic,fusiform / normal,CA3,Seagrass
+1,hunting macrofauna (predator),benthic invertivore,benthic,fusiform / normal,CA3,Unvegetated
+1,variable,omnivore,benthic,elongated,Chile,Seagrass
+0,browsing on substrate,omnivore,demersal,fusiform / normal,Chile,Unvegetated
+0,hunting macrofauna (predator),omnivore,benthic,fusiform / normal,Croatia,Seagrass
+0,hunting macrofauna (predator),benthic invertivore,benthic,fusiform / normal,Croatia,Unvegetated
+0,variable,omnivore,benthic;demersal,shrimp,DE,Unvegetated
+0,hunting macrofauna (predator),benthic invertivore,benthic,fusiform / normal,FL,Seagrass
+0,hunting macrofauna (predator),omnivore,benthic,fusiform / normal,FL,Unvegetated
+0,hunting macrofauna (predator),omnivore,benthic,fusiform / normal,France,Seagrass
+0,hunting macrofauna (predator),omnivore,demersal,fusiform / normal,France,Unvegetated
+0,hunting macrofauna (predator),benthic invertivore;browsing herbivore;higher carnivore;omnivore,benthic;demersal,fusiform / normal,Italy,Seagrass
+0,hunting macrofauna (predator),omnivore,benthic;demersal,fusiform / normal,Italy,Unvegetated
+0,hunting macrofauna (predator),benthic invertivore,demersal,elongated;fusiform / normal,Korea,Seagrass
+1,hunting macrofauna (predator),benthic invertivore,benthic,fusiform / normal,Korea,Unvegetated
+0,hunting macrofauna (predator),omnivore,demersal,fusiform / normal,NC,Seagrass
+0,hunting macrofauna (predator),omnivore,demersal,fusiform / normal,NC,Unvegetated
+0,hunting macrofauna (predator),omnivore,demersal,fusiform / normal,NC2,Seagrass
+1,hunting macrofauna (predator),benthic invertivore,benthic,elongated;fusiform / normal,Norway,Seagrass
+1,hunting macrofauna (predator),benthic invertivore,benthic,elongated;fusiform / normal,Norway,Unvegetated
+0,hunting macrofauna (predator),benthic invertivore,demersal,fusiform / normal,NSW1,Seagrass
+0,hunting macrofauna (predator),benthic invertivore,demersal,elongated;fusiform / normal,NSW1,Unvegetated
+0,hunting macrofauna (predator),benthic invertivore,demersal,fusiform / normal,NSW2,Seagrass
+0,hunting macrofauna (predator),benthic invertivore,demersal,fusiform / normal,NSW2,Unvegetated
+1,browsing on substrate;hunting macrofauna (predator);selective plankton feeding;variable,benthic invertivore;higher carnivore;omnivore;planktivore,benthic,fusiform / normal,OR,Unvegetated
+0,hunting macrofauna (predator),benthic invertivore,demersal,fusiform / normal,QLD2,Seagrass
+0,hunting macrofauna (predator),benthic invertivore,demersal,elongated,QLD2,Unvegetated
+0,hunting macrofauna (predator),benthic invertivore,demersal,fusiform / normal,QLD3,Seagrass
+0,hunting macrofauna (predator),benthic invertivore,demersal,fusiform / normal,QLD3,Unvegetated
+0,hunting macrofauna (predator),benthic invertivore,demersal,fusiform / normal,QLD4,Seagrass
+0,hunting macrofauna (predator),benthic invertivore,pelagic site attached,elongated;fusiform / normal,QLD4,Unvegetated
+0,hunting macrofauna (predator),omnivore,demersal,fusiform / normal,TX,Seagrass
+0,hunting macrofauna (predator),benthic invertivore,demersal,fusiform / normal,TX,Unvegetated
+0,hunting macrofauna (predator),omnivore,demersal,crab,VA,Seagrass
+0,hunting macrofauna (predator),benthic invertivore;higher carnivore,demersal,fusiform / normal,VA2,Seagrass
+0,variable,benthic invertivore,demersal,fusiform / normal,VA2,Unvegetated
+0,hunting macrofauna (predator),benthic invertivore,demersal,short and / or deep,VIC,Seagrass
+0,hunting macrofauna (predator),benthic invertivore,demersal,fusiform / normal;short and / or deep,VIC,Unvegetated
+0,hunting macrofauna (predator),benthic invertivore;cleaner;higher carnivore;scraping herbivore,benthic,elongated,Wales,Seagrass
+1,hunting macrofauna (predator),planktivore,benthic,elongated,Wales,Unvegetated
+0,hunting macrofauna (predator),benthic invertivore,benthic;demersal,fusiform / normal,Yuca1,Seagrass
+0,hunting macrofauna (predator),benthic invertivore;cleaner;higher carnivore;scraping herbivore,benthic;demersal,fusiform / normal,Yuca1,Unvegetated
+0,hunting macrofauna (predator),benthic invertivore,demersal,fusiform / normal,Yuca2,Seagrass
+0,hunting macrofauna (predator),benthic invertivore,demersal,fusiform / normal,Yuca2,Unvegetated

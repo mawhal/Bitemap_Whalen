@@ -27,17 +27,6 @@
 # load libraries
 # data.frame manipulation and joining
 library(tidyverse)
-library(plyr)
-library(ggrepel) # for plotting with text
-# library(reshape2)
-library(cowplot) # for arranging multiple plots
-# geospatial data
-# library(raster) # note that select() also occurs in dplyr
-# library(velox) # for faster extract
-# accessing data from FishBase
-library(vegan)
-library(viridis)
-library(here)
 
 
 
@@ -45,6 +34,7 @@ library(here)
 
 # seine abundance + biomass
 seine <- read_csv( "Output Data/Bitemap_seine_abundance_biomass.csv" )
+
 
 # environmental data from remote sensing and oceanographic expeditions
 oracle <- read_csv( "Output Data/Bitemap_BioORACLE_20190107.csv")[,1:36]
@@ -120,20 +110,20 @@ tax <- seine %>%
   distinct()
 mean.catch.tax <- left_join( mean.catch, tax )
 
-site <- select( oracle, Site, Country )
+site <- select( oracle, Site, Country, meanLat, meanLong, chla=chlomean )
 
 mean.catch.site <- right_join( site, mean.catch.tax )
 
 ## summarize data by family
 catch.fam <- mean.catch.site %>% 
   dplyr::group_by( Site, habitat, family ) %>% 
-  dplyr::summarize( P=sum(cpua) ) %>% 
+  dplyr::summarize( P=sum(cpua), meanLat=mean(meanLat), meanLong=mean(meanLong) ) %>% 
   dplyr::mutate( P=ifelse(P>0,1,0) )
 
 
 # merge with video data
-video <- left_join(site,video)
-video <- select(video, Site, habitat, family)
+video <- right_join(site,video)
+video <- select(video, Site, habitat, meanLat, meanLong, family)
 video <- video %>% filter( !is.na(family) )
 video$P <- 1
 
@@ -144,69 +134,200 @@ catch.video <- catch.video %>%
 # because we are merging seine and video data in some cases, we get discrepancies
 # for example: Sparids were caught on video but not in the seine in Croatia
 catch.video %>% 
-  dplyr::group_by(Site,habitat,family) %>% 
+  dplyr::group_by(Site,habitat,family,meanLat,meanLong) %>% 
   dplyr::summarise( count=length(P) ) %>% 
   filter( count>1 )
 
-# since there are only ones and zeros, we can add up the presence values
+# since there are only ones and zeros and no repeats, we can add up the presence values
 catch.video <- catch.video %>% 
-  dplyr::group_by(Site,habitat,family) %>% 
+  dplyr::group_by(Site,habitat,meanLat,meanLong,family) %>% 
   dplyr::summarise( P=sum(P) ) 
 
 # spread out again
 fam.catch.wide <- catch.video %>% 
-  group_by( Site, habitat ) %>% 
+  group_by( Site, habitat,meanLat,meanLong ) %>% 
   spread( family, P, fill=0 )
 
 
 # can average across habitat types, too
 
-fam.data <- fam.catch.wide[,-c(1:2)]
+fam.data <- fam.catch.wide[,-c(1:4)]
 
-fam.meta <- fam.catch.wide[,1:2]
+fam.meta <- fam.catch.wide[,1:4]
 fam.meta <- left_join( fam.meta, pop )
 
 fam.meta <- fam.meta %>%  tidyr::unite( SH, Site, habitat, remove=FALSE )
 
-rownames(fam.data) <- fam.meta$SH
+# rownames(fam.data) <- fam.meta$SH
 
 # write to disk
 fam.all <- bind_cols(fam.meta,fam.data)
 write_csv( fam.all, "Output Data/consumer_presence_wide.csv")
 
-## add ordination results and one trait, functional diversity
+## add ordination results, traits, functional diversity, unfiltered abundance
 rdaunc <- read_csv( "Output Data/multivar_unconstr_sites.csv" )
 rdaunc <- rdaunc %>% separate( SH, c("Site", "habitat") )
 brda <- read_csv( "Output Data/biomass_RDAselected.csv" ) # 30 sites
 brda <- brda %>%
   select( Site, habitat, biomass, cpua )
-active <- read_csv( "Output Data/consumer_active_ratio2.csv" )
+active <- read_csv( "Output Data/consumer_active_ratio_PA.csv" )
 active <- active %>% 
-  select( Site, habitat, act.ratio )
-fds  <- read_csv( "Output Data/FunctionalDiversity_indices.csv" ) # only 21 sites
+  select( Site, habitat, act.ratio=act.ratio.ind )
+fds  <- read_csv( "Output Data/FunctionalDiversity_indices_PA.csv" ) # fewer sites
 fds <- as.data.frame(fds)
 fds[is.na(fds)] <- 0
-cwm <- read_csv( "Output Data/FunctionalDiversity_CWM.csv" )
+cwm <- read_csv( "Output Data/FunctionalDiversity_CWM_PA.csv" )
+cwm_length <- read_csv( "Output Data/FunctionalDiversity_CWM_length.csv")
+cwm_length <- cwm_length %>% select( Site, habitat, length )
+# abundance
+meancpua <- mean.catch %>% 
+  group_by( Country, habitat, Site.Name ) %>% 
+  summarize( tot.cpua = sum(cpua,na.rm=T)) %>% 
+  group_by( Country, habitat ) %>% 
+  summarize( mean.cpua = mean(tot.cpua,na.rm=T)) %>% 
+  ungroup()
+meancpua <- left_join( meancpua, select(site, Site,Country) )
+meancpua <- meancpua %>% 
+  select( Site, habitat, mean.cpua ) %>% 
+  filter( complete.cases(meancpua) )
 
-addon <- left_join(left_join(left_join(left_join(rdaunc,brda),active),fds),cwm) 
-addon <- addon %>% 
-  replace_na( replace=list(FRic=0,qual.FRic=0,FEve=0,FDis=0,RaoQ=0,FGR=0)  )
+
+addon <- full_join( full_join(full_join(full_join(full_join(full_join(rdaunc,brda),active),fds),cwm), cwm_length), meancpua)
+addon <- addon 
+
+
 
 rate.mean <- left_join(fam.meta, addon)
+rate.mean <- left_join(rate.mean, select(site,Country,Site,chla) )
 
 rate.mean.pairs <- rate.mean %>% 
-  mutate( log.cpua = log10(cpua+0.001),
-          logit.rate = car::logit(rate) ) %>% 
-  select( Site, habitat, `mean\nannual\nSST`=sstmean, MDS1, 
-          activity=act.ratio.tax, `selected\nabundance`=log.cpua, 
-          `consumption\nrate`=logit.rate, FRic, act )
+  mutate( log.cpua = log10(cpua+0.001),log.mean.cpua=log10(mean.cpua+0.001),
+          logit.rate = car::logit(rate),abLat=abs(meanLat) ) %>% 
+  select( Site, habitat,`degrees\nfrom\nequator`=abLat,meanLong, `mean\nannual\nSST`=sstmean, 
+          MDS1, MDS2,chla,
+          `proportion\nactive\nforagers`=act.ratio, `selected\nabundance`=log.cpua, 
+          `consumption\nrate`=logit.rate, FRic, act, length, `total\nabundance`=log.mean.cpua )
 # bivariate correlations
 chart.Correlation <- source("chart.correlation.r")$value
 
+windows(5,5)
 chart.Correlation( rate.mean.pairs[,c("mean\nannual\nSST",
-                                      "activity",
+                                      "proportion\nactive\nforagers",
                                       "FRic",
                                       "MDS1",
                                       "selected\nabundance",
                                       "consumption\nrate") ],
                    histogram = F, method="spearman" )
+
+
+## bigger one for the supplement
+# inlcude Latitude, total abundance, FRic based on video data, length, CWMs from FD
+# also include total abundance from seine data
+windows(8,8)
+chart.Correlation( rate.mean.pairs[,c("degrees\nfrom\nequator",
+                                      "mean\nannual\nSST",
+                                      "chla",
+                                      "total\nabundance",
+                                      "length",
+                                      "proportion\nactive\nforagers",
+                                      "FRic",
+                                      "MDS1","MDS2",
+                                      "selected\nabundance",
+                                      "consumption\nrate") ],
+                   histogram = F, method="spearman" )
+
+
+# look at realtionships with CWMs
+rate.cwm <- rate.mean
+theme_set( theme_classic())
+# reorder factors
+rate.cwm$troph <- factor(rate.cwm$troph, levels=c("omnivore","benthic invertivore;planktivore","benthic invertivore","benthic invertivore;higher carnivore","higher carnivore"))
+rate.cwm$act <- ifelse( rate.cwm$act==0,1,0)
+# rate.cwm <- rate.cwm %>% filter( !is.na(meanLat) )
+ggplot( rate.cwm, aes(y=rate,x=act) ) + geom_point() +geom_smooth(method='lm',se=T)
+# ggplot( rate.cwm, aes(y=rate),x=length) ) + geom_point() +geom_smooth(se=T)
+a <- ggplot( rate.cwm, aes(y=rate,x=reorder(feed, rate, FUN = mean)) ) + geom_boxplot() + geom_point() +
+  xlab("Feeding mode") + ylab("Consumption rate") + coord_flip()
+  # theme( axis.text.x = element_text(angle=-45,hjust=0))
+b <- ggplot( rate.cwm, aes(y=rate,x=reorder(troph, rate, FUN = median)) ) + geom_boxplot() + geom_point() +
+  xlab("Trophic group") + ylab("Consumption rate") + coord_flip()
+  # theme( axis.text.x = element_text(angle=-45,hjust=0))
+c <- ggplot( rate.cwm, aes(y=rate,x=reorder(watercol, rate, FUN = mean)) ) + geom_boxplot() + geom_point() +
+  xlab("Water column use") + ylab("Consumption rate") + coord_flip()
+  # theme( axis.text.x = element_text(angle=-45,hjust=0))
+d <- ggplot( rate.cwm, aes(y=rate,x=reorder(body, rate, FUN = mean)) ) + geom_boxplot() + geom_point() +
+  xlab("Lateral body shape") + ylab("Consumption rate") + coord_flip()
+  # theme( axis.text.x = element_text(angle=-45,hjust=0))
+e <- ggplot( rate.cwm, aes(y=rate,x=length) )  + geom_point() + geom_smooth(method='glm',method.args=list(family=quasibinomial),se=F) +
+  xlab("Body size (mm)") + ylab("Consumption rate") 
+f <- ggplot( rate.cwm, aes(y=rate,x=act) )  + geom_point() + geom_smooth(method='glm',method.args=list(family=quasibinomial),se=F) +
+  xlab("Dominant activity") + ylab("Consumption rate") 
+
+t2 <- cowplot::plot_grid( a,b,c,d, ncol=2, labels=c("C","D","E","F"), align='hv')
+t1 <- cowplot::plot_grid( f,e, ncol=2, labels="AUTO", align='hv')
+
+windows(9,7)
+cowplot::plot_grid( t1,t2, ncol=1, rel_widths = c(1,2),  rel_heights = c(1,2), align='hv' )
+cowplot::plot_grid( f,e,a,b,c,d, ncol=2, align='hv' )
+
+
+
+a <- ggplot( rate.cwm, aes(y=FRic,x=reorder(feed, rate, FUN = mean)) ) + geom_boxplot() + geom_point() +
+  xlab("Feeding mode") + ylab("Functional Richness") + coord_flip()
+# theme( axis.text.x = element_text(angle=-45,hjust=0))
+b <- ggplot( rate.cwm, aes(y=FRic,x=reorder(troph, rate, FUN = median)) ) + geom_boxplot() + geom_point() +
+  xlab("Trophic group") + ylab("Functional Richness") + coord_flip()
+# theme( axis.text.x = element_text(angle=-45,hjust=0))
+c <- ggplot( rate.cwm, aes(y=FRic,x=reorder(watercol, rate, FUN = mean)) ) + geom_boxplot() + geom_point() +
+  xlab("Water column use") + ylab("Functional Richness") + coord_flip()
+# theme( axis.text.x = element_text(angle=-45,hjust=0))
+d <- ggplot( rate.cwm, aes(y=FRic,x=reorder(body, rate, FUN = mean)) ) + geom_boxplot() + geom_point() +
+  xlab("Lateral body shape") + ylab("Functional Richness") + coord_flip()
+# theme( axis.text.x = element_text(angle=-45,hjust=0))
+e <- ggplot( rate.cwm, aes(y=FRic,x=length) )  + geom_point() + 
+  geom_smooth(method='lm',se=F) +
+  xlab("Body size (mm)") + ylab("Functional Richness") 
+f <- ggplot( rate.cwm, aes(y=FRic,x=act) )  + geom_point() + 
+  geom_smooth(method='lm',se=F) +
+  xlab("Dominant activity") + ylab("Functional Richness") 
+
+t2 <- cowplot::plot_grid( a,b,c,d, ncol=2, labels=c("C","D","E","F"), align='hv')
+t1 <- cowplot::plot_grid( f,e, ncol=2, labels="AUTO", align='hv')
+
+windows(9,7)
+cowplot::plot_grid( f,e,a,b,c,d, ncol=2, labels="AUTO", align='hv' )
+
+
+
+
+#### why does consumption rate dip at the equator?
+## patterns of presence-absence and abundance
+## patterns of family presence-absence across latitude
+# 
+# get capscale values to select and order families of interest
+taxa.corr <- read_csv( "Output Data/multivar_constr_taxa.csv" ) %>% arrange(-CAP1)
+# get the twenty families with highest correlation with consumption rate
+# add more families based on video data?
+fam.choose <- taxa.corr$family[taxa.corr$family != c("Caesionidae")]
+fam.choose <- c(taxa.corr$family[1:18],"Labridae","Ostraciidae")
+
+pa.choose <- fam.data %>% select( fam.choose )
+pa <- bind_cols(fam.meta,pa.choose)
+# gather
+pa.gather <- pa %>% 
+  group_by(SH,Site,habitat,meanLat,meanLong,Country,sstmean,temp,rate) %>% 
+  gather(family,PA,fam.choose)
+pa.gather <- left_join(pa.gather,taxa.corr)
+pa.gather$family <- factor(pa.gather$family)
+pa.gather$family <- fct_reorder(.f=pa.gather$family, .x=pa.gather$CAP1, .desc=TRUE)
+
+# visualize
+windows(7,6)
+ggplot( pa.gather, aes(x=abs(meanLat),y=PA)) + facet_wrap(~family) +
+  geom_point(alpha=0.5) + geom_smooth(se=F)
+ggplot( pa.gather, aes(x=abs(meanLat),y=PA)) + facet_wrap(~family) +
+  geom_point(col="slateblue",alpha=0.5,size=2) + 
+  geom_smooth(method='glm',formula=y~poly(x,2),method.args=list(family="binomial"), se=F, col="black", lwd=0.5) +
+  geom_smooth(se=F,lty=3,col="black",lwd=0.5) +
+  theme_bw() + theme( panel.grid.major = element_blank(), panel.grid.minor = element_blank() ) + 
+  ylab("Family presence") + xlab("Degrees from equator")

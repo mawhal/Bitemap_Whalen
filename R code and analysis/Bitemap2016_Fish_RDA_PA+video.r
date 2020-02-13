@@ -118,6 +118,7 @@ video %>% filter( Country %in% c("Mexico (ICML)","Mexico (ICML2)")) %>%
   arrange( Country, family, Genus )
 filter( video, is.na(family) )
 video$family[ video$Genus %in% "Aluterus"] <- "Monacanthidae"
+video$family[ video$Genus %in% "Caesio"] <- "Caesionidae"
 
 video <- filter( video, !is.na(family) )
 
@@ -307,12 +308,12 @@ capspec <- capspec %>%
   arrange( -angle )
 capspec2 <- capspec#[ abs(capspec$CAP1) > sd(capspec$CAP1)*1, ]  
 capspec2 %>% 
-  mutate( image_length = sqrt(abs(CAP1/max(CAP1))) ) %>% 
+  mutate( image_length = sqrt(abs(CAP1/max(CAP1)))*1.25 ) %>% 
   arrange( CAP1 )
 
 ####### write constrained ordination sites and taxa to disk
-# write_csv( sr, "Output Data/multivar_constr_sites.csv" )
-# write_csv( capspec, "Output Data/multivar_constr_taxa.csv" )
+write_csv( sr, "Output Data/multivar_constr_sites.csv" )
+write_csv( capspec, "Output Data/multivar_constr_taxa.csv" )
 
 
 
@@ -399,7 +400,7 @@ capunc <- data.frame(ts,fam.meta)
 capunc <- capunc %>% 
   select( Site, MDS1, MDS2, SST=sstmean, rate )
 xlimits <- c(-1.3,1.3)
-ylimits <- c(-1.9,1.1)
+ylimits <- c(-1.1,1.9)
 a <- ggplot( capunc, aes(x=MDS1,y=MDS2,fill=SST)) + 
   geom_point(aes(size=rate), pch=21, alpha=0.75) +
   # geom_text_repel(aes(label=Site), point.padding = 0.5) +

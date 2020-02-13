@@ -147,8 +147,10 @@ seines$habitat[ seines$habitat %in% c("Seagrass ","seagrass" )] <- "Seagrass"
 seines$habitat[ seines$habitat %in% c("unveg","Unveg","Unvegetated" )] <- "Unvegetated"
 seines <- droplevels(seines)
 # for all organisms from France, UNC2, Wales, QLD2, QLD3, multiple lengths by 10 to convert from cm to mm
-seines$Length[ seines$Country %in% c('France', 'USA (NC2)', 'Wales', 'Australia (QLD2)', 'Australia (QLD3)')] <- 
-  seines$Length[ seines$Country %in% c('France', 'USA (NC2)', 'Wales', 'Australia (QLD2)', 'Australia (QLD3)')] * 10
+seines$Length[ seines$Country %in% c('France', 'USA (CA2)', 'USA (NC2)', 'Wales', 
+                                     'Australia (QLD2)', 'Australia (QLD3)')] <- 
+    seines$Length[ seines$Country %in% c('France', 'USA (CA2)', 'USA (NC2)', 'Wales', 
+                                         'Australia (QLD2)', 'Australia (QLD3)')] * 10
 
 
 # select relevant columns

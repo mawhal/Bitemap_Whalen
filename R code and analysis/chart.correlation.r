@@ -24,12 +24,12 @@ function (R, histogram = TRUE, method = c("pearson", "kendall",
     txt <- format(c(r, 0.123456789), digits = digits)[1]
     txt <- paste(prefix, txt, sep = "")
     if (missing(cex.cor)) 
-      # cex <- 0.8/strwidth(txt)
+      cex <- 0.8/strwidth(txt)
     test <- cor.test(as.numeric(x), as.numeric(y), method = method)
     # Signif <- symnum(test$p.value, corr = FALSE, na = FALSE, 
     #                  cutpoints = c(0, 0.001, 0.01, 0.05, 0.1, 1), symbols = c("***", 
     #                                                                           "**", "*", ".", " "))
-    text(0.5, 0.5, txt, cex = 2 )
+    text(0.5, 0.5, txt, cex = cex )
     # text(0.8, 0.8, Signif, cex = cex, col = 2)
   }
   f <- function(t) {

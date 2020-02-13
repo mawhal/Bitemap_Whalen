@@ -12,8 +12,8 @@ library(tidyverse)
 library(FD)
 
 # read trait data and community data
-s1 <- read_csv( "Output Data/Bitemap_presence+absence_trait.csv" )
-trait.use <- read_csv( "Output Data/Bitemap_presence+absence_trait_use.csv" )
+s1 <- read_csv( "Output Data/Bitemap_trait_presence+absence.csv" )
+trait.use <- read_csv( "Output Data/Bitemap_trait_use_presence+absence.csv" )
 
 # filter taxa based on multivariate analysis
 multivar <- read_csv( "Output Data/multivar_constr_taxa.csv" )

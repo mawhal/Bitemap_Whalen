@@ -285,7 +285,7 @@ proj4string(sites) <- '+init=epsg:4326'
 world <- rnaturalearth::countries110
 world <- world[world$name != 'Antarctica',]
 
-newproj = "+proj=tissot"
+newproj = "+proj=robin"
 
 grid.lines.mj <- sp::gridlines(world,easts = seq(-180,180,by=30), norths = seq(-90,90,by=30))
 grid.lines.mi <- sp::gridlines(world,easts = seq(-165,195,by=15), norths = seq(-90,90,by=15))
@@ -294,28 +294,28 @@ world <- spTransform(world, CRS(newproj))
 grid.lines.mj <- spTransform(grid.lines.mj,CRS(newproj))
 grid.lines.mi <- spTransform(grid.lines.mi,CRS(newproj))
 
-# # make the figure
-# windows(12,7)
-# par(mar = c(1, 1,0,0) + 0.1, bg=NA )
-# plot( methods::as(world, 'Spatial'), expandBB=c(-0.1,-0.1,-0.1,-0.05) )
-# 
-# # plot gridlines
-# plot(grid.lines.mi, col=grey(0.95), add=T)
-# plot(grid.lines.mj, col=grey(0.9), add=T)
-# # text(labels(grid.lines.mj, side=c(1,4), labelCRS = CRS("+init=epsg:4326")),
-#      # col = grey(.6), offset=0.3)
-# 
-# # plot land masses and points
-# plot(world, add=TRUE, border="white", col=grey(0.8))   # previous border grey(0.2)
-# points(sites, pch=21, bg=scales::alpha("slateblue",0.75), cex=2)
-# 
-# # add labels
-# sites$pos <- c( 4,4,2,2,4,2,4,4,2,
-#                 4,4,2,2,2,4,2,2,2,
-#                 1,4,1,4,2,2,2,2,2,
-#                 4,2,3,4,4,2,4,2,4,
-#                 2,4,2,4,1,4 )
-# text(sites, labels=sites$Site, cex=1.2, pos=sites$pos )
+# make the figure
+windows(12,7)
+par(mar = c(1, 1,0,0) + 0.1, bg=NA )
+plot( methods::as(world, 'Spatial'), expandBB=c(-0.1,-0.1,-0.1,-0.05) )
+
+# plot gridlines
+plot(grid.lines.mi, col=grey(0.95), add=T)
+plot(grid.lines.mj, col=grey(0.9), add=T)
+# text(labels(grid.lines.mj, side=c(1,4), labelCRS = CRS("+init=epsg:4326")),
+     # col = grey(.6), offset=0.3)
+
+# plot land masses and points
+plot(world, add=TRUE, border="white", col=grey(0.8))   # previous border grey(0.2)
+points(sites, pch=21, bg=scales::alpha("slateblue",0.75), cex=2)
+
+# add labels
+sites$pos <- c( 4,4,2,2,4,2,4,4,2,
+                4,4,2,2,2,4,2,2,2,
+                1,4,1,4,2,2,4,2,2,
+                4,2,3,4,4,2,4,2,4,
+                2,4,2,4,1,4 )
+text(sites, labels=sites$Site, cex=1.2, pos=sites$pos )
 
 # save the plot
 library(gridGraphics)
@@ -495,7 +495,7 @@ windows(1.75,3)
 ( C <- ggplot( allenv, aes(x=meanLat,y=sstmean) ) +
   geom_smooth( aes(group=1),col='black', se=F, lwd=0.5 ) +
   geom_point(bg="slateblue", size=2, pch=21) +
-  xlab("Degrees latitude") +
+  xlab("Latitude") +
   ylab("Mean annual\nSST (°C)") +
   theme_classic() +
   scale_x_continuous(breaks=c(-30,-15,0,15,30,45,60),position="top") +
@@ -645,13 +645,13 @@ rate.env[ rate.env$Country=="Italy", ]
 
 ## Compare rates inside and outside of seagrass across all sites
 # boxplot of rates by country and habitat type
-# windows(12,7)
-# ggplot( rate.env, aes(x=habitat,y=rate, col=habitat)) + facet_wrap(~Site, ncol=7, scales="free_y") + 
-#   stat_summary(fun.y = mean, geom = "point", pch=1, size=4, col='black') + geom_point(size=3, alpha=0.5) +   
-#   scale_color_manual( values=c(seagrass.color,unveg.color) ) + 
-#   theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
-#   xlab("Habitat") + ylab("Consumption rate")
-# # dev.off()
+windows(12,7)
+ggplot( rate.env, aes(x=habitat,y=rate, col=habitat)) + facet_wrap(~Site, ncol=7, scales="free_y") +
+  stat_summary(fun.y = mean, geom = "point", pch=1, size=4, col='black') + geom_point(size=3, alpha=0.5) +
+  scale_color_manual( values=c(seagrass.color,unveg.color) ) +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
+  xlab("Habitat") + ylab("Consumption rate")
+# dev.off()
 
 # # Sites where rates noticeably higher in seagrass
 # c( "Australia (NSW2)", "Australia (QLD3)", "Mexico (BN)", "USA (CA)", "USA (CA3)", "Wales" )
@@ -694,20 +694,23 @@ rate.env[rate.env$Country=="USA (VA2)",]
 seagrass.color <- "#5ab4ac"    # see http://colorbrewer2.org/#type=diverging&scheme=BrBG&n=3 ALSO http://www.color-hex.com/color-palette/31668
 unveg.color    <- "#d8b365"
 
+# add a factor for hemi+habitat
+rate.env <- rate.env %>% mutate(hemi=ifelse(rate.env$Lat>0,"North","South"), hemihab=paste(hemi,habitat))
+rate.env$hemihab <- factor(rate.env$hemihab, levels=c("North Unvegetated","South Unvegetated","North Seagrass","South Seagrass"))
 # predation rate data
 windows(2.5,3)
 ( A <- ggplot( rate.env, aes(x=meanLat, y=rate, col=habitat, fill=habitat, group=hemi ))  +
-  geom_smooth( se=F, col='black', lwd=0.5, lty=1 )  +
-  geom_smooth(aes(group=hemi),method='glm',method.args=list(family=quasibinomial),
-              se=T, col='black', lwd=0.5, lty=2 ) +
-  geom_smooth(aes(group=hemi),method='glm',method.args=list(family=quasibinomial),
-              formula=y~poly(x,2), se=T, col='black', lwd=0.5 ) +
+  # geom_smooth( se=F, col='black', lwd=0.5, lty=2 )  +
+  # geom_smooth(aes(group=hemi),method='glm',method.args=list(family=quasibinomial),
+  #             se=F, col='black', lwd=0.5, lty=2 ) +
+  geom_smooth(aes(group=hemihab,col=habitat),method='glm',method.args=list(family=quasibinomial),
+              formula=y~poly(x,2), se=F, lwd=0.5 ) +
   geom_point(pch=21,size=1.5,alpha=0.5) +
   scale_fill_manual(values=c(seagrass.color,unveg.color)) +
   scale_color_manual(values=c('black',unveg.color)) +
   theme_classic() + 
   scale_x_continuous(breaks=c(-30,-15,0,15,30,45,60)) +
-  ylab( expression(paste('Loss rate (',hr^-1,')')) ) +
+  ylab( expression(paste('Consumption rate (',hr^-1,')')) ) +
   xlab( "Latitude" ) +
   # theme(legend.justification=c(1,0), legend.position=c(1,0.8), 
         # legend.title = element_blank(), legend.background = element_blank() ) +
@@ -734,7 +737,8 @@ hemicol = c("slateblue","darkorange")
 # remove Indian and Mediterranean sites here, and remove Chile + Brazil
 rate.plot <- rate.env %>%
   filter( !(basin %in% c("Indian","Mediterranean")) ) %>%
-  filter( Site != "Chile", Site != "Brazil" ) 
+  filter( Site != "Chile", Site != "Brazil" ) %>% 
+  filter( !is.na(hemi) )
 
 windows(6,3)
 ggplot(rate.plot, aes(x=abLat, y=rate, group=hemi, col=hemi)) + 
@@ -761,7 +765,7 @@ ggplot(rate.plot, aes(x=sstmean, y=rate, group=hemi, col=hemi)) +
 rate.site <- ddply( rate.plot, .(Country,Site,hemi,basin,coast), summarise, rate=mean(rate), abLat=mean(abLat), sstmean=mean(sstmean) )
 # windows(9,5)
 windows(6,3)
-ggplot(rate.site, aes(x=abLat, y=rate, group=hemi, col=hemi)) + 
+a <- ggplot(rate.site, aes(x=abLat, y=rate, group=hemi, col=hemi)) + 
   facet_wrap( ~basin, ncol=4 ) +  
   geom_smooth( method='glm',method.args=list(family=quasibinomial), formula=y~poly(x,2), se=F, size=0.5 ) +
   geom_smooth( method='glm',method.args=list(family=quasibinomial), se=F, lty=2, size=0.5 ) +
@@ -769,8 +773,9 @@ ggplot(rate.site, aes(x=abLat, y=rate, group=hemi, col=hemi)) +
   geom_point( alpha=0.5 ) +
   xlab('Degrees from equator') + ylab(expression(paste('Consumption rate (',hr^-1,')'))) +
   scale_color_manual( values=hemicol ) +
-  guides( color=guide_legend(title="Hemisphere") )
-ggplot(rate.site, aes(x=sstmean, y=rate, group=hemi, col=hemi)) + 
+  guides( color=guide_legend(title="Hemisphere") )+
+  theme_classic()
+b <- ggplot(rate.site, aes(x=sstmean, y=rate, group=hemi, col=hemi)) + 
   facet_wrap( ~basin, ncol=4 ) +  
   geom_smooth( method='glm',method.args=list(family=quasibinomial), formula=y~poly(x,2), se=F, size=0.5 ) +
   geom_smooth( method='glm',method.args=list(family=quasibinomial), se=F, lty=2, size=0.5 ) +
@@ -778,7 +783,10 @@ ggplot(rate.site, aes(x=sstmean, y=rate, group=hemi, col=hemi)) +
   geom_point( alpha=0.5 ) +
   xlab('Mean Annual SST (°C)') + ylab(expression(paste('Consumption rate (',hr^-1,')'))) +
   scale_color_manual( values=hemicol ) +
-  guides( color=guide_legend(title="Hemisphere") )
+  guides( color=guide_legend(title="Hemisphere") )+
+  theme_classic()
+windows(5,5)
+cowplot::plot_grid(a,b,ncol=1, labels="AUTO")
 
 # dev.off()
 rate.site$Country[ rate.site$abLat < 22 & rate.site$rate < 0.25 ]
@@ -794,6 +802,24 @@ dna <- d[ d$hemi == "North" & d$basin == "Atlantic" & d$coast == "West", ]
 dsp <- d[ d$hemi == "South" & d$basin == "Pacific" & d$coast == "West", ]
   range(dsp$abLat)
 ggplot(dsp,aes(x=sstmean,y=rate)) + geom_point() + geom_smooth()
+ggplot(d,aes(x=sstmean,y=rate)) + geom_point() + geom_smooth()
+
+
+m1.hab <- glmer( rate ~ poly(abLat,2)*habitat + (1|Country), d, family="binomial" ) 
+summary(m1.hab)
+m1.grass <- glmer( rate ~ poly(abLat,2) + (1|Country), filter(d,habitat=="Seagrass"), family="binomial" ) 
+m1.sed   <- glmer( rate ~ poly(abLat,2) + (1|Country), filter(d,habitat=="Unvegetated"), family="binomial" ) 
+ggplot(filter(d,habitat=="Seagrass"),aes(x=sstmean,y=rate)) + geom_point() + geom_smooth()
+ggplot(filter(d,habitat=="Unvegetated"),aes(x=sstmean,y=rate)) + geom_point() + geom_smooth()
+ggplot(d,aes(x=sstmean,y=rate,col=habitat)) + geom_point() + geom_smooth()
+# compare rate estimates for each 
+# first get mean in each habitat at each site
+dhabmean <- d %>% 
+  dplyr::group_by(Country,habitat) %>% 
+  dplyr::summarize( rate=mean(rate,na.rm=T)) %>% 
+  spread(habitat,rate)
+ggplot( dhabmean, aes(x=Unvegetated, y=Seagrass))+ geom_point()+
+  geom_abline(yintercept=0,slope=1)
 
 m1na <- glmer( rate ~ poly(abLat,1) + (1|Country), dna, family="binomial" ) 
 m2na <- glmer( rate ~ poly(abLat,2) + (1|Country), dna, family="binomial" )     
@@ -934,16 +960,17 @@ mods2 %>%
 # note there are still NA values for catch, so we shoudn't use this variable
 d <- rate.env %>% 
   select( Site, abLat, habitat, rate, sstmean,  temp, chlomean, 
-          ENSPIE, ENSPIEfish, richness, richness.fish, 
-          S.warm, logbio, logfish, #MDS1, MDS2, MDS3,
+          ENSPIE, richness,  cpua,
+          logbio, #MDS1, MDS2, MDS3,
           catch_min, catch_max, catch_mean, pop, pop30,
           hemi, coast, abLat ) %>% 
   mutate( logcatch=log10(catch_mean), logpop=log10(pop), 
-          logpop30=log10(pop30), logchl=log10(chlomean) ) 
+          logpop30=log10(pop30), logchl=log10(chlomean),
+          logabun=log10(cpua)) 
 
 # add covariates for functional diversity, composition from RDA, constrained biomass and abundance from RDA,
 # 
-fds  <- read_csv( "Output Data/FunctionalDiversity_indices.csv" ) # only 21 sites
+fds  <- read_csv( "Output Data/FunctionalDiversity_indices_PA.csv" ) 
 fds <- as.data.frame(fds)
 fds[is.na(fds)] <- 0
 # rdas <- read_csv( "Output Data/multivar_compare_sites.csv" ) # 30 sites
@@ -952,24 +979,25 @@ rdaunc <- read_csv( "Output Data/multivar_unconstr_sites.csv" )
 rdaunc <- rdaunc %>% separate( SH, c("Site", "habitat") )
 brda <- read_csv( "Output Data/biomass_RDAselected.csv" ) # 30 sites
 brda <- brda %>%
-  select( Site, habitat, biomass, cpua )
-active <- read_csv( "Output Data/consumer_active_ratio.csv" )
+  select( Site, habitat, bio.filt=biomass, cpua.filt=cpua )
+active <- read_csv( "Output Data/consumer_active_ratio_PA.csv" )
 active <- active %>% 
-  select( Site, habitat, act.ratio )
+  select( Site, habitat, act.ratio=act.ratio.ind )
+cwm <- read_csv( "Output Data/FunctionalDiversity_CWM_PA.csv" )
+cwm_length <- read_csv( "Output Data/FunctionalDiversity_CWM_length.csv")
+cwm_length <- cwm_length %>% select( Site, habitat, length )
 
-addon <- left_join(left_join(left_join(rdaunc,brda),active),fds) 
-addon <- addon %>% 
-  replace_na( replace=list(FRic=0,qual.FRic=0,FEve=0,FDis=0,RaoQ=0,FGR=0)  )
+
+addon <- left_join(left_join(left_join(left_join(left_join(rdaunc,brda),active),fds) ,cwm),cwm_length)
 
 # merge with d
 d <- left_join( d, addon )
 d <- d %>%
-  mutate( log.mass.rda=log10(biomass+0.001), log.catch.rda=log10(cpua+0.003) )
+  mutate( log.mass.rda=log10(bio.filt+0.001), log.cpua.rda=log10(cpua.filt+0.003) )
 
 
 # filter to so we have complete data for all measures
 dmod <- complete.cases(d)
-table(dmod)
 dcomp <- d[dmod,]
 
 # set the family for all glms
@@ -991,43 +1019,129 @@ m.hab                    <- glmer( rate~ as.factor(habitat) + (1|Site), dcomp, f
 m.comp                   <- glmer( rate~ scale(MDS1) +scale(MDS2)  + (1|Site), dcomp, family=fam, nAGQ=nAGQuse) #+scale(MDS3)
 m.bio                    <- glmer( rate~ scale(logbio) + (1|Site), dcomp, family=fam, nAGQ=nAGQuse)
 # m.abund                  <- glmer( rate~ scale(logabund) + (1|Site), dcomp, family=fam, nAGQ=nAGQuse)
-m.fish                   <- glmer( rate~ scale(logfish) + (1|Site), dcomp, family=fam, nAGQ=nAGQuse)
+m.abun                  <- glmer( rate~ scale(logabun) + (1|Site), dcomp, family=fam, nAGQ=nAGQuse)
 m.ENSPIE                 <- glmer( rate~ scale(ENSPIE) + (1|Site), dcomp, family=fam, nAGQ=nAGQuse)
-m.ENSPIEfish             <- glmer( rate~ scale(ENSPIEfish) + (1|Site), dcomp, family=fam, nAGQ=nAGQuse)
-m.richness.fish          <- glmer( rate~ scale(richness.fish) + (1|Site), dcomp, family=fam, nAGQ=nAGQuse)
 m.richness               <- glmer( rate~ scale(richness) + (1|Site), dcomp, family=fam, nAGQ=nAGQuse)
 m.pop                    <- glmer( rate~ scale(logpop) + (1|Site), dcomp, family=fam, nAGQ=nAGQuse)
 # m.pop30                  <- glmer( rate~ scale(logpop30) + (1|Site), dcomp, family=fam, nAGQ=nAGQuse)
 # m.S.warm                 <- glmer( rate~ scale(S.warm) + (1|Site), dcomp, family=fam, nAGQ=nAGQuse)
 m.bio.rda                <- glmer( rate~ scale(log.mass.rda) + (1|Site), dcomp, family=fam, nAGQ=nAGQuse)
-m.catch.rda              <- glmer( rate~ scale(log.catch.rda) + (1|Site), dcomp, family=fam, nAGQ=nAGQuse)
+m.abun.rda              <- glmer( rate~ scale(log.cpua.rda) + (1|Site), dcomp, family=fam, nAGQ=nAGQuse)
 m.FRic                   <- glmer( rate~ scale(FRic) + (1|Site), dcomp, family=fam, nAGQ=nAGQuse)
 # m.FRic2                  <- glmer( rate~ scale(qual.FRic) + (1|Site), dcomp, family=fam, nAGQ=nAGQuse)
 m.FEve                   <- glmer( rate~ scale(FEve) + (1|Site), dcomp, family=fam, nAGQ=nAGQuse)
 m.FDis                   <- glmer( rate~ scale(FDis) + (1|Site), dcomp, family=fam, nAGQ=nAGQuse)
 m.RaoQ                   <- glmer( rate~ scale(RaoQ) + (1|Site), dcomp, family=fam, nAGQ=nAGQuse)
 m.FGR                    <- glmer( rate~ scale(FGR) + (1|Site), dcomp, family=fam, nAGQ=nAGQuse)
-m.comp2                  <- glmer( rate~ scale(MDS1) + (1|Site), dcomp, family=fam, nAGQ=nAGQuse)
+m.comp2                   <- glmer( rate~ scale(MDS1) + scale(MDS2) + (1|Site), dcomp, family=fam, nAGQ=nAGQuse)
+m.comp                  <- glmer( rate~ scale(MDS1) + (1|Site), dcomp, family=fam, nAGQ=nAGQuse)
 m.active                 <- glmer( rate~ act.ratio + (1|Site), dcomp, family=fam, nAGQ=nAGQuse)
+# community-level weighted means of traits
+m.length.cwm             <- glmer( rate~ length + (1|Site), dcomp, family=fam, nAGQ=nAGQuse)
+m.feed.cwm             <- glmer( rate~ feed + (1|Site), dcomp, family=fam, nAGQ=nAGQuse)
+m.troph.cwm             <- glmer( rate~ troph + (1|Site), dcomp, family=fam, nAGQ=nAGQuse)
+m.watercol.cwm             <- glmer( rate~ watercol + (1|Site), dcomp, family=fam, nAGQ=nAGQuse)
+m.body.cwm             <- glmer( rate~ body + (1|Site), dcomp, family=fam, nAGQ=nAGQuse)
+
+summary(glmer( rate~ poly(sstmean,2) + scale(MDS1) + (1|Site), dcomp, family=fam, nAGQ=nAGQuse))
 
 tab1 <- AICctab( m.sst, m.temp, m.prod, m.catch, m.hab, 
-                 m.comp2, m.bio, m.fish, 
-                 m.ENSPIE, m.ENSPIEfish, m.richness,
+                 m.comp, m.bio, m.abun, 
+                 m.ENSPIE, m.richness,
                  m.pop,
-                 m.bio.rda,m.catch.rda,
+                 m.bio.rda,m.abun.rda,
                  # m.rda1,m.rda2,m.cap1,m.cap2,
-                  m.FEve,m.FDis,m.RaoQ,m.FGR,m.FRic,m.active,
-                  m0, 
-         # m.comp2,
+                  m.FEve,m.FDis,m.RaoQ,m.FGR,m.FRic,
+                 m.active,m.length.cwm,m.feed.cwm,
+                 m.troph.cwm,m.watercol.cwm,m.body.cwm,
+                 m0, 
+                 m.sst2,
          nobs=nrow(dcomp), weights=TRUE, delta = TRUE, base = TRUE )
 tab1 <- as.data.frame(print(tab1))
 tab1$model <- rownames(tab1)
+r2s <- lapply( tab1$model, function(z) r.squaredGLMM(get(z)) )
+tab1$r2delta <- round(unlist(lapply( r2s, function(z) z[2,1])),3)
+tab1$r2theoretical <- round(unlist(lapply( r2s, function(z) z[1,1])),3)
 tab1
+
 # write to disk
 write_csv( tab1, "Output Data/Bitemap_AICtable_single.csv" )
 
 
-pairs.panels( select(d, MDS1,  temp, log.catch.rda, FGR, rate) )
+pairs.panels( select(d, MDS1,  act.ratio, FRic, temp, log.catch.rda, rate), method = "spearman" )
+
+
+
+
+
+
+
+## Repeat but without fishing pressue
+d2 <- d %>% select( -catch_min, -catch_max, -catch_mean, -logcatch )
+# filter to so we have complete data for all measures
+dmod2 <- complete.cases(d2)
+dcomp2 <- d2[dmod2,]
+
+
+# individual predictors
+m.sst                    <- glmer( rate~ scale(sstmean) + (1|Site), dcomp2, family=fam, nAGQ=nAGQuse)
+m.sst2                   <- glmer( rate~ poly(sstmean,2) + (1|Site), dcomp2, family=fam, nAGQ=nAGQuse)
+m.temp                   <- glmer( rate~ scale(temp) + (1|Site), dcomp2, family=fam, nAGQ=nAGQuse)
+m.prod                   <- glmer( rate~ scale(logchl) + (1|Site), dcomp2, family=fam, nAGQ=nAGQuse)
+m.hab                    <- glmer( rate~ as.factor(habitat) + (1|Site), dcomp2, family=fam, nAGQ=nAGQuse)
+m.comp                   <- glmer( rate~ scale(MDS1) +scale(MDS2)  + (1|Site), dcomp2, family=fam, nAGQ=nAGQuse) #+scale(MDS3)
+m.bio                    <- glmer( rate~ scale(logbio) + (1|Site), dcomp2, family=fam, nAGQ=nAGQuse)
+# m.abund                  <- glmer( rate~ scale(logabund) + (1|Site), dcomp2, family=fam, nAGQ=nAGQuse)
+m.abun                  <- glmer( rate~ scale(logabun) + (1|Site), dcomp2, family=fam, nAGQ=nAGQuse)
+m.ENSPIE                 <- glmer( rate~ scale(ENSPIE) + (1|Site), dcomp2, family=fam, nAGQ=nAGQuse)
+m.richness               <- glmer( rate~ scale(richness) + (1|Site), dcomp2, family=fam, nAGQ=nAGQuse)
+m.pop                    <- glmer( rate~ scale(logpop) + (1|Site), dcomp2, family=fam, nAGQ=nAGQuse)
+# m.pop30                  <- glmer( rate~ scale(logpop30) + (1|Site), dcomp2, family=fam, nAGQ=nAGQuse)
+# m.S.warm                 <- glmer( rate~ scale(S.warm) + (1|Site), dcomp2, family=fam, nAGQ=nAGQuse)
+m.bio.rda                <- glmer( rate~ scale(log.mass.rda) + (1|Site), dcomp2, family=fam, nAGQ=nAGQuse)
+m.abun.rda              <- glmer( rate~ scale(log.cpua.rda) + (1|Site), dcomp2, family=fam, nAGQ=nAGQuse)
+m.FRic                   <- glmer( rate~ scale(FRic) + (1|Site), dcomp2, family=fam, nAGQ=nAGQuse)
+# m.FRic2                  <- glmer( rate~ scale(qual.FRic) + (1|Site), dcomp2, family=fam, nAGQ=nAGQuse)
+m.FEve                   <- glmer( rate~ scale(FEve) + (1|Site), dcomp2, family=fam, nAGQ=nAGQuse)
+m.FDis                   <- glmer( rate~ scale(FDis) + (1|Site), dcomp2, family=fam, nAGQ=nAGQuse)
+m.RaoQ                   <- glmer( rate~ scale(RaoQ) + (1|Site), dcomp2, family=fam, nAGQ=nAGQuse)
+m.FGR                    <- glmer( rate~ scale(FGR) + (1|Site), dcomp2, family=fam, nAGQ=nAGQuse)
+m.comp                  <- glmer( rate~ scale(MDS1) + (1|Site), dcomp2, family=fam, nAGQ=nAGQuse)
+m.active                 <- glmer( rate~ act.ratio + (1|Site), dcomp2, family=fam, nAGQ=nAGQuse)
+# community-level weighted means of traits
+m.length.cwm             <- glmer( rate~ length + (1|Site), dcomp2, family=fam, nAGQ=nAGQuse)
+m.feed.cwm             <- glmer( rate~ feed + (1|Site), dcomp2, family=fam, nAGQ=nAGQuse)
+m.troph.cwm             <- glmer( rate~ troph + (1|Site), dcomp2, family=fam, nAGQ=nAGQuse)
+m.watercol.cwm             <- glmer( rate~ watercol + (1|Site), dcomp2, family=fam, nAGQ=nAGQuse)
+m.body.cwm             <- glmer( rate~ body + (1|Site), dcomp2, family=fam, nAGQ=nAGQuse)
+
+
+tab1 <- AICctab( m.sst, m.temp, m.prod,  m.hab, 
+                 m.comp, m.bio, m.abun, 
+                 m.ENSPIE, m.richness,
+                 m.pop,
+                 m.bio.rda,m.abun.rda,
+                 # m.rda1,m.rda2,m.cap1,m.cap2,
+                 m.FEve,m.FDis,m.RaoQ,m.FGR,m.FRic,
+                 m.active,m.length.cwm,m.feed.cwm,
+                 m.troph.cwm,m.watercol.cwm,m.body.cwm,
+                 m0, 
+                 # m.comp,
+                 nobs=nrow(dcomp), weights=TRUE, delta = TRUE, base = TRUE )
+tab1 <- as.data.frame(print(tab1))
+tab1$model <- rownames(tab1)
+tab1
+
+
+
+
+
+
+
+
+
+
+
 
 
 # interaction test
@@ -1498,62 +1612,152 @@ ggplot( rate.site, aes(x=ENSPIEfish,y=rate)) + geom_point() + geom_smooth(method
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ##################################################################################################################
-### MEDIATION MODEL
+### MEDIATION ANALYSIS
 dmed <- d %>%
   filter( !is.na(sstmean) & !is.na(MDS1) )
-dsitehabmed <- dmed %>% 
+dsitehab <- dmed %>% 
   dplyr::group_by( Site, habitat ) %>% 
-  dplyr::summarize( MDS1=mean(MDS1), sstmean=mean(sstmean) )
-dsitehabmed <- as.data.frame( dsitehabmed )
+  dplyr::summarize( MDS1=mean(MDS1), sstmean=mean(sstmean,na.rm=T), rate=mean(rate), abund=mean(log.cpua.rda) ) %>% 
+  ungroup() %>% 
+  dplyr::mutate( MDS1=scale(MDS1)[,], sstmean=scale(sstmean)[,], abund=scale(abund)[,] )
+dsite <- dmed %>% 
+  dplyr::group_by( Site ) %>% 
+  dplyr::summarize( MDS1=mean(MDS1), sstmean=mean(sstmean), rate=mean(rate), abund=mean(log.cpua.rda) ) %>% 
+  dplyr::mutate( MDS1=scale(MDS1), sstmean=scale(sstmean), abund=scale(abund) )
+splom(select(dsitehab,sstmean,MDS1,rate))
+splom(select(dmed,sstmean,MDS1,rate))
+
+dmed <- dmed %>% 
+  dplyr::mutate( MDS1=scale(MDS1)[,], sstmean=scale(sstmean)[,], abund=scale(log.cpua.rda)[,] )
+splom(select(dmed,sstmean,MDS1,rate))
 
 # step 1
 M1 <- glmer( rate~ sstmean + (1|Site), dmed, family="binomial", nAGQ=nAGQuse  )
 summary(M1)
 # step 2
 # M1 <- lm( rate~ sstmean , dsite )
-M2 <- lm( MDS1~ sstmean , dsitehabmed )
+M2 <- lm( MDS1~ sstmean , dsitehab )
 M2 <- lmer( MDS1~ sstmean + (1|Site), dsitehabmed )
 M2 <- lmer( MDS1~ sstmean + (1|Site), dmed )
-# M3 <- lm( rate~sstmean+MDS1, dsite)
+M2p <- lmer( MDS1~ poly(sstmean,2) + (1|Site), dmed )
 summary(M2)
 # step 3
+M3 <- glm( rate~  sstmean + MDS1, dsitehab, family="binomial" )
+summary(M3)
 M3 <- glmer( rate~  sstmean + MDS1 + (1|Site), dmed, family="binomial", nAGQ=nAGQuse )
 summary(M3)
 # effect of sstmean goes away. This is statistical evidence for full mediation
+M3p <- glm( rate~  poly(sstmean,2) + MDS1, dsitehab, family="quasibinomial" )
+summary(M3p)
 M3p <- glmer( rate~ poly(sstmean,2) + MDS1 + (1|Site), dmed, family="binomial", nAGQ=nAGQuse )
 summary(M3p)
-# it doesn't go away when the polynomial effects are included, but it is mostly mediated
 
 
 # create a composite for the polynomial effect of sst on consumption
+Mp <- glm( rate~ poly(sstmean,2) , dsitehab, family="binomial" )
+summary(Mp)
+predict( Mp )
 Mp <- glmer( rate~ poly(sstmean,2) + (1|Site), dmed, family="binomial", nAGQ=nAGQuse )
 summary(Mp)
-sstpoly <- data.frame( poly(dmed$sstmean,2) )
-
-dmed$SST2 <- with( sstpoly, 50.059*X1 - 39.125*X2 )
+dsitehab$SST2 <- predict( Mp )
 dsite <- ddply( dmed, .(Site,habitat), summarise, rate=mean(rate), MDS1=mean(MDS1), 
                 sstmean=mean(sstmean), SST2 = mean(SST2))
-plot( SST2 ~ sstmean, dmed )
-plot( rate ~ SST2, dmed )
-plot( rate ~ sstmean, dmed )
-plot( MDS1 ~ SST2, dmed )
+plot( SST2 ~ sstmean, dsitehab )
+plot( rate ~ SST2, dsitehab )
+plot( rate ~ sstmean, dsitehab )
+plot( rate ~ MDS1, dsitehab )
+plot( rate ~ abund, dsitehab )
+plot( MDS1 ~ SST2, dsitehab )
 plot( MDS1 ~ temp, dmed )
 # M2p <- lm( MDS1~ SST2  , dmed )
 dmed.scale <- dmed %>% 
   mutate( SST2=scale(SST2), MDS1=scale(MDS1) )
-M2p <- lmer( MDS1~ SST2 + (1|Site) , dmed.scale )
+M2p <- lm( MDS1~ SST2, dsitehab )
 M3p <- glmer( rate~  SST2 + MDS1 + (1|Site), dmed.scale, family="binomial", nAGQ=nAGQuse  )
+M3p <- glm( rate~  SST2 + MDS1 , dsitehab, family="binomial" )
 M1p <- glmer( rate~  SST2  + (1|Site), dmed.scale, family="binomial", nAGQ=nAGQuse  )
 summary(M3p)
 with(dmed, cor.test( MDS1, sstmean) )
 
+Mcomp <- glmer( rate~ MDS1 + (1|Site), dmed, family="binomial", nAGQ=nAGQuse )
+Msst2 <- Mp
+Msst2_composite <- M1p
+AICctab(Msst2,Msst2_composite,Mcomp)
+plot(resid(Msst2),resid(Msst2_composite))
+
+
+# gams
+library(mgcv)
+gam1 <- gam( rate~ s(sstmean,k=9,bs="tp"), family='binomial', data=dsitehab, method="REML" )
+summary(gam1)
+plot(gam1)
+par(mfrow=c(2,2))
+newdata <- data.frame( sstmean=seq(min(dsitehab$sstmean),max(dsitehab$sstmean),length.out = 100) )
+sst_pred <- data.frame(sstmean = newdata$sstmean,
+                       predicted_values = predict(gam1, newdata = newdata,se.fit=T))
+a <- ggplot(dsitehab, aes(x = sstmean)) + 
+  geom_ribbon(data=sst_pred, aes(ymin = psych::logistic(predicted_values.fit+predicted_values.se.fit),
+                  ymax = psych::logistic(predicted_values.fit-predicted_values.se.fit)), fill = "grey60",alpha=0.4) + 
+  geom_line(data=sst_pred,aes(y = psych::logistic(predicted_values.fit)), colour = "#3366ff",size=1) + 
+  geom_point(aes(y = rate)) + ylab("consumption rate") + xlab("SST") +
+  theme_bw() + theme( panel.grid.major = element_blank(), panel.grid.minor = element_blank())
+b <- ggplot(dsitehab, aes(x=sstmean,y=MDS1)) + geom_smooth(method='lm') + geom_point() + ylab("MDS1") + xlab("SST") +
+  theme_bw() + theme( panel.grid.major = element_blank(), panel.grid.minor = element_blank())
+c <- ggplot(dsitehab, aes(x=MDS1,y=rate)) + geom_smooth(method='glm',method.args=list(family="binomial")) + geom_point() + 
+  ylab("consumption rate") + theme_bw() + theme( panel.grid.major = element_blank(), panel.grid.minor = element_blank())
+d <- ggplot(dsitehab) + geom_blank()+ theme_bw() + theme( panel.grid.major = element_blank(), panel.grid.minor = element_blank())
+windows(5.5,5)
+cowplot::plot_grid(b,c,a,d,ncol=2,align = 'hv',labels="AUTO")
+gam.check(gam1)
+gam2 <- gam( rate~ MDS1+s(sstmean,k=9, bs="cc"), family='binomial', data=dsitehab, method="REML")
+summary(gam2)
+par(mfrow=c(2,2))
+gam.check(gam2)
+plot(gam2)
+termplot(gam2)
+sst_pred <- data.frame(MDS1 = dsitehab$MDS1,
+                       sstmean = dsitehab$sstmean,
+                       rate= dsitehab$rate,
+                       predicted_values = predict(gam2, newdata = dsitehab))
+ggplot(sst_pred, aes(x = sstmean)) + 
+  geom_point(aes(y = rate,size=MDS1), alpha = 0.5) + geom_line(aes(y = psych::logistic(predicted_values)), colour = "red")
+gam3 <- gam( MDS1~ s(sstmean,k=9, bs="tp"), family='gaussian', data=dmed, method="REML" )
+summary(gam3)
+plot(gam3)
 
 ## mediation analysis using "Causal Mediation Analysis"
 med <- mediation::mediate( M2,M3, sims=500, treat="sstmean", mediator="MDS1" )
 summary(med)
 med2 <- mediation::mediate( M2p,M3p, treat="SST2", mediator="MDS1", sims=1000, robustSE = TRUE  )
 summary(med2)
+medg <- mediation::mediate( M2,gam2, boot=T, treat="sstmean", mediator="MDS1", 
+                            sims=1000, control="control", boot.ci.type="bca"  )
+summary(medg)
+str(medg)
+medg$d1-medg$d1.ci
 # significant mediation either way
 
 

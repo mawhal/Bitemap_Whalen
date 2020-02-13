@@ -208,6 +208,26 @@ ggplot( rat.site, aes(x=act.ratio.tax,  y=rate)) +
   theme_classic()
 summary(glm(rate~act.ratio.tax,data=rat.site,family="quasibinomial"))
 
+
+# repeat with length
+len.ind <- suse %>%
+  dplyr::group_by( Site, habitat ) %>%
+  dplyr::summarize(len.mean = mean(length)) 
+len.site <- left_join( len.ind, ss )
+# plot
+ggplot( len.site, aes(x=abs(meanLat), y=len.mean)) + geom_point() + geom_smooth()
+ggplot( len.site, aes(x=len.mean,  y=rate)) + geom_point() + geom_smooth(method='glm', method.args=list(family='quasibinomial' ))
+
+
+
+
+
+
+
+
+
+
+
 ## community weighted mean traits
 # FD package
 
@@ -364,113 +384,113 @@ ggplot( cwm.ss, aes( x=abs(meanLat), y=watercol)) + geom_point()
 
 
 
+# # 
+# # fdm <- do.call( cbind, m1 )
+# # # functional groups 
+# # fdm$Site <- rownames(cwm)
+# # fdm.site <- left_join( fdm, sites )
+# # group abundance
+# gr.abun <- m1$gr.abun
+# gr.abun$SH <- comm$SH 
+# gr.abun <- gr.abun %>% 
+#   separate( SH, c("Site", "habitat") )
+# gr.abun <- left_join( gr.abun, ss )
+# # can we define groups based on trait bundles?
+# # taxa in each group
+# groups <- data.frame( name=names(m1$spfgr), functgroup=m1$spfgr )
+# seine.group <- left_join( suse, groups )
+# ggplot( seine.group, aes(x=functgroup,y=rate) ) + geom_point()
 # 
-# fdm <- do.call( cbind, m1 )
-# # functional groups 
-# fdm$Site <- rownames(cwm)
-# fdm.site <- left_join( fdm, sites )
-# group abundance
-gr.abun <- m1$gr.abun
-gr.abun$SH <- comm$SH 
-gr.abun <- gr.abun %>% 
-  separate( SH, c("Site", "habitat") )
-gr.abun <- left_join( gr.abun, ss )
-# can we define groups based on trait bundles?
-# taxa in each group
-groups <- data.frame( name=names(m1$spfgr), functgroup=m1$spfgr )
-seine.group <- left_join( suse, groups )
-ggplot( seine.group, aes(x=functgroup,y=rate) ) + geom_point()
-
-# summarize groups by site (distribution based on presence-absence and abundance)
-# functional group richness
-# without abundance
-group.site <- seine.group %>%
-  dplyr::group_by( Site, habitat, sciName, functgroup ) %>%
-  dplyr::summarize( n=sum(abun,na.rm=T))
-group.long <- group.site %>%
-  dplyr::ungroup() %>%
-  dplyr::select( Site, habitat, functgroup ) %>%
-  dplyr::group_by( Site, habitat, functgroup ) %>%
-  dplyr::summarize( count=length(functgroup) ) #%>%
-# spread( functgroup, count, fill=0 )
-# names(group.wide)[-1] <- paste0("group",names(group.wide)[-1])
-group.rate <- right_join( ss, group.long )
-group.rate <- group.rate %>% arrange(rate)
-# size of point is number in each group, location of points based on group number and site (rate?)
-site.ord <- unique(group.rate$Site)
-reps <- table(group.rate$Site)[site.ord]
-group.rate$index <- rep( 1:length(site.ord), as.vector(reps) )
-# functional group richness
-ggr <- ggplot( group.rate, aes( y=factor(functgroup), x=index, size=count, col=rate)) + 
-  geom_point() + scale_color_continuous(guide=FALSE)
-
-# based on abundance
-group.n <- group.site %>%
-  dplyr::ungroup() %>%
-  dplyr::select( Site, habitat, functgroup, abun ) %>%
-  dplyr::group_by( Site, habitat, functgroup ) %>%
-  dplyr::summarize( count=length(functgroup), cpua=sum(cpua) )
-group.rate.n <- right_join( sites, group.n )
-group.rate.n <- group.rate.n %>% arrange(rate)
-
-# size of point is number in each group, location of points based on group number and site (rate?)
-group.rate.n$index <- rep( 1:length(site.ord), as.vector(reps) )
-# richness within functional groups 
-ggn <- ggplot( group.rate.n, aes( y=factor(functgroup), x=index, size=cpua, col=rate)) + 
-  geom_point()
-
-windows(5,5)
-plot_grid( ggr,ggn,ncol=1, align = 'hv')
-  # group4, group6, group8
-
-par(mfrow=c(3,3))
-for(i in 1:9) {
-  plot( formula(paste0('rate~group',i)),gr.abun )
-}
-dev.off()
-plot(m1$x.axes[,1:2])
-
-
-
-# remaining questions:
-# do all families associated with squidpop consumption fall into the same functional group - NO
-# what is it about the taxa strongly associated with consumption?
-# which families are represented by each functional group?
-spec.group <- data.frame( sciName=names(m1$spfgr), group=m1$spfgr )
-fam.group <- left_join( spec.group, select(trait, sciName, family ))
-fam.group %>%
-  dplyr::group_by( group ) %>%
-  dplyr::summarize( n=length(unique(family)), fams = paste(sort(unique(family)),collapse=";") )
-# CWM for functional groups
-b2 <- seine.group %>%
-  dplyr:: mutate( area=Distance*width.transect ) %>%
-  dplyr::mutate( bpua = biomass/area ) %>%
-  dplyr::group_by( functgroup, sciName ) %>%
-  dplyr::summarise( n = sum(bpua,na.rm=T) )
-b2s <- b2 %>%
-  # group_by( Site) %>%
-  spread( sciName, n, fill=0 )
-b2s <- data.frame(b2s)
-rownames(b2s) <- b2s$functgroup
-b2s <- b2s[,-1]
-buse <- b2s
-trait.keep2 <- trait.keep[ trait.keep$sciName %in% b2$sciName, ]
-# trait.keep <- trait.keep[ trait.keep$squidpop == 1, ]
-xuse2 <- trait.keep2[,-c(1,6)]
-row.names(xuse2) <- trait.keep2$sciName
-cwm2 <- functcomp( as.matrix(xuse2), as.matrix(buse) )
-cwm2$functgroup <- (rownames(cwm2))
-plot( activty ~ functgroup, cwm2 )
-choose <- 12:18
-par( mfcol=c( 3,3  ))
-for( i in choose ){
-  plot(  cwm2$functgroup, as.numeric(cwm2[,i] ),
-         xlab="Functional group", ylab=names(cwm2)[i] )
-}
-
-plot( as.numeric(HL) ~ (functgroup), cwm2 )
-plot( as.numeric(BD) ~ (functgroup), cwm2 )
-
+# # summarize groups by site (distribution based on presence-absence and abundance)
+# # functional group richness
+# # without abundance
+# group.site <- seine.group %>%
+#   dplyr::group_by( Site, habitat, sciName, functgroup ) %>%
+#   dplyr::summarize( n=sum(abun,na.rm=T))
+# group.long <- group.site %>%
+#   dplyr::ungroup() %>%
+#   dplyr::select( Site, habitat, functgroup ) %>%
+#   dplyr::group_by( Site, habitat, functgroup ) %>%
+#   dplyr::summarize( count=length(functgroup) ) #%>%
+# # spread( functgroup, count, fill=0 )
+# # names(group.wide)[-1] <- paste0("group",names(group.wide)[-1])
+# group.rate <- right_join( ss, group.long )
+# group.rate <- group.rate %>% arrange(rate)
+# # size of point is number in each group, location of points based on group number and site (rate?)
+# site.ord <- unique(group.rate$Site)
+# reps <- table(group.rate$Site)[site.ord]
+# group.rate$index <- rep( 1:length(site.ord), as.vector(reps) )
+# # functional group richness
+# ggr <- ggplot( group.rate, aes( y=factor(functgroup), x=index, size=count, col=rate)) + 
+#   geom_point() + scale_color_continuous(guide=FALSE)
+# 
+# # based on abundance
+# group.n <- group.site %>%
+#   dplyr::ungroup() %>%
+#   dplyr::select( Site, habitat, functgroup, abun ) %>%
+#   dplyr::group_by( Site, habitat, functgroup ) %>%
+#   dplyr::summarize( count=length(functgroup), cpua=sum(cpua) )
+# group.rate.n <- right_join( sites, group.n )
+# group.rate.n <- group.rate.n %>% arrange(rate)
+# 
+# # size of point is number in each group, location of points based on group number and site (rate?)
+# group.rate.n$index <- rep( 1:length(site.ord), as.vector(reps) )
+# # richness within functional groups 
+# ggn <- ggplot( group.rate.n, aes( y=factor(functgroup), x=index, size=cpua, col=rate)) + 
+#   geom_point()
+# 
+# windows(5,5)
+# plot_grid( ggr,ggn,ncol=1, align = 'hv')
+#   # group4, group6, group8
+# 
+# par(mfrow=c(3,3))
+# for(i in 1:9) {
+#   plot( formula(paste0('rate~group',i)),gr.abun )
+# }
+# dev.off()
+# plot(m1$x.axes[,1:2])
+# 
+# 
+# 
+# # remaining questions:
+# # do all families associated with squidpop consumption fall into the same functional group - NO
+# # what is it about the taxa strongly associated with consumption?
+# # which families are represented by each functional group?
+# spec.group <- data.frame( sciName=names(m1$spfgr), group=m1$spfgr )
+# fam.group <- left_join( spec.group, select(trait, sciName, family ))
+# fam.group %>%
+#   dplyr::group_by( group ) %>%
+#   dplyr::summarize( n=length(unique(family)), fams = paste(sort(unique(family)),collapse=";") )
+# # CWM for functional groups
+# b2 <- seine.group %>%
+#   dplyr:: mutate( area=Distance*width.transect ) %>%
+#   dplyr::mutate( bpua = biomass/area ) %>%
+#   dplyr::group_by( functgroup, sciName ) %>%
+#   dplyr::summarise( n = sum(bpua,na.rm=T) )
+# b2s <- b2 %>%
+#   # group_by( Site) %>%
+#   spread( sciName, n, fill=0 )
+# b2s <- data.frame(b2s)
+# rownames(b2s) <- b2s$functgroup
+# b2s <- b2s[,-1]
+# buse <- b2s
+# trait.keep2 <- trait.keep[ trait.keep$sciName %in% b2$sciName, ]
+# # trait.keep <- trait.keep[ trait.keep$squidpop == 1, ]
+# xuse2 <- trait.keep2[,-c(1,6)]
+# row.names(xuse2) <- trait.keep2$sciName
+# cwm2 <- functcomp( as.matrix(xuse2), as.matrix(buse) )
+# cwm2$functgroup <- (rownames(cwm2))
+# plot( activty ~ functgroup, cwm2 )
+# choose <- 12:18
+# par( mfcol=c( 3,3  ))
+# for( i in choose ){
+#   plot(  cwm2$functgroup, as.numeric(cwm2[,i] ),
+#          xlab="Functional group", ylab=names(cwm2)[i] )
+# }
+# 
+# plot( as.numeric(HL) ~ (functgroup), cwm2 )
+# plot( as.numeric(BD) ~ (functgroup), cwm2 )
+# 
 
 ## Other dimensions of functional diversity
 names(m1)
@@ -485,6 +505,6 @@ psych::pairs.panels( fds[,c("FRic","FEve","FDis","RaoQ","FGR","rate")])
 #RaoQ, FGR, Fric
 # from the help page: Rao's quadratic entropy (Q) is computed from the uncorrected species-species distance matrix via divc. See Botta-Dukát (2005) for details. Rao's Q is conceptually similar to FDis, and simulations (via simul.dbFD) have shown high positive correlations between the two indices (Laliberté and Legendre 2010). Still, one potential advantage of FDis over Rao's Q is that in the unweighted case (i.e. with presence-absence data), it opens possibilities for formal statistical tests for differences in FD between two or more communities through a distance-based test for homogeneity of multivariate dispersions (Anderson 2006); see betadisper for more details.
 psych::pairs.panels( fds[,c("FRic","RaoQ","FGR","rate")])
-write_csv( fd, "Output Data/FunctionalDiversity_indices.csv" )
+write_csv( fd, "Output Data/FunctionalDiversity_indices_filtered.csv" )
 
 with(fds,plot(FRic~cwm$act))

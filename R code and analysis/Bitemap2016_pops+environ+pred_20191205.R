@@ -1642,7 +1642,7 @@ dsitehab <- dmed %>%
   dplyr::group_by( Site, habitat ) %>% 
   dplyr::summarize( MDS1=mean(MDS1), sstmean=mean(sstmean,na.rm=T), rate=mean(rate), abund=mean(log.cpua.rda) ) %>% 
   ungroup() %>% 
-  dplyr::mutate( MDS1=scale(MDS1)[,], sstmean=scale(sstmean)[,], abund=scale(abund)[,] )
+  dplyr::mutate( MDS1s=scale(MDS1)[,], sstmeans=scale(sstmean)[,], abunds=scale(abund)[,] )
 dsite <- dmed %>% 
   dplyr::group_by( Site ) %>% 
   dplyr::summarize( MDS1=mean(MDS1), sstmean=mean(sstmean), rate=mean(rate), abund=mean(log.cpua.rda) ) %>% 
@@ -1655,32 +1655,32 @@ dmed <- dmed %>%
 splom(select(dmed,sstmean,MDS1,rate))
 
 # step 1
-M1 <- glmer( rate~ sstmean + (1|Site), dmed, family="binomial", nAGQ=nAGQuse  )
+M1 <- glmer( rate~ sstmeans + (1|Site), dmed, family="binomial", nAGQ=nAGQuse  )
 summary(M1)
 # step 2
 # M1 <- lm( rate~ sstmean , dsite )
-M2 <- lm( MDS1~ sstmean , dsitehab )
-M2 <- lmer( MDS1~ sstmean + (1|Site), dsitehabmed )
-M2 <- lmer( MDS1~ sstmean + (1|Site), dmed )
-M2p <- lmer( MDS1~ poly(sstmean,2) + (1|Site), dmed )
+M2 <- lm( MDS1~ sstmeans , dsitehab )
+# M2 <- lmer( MDS1~ sstmean + (1|Site), dsitehabmed )
+# M2 <- lmer( MDS1~ sstmean + (1|Site), dmed )
+# M2p <- lmer( MDS1~ poly(sstmean,2) + (1|Site), dmed )
 summary(M2)
 # step 3
-M3 <- glm( rate~  sstmean + MDS1, dsitehab, family="binomial" )
+M3 <- glm( rate~  sstmeans + MDS1, dsitehab, family="binomial" )
 summary(M3)
-M3 <- glmer( rate~  sstmean + MDS1 + (1|Site), dmed, family="binomial", nAGQ=nAGQuse )
+M3 <- glmer( rate~  sstmeans + MDS1 + (1|Site), dmed, family="binomial", nAGQ=nAGQuse )
 summary(M3)
 # effect of sstmean goes away. This is statistical evidence for full mediation
-M3p <- glm( rate~  poly(sstmean,2) + MDS1, dsitehab, family="quasibinomial" )
+M3p <- glm( rate~  poly(sstmeans,2) + MDS1, dsitehab, family="quasibinomial" )
 summary(M3p)
-M3p <- glmer( rate~ poly(sstmean,2) + MDS1 + (1|Site), dmed, family="binomial", nAGQ=nAGQuse )
+M3p <- glmer( rate~ poly(sstmeans,2) + MDS1 + (1|Site), dmed, family="binomial", nAGQ=nAGQuse )
 summary(M3p)
 
 
 # create a composite for the polynomial effect of sst on consumption
-Mp <- glm( rate~ poly(sstmean,2) , dsitehab, family="binomial" )
+Mp <- glm( rate~ poly(sstmeans,2) , dsitehab, family="binomial" )
 summary(Mp)
 predict( Mp )
-Mp <- glmer( rate~ poly(sstmean,2) + (1|Site), dmed, family="binomial", nAGQ=nAGQuse )
+Mp <- glmer( rate~ poly(sstmeans,2) + (1|Site), dmed, family="binomial", nAGQ=nAGQuse )
 summary(Mp)
 dsitehab$SST2 <- predict( Mp )
 dsite <- ddply( dmed, .(Site,habitat), summarise, rate=mean(rate), MDS1=mean(MDS1), 
@@ -1722,12 +1722,12 @@ a <- ggplot(dsitehab, aes(x = sstmean)) +
   geom_ribbon(data=sst_pred, aes(ymin = psych::logistic(predicted_values.fit+predicted_values.se.fit),
                   ymax = psych::logistic(predicted_values.fit-predicted_values.se.fit)), fill = "grey60",alpha=0.4) + 
   geom_line(data=sst_pred,aes(y = psych::logistic(predicted_values.fit)), colour = "#3366ff",size=1) + 
-  geom_point(aes(y = rate)) + ylab("consumption rate") + xlab("SST") +
+  geom_point(aes(y = rate)) + ylab("Consumption rate") + xlab("SST") +
   theme_bw() + theme( panel.grid.major = element_blank(), panel.grid.minor = element_blank())
 b <- ggplot(dsitehab, aes(x=sstmean,y=MDS1)) + geom_smooth(method='lm') + geom_point() + ylab("MDS1") + xlab("SST") +
   theme_bw() + theme( panel.grid.major = element_blank(), panel.grid.minor = element_blank())
 c <- ggplot(dsitehab, aes(x=MDS1,y=rate)) + geom_smooth(method='glm',method.args=list(family="binomial")) + geom_point() + 
-  ylab("consumption rate") + theme_bw() + theme( panel.grid.major = element_blank(), panel.grid.minor = element_blank())
+  ylab("Consumption rate") + theme_bw() + theme( panel.grid.major = element_blank(), panel.grid.minor = element_blank())
 d <- ggplot(dsitehab) + geom_blank()+ theme_bw() + theme( panel.grid.major = element_blank(), panel.grid.minor = element_blank())
 windows(5.5,5)
 cowplot::plot_grid(b,c,a,d,ncol=2,align = 'hv',labels="AUTO")
@@ -1738,12 +1738,11 @@ par(mfrow=c(2,2))
 gam.check(gam2)
 plot(gam2)
 termplot(gam2)
-sst_pred <- data.frame(MDS1 = dsitehab$MDS1,
-                       sstmean = dsitehab$sstmean,
-                       rate= dsitehab$rate,
-                       predicted_values = predict(gam2, newdata = dsitehab))
-ggplot(sst_pred, aes(x = sstmean)) + 
-  geom_point(aes(y = rate,size=MDS1), alpha = 0.5) + geom_line(aes(y = psych::logistic(predicted_values)), colour = "red")
+newdata2 = expand.grid( sstmean=newdata$sstmean, MDS1=c(-1.5,0,1.5)   )
+sst_pred <- data.frame( newdata2, predicted_values=predict(gam2, newdata = newdata2) )
+ggplot(dsitehab, aes(x = sstmean)) + 
+  geom_point(aes(y = rate,size=MDS1), alpha = 0.5) + 
+  geom_line(data=sst_pred, aes(y = psych::logistic(predicted_values),group=MDS1), colour = "red")
 gam3 <- gam( MDS1~ s(sstmean,k=9, bs="tp"), family='gaussian', data=dmed, method="REML" )
 summary(gam3)
 plot(gam3)

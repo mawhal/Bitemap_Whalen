@@ -570,6 +570,7 @@ zeros$noteaten <- zeros$N
 pop0 <- rbind( pop,zeros,zeros,zeros )
 pop01<- rbind( pop, zeros )
 
+
 # make factor for Country, date, and habitat
 pop0$ID <- with( pop0, paste( Country,dateDeployed,round(Lat,3),habitat, sep="." ))
 pop01$ID <- with( pop01, paste( Country,dateDeployed,round(Lat,3),habitat, sep="." ))
@@ -581,7 +582,7 @@ pop01$ID <- with( pop01, paste( Country,dateDeployed,round(Lat,3),habitat, sep="
 # dev.off()
 
 ### Get estimates for individual Poisson models
-mods <- dlply( pop0, .(ID), glm, formula=noteaten~hour, family=poisson )
+mods <- dlply( pop01, .(ID), glm, formula=noteaten~hour, family=poisson )
 coefs <- ldply( mods, stats::coef )
 
 
@@ -1068,7 +1069,7 @@ tab1
 write_csv( tab1, "Output Data/Bitemap_AICtable_single.csv" )
 
 
-pairs.panels( select(d, MDS1,  act.ratio, FRic, temp, log.catch.rda, rate), method = "spearman" )
+pairs.panels( select(d, MDS1,  act.ratio, FRic, temp, log.cpua.rda, rate), method = "spearman" )
 
 
 
@@ -1655,7 +1656,8 @@ dmed <- dmed %>%
 splom(select(dmed,sstmean,MDS1,rate))
 
 # step 1
-M1 <- glmer( rate~ sstmeans + (1|Site), dmed, family="binomial", nAGQ=nAGQuse  )
+M1 <- glmer( rate~ sstmeans + (1|Site), dsitehab, family="binomial", nAGQ=nAGQuse  )
+M1 <- glm( rate~ sstmeans, dsitehab, family="quasibinomial"  )
 summary(M1)
 # step 2
 # M1 <- lm( rate~ sstmean , dsite )
@@ -1665,7 +1667,7 @@ M2 <- lm( MDS1~ sstmeans , dsitehab )
 # M2p <- lmer( MDS1~ poly(sstmean,2) + (1|Site), dmed )
 summary(M2)
 # step 3
-M3 <- glm( rate~  sstmeans + MDS1, dsitehab, family="binomial" )
+M3 <- glm( rate~  sstmeans + MDS1, dsitehab, family="quasibinomial" )
 summary(M3)
 M3 <- glmer( rate~  sstmeans + MDS1 + (1|Site), dmed, family="binomial", nAGQ=nAGQuse )
 summary(M3)
@@ -1714,7 +1716,6 @@ library(mgcv)
 gam1 <- gam( rate~ s(sstmean,k=9,bs="tp"), family='binomial', data=dsitehab, method="REML" )
 summary(gam1)
 plot(gam1)
-par(mfrow=c(2,2))
 newdata <- data.frame( sstmean=seq(min(dsitehab$sstmean),max(dsitehab$sstmean),length.out = 100) )
 sst_pred <- data.frame(sstmean = newdata$sstmean,
                        predicted_values = predict(gam1, newdata = newdata,se.fit=T))
@@ -1732,7 +1733,7 @@ d <- ggplot(dsitehab) + geom_blank()+ theme_bw() + theme( panel.grid.major = ele
 windows(5.5,5)
 cowplot::plot_grid(b,c,a,d,ncol=2,align = 'hv',labels="AUTO")
 gam.check(gam1)
-gam2 <- gam( rate~ MDS1+s(sstmean,k=9, bs="cc"), family='binomial', data=dsitehab, method="REML")
+gam2 <- gam( rate~ MDS1+s(sstmeans,k=9, bs="cc"), family='binomial', data=dsitehab, method="REML")
 summary(gam2)
 par(mfrow=c(2,2))
 gam.check(gam2)
@@ -1748,14 +1749,13 @@ summary(gam3)
 plot(gam3)
 
 ## mediation analysis using "Causal Mediation Analysis"
-med <- mediation::mediate( M2,M3, sims=500, treat="sstmean", mediator="MDS1" )
+med <- mediation::mediate( M2,M3, sims=1500, treat="sstmeans", mediator="MDS1", robustSE = TRUE )
 summary(med)
 med2 <- mediation::mediate( M2p,M3p, treat="SST2", mediator="MDS1", sims=1000, robustSE = TRUE  )
 summary(med2)
-medg <- mediation::mediate( M2,gam2, boot=T, treat="sstmean", mediator="MDS1", 
+medg <- mediation::mediate( M2,gam2, boot=T, treat="sstmeans", mediator="MDS1", 
                             sims=1000, control="control", boot.ci.type="bca"  )
 summary(medg)
-str(medg)
 medg$d1-medg$d1.ci
 # significant mediation either way
 

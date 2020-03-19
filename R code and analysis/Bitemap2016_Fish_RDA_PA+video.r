@@ -217,7 +217,8 @@ j2 <- capscale( fam.data~scale(rate),fam.meta, distance="raup", scale=T )
 j <- dbrda( fam.data~scale(rate),fam.meta, distance="raup", scale=T )
 j2.sst <- capscale( fam.data~scale(sstmean),fam.meta, distance="raup", scale=T, na.action=na.exclude )
 j.sst <- dbrda( fam.data~scale(sstmean),fam.meta, distance="raup", scale=T, na.action=na.exclude )
-j3 <- capscale( fam.data~scale(rate)+scale(temp),fam.meta, distance="raup", scale=T, na.action=na.exclude )
+j3 <- capscale( fam.data~scale(rate)+scale(temp)+factor(habitat),fam.meta, distance="raup", scale=T, na.action=na.exclude )
+j4 <- capscale( fam.data~factor(habitat),fam.meta, distance="raup", scale=T, na.action=na.exclude )
 # r  <- rda( y, scale=T )
 # summaries
 custum <- function(model){
@@ -230,6 +231,7 @@ custum(j)
 custum(j2.sst)
 custum(j.sst)
 custum(j3)
+custum(j4)
 
 # plots
 par(mar=c(5,4,2,2))
@@ -239,6 +241,7 @@ plot(j2,choices=c(1,2), scaling=3)
 plot(j2,choices=c(1,2), scaling='symmetric', correlation=TRUE )
 plot(j,choices=c(1,2), scaling=2)
 plot(j3,choices=c(1,2), scaling=0 )
+plot(j3,choices=c(1,3), scaling=0 )
 
 ## get species vectors (can be thought of correlations with CAP axes?)
 j2.v <- data.frame( family=row.names(j2$CCA$v), j2$CCA$v ) %>% arrange(CAP1)
@@ -398,18 +401,35 @@ fam.enviro <- fam.enviro %>%
 # rates
 capunc <- data.frame(ts,fam.meta)
 capunc <- capunc %>% 
-  select( Site, MDS1, MDS2, SST=sstmean, rate )
+  select( Site,MDS1, MDS2, habitat, SST=sstmean, rate )
 xlimits <- c(-1.3,1.3)
-ylimits <- c(-1.1,1.9)
+ylimits <- c(-1.9,1.1)
 a <- ggplot( capunc, aes(x=MDS1,y=MDS2,fill=SST)) + 
   geom_point(aes(size=rate), pch=21, alpha=0.75) +
   # geom_text_repel(aes(label=Site), point.padding = 0.5) +
-  xlab(paste0(names(capunc)[2],' (',round(R2[1],3)*100, '%)')) +
-  ylab(paste0(names(capunc)[3],' (',round(R2[2],3)*100, '%)')) +
+  xlab(paste0('PCoA1 (',round(R2[1],3)*100, '%)')) +
+  ylab(paste0('PCoA2 (',round(R2[2],3)*100, '%)')) +
   scale_fill_viridis(option = "C", limits=c(5,30)) +
   # guides(size=FALSE) +
   scale_x_continuous(limits = xlimits, breaks = c(-1,0,1)) +
   scale_y_continuous(limits = ylimits, breaks = c(-1,0,1)) +
+  theme_minimal() +
+  theme( panel.grid.major = element_blank(), 
+         panel.grid.minor = element_blank(),
+         panel.border = element_rect( fill=NA ),
+         # legend.background = element_rect(linetype = 1),
+         # legend.title = element_blank(),
+         legend.key.size = unit(0.35, "cm"),
+         legend.key.width = unit(0.5,"cm") )
+
+ggplot( capunc, aes(x=MDS1,y=MDS2,fill=habitat)) + 
+  geom_path(aes(group=Site),alpha=0.75) +
+  geom_point(aes(size=rate), pch=21, alpha=0.75) +
+  xlab(paste0(names(capunc)[2],' (',round(R2[1],3)*100, '%)')) +
+  ylab(paste0(names(capunc)[3],' (',round(R2[2],3)*100, '%)')) +
+  scale_x_continuous(limits = xlimits, breaks = c(-1,0,1)) +
+  scale_y_continuous(limits = ylimits, breaks = c(-1,0,1)) +
+  scale_fill_manual( values=c("#5ab4ac","#d8b365") ) +
   theme_minimal() +
   theme( panel.grid.major = element_blank(), 
          panel.grid.minor = element_blank(),
@@ -440,8 +460,8 @@ aspec <- ggplot( capunc, aes(x=MDS1,y=MDS2)) +
   # geom_hline(yintercept = 0, col='gray', lty=2 ) +
   # geom_vline(xintercept = 0, col='gray', lty=2 ) +
   # geom_point(aes(size=rate, col=temp),  pch=16, alpha=0.5) +
-  xlab(paste0(names(capunc)[2],' (',round(R2[1],3)*100, '%)')) +
-  ylab(paste0(names(capunc)[3],' (',round(R2[2],3)*100, '%)')) +
+  xlab(paste0('PCoA1 (',round(R2[1],3)*100, '%)')) +
+  ylab(paste0('PCoA2 (',round(R2[2],3)*100, '%)')) +
   geom_point( data=tt2, aes(x=MDS1*1,y=MDS2*1, fill=temp), 
               col='black', alpha=0.75,
               pch=23, size=3 ) +

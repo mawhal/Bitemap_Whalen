@@ -181,11 +181,11 @@ cwm_length <- read_csv( "Output Data/FunctionalDiversity_CWM_length.csv")
 cwm_length <- cwm_length %>% select( Site, habitat, length )
 # abundance
 meancpua <- mean.catch %>% 
-  group_by( Country, habitat, Site.Name ) %>% 
-  summarize( tot.cpua = sum(cpua,na.rm=T)) %>% 
-  group_by( Country, habitat ) %>% 
-  summarize( mean.cpua = mean(tot.cpua,na.rm=T)) %>% 
-  ungroup()
+  dplyr::group_by( Country, habitat, Site.Name ) %>% 
+  dplyr::summarize( tot.cpua = sum(cpua,na.rm=T)) %>% 
+  dplyr::group_by( Country, habitat ) %>% 
+  dplyr::summarize( mean.cpua = mean(tot.cpua,na.rm=T)) %>% 
+  dplyr::ungroup()
 meancpua <- left_join( meancpua, select(site, Site,Country) )
 meancpua <- meancpua %>% 
   select( Site, habitat, mean.cpua ) %>% 
@@ -211,7 +211,10 @@ rate.mean.pairs <- rate.mean %>%
 # bivariate correlations
 chart.Correlation <- source("chart.correlation.r")$value
 
-windows(5,5)
+dim1 = 8.66142
+windows(dim1/2,dim1/2)
+svg( "Fig3b.svg", width = dim1/2, height = dim1/2 )
+
 chart.Correlation( rate.mean.pairs[,c("mean\nannual\nSST",
                                       "proportion\nactive\nforagers",
                                       "FRic",
@@ -219,6 +222,7 @@ chart.Correlation( rate.mean.pairs[,c("mean\nannual\nSST",
                                       "selected\nabundance",
                                       "consumption\nrate") ],
                    histogram = F, method="spearman")
+dev.off()
 
 
 ## bigger one for the supplement

@@ -537,13 +537,20 @@ allenv.site <- allenv %>%
   dplyr::summarise( temp=mean(temp, na.rm=T) )
 
 windows(4,4)
-ggplot( allenv.site, aes(x=sstmean,y=temp) ) + 
+temptemp <- ggplot( allenv.site, aes(x=sstmean,y=temp) ) + 
   geom_smooth(se=F,col='red',lwd=0.5) +
   geom_abline( intercept=0, col='black') + 
   geom_point( size=2,bg='slateblue', pch=21 ) +
   geom_text_repel( aes(label=Site), size=3, box.padding = 0.25, point.padding = 0.01, force=5 ) +
   ylab("in situ water temperature (°C)") + xlab("Mean annual SST (°C)") +
   theme_minimal_grid() 
+temptemp
+ggsave( "Fig3a.svg", path = "Figs/", dpi = 600 )
+dim1 = 7.08661
+windows(dim1,dim1/2)
+plot_grid( temptemp, cors, ncol=2, labels="AUTO" )
+plot_grid( cors, cors, ncol=2, labels="AUTO" )
+ggsave( "Fig3_blank.svg", path = "Figs/", width = dim1, height = dim1/2, dpi = 600 )
   # scale_y_continuous(position = "right") +
   # theme(axis.title.y.right  = element_text(angle = 90, vjust=0, hjust=0.5))
 
@@ -1738,6 +1745,8 @@ plot(resid(Msst2),resid(Msst2_composite))
 
 # gams
 library(mgcv)
+
+## model with SSt alone, for plotting 
 gam1 <- gam( rate~ s(sstmean,k=9,bs="tp"), family='binomial', data=dsitehab, method="REML" )
 summary(gam1)
 plot(gam1)
@@ -1756,9 +1765,18 @@ b <- ggplot(dsitehab, aes(x=sstmean,y=MDS1)) + geom_smooth(method='lm',col=linec
   theme_bw() + theme( panel.grid.major = element_blank(), panel.grid.minor = element_blank())
 c <- ggplot(dsitehab, aes(x=MDS1,y=rate)) + geom_smooth(method='glm',method.args=list(family="binomial"),col=linecol,lwd=0.75) + geom_point(col=ptcol) + 
   ylab("Consumption rate") + xlab("PCoA1") + theme_bw() + theme( panel.grid.major = element_blank(), panel.grid.minor = element_blank())
-d <- ggplot(dsitehab) + geom_blank()+ theme_bw() + theme( panel.grid.major = element_blank(), panel.grid.minor = element_blank())
-windows(5.5,5)
-cowplot::plot_grid(b,c,a,d,ncol=2,align = 'hv',labels="AUTO")
+d <- ggplot(dsitehab) + geom_blank() + theme_void()#+ theme_bw() + theme( panel.grid.major = element_blank(), panel.grid.minor = element_blank())
+dim1 <- 4.33071
+windows(dim1,dim1)
+fig3 <- cowplot::plot_grid(b,c,a,d,ncol=2,align = 'hv',labels="AUTO")
+# grab vector graphic
+mediation_model <- file.path( "../Manuscript/PNAS submission/03_resubmission/figs and tables/Mediation_Model.svg") 
+ggdraw( fig3 ) + draw_image( mediation_model, x = 1, y = 0.49, hjust = 1, vjust = 1, width = 0.45, height = 0.45 ) 
+ggsave( "Fig4_image_r.pdf", path = "Figs/", width = dim1, height = dim1, dpi = 600 )
+ggsave( "Fig4_image_r.tiff", path = "Figs/", width = dim1, height = dim1, dpi = 600 )
+ggsave( "Fig4_image_r.eps", path = "Figs/", width = dim1, height = dim1, dpi = 600 )
+ggsave( "Fig4_image_r.svg", path = "Figs/", width = dim1, height = dim1, dpi = 600 )
+
 gam.check(gam1)
 gam2 <- gam( rate~ MDS1+s(sstmeans,k=9, bs="cc"), family='binomial', data=dsitehab, method="REML")
 summary(gam2)

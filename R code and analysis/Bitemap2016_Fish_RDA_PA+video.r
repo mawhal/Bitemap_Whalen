@@ -479,7 +479,7 @@ windows(7,2.75)
 plot_grid( a, b, ncol=2, labels = "AUTO", align = 'hv', axis="tblr",
           rel_widths = c(1,1) )
 ggsave( "Figs/Fig2_capscale.pdf", width=7, height=2.5, dpi=600 )
-ggsave( "Figs/Fig2_capscale.jpg", width=7, height=2.5, dpi=600 )
+ggsave( "Figs/Fig2_capscale.svg", width=7, height=2.5, dpi=600 )
 
 
 captemp <- data.frame(ts,fam.meta[ !is.na(fam.meta$temp), ])

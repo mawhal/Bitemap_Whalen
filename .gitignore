@@ -7,6 +7,14 @@
 *.doc
 *.docx
 *.nc
+*.svg
+*.tif
+*.tiff
+*.pdf
+*.png
+*.jpg
+
+
 Manuscript/
 Communications/
 Fish_Family_Images/

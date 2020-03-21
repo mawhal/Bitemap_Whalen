@@ -94,6 +94,7 @@ library(tidyverse)
 library(plyr)
 library(reshape2)
 library(ggrepel) # for plotting text on scatterplots
+library(cowplot)
 
 # statistics
 library(bbmle)
@@ -535,14 +536,21 @@ allenv.site <- allenv %>%
   dplyr::group_by(Country,Site, sstmean) %>%
   dplyr::summarise( temp=mean(temp, na.rm=T) )
 
-windows(7,5)
-ggplot( allenv.site, aes(x=sstmean,y=temp) ) + 
-  geom_smooth(se=F,col='black',lwd=0.5) +
-  geom_abline( intercept=0, col='red') + 
+windows(4,4)
+temptemp <- ggplot( allenv.site, aes(x=sstmean,y=temp) ) + 
+  geom_smooth(se=F,col='red',lwd=0.5) +
+  geom_abline( intercept=0, col='black') + 
   geom_point( size=2,bg='slateblue', pch=21 ) +
-  geom_text_repel( aes(label=Site), size=3 ) +
+  geom_text_repel( aes(label=Site), size=3, box.padding = 0.25, point.padding = 0.01, force=5 ) +
   ylab("in situ water temperature (°C)") + xlab("Mean annual SST (°C)") +
   theme_minimal_grid() 
+temptemp
+ggsave( "Fig3a.svg", path = "Figs/", dpi = 600 )
+dim1 = 7.08661
+windows(dim1,dim1/2)
+plot_grid( temptemp, cors, ncol=2, labels="AUTO" )
+plot_grid( cors, cors, ncol=2, labels="AUTO" )
+ggsave( "Fig3_blank.svg", path = "Figs/", width = dim1, height = dim1/2, dpi = 600 )
   # scale_y_continuous(position = "right") +
   # theme(axis.title.y.right  = element_text(angle = 90, vjust=0, hjust=0.5))
 
@@ -570,6 +578,7 @@ zeros$noteaten <- zeros$N
 pop0 <- rbind( pop,zeros,zeros,zeros )
 pop01<- rbind( pop, zeros )
 
+
 # make factor for Country, date, and habitat
 pop0$ID <- with( pop0, paste( Country,dateDeployed,round(Lat,3),habitat, sep="." ))
 pop01$ID <- with( pop01, paste( Country,dateDeployed,round(Lat,3),habitat, sep="." ))
@@ -581,7 +590,7 @@ pop01$ID <- with( pop01, paste( Country,dateDeployed,round(Lat,3),habitat, sep="
 # dev.off()
 
 ### Get estimates for individual Poisson models
-mods <- dlply( pop0, .(ID), glm, formula=noteaten~hour, family=poisson )
+mods <- dlply( pop01, .(ID), glm, formula=noteaten~hour, family=poisson )
 coefs <- ldply( mods, stats::coef )
 
 
@@ -615,7 +624,7 @@ rate.env$Site[ rate.env$Country == "USA (CA4)"] <- "CA4"
 #   mutate( habitat = factor( habitat, c("Unveg", "Seagrass"), c("Unvegetated","Seagrass") ) )
 
 # write these data to disk
-write_csv( rate.env, "Output Data/Bitemap_rate.env.20190423.csv" )
+write_csv( rate.env, "Output Data/Bitemap_rate.env.20200222.csv" )
 
 ##
 
@@ -985,7 +994,8 @@ active <- active %>%
   select( Site, habitat, act.ratio=act.ratio.ind )
 cwm <- read_csv( "Output Data/FunctionalDiversity_CWM_PA.csv" )
 cwm_length <- read_csv( "Output Data/FunctionalDiversity_CWM_length.csv")
-cwm_length <- cwm_length %>% select( Site, habitat, length )
+cwm_length <- cwm_length %>% select( Site, habitat, length, act2=act, feed2=feed, troph2=troph,
+                                     watercol2=watercol, body2=body )
 
 
 addon <- left_join(left_join(left_join(left_join(left_join(rdaunc,brda),active),fds) ,cwm),cwm_length)
@@ -997,8 +1007,16 @@ d <- d %>%
 
 
 # filter to so we have complete data for all measures
+# BC ends up missing values for predators from unvegetated
 dmod <- complete.cases(d)
 dcomp <- d[dmod,]
+# only allow sites with both habitats sampled
+dhabn <- dcomp %>% 
+  dplyr::group_by(Site) %>% 
+  dplyr::summarize( nhab=length(unique(habitat)) )
+dhab2 <- dhabn %>% filter(nhab>1)
+# dcomp <- dcomp[ dcomp$Site %in% dhab2$Site, ]
+# how many sites are included?
 
 # set the family for all glms
 fam <- "binomial"
@@ -1042,6 +1060,10 @@ m.feed.cwm             <- glmer( rate~ feed + (1|Site), dcomp, family=fam, nAGQ=
 m.troph.cwm             <- glmer( rate~ troph + (1|Site), dcomp, family=fam, nAGQ=nAGQuse)
 m.watercol.cwm             <- glmer( rate~ watercol + (1|Site), dcomp, family=fam, nAGQ=nAGQuse)
 m.body.cwm             <- glmer( rate~ body + (1|Site), dcomp, family=fam, nAGQ=nAGQuse)
+m.feed.cwm2             <- glmer( rate~ feed2 + (1|Site), dcomp, family=fam, nAGQ=nAGQuse)
+m.troph.cwm2             <- glmer( rate~ troph2 + (1|Site), dcomp, family=fam, nAGQ=nAGQuse)
+m.watercol.cwm2             <- glmer( rate~ watercol2 + (1|Site), dcomp, family=fam, nAGQ=nAGQuse)
+m.body.cwm2             <- glmer( rate~ body2 + (1|Site), dcomp, family=fam, nAGQ=nAGQuse)
 
 summary(glmer( rate~ poly(sstmean,2) + scale(MDS1) + (1|Site), dcomp, family=fam, nAGQ=nAGQuse))
 
@@ -1054,6 +1076,7 @@ tab1 <- AICctab( m.sst, m.temp, m.prod, m.catch, m.hab,
                   m.FEve,m.FDis,m.RaoQ,m.FGR,m.FRic,
                  m.active,m.length.cwm,m.feed.cwm,
                  m.troph.cwm,m.watercol.cwm,m.body.cwm,
+                 m.feed.cwm2,m.troph.cwm2,m.watercol.cwm2,m.body.cwm2,
                  m0, 
                  m.sst2,
          nobs=nrow(dcomp), weights=TRUE, delta = TRUE, base = TRUE )
@@ -1062,17 +1085,27 @@ tab1$model <- rownames(tab1)
 r2s <- lapply( tab1$model, function(z) r.squaredGLMM(get(z)) )
 tab1$r2delta <- round(unlist(lapply( r2s, function(z) z[2,1])),3)
 tab1$r2theoretical <- round(unlist(lapply( r2s, function(z) z[1,1])),3)
-tab1
+
+formattable::formattable(tab1)
 
 # write to disk
 write_csv( tab1, "Output Data/Bitemap_AICtable_single.csv" )
 
 
-pairs.panels( select(d, MDS1,  act.ratio, FRic, temp, log.catch.rda, rate), method = "spearman" )
+pairs.panels( select(dcomp, MDS1,  act.ratio, FRic, temp, log.cpua.rda, rate), method = "spearman" )
 
 
+# use complete cases for just MDS1 and FRic
+dsel <- d %>% select( Site, rate, MDS1, FRic, sstmean )
+dsel <- dsel[ complete.cases(dsel), ]
 
+m.comp                  <- glmer( rate~ scale(MDS1) + (1|Site), dsel, family=fam, nAGQ=nAGQuse)
+m.FRic                  <- glmer( rate~ scale(FRic) + (1|Site), dsel, family=fam, nAGQ=nAGQuse)
+m.sst                   <- glmer( rate~ scale(sstmean) + (1|Site), dsel, family=fam, nAGQ=nAGQuse)
+m.sst2                  <- glmer( rate~ poly(sstmean,2) + (1|Site), dsel, family=fam, nAGQ=nAGQuse)
 
+AICctab( m.sst, m.sst2, m.comp, m.FRic,
+         nobs=nrow(dcomp), weights=TRUE, delta = TRUE, base = TRUE )
 
 
 
@@ -1655,7 +1688,8 @@ dmed <- dmed %>%
 splom(select(dmed,sstmean,MDS1,rate))
 
 # step 1
-M1 <- glmer( rate~ sstmeans + (1|Site), dmed, family="binomial", nAGQ=nAGQuse  )
+M1 <- glmer( rate~ sstmeans + (1|Site), dsitehab, family="binomial", nAGQ=nAGQuse  )
+M1 <- glm( rate~ sstmeans, dsitehab, family="quasibinomial"  )
 summary(M1)
 # step 2
 # M1 <- lm( rate~ sstmean , dsite )
@@ -1665,14 +1699,14 @@ M2 <- lm( MDS1~ sstmeans , dsitehab )
 # M2p <- lmer( MDS1~ poly(sstmean,2) + (1|Site), dmed )
 summary(M2)
 # step 3
-M3 <- glm( rate~  sstmeans + MDS1, dsitehab, family="binomial" )
+M3 <- glm( rate~  sstmeans + MDS1, dsitehab, family="quasibinomial" )
 summary(M3)
-M3 <- glmer( rate~  sstmeans + MDS1 + (1|Site), dmed, family="binomial", nAGQ=nAGQuse )
+# M3 <- glmer( rate~  sstmeans + MDS1 + (1|Site), dmed, family="binomial", nAGQ=nAGQuse )
 summary(M3)
 # effect of sstmean goes away. This is statistical evidence for full mediation
 M3p <- glm( rate~  poly(sstmeans,2) + MDS1, dsitehab, family="quasibinomial" )
 summary(M3p)
-M3p <- glmer( rate~ poly(sstmeans,2) + MDS1 + (1|Site), dmed, family="binomial", nAGQ=nAGQuse )
+# M3p <- glmer( rate~ poly(sstmeans,2) + MDS1 + (1|Site), dmed, family="binomial", nAGQ=nAGQuse )
 summary(M3p)
 
 
@@ -1680,7 +1714,7 @@ summary(M3p)
 Mp <- glm( rate~ poly(sstmeans,2) , dsitehab, family="binomial" )
 summary(Mp)
 predict( Mp )
-Mp <- glmer( rate~ poly(sstmeans,2) + (1|Site), dmed, family="binomial", nAGQ=nAGQuse )
+# Mp <- glmer( rate~ poly(sstmeans,2) + (1|Site), dmed, family="binomial", nAGQ=nAGQuse )
 summary(Mp)
 dsitehab$SST2 <- predict( Mp )
 dsite <- ddply( dmed, .(Site,habitat), summarise, rate=mean(rate), MDS1=mean(MDS1), 
@@ -1711,28 +1745,40 @@ plot(resid(Msst2),resid(Msst2_composite))
 
 # gams
 library(mgcv)
+
+## model with SSt alone, for plotting 
 gam1 <- gam( rate~ s(sstmean,k=9,bs="tp"), family='binomial', data=dsitehab, method="REML" )
 summary(gam1)
 plot(gam1)
-par(mfrow=c(2,2))
 newdata <- data.frame( sstmean=seq(min(dsitehab$sstmean),max(dsitehab$sstmean),length.out = 100) )
 sst_pred <- data.frame(sstmean = newdata$sstmean,
                        predicted_values = predict(gam1, newdata = newdata,se.fit=T))
+ptcol <- "slateblue"
+linecol <- "black"  #"#3366ff"
 a <- ggplot(dsitehab, aes(x = sstmean)) + 
   geom_ribbon(data=sst_pred, aes(ymin = psych::logistic(predicted_values.fit+predicted_values.se.fit),
                   ymax = psych::logistic(predicted_values.fit-predicted_values.se.fit)), fill = "grey60",alpha=0.4) + 
-  geom_line(data=sst_pred,aes(y = psych::logistic(predicted_values.fit)), colour = "#3366ff",size=1) + 
-  geom_point(aes(y = rate)) + ylab("Consumption rate") + xlab("SST") +
+  geom_line(data=sst_pred,aes(y = psych::logistic(predicted_values.fit)), colour = linecol,lwd=0.75) + 
+  geom_point(aes(y = rate),col=ptcol) + ylab("Consumption rate") + xlab("SST") +
   theme_bw() + theme( panel.grid.major = element_blank(), panel.grid.minor = element_blank())
-b <- ggplot(dsitehab, aes(x=sstmean,y=MDS1)) + geom_smooth(method='lm') + geom_point() + ylab("MDS1") + xlab("SST") +
+b <- ggplot(dsitehab, aes(x=sstmean,y=MDS1)) + geom_smooth(method='lm',col=linecol,lwd=0.75) + geom_point(col=ptcol) + ylab("PCoA1") + xlab("SST") +
   theme_bw() + theme( panel.grid.major = element_blank(), panel.grid.minor = element_blank())
-c <- ggplot(dsitehab, aes(x=MDS1,y=rate)) + geom_smooth(method='glm',method.args=list(family="binomial")) + geom_point() + 
-  ylab("Consumption rate") + theme_bw() + theme( panel.grid.major = element_blank(), panel.grid.minor = element_blank())
-d <- ggplot(dsitehab) + geom_blank()+ theme_bw() + theme( panel.grid.major = element_blank(), panel.grid.minor = element_blank())
-windows(5.5,5)
-cowplot::plot_grid(b,c,a,d,ncol=2,align = 'hv',labels="AUTO")
+c <- ggplot(dsitehab, aes(x=MDS1,y=rate)) + geom_smooth(method='glm',method.args=list(family="binomial"),col=linecol,lwd=0.75) + geom_point(col=ptcol) + 
+  ylab("Consumption rate") + xlab("PCoA1") + theme_bw() + theme( panel.grid.major = element_blank(), panel.grid.minor = element_blank())
+d <- ggplot(dsitehab) + geom_blank() + theme_void()#+ theme_bw() + theme( panel.grid.major = element_blank(), panel.grid.minor = element_blank())
+dim1 <- 4.33071
+windows(dim1,dim1)
+fig3 <- cowplot::plot_grid(b,c,a,d,ncol=2,align = 'hv',labels="AUTO")
+# grab vector graphic
+mediation_model <- file.path( "../Manuscript/PNAS submission/03_resubmission/figs and tables/Mediation_Model.svg") 
+ggdraw( fig3 ) + draw_image( mediation_model, x = 1, y = 0.49, hjust = 1, vjust = 1, width = 0.45, height = 0.45 ) 
+ggsave( "Fig4_image_r.pdf", path = "Figs/", width = dim1, height = dim1, dpi = 600 )
+ggsave( "Fig4_image_r.tiff", path = "Figs/", width = dim1, height = dim1, dpi = 600 )
+ggsave( "Fig4_image_r.eps", path = "Figs/", width = dim1, height = dim1, dpi = 600 )
+ggsave( "Fig4_image_r.svg", path = "Figs/", width = dim1, height = dim1, dpi = 600 )
+
 gam.check(gam1)
-gam2 <- gam( rate~ MDS1+s(sstmean,k=9, bs="cc"), family='binomial', data=dsitehab, method="REML")
+gam2 <- gam( rate~ MDS1+s(sstmeans,k=9, bs="cc"), family='binomial', data=dsitehab, method="REML")
 summary(gam2)
 par(mfrow=c(2,2))
 gam.check(gam2)
@@ -1748,14 +1794,13 @@ summary(gam3)
 plot(gam3)
 
 ## mediation analysis using "Causal Mediation Analysis"
-med <- mediation::mediate( M2,M3, sims=500, treat="sstmean", mediator="MDS1" )
+med <- mediation::mediate( M2,M3, sims=1500, treat="sstmeans", mediator="MDS1", robustSE = TRUE )
 summary(med)
 med2 <- mediation::mediate( M2p,M3p, treat="SST2", mediator="MDS1", sims=1000, robustSE = TRUE  )
 summary(med2)
-medg <- mediation::mediate( M2,gam2, boot=T, treat="sstmean", mediator="MDS1", 
+medg <- mediation::mediate( M2,gam2, boot=T, treat="sstmeans", mediator="MDS1", 
                             sims=1000, control="control", boot.ci.type="bca"  )
 summary(medg)
-str(medg)
 medg$d1-medg$d1.ci
 # significant mediation either way
 

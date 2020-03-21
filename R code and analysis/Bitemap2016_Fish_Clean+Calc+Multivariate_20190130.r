@@ -63,7 +63,7 @@ library(taxize)
 ################################
 
 # FISH SEINING DATA
-seines.raw <- read.csv( '../Data/Bitemap_Seine_ALL-DATA_20180322.csv', stringsAsFactors = FALSE, strip.white = TRUE)
+seines.raw <- read_csv( '../Data/Bitemap_Seine_ALL-DATA_20200104.csv' )
 # Which participants did we have at each site?
 seines.raw %>% 
   select( Country, Participant.List ) %>%
@@ -124,7 +124,8 @@ rads    <- deg2rad(siteGPS[,3:4])
 
 
 # Predation Rates from other script
-rate.env <- read.csv( "Output Data/Bitemap_DATA_analysis_20180825.csv", stringsAsFactors = FALSE )
+# rate.env <- read.csv( "Output Data/Bitemap_DATA_analysis_20180825.csv", stringsAsFactors = FALSE )
+rate.env <- read_csv( "Output Data/Bitemap_rate.env.20200222.csv" )
 # below, we deal with site and habitat level data, not at the same scale
 # summarize to average predation rates at site and habitat level -- need to be careful with habitat because this has problems with traits
 rate.mean <- rate.env %>%
@@ -152,7 +153,7 @@ seines$Length[ seines$Country %in% c('France', 'USA (NC2)', 'Wales', 'Australia 
 
 # select relevant columns
 seines <- seines %>%
-  dplyr::select( Site.Name, Lat, Long, habitat, Date, Time, Depth, Distance, Q.PA, Phylum,
+  dplyr::select( Site.Name='Site Name', Lat, Long, habitat, Date, Time, Depth, Distance, Q.PA='Q/PA', Phylum,
                  Genus, Species, Length, Abundance, Country, width.transect, width.seine )
 
 # fix mispelling of several site names in Virginia
@@ -284,7 +285,7 @@ traits[ traits$family %in% c("Monodactylidae"), ]
 traits[ traits$family %in% c("Cottidae"), ]
 
 # write to disk
-write_csv( traits, "Output Data/consumer_eat_squid.csv" )
+# write_csv( traits, "Output Data/consumer_eat_squid.csv" )
 
 ## SENSITIVITY TEST
 # include all species
@@ -301,7 +302,7 @@ famlist <- traits %>%
   select( family, eat.squid ) %>%
   distinct() 
 
-write.csv( famlist, "Output Data/Bitemap_predator_families.csv", row.names = F )
+write_csv( famlist, "Output Data/Bitemap_predator_families.csv" )
 
 
 # # traits$omnivory[ is.na(traits$omnivory) ] <- 0

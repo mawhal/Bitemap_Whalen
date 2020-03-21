@@ -64,7 +64,7 @@ library(taxize)
 ################################
 
 # FISH SEINING DATA
-seines.raw <- read.csv( '../Data/Bitemap_Seine_ALL-DATA_20191010.csv', stringsAsFactors = FALSE, strip.white = TRUE)
+seines.raw <- read.csv( '../Data/Bitemap_Seine_ALL-DATA_20200104.csv', stringsAsFactors = FALSE, strip.white = TRUE)
 # Which participants did we have at each site?
 seines.raw %>% 
   select( Country, Participant.List ) %>%
@@ -1208,13 +1208,15 @@ biomass <- biomass_total
 dim(abundance); dim(pred.top20); dim(diversity); dim(biomass)
 predator2 <- left_join(abundance,diversity)
 predator1  <- left_join(predator2,biomass)
+pred.top20$Time <- as.numeric( pred.top20$Time )
 predator  <- left_join(predator1,pred.top20)
+predator <- predator1
 # when different ways of counting species are used, some sites are dropped
 # merge with a bigger data set, the select relevant column
-pred.all <- left_join( predators,predator )
+pred.all <- left_join( consumers,predator )
 
 left_join( pred.all, sites )
-
+pred.all[pred.all$Country=="Canada (BC)",]
 
 head(pred.all)
 unique( pred.all$Country[ is.na(pred.all$biomass) ] )
@@ -1223,6 +1225,7 @@ unique( pred.all$Country[ is.na(pred.all$biomass) ] )
 #           c("Total","TotalFish","ENSPIE","ENSPIEfish","biomass") ] <- 0
 
 biomass[biomass$Country=="USA (NC2)",]
+biomass[biomass$Country=="Canada (BC)",]
 
 
 # relationships between predator summaries
@@ -1254,7 +1257,7 @@ pred.means <- pred.graph %>%
   dplyr::summarize( sstmean=mean(sstmean,na.rm=T), total.cpua.fish=mean(total.cpua.fish),
              ENSPIE=mean(ENSPIE,na.rm=T), ENSPIEfish=mean(ENSPIEfish,na.rm=T),
              richness=mean(richness,na.rm=T), richness.fish=mean(richness.fish, na.rm=T),
-             biomass.area=mean(biomass.area,na.rm=T), top20=mean(top20,na.rm=T),meanL=mean(meanL,na.rm=T) )
+             biomass.area=mean(biomass.area,na.rm=T) )
 
 # axis label size needs to be smaller
 labsize = 12

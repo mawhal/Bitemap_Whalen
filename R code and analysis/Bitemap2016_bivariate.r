@@ -181,11 +181,11 @@ cwm_length <- read_csv( "Output Data/FunctionalDiversity_CWM_length.csv")
 cwm_length <- cwm_length %>% select( Site, habitat, length )
 # abundance
 meancpua <- mean.catch %>% 
-  group_by( Country, habitat, Site.Name ) %>% 
-  summarize( tot.cpua = sum(cpua,na.rm=T)) %>% 
-  group_by( Country, habitat ) %>% 
-  summarize( mean.cpua = mean(tot.cpua,na.rm=T)) %>% 
-  ungroup()
+  dplyr::group_by( Country, habitat, Site.Name ) %>% 
+  dplyr::summarize( tot.cpua = sum(cpua,na.rm=T)) %>% 
+  dplyr::group_by( Country, habitat ) %>% 
+  dplyr::summarize( mean.cpua = mean(tot.cpua,na.rm=T)) %>% 
+  dplyr::ungroup()
 meancpua <- left_join( meancpua, select(site, Site,Country) )
 meancpua <- meancpua %>% 
   select( Site, habitat, mean.cpua ) %>% 
@@ -204,20 +204,25 @@ rate.mean.pairs <- rate.mean %>%
   mutate( log.cpua = log10(cpua+0.001),log.mean.cpua=log10(mean.cpua+0.001),
           logit.rate = car::logit(rate),abLat=abs(meanLat) ) %>% 
   select( Site, habitat,`degrees\nfrom\nequator`=abLat,meanLong, `mean\nannual\nSST`=sstmean, 
-          MDS1, MDS2,chla,
+          PCoA1=MDS1, PCoA2=MDS2,chla,
           `proportion\nactive\nforagers`=act.ratio, `selected\nabundance`=log.cpua, 
           `consumption\nrate`=logit.rate, FRic, act, length, `total\nabundance`=log.mean.cpua )
+
 # bivariate correlations
 chart.Correlation <- source("chart.correlation.r")$value
 
-windows(5,5)
+dim1 = 8.66142
+windows(dim1/2,dim1/2)
+svg( "Fig3b.svg", width = dim1/2, height = dim1/2 )
+
 chart.Correlation( rate.mean.pairs[,c("mean\nannual\nSST",
                                       "proportion\nactive\nforagers",
                                       "FRic",
-                                      "MDS1",
+                                      "PCoA1",
                                       "selected\nabundance",
                                       "consumption\nrate") ],
-                   histogram = F, method="spearman" )
+                   histogram = F, method="spearman")
+dev.off()
 
 
 ## bigger one for the supplement
@@ -231,7 +236,7 @@ chart.Correlation( rate.mean.pairs[,c("degrees\nfrom\nequator",
                                       "length",
                                       "proportion\nactive\nforagers",
                                       "FRic",
-                                      "MDS1","MDS2",
+                                      "PCoA1","PCoA2",
                                       "selected\nabundance",
                                       "consumption\nrate") ],
                    histogram = F, method="spearman" )
@@ -310,6 +315,7 @@ taxa.corr <- read_csv( "Output Data/multivar_constr_taxa.csv" ) %>% arrange(-CAP
 # add more families based on video data?
 fam.choose <- taxa.corr$family[taxa.corr$family != c("Caesionidae")]
 fam.choose <- c(taxa.corr$family[1:18],"Labridae","Ostraciidae")
+fam.choose <- c(taxa.corr$family[1:13],"Labridae",taxa.corr$family[99:104])
 
 pa.choose <- fam.data %>% select( fam.choose )
 pa <- bind_cols(fam.meta,pa.choose)
@@ -331,3 +337,22 @@ ggplot( pa.gather, aes(x=abs(meanLat),y=PA)) + facet_wrap(~family) +
   geom_smooth(se=F,lty=3,col="black",lwd=0.5) +
   theme_bw() + theme( panel.grid.major = element_blank(), panel.grid.minor = element_blank() ) + 
   ylab("Family presence") + xlab("Degrees from equator")
+
+
+
+
+
+#### how do pairwise differences in consumption correlate with differences in composition across site pairs (seagrass vs unvegetated)
+##
+# remove sites with both habitat types
+nhab <- rate.mean %>% group_by(Site) %>% summarize( n=length(rate) ) %>% filter(n>1)
+nhabseine <- rate.mean %>% filter(!is.na(cpua)) %>% group_by(Site) %>% summarize( n=length(cpua) ) %>% filter(n>1)
+diffs <- rate.mean %>% 
+  ungroup() %>% 
+  filter( Site %in% nhab$Site ) %>% 
+  arrange(Site, habitat) %>% 
+  group_by(Site) %>% 
+  summarize( MDS1=diff(MDS1), MDS2=diff(MDS2), abund=diff(cpua), rate=diff(rate) )
+
+
+psych::pairs.panels(diffs[,-1])

@@ -241,6 +241,13 @@ chart.Correlation( rate.mean.pairs[,c("degrees\nfrom\nequator",
                                       "consumption\nrate") ],
                    histogram = F, method="spearman" )
 
+rate.mean.pairs$color <- ifelse( rate.mean.pairs$`consumption\nrate`>1,"black","gray" )
+pairs( rate.mean.pairs[,c("degrees\nfrom\nequator",
+                                      "mean\nannual\nSST",
+                                      "PCoA1","PCoA2",
+                                      "consumption\nrate") ],
+                   histogram = F, method="spearman", col=rate.mean.pairs$color, xpd=T )
+
 
 # look at realtionships with CWMs
 rate.cwm <- rate.mean

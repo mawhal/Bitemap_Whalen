@@ -59,19 +59,19 @@ library(here)
 ## read data
 
 # seine abundance + biomass
-seine <- read_csv( "Output Data/Bitemap_seine_abundance_biomass.csv" )
+seine <- read_csv( "R code and analysis/Output Data/Bitemap_seine_abundance_biomass.csv" )
 
 # environmental data from remote sensing and oceanographic expeditions
-oracle <- read_csv( "Output Data/Bitemap_BioORACLE_20190107.csv")[,1:36]
+oracle <- read_csv( "R code and analysis/Output Data/Bitemap_BioORACLE_20190107.csv")[,1:36]
 
 # squidpop consumption rates
-pop <- read_csv( "Output Data/Bitemap_rate.env.20190423.csv" )
+pop <- read_csv( "R code and analysis/Output Data/Bitemap_rate.env.20190423.csv" )
 pop <- pop %>% 
   dplyr::group_by( Site,habitat ) %>% 
   dplyr::summarise( sstmean=mean(sstmean), temp=mean(temp), rate=mean(rate) )
 
 # trait information that includes video data
-video <- read_csv( "../Data/Video Data/Bitemap_Video_Data_ALL.csv" )
+video <- read_csv( "Data/Video Data/Bitemap_Video_Data_ALL.csv" )
 video <- video %>% 
   select( Country, habitat, Genus ) %>% 
   mutate( habitat=tolower(habitat) ) %>% 
@@ -108,7 +108,7 @@ taxa <- taxa[ !(taxa %in% c("NO ID","Not identified")) ]
 #   select( family=name, Genus=query )
 # # write taxfam to disk so we don't have to look it up every time
 # write_csv( taxfam, "Output Data/families_taxize_RDA.csv" )
-taxfam <-  read_csv( "Output Data/families_taxize_RDA.csv" )
+taxfam <-  read_csv( "R code and analysis/Output Data/families_taxize_RDA.csv" )
 
 famfam <- bind_rows( genfam, taxfam )
 video <- left_join(video, famfam)
@@ -204,7 +204,7 @@ rownames(fam.data) <- fam.meta$SH
 
 # write to disk
 fam.all <- bind_cols(fam.meta,fam.data)
-write_csv( fam.all, "Output Data/consumer_presence_wide.csv")
+write_csv( fam.all, "R code and analysis/Output Data/consumer_presence_wide.csv")
 
 
 
@@ -229,6 +229,7 @@ custum <- function(model){
 custum(j2)
 custum(j)
 custum(j2.sst)
+anova(j2.sst)
 custum(j.sst)
 custum(j3)
 custum(j4)
@@ -252,7 +253,7 @@ j3.v[ abs(j3.v$CAP1) > sd(j3.v$CAP1)*1.5 , ]
 
 # extract axes
 nax <- 1:2
-juse <- j2
+juse <- j2.sst
 s4 <- scores(juse,choices = nax, scaling = 0)$sites
 # colnames(s2)[1] <- paste( colnames(s2)[1],"2",sep="_" )
 # extract taxa
@@ -297,10 +298,10 @@ ggplot( data=sr, aes(x=CAP1,y=rate) ) + geom_point(size=5) +
 asite <- ggplot( capraup, aes(x=CAP1,y=MDS1)) + 
   # geom_hline(yintercept = 0, col='gray', lty=2 ) +
   # geom_vline(xintercept = 0, col='gray', lty=2 ) +
-  geom_point(aes(size=rate, col=temp),  pch=16, alpha=0.5) +
+  geom_point(aes(size=rate, fill=sstmean),  pch=21,  alpha=1) +
   xlab(paste0(names(capraup)[1],' (',round(R2[1],3)*100, '%)')) +
   ylab(paste0(names(capraup)[2],' (',round(R2[2],3)*100, '%)')) +
-  scale_color_viridis() 
+  scale_fill_viridis() 
   # scale_fill_manual(values=c("green","gray25"))#+ 
 
 # add species
@@ -315,8 +316,8 @@ capspec2 %>%
   arrange( CAP1 )
 
 ####### write constrained ordination sites and taxa to disk
-write_csv( sr, "Output Data/multivar_constr_sites.csv" )
-write_csv( capspec, "Output Data/multivar_constr_taxa.csv" )
+write_csv( sr, "R code and analysis/Output Data/multivar_constr_sites.csv" )
+write_csv( capspec, "R code and analysis/Output Data/multivar_constr_taxa.csv" )
 
 
 
@@ -378,7 +379,7 @@ R2
 
 # write unconstrained ordination to disk
 tsdf <- data.frame( SH=fam.meta$SH, ts )
-write_csv( tsdf, "Output Data/multivar_unconstr_sites.csv" )
+write_csv( tsdf, "R code and analysis/Output Data/multivar_unconstr_sites.csv" )
   
 
 ## get colors for sites
@@ -478,11 +479,12 @@ b
 windows(7,2.75)
 plot_grid( a, b, ncol=2, labels = "AUTO", align = 'hv', axis="tblr",
           rel_widths = c(1,1) )
-ggsave( "Figs/Fig2_capscale.pdf", width=7, height=2.5, dpi=600 )
-ggsave( "Figs/Fig2_capscale.svg", width=7, height=2.5, dpi=600 )
+ggsave( "R code and analysis/Figs/Fig2_capscale.pdf", width=7, height=2.5, dpi=600 )
+ggsave( "R code and analysis/Figs/Fig2_capscale.svg", width=7, height=2.5, dpi=600 )
 
 
-captemp <- data.frame(ts,fam.meta[ !is.na(fam.meta$temp), ])
+# captemp <- data.frame(ts,fam.meta[ !is.na(fam.meta$temp), ])
+captemp <- data.frame(ts,fam.meta)
 ggplot( captemp, aes(x=CAP1,y=MDS1,col=habitat)) + 
   geom_hline(yintercept = 0, col='gray', lty=2 ) +
   geom_vline(xintercept = 0, col='gray', lty=2 ) +
@@ -510,6 +512,6 @@ ggplot( data=capunc, aes(x=MDS2,y=rate) ) + geom_point(size=5) +
 
 
 # pull in 
-psych::pairs.panels( capunc[,c("temp","sstmean","MDS1","MDS2","rate")],
+psych::pairs.panels( capunc[,c("SST","MDS1","MDS2","rate")],
                      ellipses = F                   )
 

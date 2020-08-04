@@ -1,7 +1,6 @@
 #####################################################################
 # MarineGEO - Tennenbaum Marine Observatories Network - Smithsonian
 # Ocean Bitemap 2016
-# Preliminary data analysis and exploration
 # Code by Matt Whalen, Ross Whippo, and Emmett Duffy
 # updated 2019.12.13
 #####################################################################
@@ -771,7 +770,10 @@ ggplot(rate.plot, aes(x=sstmean, y=rate, group=hemi, col=hemi)) +
 
 
 # site-level rates
-rate.site <- ddply( rate.plot, .(Country,Site,hemi,basin,coast), summarise, rate=mean(rate), abLat=mean(abLat), sstmean=mean(sstmean) )
+rate.site <- rate.plot %>% 
+  dplyr::group_by( Country, Site, habitat, hemi, basin, coast ) %>% 
+  dplyr::summarise( rate=mean(rate), abLat=mean(abLat), sstmean=mean(sstmean) )
+
 # windows(9,5)
 windows(6,3)
 a <- ggplot(rate.site, aes(x=abLat, y=rate, group=hemi, col=hemi)) + 
@@ -805,19 +807,23 @@ rate.site$Country[ rate.site$rate < 0.25 ]
 # run separate models for Southwest Pacific and Northwest Atlantic. Test for quadratic term
 # which data?
 d <- rate.env[ !is.na(rate.env$sstmean),]
-dna <- d[ d$hemi == "North" & d$basin == "Atlantic" & d$coast == "West", ]
+dna <- d %>% 
+  filter( hemi == "North" & basin == "Atlantic" & coast == "West" )
   range(dna$abLat)
-  ggplot(dna,aes(x=sstmean,y=rate)) + geom_point() + geom_smooth()
-dsp <- d[ d$hemi == "South" & d$basin == "Pacific" & d$coast == "West", ]
+  ggplot(dna,aes(x=abLat,y=rate)) + geom_point() + geom_smooth(se=F) +
+    geom_smooth(method='glm', method.args=list(family="binomial"))  + 
+    geom_smooth(method='glm', formula=y~poly(x,2), method.args=list(family="binomial"))
+dsp <- d %>% 
+  filter( hemi == "South" & basin == "Pacific" & coast == "West" )
   range(dsp$abLat)
-ggplot(dsp,aes(x=sstmean,y=rate)) + geom_point() + geom_smooth()
-ggplot(d,aes(x=sstmean,y=rate)) + geom_point() + geom_smooth()
+  ggplot(dsp,aes(x=abLat,y=rate)) + geom_point() + geom_smooth()
 
-
-m1.hab <- glmer( rate ~ poly(abLat,2)*habitat + (1|Country), d, family="binomial" ) 
+m1.hab <- glmer( rate ~ poly(abLat,2)+habitat + (1|Country), rate.env, family="binomial" ) 
 summary(m1.hab)
-m1.grass <- glmer( rate ~ poly(abLat,2) + (1|Country), filter(d,habitat=="Seagrass"), family="binomial" ) 
-m1.sed   <- glmer( rate ~ poly(abLat,2) + (1|Country), filter(d,habitat=="Unvegetated"), family="binomial" ) 
+m1.grass <- glmer( rate ~ poly(abLat,2) + (1|Country), filter(rate.env,habitat=="Seagrass"), family="binomial" ) 
+summary(m1.grass)
+m1.sed   <- glmer( rate ~ poly(abLat,2) + (1|Country), filter(rate.env,habitat=="Unvegetated"), family="binomial" ) 
+summary(m1.sed)
 ggplot(filter(d,habitat=="Seagrass"),aes(x=sstmean,y=rate)) + geom_point() + geom_smooth()
 ggplot(filter(d,habitat=="Unvegetated"),aes(x=sstmean,y=rate)) + geom_point() + geom_smooth()
 ggplot(d,aes(x=sstmean,y=rate,col=habitat)) + geom_point() + geom_smooth()
@@ -830,19 +836,39 @@ dhabmean <- d %>%
 ggplot( dhabmean, aes(x=Unvegetated, y=Seagrass))+ geom_point()+
   geom_abline(yintercept=0,slope=1)
 
-m1na <- glmer( rate ~ poly(abLat,1) + (1|Country), dna, family="binomial" ) 
-m2na <- glmer( rate ~ poly(abLat,2) + (1|Country), dna, family="binomial" )     
-m1na <- glmer( rate ~ poly(sstmean,1) + (1|Country), dna, family="binomial" ) 
-m2na <- glmer( rate ~ poly(sstmean,2) + (1|Country), dna, family="binomial" ) 
-anova(m1na,m2na)
-bbmle::AICctab(m1na,m2na)
 
-m1sp <- glmer( rate ~ poly(abLat,1) + (1|Country), dsp, family="binomial" ) 
-m2sp <- glmer( rate ~ poly(abLat,2) + (1|Country), dsp, family="binomial" ) 
-m1sp <- glmer( rate ~ poly(sstmean,1) + (1|Country), dsp, family="binomial" ) 
-m2sp <- glmer( rate ~ poly(sstmean,2) + (1|Country), dsp, family="binomial" ) 
+# test for quadratic terms
+# set the number of nodes in the quadrature formula
+nAGQuse <- 5
+
+# global
+m1g <- glmer( rate ~ poly(abLat,1) + (1|Country), rate.env, family="binomial", nAGQ=nAGQuse ) 
+m2g <- glmer( rate ~ poly(abLat,2) + (1|Country), rate.env, family="binomial", nAGQ=nAGQuse )     
+m1g <- glmer( rate ~ poly(sstmean,1) + (1|Country), filter(rate.env,!is.na(sstmean)), family="binomial", nAGQ=nAGQuse ) 
+m2g <- glmer( rate ~ poly(sstmean,2) + (1|Country), filter(rate.env,!is.na(sstmean)), family="binomial", nAGQ=nAGQuse ) 
+anova(m1g,m2g)
+bbmle::AICctab(m1g,m2g, weights=T)$weight
+bbmle::AICctab(m1g,m2g, weights=T)$weight[1]/bbmle::AICctab(m1g,m2g, weights=T)$weight[2]
+r.squaredGLMM(m1g)
+r.squaredGLMM(m2g)
+
+# Northwest Atlantic
+m1na <- glmer( rate ~ poly(abLat,1) + (1|Country), dna, family="binomial", nAGQ=nAGQuse ) 
+m2na <- glmer( rate ~ poly(abLat,2) + (1|Country), dna, family="binomial", nAGQ=nAGQuse )     
+m1na <- glmer( rate ~ poly(sstmean,1) + (1|Country), filter(dna,!is.na(sstmean)), family="binomial", nAGQ=nAGQuse ) 
+m2na <- glmer( rate ~ poly(sstmean,2) + (1|Country), filter(dna,!is.na(sstmean)), family="binomial", nAGQ=nAGQuse ) 
+anova(m1na,m2na)
+bbmle::AICctab(m1na,m2na, weights=T)
+r.squaredGLMM(m2na)
+
+# Southwest Pacific
+m1sp <- glmer( rate ~ poly(abLat,1) + (1|Country), dsp, family="binomial", nAGQ=nAGQuse  ) 
+m2sp <- glmer( rate ~ poly(abLat,2) + (1|Country), dsp, family="binomial", nAGQ=nAGQuse  ) 
+m1sp <- glmer( rate ~ poly(sstmean,1) + (1|Country), filter(dsp,!is.na(sstmean)), family="binomial" ) 
+m2sp <- glmer( rate ~ poly(sstmean,2) + (1|Country), filter(dsp,!is.na(sstmean)), family="binomial" ) 
 anova(m1sp,m2sp)
-AICctab(m1sp,m2sp)
+bbmle::AICctab(m1sp,m2sp, weights=T)
+
 #
 
 # evidence for peak at warm sites, but not the warmest sites

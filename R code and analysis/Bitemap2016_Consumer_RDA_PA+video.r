@@ -1,9 +1,6 @@
 #####################################################################
 # MarineGEO - Tennenbaum Marine Observatories Network - Smithsonian
 # Ocean Bitemap 2016
-# Cleaning fish community data, calculating summaries
-# Code by Matt Whalen, Ross Whippo, and Emmett Duffy
-# created 17 August 2019
 #####################################################################
 
 # METADATA:
@@ -85,6 +82,7 @@ video$Genus <- gsub( "Lactophris", "Lactophrys", video$Genus )
 video$Genus <- gsub( "Lactrophris", "Lactophrys", video$Genus )
 video$Genus <- gsub( "Alters", "Aluterus", video$Genus )
 video$Genus <- gsub( "Sphyraema", "Sphyraena", video$Genus )
+video$Genus <- gsub( "Chelio", "Cheilio", video$Genus )
 
 genfam <- seine %>% select(family,Genus) %>% distinct()
 video1 <- left_join(video, genfam)
@@ -119,8 +117,9 @@ video %>% filter( Country %in% c("Mexico (ICML)","Mexico (ICML2)")) %>%
 filter( video, is.na(family) )
 video$family[ video$Genus %in% "Aluterus"] <- "Monacanthidae"
 video$family[ video$Genus %in% "Caesio"] <- "Caesionidae"
+video$family[ video$Genus %in% "Cheilio"] <- "Labridae"
 
-video <- filter( video, !is.na(family) )
+
 
 
 ## summarize seine data

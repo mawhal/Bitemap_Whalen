@@ -143,7 +143,7 @@ rate.mean2 <- rate.env %>%
 # clean up  data
 seines <- seines.raw
 names(seines)[4] <- "habitat"
-# convert all vegetated and unvegetated sites to common categories
+# convert all vegetated and unvegetated <- to common categories
 seines$habitat[ seines$habitat %in% c("Seagrass ","seagrass" )] <- "Seagrass"
 seines$habitat[ seines$habitat %in% c("unveg","Unveg","Unvegetated" )] <- "Unvegetated"
 seines <- droplevels(seines)

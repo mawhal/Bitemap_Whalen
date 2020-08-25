@@ -13,11 +13,11 @@
 *.pdf
 *.png
 *.jpg
-Manuscript/
-Communications/
-Fish_Family_Images/
-Bitemap Documents/
-Authors/
-Mapping/
-Presentations+Abstracts/
-QGIS/
+/Manuscript/*
+/Communications/*
+/Fish_Family_Images/*
+/Bitemap Documents/*
+/Authors/*
+/Mapping/*
+/Presentations+Abstracts/*
+/QGIS/*

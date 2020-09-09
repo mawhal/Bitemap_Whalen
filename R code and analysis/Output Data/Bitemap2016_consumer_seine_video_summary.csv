@@ -1,0 +1,801 @@
+Country,Site,meanLat,meanLong,basin,hemi,coast,habitat,phylum,family,taxon,method,area.seined.m,total.length.mean,catch.per.m2,biomass.per.m2
+Australia (NSW),NSW2,-32.380278,152.508889,Pacific,South,West,Seagrass,Chordata,Ambassidae,Ambassis sp.,seine,650,39.8,1.6978980785296576,0.8752607432581724
+Australia (NSW),NSW2,-32.380278,152.508889,Pacific,South,West,Seagrass,Chordata,Atherinidae,Atherinosoma microstoma,seine,650,43.388888888888886,0.026639933166248957,0.026012182515304065
+Australia (NSW),NSW2,-32.380278,152.508889,Pacific,South,West,Seagrass,Chordata,Eleotridae,Philypnodon grandiceps,seine,250,52.5,0.008,0.012457108847281604
+Australia (NSW),NSW2,-32.380278,152.508889,Pacific,South,West,Seagrass,Chordata,Gerreidae,Gerres subfasciatus,seine,650,65.33333333333333,0.026613199665831245,0.15314928806351483
+Australia (NSW),NSW2,-32.380278,152.508889,Pacific,South,West,Seagrass,Chordata,Gobiidae,Arenigobius bifrenatus,seine,460,55,0.004380952380952381,0.00809945266413921
+Australia (NSW),NSW2,-32.380278,152.508889,Pacific,South,West,Seagrass,Chordata,Gobiidae,Favonigobius exquisitus,seine,650,41.17333333333333,0.25181954887218044,0.19023340826733853
+Australia (NSW),NSW2,-32.380278,152.508889,Pacific,South,West,Seagrass,Chordata,Hemiramphidae,Hyporhamphus australis,seine,460,175,0.004380952380952381,0.06534778249123716
+Australia (NSW),NSW2,-32.380278,152.508889,Pacific,South,West,Seagrass,Chordata,Mugilidae,Liza argentea,seine,190,45,0.005263157894736842,0.004689895853939504
+Australia (NSW),NSW2,-32.380278,152.508889,Pacific,South,West,Seagrass,Chordata,Sillaginidae,Sillago ciliata,seine,440,113.5,0.004631578947368421,0.058790238473691046
+Australia (NSW),NSW2,-32.380278,152.508889,Pacific,South,West,Seagrass,Chordata,Sparidae,Acanthopagrus australis,seine,650,53.2595670995671,0.08186800334168756,0.31781114266852667
+Australia (NSW),NSW2,-32.380278,152.508889,Pacific,South,West,Seagrass,Chordata,Terapontidae,Helotes sexlineatus,seine,250,85,0.02,0.19916873109208316
+Australia (NSW),NSW2,-32.380278,152.508889,Pacific,South,West,Seagrass,Chordata,Tetraodontidae,Tetractenos glaber,seine,650,102.62373737373737,0.04524310776942356,0.9757545154601194
+Australia (NSW),NSW2,-32.380278,152.508889,Pacific,South,West,Seagrass,Chordata,Tetrarogidae,Centropogon australis,seine,650,45.015,0.061400167084377615,0.1490607440388923
+Australia (NSW),NSW2,-32.380278,152.508889,Pacific,South,West,Unvegetated,Chordata,Ambassidae,Ambassis sp.,seine,757,43.10666666666667,0.16584105059383664,0.20766852264857508
+Australia (NSW),NSW2,-32.380278,152.508889,Pacific,South,West,Unvegetated,Chordata,Atherinidae,Atherinosoma microstoma,seine,507,44.11,0.11156804269345473,0.0955393876799487
+Australia (NSW),NSW2,-32.380278,152.508889,Pacific,South,West,Unvegetated,Chordata,Gerreidae,Gerres subfasciatus,seine,757,67.79629629629629,0.059051954167320675,0.40640944866290907
+Australia (NSW),NSW2,-32.380278,152.508889,Pacific,South,West,Unvegetated,Chordata,Gobiidae,Arenigobius bifrenatus,seine,277,41.72,0.10830324909747292,0.09758042484645908
+Australia (NSW),NSW2,-32.380278,152.508889,Pacific,South,West,Unvegetated,Chordata,Gobiidae,Favonigobius exquisitus,seine,757,42.37,0.04890053890022498,0.037219273637443276
+Australia (NSW),NSW2,-32.380278,152.508889,Pacific,South,West,Unvegetated,Chordata,Hemiramphidae,Hyporhamphus australis,seine,480,161.25,0.006347826086956522,0.11634480019748862
+Australia (NSW),NSW2,-32.380278,152.508889,Pacific,South,West,Unvegetated,Chordata,Mugilidae,Aldrichetta forsteri,seine,277,57,0.0036101083032490976,0.008051151779751742
+Australia (NSW),NSW2,-32.380278,152.508889,Pacific,South,West,Unvegetated,Chordata,Mugilidae,Liza argentea,seine,480,64,0.0041739130434782605,0.011014066060496226
+Australia (NSW),NSW2,-32.380278,152.508889,Pacific,South,West,Unvegetated,Chordata,Sillaginidae,Sillago ciliata,seine,230,120,0.008695652173913044,0.11971374458426537
+Australia (NSW),NSW2,-32.380278,152.508889,Pacific,South,West,Unvegetated,Chordata,Sparidae,Acanthopagrus australis,seine,480,57.67142857142858,0.035217391304347825,0.17104154814871456
+Australia (NSW),NSW2,-32.380278,152.508889,Pacific,South,West,Unvegetated,Chordata,Terapontidae,Helotes sexlineatus,seine,277,103,0.0036101083032490976,0.0557236253571593
+Australia (NSW),NSW2,-32.380278,152.508889,Pacific,South,West,Unvegetated,Chordata,Tetraodontidae,Tetractenos glaber,seine,757,94.58333333333333,0.011712028462303145,0.2868905911530091
+Australia (NSW),NSW2,-32.380278,152.508889,Pacific,South,West,Unvegetated,Chordata,Tetrarogidae,Centropogon australis,seine,757,54.920634920634924,0.014104745461204417,0.06412761944129576
+Australia (NSW2),NSW1,-30.505112,153.023764,Pacific,South,West,Seagrass,Arthropoda,Palaemonidae,Palaemon sp.,seine,750,NaN,1.8173333333333335,0
+Australia (NSW2),NSW1,-30.505112,153.023764,Pacific,South,West,Seagrass,Chordata,Ambassidae,Ambassis jacksoniensis,seine,750,37.638888888888886,0.9573333333333334,1.267129429061022
+Australia (NSW2),NSW1,-30.505112,153.023764,Pacific,South,West,Seagrass,Chordata,Aulostomidae,Aulostomus chinensis,seine,250,248,0.004,0.06356136180524598
+Australia (NSW2),NSW1,-30.505112,153.023764,Pacific,South,West,Seagrass,Chordata,Gerreidae,Gerres subfasciatus,seine,750,63.742592592592594,0.08533333333333333,0.4974808664848229
+Australia (NSW2),NSW1,-30.505112,153.023764,Pacific,South,West,Seagrass,Chordata,Gobiidae,Gobiidae sp.,seine,750,40.605555555555554,0.05466666666666667,0.060757444544354375
+Australia (NSW2),NSW1,-30.505112,153.023764,Pacific,South,West,Seagrass,Chordata,Hemiramphidae,Hyporhamphus regularis,seine,250,208,0.004,0.11576830211853402
+Australia (NSW2),NSW1,-30.505112,153.023764,Pacific,South,West,Seagrass,Chordata,Kyphosidae,Girella tricuspidata,seine,500,162.16666666666666,0.01,1.5112319490415267
+Australia (NSW2),NSW1,-30.505112,153.023764,Pacific,South,West,Seagrass,Chordata,Monacanthidae,Meuschenia trachylepis,seine,250,83.33333333333333,0.012,0.3008659024435927
+Australia (NSW2),NSW1,-30.505112,153.023764,Pacific,South,West,Seagrass,Chordata,Monodactylidae,Monodactylus argenteus,seine,500,83.23809523809524,0.02,0.3439372446799172
+Australia (NSW2),NSW1,-30.505112,153.023764,Pacific,South,West,Seagrass,Chordata,Mugilidae,Liza argentea,seine,750,62.86645299145299,0.064,0.25208417901810437
+Australia (NSW2),NSW1,-30.505112,153.023764,Pacific,South,West,Seagrass,Chordata,Pseudomugilidae,Pseudomugil signifer,seine,500,28.5,0.004,0.00113404788938115
+Australia (NSW2),NSW1,-30.505112,153.023764,Pacific,South,West,Seagrass,Chordata,Sillaginidae,Sillago sp.,seine,250,25,0.004,3.661133472781069e-4
+Australia (NSW2),NSW1,-30.505112,153.023764,Pacific,South,West,Seagrass,Chordata,Sparidae,Acanthopagrus australis,seine,500,77.61607142857143,0.03,0.43144509753091453
+Australia (NSW2),NSW1,-30.505112,153.023764,Pacific,South,West,Seagrass,Chordata,Synodontidae,Saurida nebulosa,seine,250,137,0.004,0.10444986613866651
+Australia (NSW2),NSW1,-30.505112,153.023764,Pacific,South,West,Seagrass,Chordata,Terapontidae,Pelates sexlineatus,seine,750,63.58745421245421,0.056,0.24273905280269517
+Australia (NSW2),NSW1,-30.505112,153.023764,Pacific,South,West,Seagrass,Chordata,Tetraodontidae,Arothron hispidus,seine,750,96.44444444444444,0.006666666666666667,0.19964210587805192
+Australia (NSW2),NSW1,-30.505112,153.023764,Pacific,South,West,Seagrass,Chordata,Tetraodontidae,Tetractenos hamiltoni,seine,250,128.5,0.008,0.328501858759439
+Australia (NSW2),NSW1,-30.505112,153.023764,Pacific,South,West,Seagrass,Chordata,Tetrarogidae,Centropogon australis,seine,500,48.25,0.006,0.016464588804260098
+Australia (NSW2),NSW1,-30.505112,153.023764,Pacific,South,West,Unvegetated,Arthropoda,Palaemonidae,Palaemon sp.,seine,750,NaN,0.008,0
+Australia (NSW2),NSW1,-30.505112,153.023764,Pacific,South,West,Unvegetated,Chordata,Gerreidae,Gerres subfasciatus,seine,750,78.60050505050505,0.05733333333333333,0.6711640340081071
+Australia (NSW2),NSW1,-30.505112,153.023764,Pacific,South,West,Unvegetated,Chordata,Gobiidae,Gobiidae sp.,seine,750,40.337606837606835,0.024,0.014007472710475437
+Australia (NSW2),NSW1,-30.505112,153.023764,Pacific,South,West,Unvegetated,Chordata,Mugilidae,Liza argentea,seine,250,126,0.004,0.07586407100672203
+Australia (NSW2),NSW1,-30.505112,153.023764,Pacific,South,West,Unvegetated,Chordata,Paralichthyidae,Pseudorhombus arsius,seine,250,100,0.004,0.04934653776690749
+Australia (NSW2),NSW1,-30.505112,153.023764,Pacific,South,West,Unvegetated,Chordata,Sillaginidae,Sillago sp.,seine,750,93.7074074074074,0.021333333333333336,0.1806061615838258
+Australia (QLD),QLD2,-20.01884,148.250085,Pacific,South,West,Seagrass,Chordata,Gerreidae,Gerres oyena,seine,750,63.60606060606061,0.03733333333333333,0.15700172210667135
+Australia (QLD),QLD2,-20.01884,148.250085,Pacific,South,West,Seagrass,Chordata,Gobiidae,Gobiidae sp.,seine,500,38.33529411764706,0.044000000000000004,0.033407942131312256
+Australia (QLD),QLD2,-20.01884,148.250085,Pacific,South,West,Seagrass,Chordata,Lethrinidae,Lethrinus genivittatus,seine,750,38.49444444444445,0.044,0.06278943287411998
+Australia (QLD),QLD2,-20.01884,148.250085,Pacific,South,West,Seagrass,Chordata,Lutjanidae,Lutjanus russellii,seine,750,28.80952380952381,0.07466666666666667,0.03407526198120295
+Australia (QLD),QLD2,-20.01884,148.250085,Pacific,South,West,Seagrass,Chordata,Mullidae,Upeneus tragula,seine,250,71.66666666666667,0.012,0.06959791250703068
+Australia (QLD),QLD2,-20.01884,148.250085,Pacific,South,West,Seagrass,Chordata,Platycephalidae,Platycephalidae sp.,seine,250,53,0.004,0.0029549853756689467
+Australia (QLD),QLD2,-20.01884,148.250085,Pacific,South,West,Seagrass,Chordata,Serranidae,Epinephelus sp.,seine,250,36,0.004,0.002769738107571856
+Australia (QLD),QLD2,-20.01884,148.250085,Pacific,South,West,Seagrass,Chordata,Siganidae,Siganus canaliculatus,seine,750,25.81111111111111,0.03333333333333334,0.01222887459171059
+Australia (QLD),QLD2,-20.01884,148.250085,Pacific,South,West,Seagrass,Chordata,Siganidae,Siganus lineatus,seine,750,53.501666666666665,0.4613333333333334,1.7860311792383736
+Australia (QLD),QLD2,-20.01884,148.250085,Pacific,South,West,Seagrass,Chordata,Sillaginidae,Sillago maculata,seine,750,76.55882352941177,0.064,0.25900638044
+Australia (QLD),QLD2,-20.01884,148.250085,Pacific,South,West,Seagrass,Chordata,Sphyraenidae,Sphyraena obtusata,seine,250,95,0.004,0.034861157675921864
+Australia (QLD),QLD2,-20.01884,148.250085,Pacific,South,West,Seagrass,Chordata,Syngnathidae,Syngnathus sp.,seine,250,64,0.004,4.1557380440248264e-4
+Australia (QLD),QLD2,-20.01884,148.250085,Pacific,South,West,Seagrass,Chordata,Terapontidae,Pelates quadrilineatus,seine,750,40.56,0.196,0.1729460442003792
+Australia (QLD),QLD2,-20.01884,148.250085,Pacific,South,West,Unvegetated,Chordata,Atherinidae,Atherinomorus endrachtensis,seine,770,38.25252525252525,0.03348717948717949,0.0354776360195772
+Australia (QLD),QLD2,-20.01884,148.250085,Pacific,South,West,Unvegetated,Chordata,Gerreidae,Gerres oyena,seine,770,28.13083333333333,0.3367179487179487,0.11536486297321576
+Australia (QLD),QLD2,-20.01884,148.250085,Pacific,South,West,Unvegetated,Chordata,Gobiidae,Gobiidae sp.,seine,770,36.07692307692308,0.023743589743589744,0.01138837832881519
+Australia (QLD),QLD2,-20.01884,148.250085,Pacific,South,West,Unvegetated,Chordata,Sillaginidae,Sillago maculata,seine,510,49,0.005923076923076923,0.005055337634615385
+Australia (QLD),QLD2,-20.01884,148.250085,Pacific,South,West,Unvegetated,Chordata,Tetraodontidae,Torquigener sp.,seine,510,32.75,0.005923076923076923,0.004816974473187937
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Seagrass,Arthropoda,Portunidae,Scylla serrata,seine,200,60,0.01,0.35165038379650604
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Seagrass,Chordata,Ambassidae,Ambassis marianus,seine,1200,22.5,0.4166666666666667,0.20325534382274685
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Seagrass,Chordata,Blenniidae,Petroscirtes variabilis,seine,200,60,0.015,0.05356128891048506
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Seagrass,Chordata,Gerreidae,Gerres subfasciatus,seine,400,80,0.01,0.09417897644436875
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Seagrass,Chordata,Gobiidae,Gobius sp.,seine,600,28.78787878787879,0.07,0.03775443527836822
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Seagrass,Chordata,Hemiramphidae,Hemiramphus robustus,seine,200,60,0.005,0.0036970989891111517
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Seagrass,Chordata,Monacanthidae,Monacanthus chinensis,seine,600,58.333333333333336,0.011666666666666667,0.06490121575953106
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Seagrass,Chordata,Monodactylidae,Monodactylus argenteus,seine,200,70,0.01,0.119915437170174
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Seagrass,Chordata,Platycephalidae,Platycephalus fuscus,seine,200,40,0.005,0.0030454196843761406
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Seagrass,Chordata,Serranidae,Epinephelus coioides,seine,200,300,0.005,2.01961072203264
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Seagrass,Chordata,Siganidae,Siganus fuscescens,seine,400,53,0.0325,0.09893442180352786
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Seagrass,Chordata,Sphyraenidae,Sphyraena obtusata,seine,200,50,0.005,0.008276324283613882
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Seagrass,Chordata,Syngnathidae,Syngnathus sp.,seine,200,120,0.005,0.0037628090865805884
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Seagrass,Chordata,Terapontidae,Pelates sexlineatus,seine,800,44.63636363636364,0.04625,0.10655395762242238
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Seagrass,Chordata,Tetraodontidae,Tetractenos hamiltoni,seine,600,82.22222222222223,0.03333333333333333,0.34477377217733446
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Unvegetated,Chordata,Ambassidae,Ambassis marianus,seine,600,10,1.3333333333333333,0.024066666666666667
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Unvegetated,Chordata,Gerreidae,Gerres subfasciatus,seine,600,68.66666666666667,0.04166666666666667,0.25279706913614364
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Unvegetated,Chordata,Gobiidae,Gobius sp.,seine,1200,23.636363636363637,0.30583333333333335,0.04757120919322729
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Unvegetated,Chordata,Monacanthidae,Monacanthus chinensis,seine,200,50,0.005,0.01806850682444294
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Unvegetated,Chordata,Mugilidae,Mugil cephalus,seine,200,40,0.01,0.007892049692813
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Unvegetated,Chordata,Sillaginidae,Sillago maculata,seine,800,76.5,0.01,0.1396339875
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Unvegetated,Chordata,Tetraodontidae,Tetractenos hamiltoni,seine,800,58.75,0.01125,0.06191490673760896
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Unvegetated,NA,Arripidae,Arripis georgianus,seine,200,51.666666666666664,0.03,0.04513998330084551
+Australia (QLD3),QLD4,-27.494748,153.397061375,Pacific,South,West,Seagrass,Arthropoda,Palaemonidae,Palaemon serrifer,seine,350,10,0.07142857142857142,7.671428571428571e-4
+Australia (QLD3),QLD4,-27.494748,153.397061375,Pacific,South,West,Seagrass,Arthropoda,Penaeidae,Penaeus esculentus,seine,450,34.16666666666667,0.0115,1.7014760045922208
+Australia (QLD3),QLD4,-27.494748,153.397061375,Pacific,South,West,Seagrass,Chordata,Atherinidae,Atherinomorus vaigiensis,seine,550,49.3,0.2175,0.22495609197468847
+Australia (QLD3),QLD4,-27.494748,153.397061375,Pacific,South,West,Seagrass,Chordata,Blenniidae,Petroscirtes lupus,seine,200,50,0.025,0.048601802737381544
+Australia (QLD3),QLD4,-27.494748,153.397061375,Pacific,South,West,Seagrass,Chordata,Callionymidae,Repomucenus macdonaldi,seine,600,55,0.0034285714285714284,0.0037903640290901323
+Australia (QLD3),QLD4,-27.494748,153.397061375,Pacific,South,West,Seagrass,Chordata,Fistulariidae,Fistularia commersonii,seine,200,150,0.005,0.010125
+Australia (QLD3),QLD4,-27.494748,153.397061375,Pacific,South,West,Seagrass,Chordata,Gobiidae,Gobiidae sp.,seine,450,33.07272727272728,0.11449999999999999,0.04832096216708311
+Australia (QLD3),QLD4,-27.494748,153.397061375,Pacific,South,West,Seagrass,Chordata,Hemiramphidae,Arrhamphus sclerolepis,seine,200,70,0.01,0.01287339651876374
+Australia (QLD3),QLD4,-27.494748,153.397061375,Pacific,South,West,Seagrass,Chordata,Hemiramphidae,Hyporhamphus regularis,seine,200,110,0.005,0.019453024331969146
+Australia (QLD3),QLD4,-27.494748,153.397061375,Pacific,South,West,Seagrass,Chordata,Labridae,Pseudolabrus guentheri,seine,600,15,0.010285714285714287,5.208079705990589e-4
+Australia (QLD3),QLD4,-27.494748,153.397061375,Pacific,South,West,Seagrass,Chordata,Labridae,Scarus ghobban,seine,250,60,0.004,0.015342703346020217
+Australia (QLD3),QLD4,-27.494748,153.397061375,Pacific,South,West,Seagrass,Chordata,Lethrinidae,Lethrinus laticaudis,seine,200,10,0.005,8.9e-5
+Australia (QLD3),QLD4,-27.494748,153.397061375,Pacific,South,West,Seagrass,Chordata,Monacanthidae,Monacanthus chinensis,seine,800,38.34993961352657,0.060904761904761906,0.16799384483365004
+Australia (QLD3),QLD4,-27.494748,153.397061375,Pacific,South,West,Seagrass,Chordata,Mullidae,Upeneus tragula,seine,550,95,0.003928571428571429,0.05662215096767488
+Australia (QLD3),QLD4,-27.494748,153.397061375,Pacific,South,West,Seagrass,Chordata,Siganidae,Siganus fuscescens,seine,600,76.66666666666666,0.0074285714285714285,0.06771418802700678
+Australia (QLD3),QLD4,-27.494748,153.397061375,Pacific,South,West,Seagrass,Chordata,Sillaginidae,Sillago maculata,seine,250,30,0.016,0.00383544
+Australia (QLD3),QLD4,-27.494748,153.397061375,Pacific,South,West,Seagrass,Chordata,Sphyraenidae,Sphyraena obtusata,seine,800,54.44444444444444,0.005857142857142858,0.019989138259741513
+Australia (QLD3),QLD4,-27.494748,153.397061375,Pacific,South,West,Seagrass,Chordata,Syngnathidae,Hippocampus procerus,seine,200,40,0.005,0.0013664
+Australia (QLD3),QLD4,-27.494748,153.397061375,Pacific,South,West,Seagrass,Chordata,Syngnathidae,Hippocampus whitei,seine,250,40,0.004,9.541021996080874e-4
+Australia (QLD3),QLD4,-27.494748,153.397061375,Pacific,South,West,Seagrass,Chordata,Syngnathidae,Urocampus carinirostris,seine,250,50,0.004,2.8778164105656474e-4
+Australia (QLD3),QLD4,-27.494748,153.397061375,Pacific,South,West,Seagrass,Chordata,Terapontidae,Helotes sexlineatus,seine,800,47.06666666666667,0.08095238095238096,0.15044484757818455
+Australia (QLD3),QLD4,-27.494748,153.397061375,Pacific,South,West,Seagrass,Chordata,Tetrarogidae,Centropogon australis,seine,600,58.75,0.009428571428571429,0.04868075698160413
+Australia (QLD3),QLD4,-27.494748,153.397061375,Pacific,South,West,Seagrass,Mollusca,Loliginidae,Sepioteuthis lessoniana,seine,450,8.75,0.011,0
+Australia (QLD3),QLD4,-27.494748,153.397061375,Pacific,South,West,Seagrass,Mollusca,Sepiidae,Sepia plangon,seine,200,5,0.005,0.00016779141776514854
+Australia (QLD3),QLD4,-27.494748,153.397061375,Pacific,South,West,Unvegetated,Arthropoda,Penaeidae,Penaeus esculentus,seine,700,25,0.004285714285714286,0.07768536938495464
+Australia (QLD3),QLD4,-27.494748,153.397061375,Pacific,South,West,Unvegetated,Chordata,Atherinidae,Atherinomorus vaigiensis,seine,750,30.2,0.08375,0.0248665079629193
+Australia (QLD3),QLD4,-27.494748,153.397061375,Pacific,South,West,Unvegetated,Chordata,Gerreidae,Gerres subfasciatus,seine,350,30,0.005714285714285714,0.002719177036116299
+Australia (QLD3),QLD4,-27.494748,153.397061375,Pacific,South,West,Unvegetated,Chordata,Hemiramphidae,Hyporhamphus regularis,seine,350,90,0.002857142857142857,0.005907803310077165
+Australia (QLD3),QLD4,-27.494748,153.397061375,Pacific,South,West,Unvegetated,Chordata,Paralichthyidae,Pseudorhombus arsius,seine,350,130,0.002857142857142857,0.08293281544911989
+Australia (QLD3),QLD4,-27.494748,153.397061375,Pacific,South,West,Unvegetated,Chordata,Platycephalidae,Platycephalus fuscus,seine,350,50,0.002857142857142857,0.0033611944688657154
+Australia (QLD3),QLD4,-27.494748,153.397061375,Pacific,South,West,Unvegetated,Chordata,Sillaginidae,Sillago maculata,seine,350,22.4,0.07428571428571429,0.008506662904685713
+Australia (QLD3),QLD4,-27.494748,153.397061375,Pacific,South,West,Unvegetated,Chordata,Syngnathidae,Hippichthys penicillus,seine,400,60,0.0025,3.1652277521605814e-4
+Australia (QLD3),QLD4,-27.494748,153.397061375,Pacific,South,West,Unvegetated,Chordata,Syngnathidae,Hippocampus whitei,seine,400,50,0.0025,0.0011514962892989187
+Australia (QLD3),QLD4,-27.494748,153.397061375,Pacific,South,West,Unvegetated,Mollusca,Loliginidae,Sepioteuthis lessoniana,seine,350,5,0.002857142857142857,0
+Australia (VIC),VIC,-38.1754906666667,144.714605666667,Pacific,South,West,Seagrass,Arthropoda,Cancridae,Carcinus maenas,seine,1000,20.07857142857143,0.03,0.09538180492788247
+Australia (VIC),VIC,-38.1754906666667,144.714605666667,Pacific,South,West,Seagrass,Chordata,Atherinidae,Atherinosoma microstoma,seine,400,29.25,0.0325,0.005740496722522635
+Australia (VIC),VIC,-38.1754906666667,144.714605666667,Pacific,South,West,Seagrass,Chordata,Clinidae,Heteroclinus perspicillatus,seine,1200,63.65138888888889,0.029166666666666667,0.09042575664252092
+Australia (VIC),VIC,-38.1754906666667,144.714605666667,Pacific,South,West,Seagrass,Chordata,Gobiidae,Nesogobius maccullochi,seine,1000,63.65,0.023,0.05183430344935092
+Australia (VIC),VIC,-38.1754906666667,144.714605666667,Pacific,South,West,Seagrass,Chordata,Kyphosidae,Girella zebra,seine,400,35.3,0.025,0.021565597466719037
+Australia (VIC),VIC,-38.1754906666667,144.714605666667,Pacific,South,West,Seagrass,Chordata,Monacanthidae,Acanthaluteres spilomelanurus,seine,1000,48.86666666666667,0.009,0.04586662965375986
+Australia (VIC),VIC,-38.1754906666667,144.714605666667,Pacific,South,West,Seagrass,Chordata,Platycephalidae,Platycephalus aurimaculatus,seine,200,122,0.005,0.0433754231601493
+Australia (VIC),VIC,-38.1754906666667,144.714605666667,Pacific,South,West,Seagrass,Chordata,Syngnathidae,Stigmatopora argus,seine,400,73.83333333333333,0.01,4.236386572592611e-4
+Australia (VIC),VIC,-38.1754906666667,144.714605666667,Pacific,South,West,Seagrass,Chordata,Tetraodontidae,Tetractenos glaber,seine,1400,35.5373454599231,0.075,0.14839379862599414
+Australia (VIC),VIC,-38.1754906666667,144.714605666667,Pacific,South,West,Seagrass,Chordata,Tetrarogidae,Gymnapistes marmoratus,seine,800,117.77777777777777,0.015,0.7151948962500001
+Australia (VIC),VIC,-38.1754906666667,144.714605666667,Pacific,South,West,Seagrass,Mollusca,Loliginidae,Sepioteuthis australis,seine,600,19.333333333333332,0.005,0
+Australia (VIC),VIC,-38.1754906666667,144.714605666667,Pacific,South,West,Unvegetated,Arthropoda,Cancridae,Carcinus maenas,seine,400,25.07142857142857,0.030000000000000002,0.2161449107495716
+Australia (VIC),VIC,-38.1754906666667,144.714605666667,Pacific,South,West,Unvegetated,Chordata,Atherinidae,Atherinosoma microstoma,seine,800,50.75,0.00875,0.019210439228097276
+Australia (VIC),VIC,-38.1754906666667,144.714605666667,Pacific,South,West,Unvegetated,Chordata,Clinidae,Heteroclinus perspicillatus,seine,400,58.5,0.005,0.011466200095668977
+Australia (VIC),VIC,-38.1754906666667,144.714605666667,Pacific,South,West,Unvegetated,Chordata,Gobiidae,Nesogobius maccullochi,seine,1000,47.645,0.028,0.04720372051408349
+Australia (VIC),VIC,-38.1754906666667,144.714605666667,Pacific,South,West,Unvegetated,Chordata,Kyphosidae,Girella zebra,seine,200,36.5,0.02,0.02293563858404182
+Australia (VIC),VIC,-38.1754906666667,144.714605666667,Pacific,South,West,Unvegetated,Chordata,Platycephalidae,Platycephalus aurimaculatus,seine,200,78,0.005,0.009867924546416336
+Australia (VIC),VIC,-38.1754906666667,144.714605666667,Pacific,South,West,Unvegetated,Chordata,Syngnathidae,Stigmatopora argus,seine,200,152,0.005,0.0017737320899895229
+Australia (VIC),VIC,-38.1754906666667,144.714605666667,Pacific,South,West,Unvegetated,Chordata,Tetraodontidae,Tetractenos glaber,seine,1400,22.90034347295217,0.11714285714285715,0.05433218014119627
+Australia (VIC),VIC,-38.1754906666667,144.714605666667,Pacific,South,West,Unvegetated,NA,Rhombosoleidae,Rhombosolea tapirina,seine,400,152,0.01,0.48530119188403137
+Brazil,Brazil,-23.7708733333333,-45.3544866666667,Atlantic,South,West,Seagrass,Arthropoda,Portunidae,Callinectes ornatus,seine,970,39.80555555555556,0.01511904761904762,0.16813105937677736
+Brazil,Brazil,-23.7708733333333,-45.3544866666667,Atlantic,South,West,Seagrass,Chordata,Albulidae,Albula vulpes,seine,970,138.5,0.009087301587301588,0.32275692141314455
+Brazil,Brazil,-23.7708733333333,-45.3544866666667,Atlantic,South,West,Seagrass,Chordata,Atherinopsidae,Atherinella brasiliensis,seine,650,60.05,0.0030952380952380953,0.009067160561978494
+Brazil,Brazil,-23.7708733333333,-45.3544866666667,Atlantic,South,West,Seagrass,Chordata,Carangidae,Caranx latus,seine,670,132.5,0.004419642857142857,0.09726396579530905
+Brazil,Brazil,-23.7708733333333,-45.3544866666667,Atlantic,South,West,Seagrass,Chordata,Clupeidae,Harengula clupeola,seine,300,92,0.02,0.2908346456473238
+Brazil,Brazil,-23.7708733333333,-45.3544866666667,Atlantic,South,West,Seagrass,Chordata,Clupeidae,Sardinella brasiliensis,seine,300,37.294117647058826,0.05666666666666667,0.017204518952073252
+Brazil,Brazil,-23.7708733333333,-45.3544866666667,Atlantic,South,West,Seagrass,Chordata,Gerreidae,Eucinostomus argenteus,seine,970,69.06777777777778,0.059414682539682545,0.26798643918682696
+Brazil,Brazil,-23.7708733333333,-45.3544866666667,Atlantic,South,West,Seagrass,Chordata,Paralichthyidae,Etropus longimanus,seine,620,82.5,0.0032291666666666666,0.039600429889822104
+Brazil,Brazil,-23.7708733333333,-45.3544866666667,Atlantic,South,West,Seagrass,Chordata,Triglidae,Prionotus punctatus,seine,670,120.5,0.002991071428571429,0.06474958529204194
+Brazil,Brazil,-23.7708733333333,-45.3544866666667,Atlantic,South,West,Unvegetated,Arthropoda,Portunidae,Callinectes danae,seine,300,72,0.0033333333333333335,0.09500974099647297
+Brazil,Brazil,-23.7708733333333,-45.3544866666667,Atlantic,South,West,Unvegetated,Arthropoda,Portunidae,Callinectes ornatus,seine,920,32.666666666666664,0.005357357357357357,0.033207077449795404
+Brazil,Brazil,-23.7708733333333,-45.3544866666667,Atlantic,South,West,Unvegetated,Chordata,Albulidae,Albula vulpes,seine,370,138.5,0.005405405405405406,0.1900541112400388
+Brazil,Brazil,-23.7708733333333,-45.3544866666667,Atlantic,South,West,Unvegetated,Chordata,Atherinopsidae,Atherinella brasiliensis,seine,300,84.5,0.006666666666666667,0.019784377664758657
+Brazil,Brazil,-23.7708733333333,-45.3544866666667,Atlantic,South,West,Unvegetated,Chordata,Carangidae,Caranx latus,seine,370,118,0.002702702702702703,0.044304976908086435
+Brazil,Brazil,-23.7708733333333,-45.3544866666667,Atlantic,South,West,Unvegetated,Chordata,Carangidae,Oligoplites saliens,seine,370,63,0.002702702702702703,0.0038791355903314857
+Brazil,Brazil,-23.7708733333333,-45.3544866666667,Atlantic,South,West,Unvegetated,Chordata,Clupeidae,Harengula clupeola,seine,620,89.67826086956522,0.1072972972972973,1.3035664028584275
+Brazil,Brazil,-23.7708733333333,-45.3544866666667,Atlantic,South,West,Unvegetated,Chordata,Clupeidae,Sardinella brasiliensis,seine,620,106.5,0.0053513513513513515,0.04496535396688854
+Brazil,Brazil,-23.7708733333333,-45.3544866666667,Atlantic,South,West,Unvegetated,Chordata,Gerreidae,Eucinostomus argenteus,seine,250,97,0.016,0.17410692023212995
+Brazil,Brazil,-23.7708733333333,-45.3544866666667,Atlantic,South,West,Unvegetated,Chordata,Synodontidae,Synodus myops,seine,300,135,0.006666666666666667,0.1500486174460436
+Canada (BC),BC,51.6788933333333,-128.118861,Pacific,North,East,Seagrass,Chordata,Aulorhynchidae,Aulorhynchus flavidus,seine,400,46.83333333333333,0.01,0.0012149579191167307
+Canada (BC),BC,51.6788933333333,-128.118861,Pacific,North,East,Seagrass,Chordata,Cottidae,Artedius lateralis,seine,450,80,0.0045000000000000005,0.021711522520690175
+Canada (BC),BC,51.6788933333333,-128.118861,Pacific,North,East,Seagrass,Chordata,Cottidae,Cottoidea sp.,seine,200,15,0.005,2.709845426648396e-4
+Canada (BC),BC,51.6788933333333,-128.118861,Pacific,North,East,Seagrass,Chordata,Cottidae,Enophrys bison,seine,200,49,0.02,0.09170256758247373
+Canada (BC),BC,51.6788933333333,-128.118861,Pacific,North,East,Seagrass,Chordata,Cottidae,Hemilepidotus hemilepidotus,seine,250,55,0.004,0.01879372
+Canada (BC),BC,51.6788933333333,-128.118861,Pacific,North,East,Seagrass,Chordata,Cottidae,Oligocottus maculosus,seine,650,40.666666666666664,0.007666666666666667,0.0056449853381356245
+Canada (BC),BC,51.6788933333333,-128.118861,Pacific,North,East,Seagrass,Chordata,Cottidae,Scorpaenichthys marmoratus,seine,200,63,0.005,0.011002067999999999
+Canada (BC),BC,51.6788933333333,-128.118861,Pacific,North,East,Seagrass,Chordata,Embiotocidae,Cymatogaster aggregata,seine,650,112.95277777777778,0.043666666666666666,2.1754874699999998
+Canada (BC),BC,51.6788933333333,-128.118861,Pacific,North,East,Seagrass,Chordata,Embiotocidae,Embiotoca lateralis,seine,400,73.5,0.005,0.059568075000000005
+Canada (BC),BC,51.6788933333333,-128.118861,Pacific,North,East,Seagrass,Chordata,Hexagrammidae,Hexagrammos decagrammus,seine,250,78.5,0.008,0.0413822281946816
+Canada (BC),BC,51.6788933333333,-128.118861,Pacific,North,East,Seagrass,Chordata,Hexagrammidae,Hexagrammos lagocephalus,seine,450,112.25,0.006500000000000001,0.09382122358089089
+Canada (BC),BC,51.6788933333333,-128.118861,Pacific,North,East,Seagrass,Chordata,Liparidae,Liparis sp.,seine,450,49,0.0045000000000000005,0.00301183832366314
+Canada (BC),BC,51.6788933333333,-128.118861,Pacific,North,East,Seagrass,Chordata,Paralichthyidae,Citharichthys sordidus,seine,650,78.70454545454545,0.04633333333333334,0.2561918502753659
+Canada (BC),BC,51.6788933333333,-128.118861,Pacific,North,East,Seagrass,Chordata,Pholidae,Apodichthys flavidus,seine,450,108.0952380952381,0.0215,0.2578362200417811
+Canada (BC),BC,51.6788933333333,-128.118861,Pacific,North,East,Seagrass,Chordata,Pleuronectidae,Parophrys vetulus,seine,650,93.46666666666667,0.011333333333333334,0.12074794952688911
+Canada (BC),BC,51.6788933333333,-128.118861,Pacific,North,East,Seagrass,Chordata,Sebastidae,Sebastes caurinus,seine,400,141.5,0.0075,0.5288610724999999
+Canada (BC),BC,51.6788933333333,-128.118861,Pacific,North,East,Seagrass,Chordata,Sebastidae,Sebastes spp.,seine,650,53.31448275862069,0.495,1.1025341552179158
+Canada (BC),BC,51.6788933333333,-128.118861,Pacific,North,East,Seagrass,Chordata,Stichaeidae,Xiphister atropurpureus,seine,200,42,0.005,0.0017118172233959539
+Canada (BC),BC,51.6788933333333,-128.118861,Pacific,North,East,Seagrass,Chordata,Syngnathidae,Syngnathus leptorhynchus,seine,450,163.5,0.0045000000000000005,0.005453594736312445
+Canada (BC),BC,51.6788933333333,-128.118861,Pacific,North,East,Unvegetated,Chordata,Ammodytidae,Ammodytes hexapterus,seine,170,64.5,0.012142857142857143,0.013011265915959677
+Canada (BC),BC,51.6788933333333,-128.118861,Pacific,North,East,Unvegetated,Chordata,Paralichthyidae,Citharichthys sordidus,seine,70,90,0.02857142857142857,0.2339662181351344
+Canada (BC),BC,51.6788933333333,-128.118861,Pacific,North,East,Unvegetated,Chordata,Pleuronectidae,Psettichthys melanostictus,seine,320,63.80128205128205,0.05126984126984127,0.19699296187044085
+Canada (QC),QC,49.0885025,-68.3224425,Atlantic,North,West,Seagrass,Arthropoda,Cancridae,Cancer irroratus,seine,750,56.852222222222224,0.17333333333333334,0.8620803387572445
+Canada (QC),QC,49.0885025,-68.3224425,Atlantic,North,West,Seagrass,Arthropoda,Crangonidae,Crangon septemspinosa,seine,750,54.0593149540518,0.07866666666666666,0.09937093724310163
+Canada (QC),QC,49.0885025,-68.3224425,Atlantic,North,West,Seagrass,Chordata,Ammodytidae,Ammodytes americanus,seine,500,115.5,0.004,0.01628133644773873
+Canada (QC),QC,49.0885025,-68.3224425,Atlantic,North,West,Seagrass,Chordata,Gasterosteidae,Culaea inconstans,seine,500,42.57575757575758,0.03,0.028363558300460126
+Canada (QC),QC,49.0885025,-68.3224425,Atlantic,North,West,Seagrass,Chordata,Gasterosteidae,Gasterosteus aculeatus,seine,750,61.51572192513369,0.09733333333333334,0.3135745417485552
+Canada (QC),QC,49.0885025,-68.3224425,Atlantic,North,West,Seagrass,Chordata,Gasterosteidae,Gasterosteus wheatlandi,seine,750,68.76444444444445,0.156,0.6017594694735777
+Canada (QC),QC,49.0885025,-68.3224425,Atlantic,North,West,Seagrass,Chordata,Gasterosteidae,Pungitius pungitius,seine,250,51,0.004,0.005847256079999999
+Canada (QC),QC,49.0885025,-68.3224425,Atlantic,North,West,Seagrass,Chordata,Salangidae,Mallotus villosus,seine,250,49.76,0.64,0.1414765218420096
+Canada (QC),QC,49.0885025,-68.3224425,Atlantic,North,West,Unvegetated,Arthropoda,Cancridae,Cancer irroratus,seine,1000,43.11623188405797,0.156,0.28140588778553577
+Canada (QC),QC,49.0885025,-68.3224425,Atlantic,North,West,Unvegetated,Arthropoda,Cancridae,Crab n/a,seine,250,34,0.004,0.008836069942312109
+Canada (QC),QC,49.0885025,-68.3224425,Atlantic,North,West,Unvegetated,Arthropoda,Crangonidae,Crangon septemspinosa,seine,250,52,0.024,0.026851657690756703
+Canada (QC),QC,49.0885025,-68.3224425,Atlantic,North,West,Unvegetated,Chordata,Ammodytidae,Ammodytes americanus,seine,250,118,0.004,0.017412497830767096
+Canada (QC),QC,49.0885025,-68.3224425,Atlantic,North,West,Unvegetated,Chordata,Clupeidae,Clupea harengus,seine,250,145,0.004,0.07378769197804423
+Canada (QC),QC,49.0885025,-68.3224425,Atlantic,North,West,Unvegetated,Chordata,Gasterosteidae,Gasterosteus aculeatus,seine,750,67.12074074074074,0.07866666666666666,0.3784957704520921
+Canada (QC),QC,49.0885025,-68.3224425,Atlantic,North,West,Unvegetated,Chordata,Gasterosteidae,Gasterosteus wheatlandi,seine,500,54.3,0.012,0.049640549559130755
+Canada (QC),QC,49.0885025,-68.3224425,Atlantic,North,West,Unvegetated,Chordata,Salangidae,Mallotus villosus,seine,500,46.58333333333333,0.014,0.002469023874513518
+Chile,Chile,-30.2959268,-71.6067784,Pacific,South,East,Seagrass,Arthropoda,Epialtidae,Taliepus dentatus,seine,840,26.222549019607843,0.05065134099616858,0
+Chile,Chile,-30.2959268,-71.6067784,Pacific,South,East,Seagrass,Arthropoda,Paguridae,Pagurus perlatus,seine,250,8,0.004,0
+Chile,Chile,-30.2959268,-71.6067784,Pacific,South,East,Seagrass,Chordata,Blenniidae,Hypsoblennius sordidus,seine,290,53,0.0034482758620689655,0.008094437702899847
+Chile,Chile,-30.2959268,-71.6067784,Pacific,South,East,Seagrass,Chordata,Blenniidae,Scartichthys viridis,seine,840,68.31318082788671,0.0348735632183908,0.14947010830590177
+Chile,Chile,-30.2959268,-71.6067784,Pacific,South,East,Seagrass,Chordata,Cheilodactylidae,Cheilodactylus variegatus,seine,250,158,0.008,0.6050523898367526
+Chile,Chile,-30.2959268,-71.6067784,Pacific,South,East,Seagrass,Chordata,Haemulidae,Isacia conceptionis,seine,300,22,0.0033333333333333335,3.481114712531928e-4
+Chile,Chile,-30.2959268,-71.6067784,Pacific,South,East,Seagrass,NA,Cancridae,Romaleon setosum,seine,540,30.75,0.014344827586206896,0.06825062660526113
+Chile,Chile,-30.2959268,-71.6067784,Pacific,South,East,Unvegetated,Arthropoda,Cancridae,Cancer coronatus,seine,250,28,0.008,0.01064248353877392
+Chile,Chile,-30.2959268,-71.6067784,Pacific,South,East,Unvegetated,Arthropoda,Ovalipidae,Ovalipes trimaculatus,seine,270,11,0.003703703703703704,0
+Chile,Chile,-30.2959268,-71.6067784,Pacific,South,East,Unvegetated,Arthropoda,Paguridae,Pagurus perlatus,seine,1020,21.41826923076923,0.018703703703703705,0
+Chile,Chile,-30.2959268,-71.6067784,Pacific,South,East,Unvegetated,Chordata,Atherinopsidae,Odontesthes sp.,seine,250,141,0.008,0.1649521034893276
+Chile,Chile,-30.2959268,-71.6067784,Pacific,South,East,Unvegetated,Chordata,Channidae,Menticirrhus ophicephalus,seine,280,153,0.0035714285714285713,0.0878036915813224
+Chile,Chile,-30.2959268,-71.6067784,Pacific,South,East,Unvegetated,Chordata,Clupeidae,Ethmidium maculatum,seine,530,59.04,2.790928571428571,4.891568651254421
+Chile,Chile,-30.2959268,-71.6067784,Pacific,South,East,Unvegetated,Chordata,Engraulidae,Engraulis ringens,seine,280,76.66666666666667,0.010714285714285714,0.0431930945173227
+Chile,Chile,-30.2959268,-71.6067784,Pacific,South,East,Unvegetated,Chordata,Paralichthyidae,Paralichthys microps,seine,550,141,0.005423280423280424,0.1496280308392078
+Chile,Chile,-30.2959268,-71.6067784,Pacific,South,East,Unvegetated,Chordata,Paralichthyidae,Paralichthys sp.,seine,500,96.83333333333333,0.012,0.10192889718503571
+Chile,Chile,-30.2959268,-71.6067784,Pacific,South,East,Unvegetated,NA,Cancridae,Romaleon setosum,seine,1300,22.344444444444445,0.025622222222222223,0.0489437050612328
+Croatia,Croatia,44.20446025,15.472773125,Mediterranean,North,East,Seagrass,Arthropoda,Palaemonidae,Palaemon elegans,seine,2160,39.93265993265993,0.015548172757475083,0.00847833771623953
+Croatia,Croatia,44.20446025,15.472773125,Mediterranean,North,East,Seagrass,Arthropoda,Processidae,Processa canaliculata,seine,600,27.5,0.006666666666666667,0.052931142076706614
+Croatia,Croatia,44.20446025,15.472773125,Mediterranean,North,East,Seagrass,Chordata,Atherinidae,Atherina hepsetus,seine,2160,61.906666666666666,0.12011074197120708,0.17551907886233337
+Croatia,Croatia,44.20446025,15.472773125,Mediterranean,North,East,Seagrass,Chordata,Blenniidae,Salaria pavo,seine,2160,66.02272727272727,0.007899593946105574,0.027420159653008487
+Croatia,Croatia,44.20446025,15.472773125,Mediterranean,North,East,Seagrass,Chordata,Cyprinodontidae,Aphanius fasciatus,seine,1300,44.375,0.013571428571428571,0.018754156445276563
+Croatia,Croatia,44.20446025,15.472773125,Mediterranean,North,East,Seagrass,Chordata,Gobiidae,Gobius niger,seine,1560,62.29114971050454,0.03634551495016611,0.14866734616561791
+Croatia,Croatia,44.20446025,15.472773125,Mediterranean,North,East,Seagrass,Chordata,Gobiidae,Pomatoschistus marmoratus,seine,1300,42.85714285714286,0.02738095238095238,0.027300121235223032
+Croatia,Croatia,44.20446025,15.472773125,Mediterranean,North,East,Seagrass,Chordata,Gobiidae,Zosterisessor ophiocephalus,seine,2160,89.14697502932796,0.04831672203765228,0.75271304790406
+Croatia,Croatia,44.20446025,15.472773125,Mediterranean,North,East,Seagrass,Chordata,Labridae,Symphodus ocellatus,seine,2160,80.0772363601311,0.03935769656699889,0.24675364518349568
+Croatia,Croatia,44.20446025,15.472773125,Mediterranean,North,East,Seagrass,Chordata,Moronidae,Dicentrarchus labrax,seine,860,75,0.0011627906976744186,0.0055107751774558416
+Croatia,Croatia,44.20446025,15.472773125,Mediterranean,North,East,Seagrass,Chordata,Mugilidae,Mugil cephalus,seine,700,65,0.0014285714285714286,0.005051470447574127
+Croatia,Croatia,44.20446025,15.472773125,Mediterranean,North,East,Seagrass,Chordata,Mullidae,Mullus barbatus,seine,1300,50.55555555555556,0.008214285714285716,0.011147346696497312
+Croatia,Croatia,44.20446025,15.472773125,Mediterranean,North,East,Seagrass,Chordata,Syngnathidae,Syngnathus typhle,seine,600,120,0.005,0.003826806898687803
+Croatia,Croatia,44.20446025,15.472773125,Mediterranean,North,East,Unvegetated,Arthropoda,Palaemonidae,Palaemon elegans,seine,1220,35.34722222222222,0.020164835164835165,0.004880666845650134
+Croatia,Croatia,44.20446025,15.472773125,Mediterranean,North,East,Unvegetated,Arthropoda,Processidae,Processa canaliculata,seine,1220,31.428571428571427,0.007445054945054945,0.10629796856996936
+Croatia,Croatia,44.20446025,15.472773125,Mediterranean,North,East,Unvegetated,Chordata,Atherinidae,Atherina hepsetus,seine,1300,70.76235019509477,0.07476190476190477,0.1611295593401249
+Croatia,Croatia,44.20446025,15.472773125,Mediterranean,North,East,Unvegetated,Chordata,Blenniidae,Salaria pavo,seine,1300,60,0.005357142857142857,0.0138359375
+Croatia,Croatia,44.20446025,15.472773125,Mediterranean,North,East,Unvegetated,Chordata,Cyprinodontidae,Aphanius fasciatus,seine,520,45,0.0019230769230769232,0.0030820903506478953
+Croatia,Croatia,44.20446025,15.472773125,Mediterranean,North,East,Unvegetated,Chordata,Gobiidae,Gobius geniporus,seine,600,62.5,0.006666666666666667,0.012079947586336792
+Croatia,Croatia,44.20446025,15.472773125,Mediterranean,North,East,Unvegetated,Chordata,Gobiidae,Pomatoschistus marmoratus,seine,1820,45.69919278252612,0.09293040293040293,0.09571577543179874
+Croatia,Croatia,44.20446025,15.472773125,Mediterranean,North,East,Unvegetated,Chordata,Gobiidae,Zosterisessor ophiocephalus,seine,520,23.333333333333332,0.0057692307692307696,8.340581542339173e-4
+Croatia,Croatia,44.20446025,15.472773125,Mediterranean,North,East,Unvegetated,Chordata,Labridae,Symphodus ocellatus,seine,600,100,0.0016666666666666668,0.020438495388496025
+Croatia,Croatia,44.20446025,15.472773125,Mediterranean,North,East,Unvegetated,Chordata,Moronidae,Dicentrarchus labrax,seine,600,70,0.0016666666666666668,0.006441968090995601
+Croatia,Croatia,44.20446025,15.472773125,Mediterranean,North,East,Unvegetated,Chordata,Mugilidae,Mugil cephalus,seine,1820,67.29166666666667,0.006037851037851039,0.02077383430267034
+Croatia,Croatia,44.20446025,15.472773125,Mediterranean,North,East,Unvegetated,Chordata,Soleidae,Solea solea,seine,520,40,0.0019230769230769232,7.529712013701485e-4
+Croatia,Croatia,44.20446025,15.472773125,Mediterranean,North,East,Unvegetated,Chordata,Syngnathidae,Syngnathus typhle,seine,520,97.5,0.0038461538461538464,0.0014017760571504603
+France,France,43.447124,3.666644,Mediterranean,North,East,Seagrass,Arthropoda,Palaemonidae,Palaemon spp,seine,640,33.16666666666667,0.056249999999999994,0.01619129644381083
+France,France,43.447124,3.666644,Mediterranean,North,East,Seagrass,Chordata,Atherinidae,Atherina boyeri,seine,640,53.75,0.026562500000000003,0.05752285716564483
+France,France,43.447124,3.666644,Mediterranean,North,East,Seagrass,Chordata,Blenniidae,Salaria pavo,seine,640,74.89583333333334,0.025,0.1635369140625
+France,France,43.447124,3.666644,Mediterranean,North,East,Seagrass,Chordata,Gobiidae,Pomatoschistus marmoratus,seine,320,41.875,0.015625,0.04030283259531883
+France,France,43.447124,3.666644,Mediterranean,North,East,Seagrass,Chordata,Labridae,Symphodus tinca,seine,320,80.625,0.024999999999999998,0.18639893945306746
+France,France,43.447124,3.666644,Mediterranean,North,East,Seagrass,Chordata,Mugilidae,Liza aurata,seine,320,90,0.021875000000000002,0.14335699603509922
+France,France,43.447124,3.666644,Mediterranean,North,East,Seagrass,Chordata,Mugilidae,Liza sp.,seine,160,50,0.00625,0.007624176299547786
+France,France,43.447124,3.666644,Mediterranean,North,East,Seagrass,Chordata,Sparidae,Diplodus sargus,seine,160,85,0.00625,0.0660184375
+France,France,43.447124,3.666644,Mediterranean,North,East,Seagrass,Chordata,Sparidae,Sparus sp.,seine,160,75,0.00625,0.037177734375
+France,France,43.447124,3.666644,Mediterranean,North,East,Seagrass,Chordata,Syngnathidae,Syngnathus abaster,seine,480,90,0.00625,0.002353878013380929
+France,France,43.447124,3.666644,Mediterranean,North,East,Seagrass,Chordata,Syngnathidae,Syngnathus sp.,seine,160,106.66666666666667,0.018750000000000003,0.011603623279225955
+France,France,43.447124,3.666644,Mediterranean,North,East,Seagrass,Chordata,Syngnathidae,Syngnathus typhle,seine,320,96.25,0.025,0.009029175644508343
+France,France,43.447124,3.666644,Mediterranean,North,East,Unvegetated,Chordata,Atherinidae,Atherina boyeri,seine,310,40,0.0064516129032258064,0.004563813869386962
+France,France,43.447124,3.666644,Mediterranean,North,East,Unvegetated,Chordata,Gobiidae,Pomatoschistus marmoratus,seine,310,35.625,0.03225806451612903,0.02565079367100216
+France,France,43.447124,3.666644,Mediterranean,North,East,Unvegetated,Chordata,Mugilidae,Liza aurata,seine,310,93.75,0.03225806451612903,0.26996589558827133
+France,France,43.447124,3.666644,Mediterranean,North,East,Unvegetated,Chordata,Sparidae,Sparus sp.,seine,465,111.66666666666667,0.0064516129032258064,0.1649283064516129
+France,France,43.447124,3.666644,Mediterranean,North,East,Unvegetated,Mollusca,Sepiidae,Sepia officinalis,seine,155,50,0.0064516129032258064,0.1329958352078397
+Korea,Korea,34.7286333333333,128.6047,Pacific,North,West,Seagrass,Chordata,Acropomatidae,Acropoma japonicum,seine,287,60.76,0.16724738675958187,0.8025247755366162
+Korea,Korea,34.7286333333333,128.6047,Pacific,North,West,Seagrass,Chordata,Cottidae,Porocottus leptosomus,seine,280,67,0.0035714285714285713,0.009701143831657487
+Korea,Korea,34.7286333333333,128.6047,Pacific,North,West,Seagrass,Chordata,Cottidae,Pseudoblennius cottoides,seine,567,59.5,0.005313588850174216,0.010616489425205997
+Korea,Korea,34.7286333333333,128.6047,Pacific,North,West,Seagrass,Chordata,Embiotocidae,Ditrema temminckii,seine,567,64.08,0.10235191637630661,0.7879723772931038
+Korea,Korea,34.7286333333333,128.6047,Pacific,North,West,Seagrass,Chordata,Gobiidae,Acanthogobius flavimanus,seine,287,85.66666666666667,0.010452961672473868,0.06567977838409433
+Korea,Korea,34.7286333333333,128.6047,Pacific,North,West,Seagrass,Chordata,Gobiidae,Favonigobius gymnauchen,seine,567,63.5,0.01602787456445993,0.0776640679182937
+Korea,Korea,34.7286333333333,128.6047,Pacific,North,West,Seagrass,Chordata,Gobiidae,Pterogobius elapoides,seine,567,77.75,0.008885017421602788,0.04100737764265081
+Korea,Korea,34.7286333333333,128.6047,Pacific,North,West,Seagrass,Chordata,Hexagrammidae,Hexagrammos agrammus,seine,287,83,0.003484320557491289,0.019510439425829213
+Korea,Korea,34.7286333333333,128.6047,Pacific,North,West,Seagrass,Chordata,Hexagrammidae,Hexagrammos otakii,seine,567,73.5,0.0035278745644599305,0.02021192717770035
+Korea,Korea,34.7286333333333,128.6047,Pacific,North,West,Seagrass,Chordata,Labridae,Parajulis poecilopterus,seine,280,165,0.0035714285714285713,0.1627011498071822
+Korea,Korea,34.7286333333333,128.6047,Pacific,North,West,Seagrass,Chordata,Lateolabracidae,Lateolabrax japonicus,seine,567,54.08,0.167595818815331,1.55352687888721
+Korea,Korea,34.7286333333333,128.6047,Pacific,North,West,Seagrass,Chordata,Monacanthidae,Rudarius ercodes,seine,567,56.46969696969697,0.024869337979094075,0.11317769944983685
+Korea,Korea,34.7286333333333,128.6047,Pacific,North,West,Seagrass,Chordata,Ostraciidae,Lactoria cornuta,seine,287,18,0.003484320557491289,4.709599898248509e-4
+Korea,Korea,34.7286333333333,128.6047,Pacific,North,West,Seagrass,Chordata,Pholidae,Pholis fangi,seine,567,87.66666666666666,0.008841463414634147,0.015088197762561581
+Korea,Korea,34.7286333333333,128.6047,Pacific,North,West,Seagrass,Chordata,Sebastidae,Sebastes pachycephalus,seine,287,43,0.003484320557491289,0.006099739749926626
+Korea,Korea,34.7286333333333,128.6047,Pacific,North,West,Seagrass,Chordata,Sebastidae,Sebastiscus marmoratus,seine,280,40,0.0035714285714285713,0.0032177869576479937
+Korea,Korea,34.7286333333333,128.6047,Pacific,North,West,Seagrass,Chordata,Sillaginidae,Sillago sp.,seine,280,73,0.0035714285714285713,0.009355044646050545
+Korea,Korea,34.7286333333333,128.6047,Pacific,North,West,Seagrass,Chordata,Tetraodontidae,Arothron stellatus,seine,287,30,0.003484320557491289,0.006159126228393159
+Korea,Korea,34.7286333333333,128.6047,Pacific,North,West,Seagrass,Chordata,Tetraodontidae,Takifugu niphobles,seine,567,57.1,0.033754355400696864,0.05816423234974501
+Korea,Korea,34.7286333333333,128.6047,Pacific,North,West,Unvegetated,Chordata,Acropomatidae,Acropoma japonicum,seine,584,49.980000000000004,0.08150405787909752,0.2175359288339421
+Korea,Korea,34.7286333333333,128.6047,Pacific,North,West,Unvegetated,Chordata,Callionymidae,Repomucenus lunatus,seine,303,154.33333333333334,0.009900990099009901,0.1834440327506644
+Korea,Korea,34.7286333333333,128.6047,Pacific,North,West,Unvegetated,Chordata,Clupeidae,Konosirus punctatus,seine,303,41.5,0.013201320132013201,0.014637819010095927
+Korea,Korea,34.7286333333333,128.6047,Pacific,North,West,Unvegetated,Chordata,Cottidae,Pseudoblennius cottoides,seine,281,51,0.014234875444839857,0.01858814126706783
+Korea,Korea,34.7286333333333,128.6047,Pacific,North,West,Unvegetated,Chordata,Embiotocidae,Ditrema temminckii,seine,584,72.55,0.018926981666138144,0.20853896542399172
+Korea,Korea,34.7286333333333,128.6047,Pacific,North,West,Unvegetated,Chordata,Gobiidae,Acanthogobius flavimanus,seine,281,85,0.0071174377224199285,0.0423178443424309
+Korea,Korea,34.7286333333333,128.6047,Pacific,North,West,Unvegetated,Chordata,Gobiidae,Favonigobius gymnauchen,seine,584,79.34,0.18969850721726977,1.0817306533616253
+Korea,Korea,34.7286333333333,128.6047,Pacific,North,West,Unvegetated,Chordata,Hexagrammidae,Hexagrammos otakii,seine,584,108.5,0.0034295244471066323,0.0630459935590712
+Korea,Korea,34.7286333333333,128.6047,Pacific,North,West,Unvegetated,Chordata,Lateolabracidae,Lateolabrax japonicus,seine,584,51.70454545454545,0.03594540948756797,0.2935400735176895
+Korea,Korea,34.7286333333333,128.6047,Pacific,North,West,Unvegetated,Chordata,Monacanthidae,Rudarius ercodes,seine,281,53.2,0.01779359430604982,0.06490576207634519
+Korea,Korea,34.7286333333333,128.6047,Pacific,North,West,Unvegetated,Chordata,Ostraciidae,Lactoria cornuta,seine,281,18,0.0035587188612099642,4.810160750168406e-4
+Korea,Korea,34.7286333333333,128.6047,Pacific,North,West,Unvegetated,Chordata,Pholidae,Pholis fangi,seine,281,135.5,0.0071174377224199285,0.05865467831845448
+Korea,Korea,34.7286333333333,128.6047,Pacific,North,West,Unvegetated,Chordata,Sebastidae,Sebastiscus marmoratus,seine,584,56.25,0.005208883877711614,0.012359268200664311
+Korea,Korea,34.7286333333333,128.6047,Pacific,North,West,Unvegetated,Chordata,Sillaginidae,Sillago sp.,seine,303,117.5,0.006600660066006601,0.08448814176541854
+Korea,Korea,34.7286333333333,128.6047,Pacific,North,West,Unvegetated,Chordata,Tetraodontidae,Takifugu niphobles,seine,584,63.523809523809526,0.047108981360769533,0.11336208286292365
+Korea,Korea,34.7286333333333,128.6047,Pacific,North,West,Unvegetated,Chordata,Triglidae,Chelidonichthys kumu,seine,303,102.5,0.006600660066006601,0.0744799774701912
+Mexico (BN),Baja,31.75306775,-116.62549875,Pacific,North,East,Seagrass,Arthropoda,Penaeidae,Farfantepenaeus californiensis,seine,306,129,0.0032679738562091504,0.04019006937142637
+Mexico (BN),Baja,31.75306775,-116.62549875,Pacific,North,East,Seagrass,Arthropoda,Portunidae,Callinectes arcuatus,seine,963,44.87777777777778,0.019165560961226596,0.18143755779970785
+Mexico (BN),Baja,31.75306775,-116.62549875,Pacific,North,East,Seagrass,Arthropoda,Varunidae,Hemigrapsus oregonensis,seine,657,7.3,0.008897243107769423,0
+Mexico (BN),Baja,31.75306775,-116.62549875,Pacific,North,East,Seagrass,Chordata,Atherinopsidae,Atherinops affinis,seine,963,20.58888888888889,0.07232787851982898,0.02086087076353893
+Mexico (BN),Baja,31.75306775,-116.62549875,Pacific,North,East,Seagrass,Chordata,Atherinopsidae,Atherinopsis californiensis,seine,306,50,0.0032679738562091504,0.0035914596059676866
+Mexico (BN),Baja,31.75306775,-116.62549875,Pacific,North,East,Seagrass,Chordata,Blenniidae,Hypsoblennius gentilis,seine,657,86.5,0.005973266499582288,0.05007920832238359
+Mexico (BN),Baja,31.75306775,-116.62549875,Pacific,North,East,Seagrass,Chordata,Fundulidae,Fundulus parvipinnis,seine,963,33.013333333333335,0.07401674119940374,0.09905052751561519
+Mexico (BN),Baja,31.75306775,-116.62549875,Pacific,North,East,Seagrass,Chordata,Gobiidae,Ctenogobius sagittula,seine,306,81,0.0032679738562091504,0.010773419820688327
+Mexico (BN),Baja,31.75306775,-116.62549875,Pacific,North,East,Seagrass,Chordata,Gobiidae,Ilypnus gilberti,seine,963,31.31111111111111,0.09388503939587531,0.032397128750775966
+Mexico (BN),Baja,31.75306775,-116.62549875,Pacific,North,East,Seagrass,Chordata,Serranidae,Paralabrax maculatofasciatus,seine,657,204.5,0.005973266499582288,1.4342249357105825
+Mexico (BN),Baja,31.75306775,-116.62549875,Pacific,North,East,Seagrass,Chordata,Serranidae,Paralabrax nebulifer,seine,657,125.25,0.006098579782790309,0.1827440029573935
+Mexico (BN),Baja,31.75306775,-116.62549875,Pacific,North,East,Seagrass,Chordata,Syngnathidae,Syngnathus leptorhynchus,seine,621,58.75,0.004855275443510738,2.646762569612607e-4
+Mexico (BN),Baja,31.75306775,-116.62549875,Pacific,North,East,Unvegetated,Arthropoda,Portunidae,Callinectes arcuatus,seine,342,110,0.0029239766081871343,0.209719306036212
+Mexico (BN),Baja,31.75306775,-116.62549875,Pacific,North,East,Unvegetated,Chordata,Atherinopsidae,Atherinops affinis,seine,621,23.7,0.10423681257014591,0.04295638454327594
+Mexico (BN),Baja,31.75306775,-116.62549875,Pacific,North,East,Unvegetated,Chordata,Atherinopsidae,Atherinopsis californiensis,seine,666,63.5,0.004467186484730344,0.010557467353886036
+Mexico (BN),Baja,31.75306775,-116.62549875,Pacific,North,East,Unvegetated,Chordata,Blenniidae,Hypsoblennius gentilis,seine,666,77.55,0.010640025990903183,0.05984337310333402
+Mexico (BN),Baja,31.75306775,-116.62549875,Pacific,North,East,Unvegetated,Chordata,Engraulidae,Anchoa delicatissima,seine,963,70.5031884057971,0.1480792328745545,0.29470307193632606
+Mexico (BN),Baja,31.75306775,-116.62549875,Pacific,North,East,Unvegetated,Chordata,Fundulidae,Fundulus parvipinnis,seine,297,25.75,0.0404040404040404,0.013326224244909611
+Mexico (BN),Baja,31.75306775,-116.62549875,Pacific,North,East,Unvegetated,Chordata,Gobiidae,Ilypnus gilberti,seine,963,30.554347826086957,0.041403311871148124,0.010487401360275834
+Mexico (BN),Baja,31.75306775,-116.62549875,Pacific,North,East,Unvegetated,Chordata,Hemiramphidae,Hyporhamphus rosae,seine,324,112,0.0030864197530864196,0.047761480303666434
+Mexico (BN),Baja,31.75306775,-116.62549875,Pacific,North,East,Unvegetated,Chordata,Labridae,Halichoeres semicinctus,seine,324,123,0.0030864197530864196,0.07580040027603399
+Mexico (BN),Baja,31.75306775,-116.62549875,Pacific,North,East,Unvegetated,Chordata,Serranidae,Paralabrax maculatofasciatus,seine,297,241,0.003367003367003367,1.1687095443928908
+Mexico (BN),Baja,31.75306775,-116.62549875,Pacific,North,East,Unvegetated,Chordata,Serranidae,Paralabrax nebulifer,seine,621,128.75,0.004769921436588103,0.1491107360549944
+Mexico (BN),Baja,31.75306775,-116.62549875,Pacific,North,East,Unvegetated,Chordata,Syngnathidae,Syngnathus leptorhynchus,seine,621,72.16666666666666,0.006313131313131313,6.717351049589663e-4
+Norway,Norway,67.214334,15.007534,Atlantic,North,East,Seagrass,Arthropoda,Crangonidae,Crangon crangon,seine,990,31.595959595959595,0.02074570590699623,0.00643377079583286
+Norway,Norway,67.214334,15.007534,Atlantic,North,East,Seagrass,Chordata,Cyclopteridae,Cyclopterus lumpus,seine,350,15.5,0.005714285714285714,0.001508784878175136
+Norway,Norway,67.214334,15.007534,Atlantic,North,East,Seagrass,Chordata,Gadidae,Gadus morhua,seine,350,49,0.002857142857142857,0.0027556710244585362
+Norway,Norway,67.214334,15.007534,Atlantic,North,East,Seagrass,Chordata,Gadidae,Pollachius virens,seine,990,42.376666666666665,0.07212214308988503,0.0521539793316597
+Norway,Norway,67.214334,15.007534,Atlantic,North,East,Seagrass,Chordata,Gasterosteidae,Gasterosteus aculeatus,seine,990,33.083333333333336,0.010123353349159802,0.006060554105624976
+Norway,Norway,67.214334,15.007534,Atlantic,North,East,Seagrass,Chordata,Gasterosteidae,Spinachia spinachia,seine,990,45.666666666666664,0.004113019596890565,0.004881080768186356
+Norway,Norway,67.214334,15.007534,Atlantic,North,East,Seagrass,Chordata,Gobiidae,Pomatoschistus sp.,seine,660,35,0.013778801843317971,0.00975855197417118
+Norway,Norway,67.214334,15.007534,Atlantic,North,East,Seagrass,Chordata,Pholidae,Pholis gunnellus,seine,350,100,0.002857142857142857,0.012805614132546302
+Norway,Norway,67.214334,15.007534,Atlantic,North,East,Seagrass,Chordata,Pleuronectidae,Pleuronectes platessa,seine,350,31.5,0.005714285714285714,0.0017312418647497968
+Norway,Norway,67.214334,15.007534,Atlantic,North,East,Unvegetated,Arthropoda,Cancridae,Carcinus maenas,seine,580,38,0.0017241379310344827,0.02531222168684772
+Norway,Norway,67.214334,15.007534,Atlantic,North,East,Unvegetated,Arthropoda,Crangonidae,Crangon crangon,seine,1510,27.22222222222222,0.009189016602809706,0.0018452797016673254
+Norway,Norway,67.214334,15.007534,Atlantic,North,East,Unvegetated,Chordata,Gadidae,Pollachius virens,seine,580,56.333333333333336,0.005172413793103448,0.009108230611813614
+Norway,Norway,67.214334,15.007534,Atlantic,North,East,Unvegetated,Chordata,Gobiidae,Pomatoschistus sp.,seine,1510,22.441904761904762,0.03990261813537675,0.006740434164911636
+Norway,Norway,67.214334,15.007534,Atlantic,North,East,Unvegetated,Chordata,Pleuronectidae,Pleuronectes platessa,seine,1510,38.076388888888886,0.016130268199233716,0.0057212299843755225
+USA (AK),AK,58.60856,-134.931805,Pacific,North,East,Seagrass,Chordata,Agonidae,Blepsias cirrhosus,seine,200,78,0.01,0.0450178745714019
+USA (AK),AK,58.60856,-134.931805,Pacific,North,East,Seagrass,Chordata,Aulorhynchidae,Aulorhynchus flavidus,seine,300,79.51666666666667,0.05,0.023141809978827296
+USA (AK),AK,58.60856,-134.931805,Pacific,North,East,Seagrass,Chordata,Cottidae,Leptocottus armatus,seine,200,174.58333333333331,0.034999999999999996,8.550955291900118
+USA (AK),AK,58.60856,-134.931805,Pacific,North,East,Seagrass,Chordata,Cottidae,Myoxocephalus polyacanthocephalus,seine,200,47.16666666666667,0.02,0.04859393657950879
+USA (AK),AK,58.60856,-134.931805,Pacific,North,East,Seagrass,Chordata,Cottidae,Oligocottus maculosus,seine,200,46,0.015,0.01424171093628225
+USA (AK),AK,58.60856,-134.931805,Pacific,North,East,Seagrass,Chordata,Gasterosteidae,Gasterosteus aculeatus,seine,200,25.5,0.01,0.001930036460693541
+USA (AK),AK,58.60856,-134.931805,Pacific,North,East,Seagrass,Chordata,Pholidae,Pholis laeta,seine,200,64,0.02,0.08722463858109344
+USA (AK),AK,58.60856,-134.931805,Pacific,North,East,Seagrass,Chordata,Pleuronectidae,Lepidopsetta sp.,seine,200,50.266666666666666,0.065,0.07617482590639399
+USA (AK),AK,58.60856,-134.931805,Pacific,North,East,Seagrass,Chordata,Pleuronectidae,Limanda aspera,seine,100,43,0.01,0.015768761252513176
+USA (AK),AK,58.60856,-134.931805,Pacific,North,East,Seagrass,Chordata,Pleuronectidae,Platichthys stellatus,seine,100,44,0.01,0.01043057046256625
+USA (AK),AK,58.60856,-134.931805,Pacific,North,East,Seagrass,Chordata,Syngnathidae,Syngnathus leptorhynchus,seine,200,104.7,0.08,0.04477642465272013
+USA (AK),AK,58.60856,-134.931805,Pacific,North,East,Seagrass,NA,Gadidae,Gadus chalcogrammus,seine,100,80,0.01,0.025119172385534724
+USA (AK),AK,58.60856,-134.931805,Pacific,North,East,Unvegetated,Chordata,Agonidae,Blepsias cirrhosus,seine,100,74,0.01,0.037700097480198626
+USA (AK),AK,58.60856,-134.931805,Pacific,North,East,Unvegetated,Chordata,Cottidae,Leptocottus armatus,seine,300,163.33333333333334,0.013333333333333334,1.4762139979987654
+USA (AK),AK,58.60856,-134.931805,Pacific,North,East,Unvegetated,Chordata,Pleuronectidae,Lepidopsetta sp.,seine,200,49,0.045,0.07541899033292056
+USA (AK),AK,58.60856,-134.931805,Pacific,North,East,Unvegetated,Chordata,Pleuronectidae,Limanda aspera,seine,100,41.75,0.04,0.05909478025609195
+USA (AK),AK,58.60856,-134.931805,Pacific,North,East,Unvegetated,Chordata,Syngnathidae,Syngnathus leptorhynchus,seine,100,74,0.01,0.0010304643256195233
+USA (CA),CA,32.76524175,-117.2465335,Pacific,North,East,Seagrass,Arthropoda,Lysmatidae,Lysmata californica,seine,365.76,3,0.0027340332458442697,0
+USA (CA),CA,32.76524175,-117.2465335,Pacific,North,East,Seagrass,Arthropoda,Penaeidae,Penaeus californicus,seine,740.664,15.166666666666668,0.008102074130977532,0.03746037215541724
+USA (CA),CA,32.76524175,-117.2465335,Pacific,North,East,Seagrass,Arthropoda,Portunidae,Portunus xantusii,seine,1143,80.28062678062678,0.024483035333813134,2.243389646176998
+USA (CA),CA,32.76524175,-117.2465335,Pacific,North,East,Seagrass,Chordata,Atherinopsidae,Atherinops affinis,seine,1143,83.75777777777778,0.44891088078143965,2.2855788093131157
+USA (CA),CA,32.76524175,-117.2465335,Pacific,North,East,Seagrass,Chordata,Belonidae,Strongylura exilis,seine,365.76,101,0.0027340332458442697,0.004359377815680459
+USA (CA),CA,32.76524175,-117.2465335,Pacific,North,East,Seagrass,Chordata,Blenniidae,Hypsoblennius gentilis,seine,768.096,88,0.0026097590073968025,0.018997327819325074
+USA (CA),CA,32.76524175,-117.2465335,Pacific,North,East,Seagrass,Chordata,Clinidae,Heterostichus rostratus,seine,1143,72.5,0.02675432385438147,0.09795763355558064
+USA (CA),CA,32.76524175,-117.2465335,Pacific,North,East,Seagrass,Chordata,Cottidae,Leptocottus armatus,seine,365.76,102,0.0027340332458442697,0.07640403009577357
+USA (CA),CA,32.76524175,-117.2465335,Pacific,North,East,Seagrass,Chordata,Embiotocidae,Cymatogaster aggregata,seine,1143,70.28,0.21851250485780926,1.9639357975571656
+USA (CA),CA,32.76524175,-117.2465335,Pacific,North,East,Seagrass,Chordata,Gobiidae,Lepidogobius lepidus,seine,1143,22.830000000000002,0.08381943757399875,0.010292876288289952
+USA (CA),CA,32.76524175,-117.2465335,Pacific,North,East,Seagrass,Chordata,Paralichthyidae,Paralichthys californicus,seine,402.336,93,0.0024854847689493357,0.019065431811565614
+USA (CA),CA,32.76524175,-117.2465335,Pacific,North,East,Seagrass,Chordata,Pleuronectidae,Platichthys stellatus,seine,740.664,124.5,0.0040343661310628855,0.11221056380151054
+USA (CA),CA,32.76524175,-117.2465335,Pacific,North,East,Seagrass,Chordata,Rhinobatidae,Rhinobatos productus,seine,402.336,540,0.0024854847689493357,0
+USA (CA),CA,32.76524175,-117.2465335,Pacific,North,East,Seagrass,Chordata,Sciaenidae,Umbrina roncador,seine,374.904,132.8,0.013336747540703754,0.36501672279899394
+USA (CA),CA,32.76524175,-117.2465335,Pacific,North,East,Seagrass,Chordata,Serranidae,Paralabrax clathratus,seine,768.096,97.83333333333334,0.005343792253241073,0.07299089713572735
+USA (CA),CA,32.76524175,-117.2465335,Pacific,North,East,Seagrass,Chordata,Serranidae,Paralabrax maculatofasciatus,seine,1143,87,0.006169256097237661,0.11525901729451277
+USA (CA),CA,32.76524175,-117.2465335,Pacific,North,East,Seagrass,Chordata,Serranidae,Paralabrax nebulifer,seine,1143,110.65833333333333,0.15712911394205806,3.255575881312758
+USA (CA),CA,32.76524175,-117.2465335,Pacific,North,East,Seagrass,Chordata,Syngnathidae,Syngnathus leptorhynchus,seine,768.096,80.55,0.00932056788356001,0.001689479884547969
+USA (CA),CA,32.76524175,-117.2465335,Pacific,North,East,Unvegetated,Arthropoda,Portunidae,Portunus xantusii,seine,1216.152,70.4,0.009040353873894418,0.4728514713023009
+USA (CA),CA,32.76524175,-117.2465335,Pacific,North,East,Unvegetated,Chordata,Atherinopsidae,Atherinops affinis,seine,1216.152,69.20126984126983,0.2504347044338756,2.166373232300858
+USA (CA),CA,32.76524175,-117.2465335,Pacific,North,East,Unvegetated,Chordata,Blenniidae,Hypsoblennius gentilis,seine,320.04,28,0.003124609423822022,7.517917166785415e-4
+USA (CA),CA,32.76524175,-117.2465335,Pacific,North,East,Unvegetated,Chordata,Clinidae,Heterostichus rostratus,seine,1216.152,69.13333333333334,0.006080197577641976,0.04197204165537665
+USA (CA),CA,32.76524175,-117.2465335,Pacific,North,East,Unvegetated,Chordata,Cottidae,Leptocottus armatus,seine,320.04,105,0.003124609423822022,0.09475661826948503
+USA (CA),CA,32.76524175,-117.2465335,Pacific,North,East,Unvegetated,Chordata,Embiotocidae,Cymatogaster aggregata,seine,1216.152,63.666666666666664,0.003649945803558181,0.027361967774861475
+USA (CA),CA,32.76524175,-117.2465335,Pacific,North,East,Unvegetated,Chordata,Gobiidae,Lepidogobius lepidus,seine,1216.152,23.54222222222222,0.13549567269003657,0.018199503823856985
+USA (CA),CA,32.76524175,-117.2465335,Pacific,North,East,Unvegetated,Chordata,Paralichthyidae,Paralichthys californicus,seine,1216.152,154.16666666666666,0.004609255714380731,0.1950363733703034
+USA (CA),CA,32.76524175,-117.2465335,Pacific,North,East,Unvegetated,Chordata,Pleuronectidae,Platichthys stellatus,seine,896.112,120.75,0.006667203880216728,0.18603482273158833
+USA (CA),CA,32.76524175,-117.2465335,Pacific,North,East,Unvegetated,Chordata,Serranidae,Paralabrax maculatofasciatus,seine,320.04,115,0.006249218847644044,0.25230663677715504
+USA (CA),CA,32.76524175,-117.2465335,Pacific,North,East,Unvegetated,Chordata,Serranidae,Paralabrax nebulifer,seine,1216.152,117.75555555555556,0.01120565338689389,0.30439469746014935
+USA (CA),CA,32.76524175,-117.2465335,Pacific,North,East,Unvegetated,Chordata,Syngnathidae,Syngnathus leptorhynchus,seine,347.472,135,0.002877929732467652,0.0019353144503764825
+USA (CA2),CA2,35.3498195,-120.8443089,Pacific,North,East,Seagrass,Chordata,Atherinopsidae,Atherinops affinis,seine,630,472.8888888888889,0.04079836290752109,47.91473062943745
+USA (CA2),CA2,35.3498195,-120.8443089,Pacific,North,East,Seagrass,Chordata,Blenniidae,Hypsoblennius gentilis,seine,230,960,0.004347826086956522,39.144990308424305
+USA (CA2),CA2,35.3498195,-120.8443089,Pacific,North,East,Seagrass,Chordata,Embiotocidae,Cymatogaster aggregata,seine,630,540.5333333333333,0.21979555032283987,1112.264340039716
+USA (CA2),CA2,35.3498195,-120.8443089,Pacific,North,East,Seagrass,Chordata,Embiotocidae,Embiotoca sp.,seine,235,780,0.012765957446808512,206.88774334407321
+USA (CA2),CA2,35.3498195,-120.8443089,Pacific,North,East,Seagrass,Chordata,Embiotocidae,Embiotocidae spp.,seine,165,532.1428571428571,0.08484848484848485,435.1815365120847
+USA (CA2),CA2,35.3498195,-120.8443089,Pacific,North,East,Seagrass,Chordata,Embiotocidae,Micrometrus minimus,seine,465,522.6,0.05749306197964848,274.2336088091475
+USA (CA2),CA2,35.3498195,-120.8443089,Pacific,North,East,Seagrass,Chordata,Embiotocidae,Phanerodon furcatus,seine,235,370,0.00425531914893617,3.403006717508826
+USA (CA2),CA2,35.3498195,-120.8443089,Pacific,North,East,Seagrass,Chordata,Gobiidae,Clevelandia ios,seine,400,411.45833333333337,0.07485493230174081,42.447226719387125
+USA (CA2),CA2,35.3498195,-120.8443089,Pacific,North,East,Seagrass,Chordata,Sebastidae,Sebastes spp.,seine,400,20,0.16511927788523534,0.018757549967762736
+USA (CA2),CA2,35.3498195,-120.8443089,Pacific,North,East,Seagrass,Chordata,Syngnathidae,Syngnathus leptorhynchus,seine,630,1488.3333333333333,0.009235743185789439,15.030851435548488
+USA (CA2),CA2,35.3498195,-120.8443089,Pacific,North,East,Unvegetated,Chordata,Atherinopsidae,Atherinops affinis,seine,834,914.9239766081871,0.2139014580191051,1029.0866685822914
+USA (CA2),CA2,35.3498195,-120.8443089,Pacific,North,East,Unvegetated,Chordata,Clinidae,Heterostichus rostratus,seine,340,1050,0.0029411764705882353,23.11216494928426
+USA (CA2),CA2,35.3498195,-120.8443089,Pacific,North,East,Unvegetated,Chordata,Cottidae,Artedius lateralis,seine,600,821.875,0.019796380090497737,146.54727401666236
+USA (CA2),CA2,35.3498195,-120.8443089,Pacific,North,East,Unvegetated,Chordata,Cottidae,Leptocottus armatus,seine,574,842.5,0.007214680744092509,103.54502611858098
+USA (CA2),CA2,35.3498195,-120.8443089,Pacific,North,East,Unvegetated,Chordata,Cottidae,Scorpaenichthys marmoratus,seine,260,990,0.0038461538461538464,32.84088923076923
+USA (CA2),CA2,35.3498195,-120.8443089,Pacific,North,East,Unvegetated,Chordata,Embiotocidae,Cymatogaster aggregata,seine,834,552.8594771241831,0.05065359477124183,335.827709653092
+USA (CA2),CA2,35.3498195,-120.8443089,Pacific,North,East,Unvegetated,Chordata,Embiotocidae,Embiotoca sp.,seine,494,757.5,0.00811965811965812,123.65355132049817
+USA (CA2),CA2,35.3498195,-120.8443089,Pacific,North,East,Unvegetated,Chordata,Embiotocidae,Embiotocidae sp.,seine,260,400,0.0038461538461538464,5.387422225009818
+USA (CA2),CA2,35.3498195,-120.8443089,Pacific,North,East,Unvegetated,Chordata,Embiotocidae,Micrometrus minimus,seine,574,735,0.0036073403720462546,58.019642523618636
+USA (CA2),CA2,35.3498195,-120.8443089,Pacific,North,East,Unvegetated,Chordata,Gobiidae,Clevelandia ios,seine,834,415.27777777777777,0.012435059493883023,9.313680158600345
+USA (CA2),CA2,35.3498195,-120.8443089,Pacific,North,East,Unvegetated,Chordata,Gobiidae,Gobiidae sp.,seine,234,570,0.004273504273504274,9.202928707444947
+USA (CA2),CA2,35.3498195,-120.8443089,Pacific,North,East,Unvegetated,Chordata,Sebastidae,Sebastes spp.,seine,234,20,0.10683760683760685,0.012136752136752138
+USA (CA2),CA2,35.3498195,-120.8443089,Pacific,North,East,Unvegetated,Chordata,Syngnathidae,Syngnathus leptorhynchus,seine,494,1842.5,0.005982905982905983,19.141368618320612
+USA (CA3),CA3,36.809972,-121.7826685,Pacific,North,East,Seagrass,Arthropoda,Cancridae,Metacarcinus magister,seine,250,20,0.004,0.004757074934947116
+USA (CA3),CA3,36.809972,-121.7826685,Pacific,North,East,Seagrass,Arthropoda,Crangonidae,Crangon sp.,seine,250,30,0.004,9.250424177760534e-4
+USA (CA3),CA3,36.809972,-121.7826685,Pacific,North,East,Seagrass,Arthropoda,Varunidae,Hemigrapsus oregonensis,seine,250,20,0.004,0
+USA (CA3),CA3,36.809972,-121.7826685,Pacific,North,East,Seagrass,Chordata,Cottidae,Artedius harringtoni,seine,250,66,0.004,0.010119859200000001
+USA (CA3),CA3,36.809972,-121.7826685,Pacific,North,East,Seagrass,Chordata,Cottidae,Leptocottus armatus,seine,500,78.75,0.018000000000000002,0.3023176918139791
+USA (CA3),CA3,36.809972,-121.7826685,Pacific,North,East,Seagrass,Chordata,Cottidae,Scorpaenichthys marmoratus,seine,250,81,0.004,0.0187067232
+USA (CA3),CA3,36.809972,-121.7826685,Pacific,North,East,Seagrass,Chordata,Embiotocidae,Cymatogaster aggregata,seine,250,41,0.004,0.008270519999999998
+USA (CA3),CA3,36.809972,-121.7826685,Pacific,North,East,Seagrass,Chordata,Embiotocidae,Embiotoca jacksoni,seine,250,73.4,0.02,0.25129956
+USA (CA3),CA3,36.809972,-121.7826685,Pacific,North,East,Seagrass,Chordata,Embiotocidae,Embiotoca lateralis,seine,250,47,0.004,0.01245876
+USA (CA3),CA3,36.809972,-121.7826685,Pacific,North,East,Seagrass,Chordata,Embiotocidae,Hypsurus caryi,seine,250,35,0.012,0.016342199999999998
+USA (CA3),CA3,36.809972,-121.7826685,Pacific,North,East,Seagrass,Chordata,Embiotocidae,Rhacochilus vacca,seine,500,47.6875,0.018000000000000002,0.07740528
+USA (CA3),CA3,36.809972,-121.7826685,Pacific,North,East,Seagrass,Chordata,Gobiidae,Clevelandia ios,seine,250,30,0.004,9.937976678063792e-4
+USA (CA3),CA3,36.809972,-121.7826685,Pacific,North,East,Unvegetated,Arthropoda,Cancridae,Metacarcinus magister,seine,500,28,0.004,0.014427737205637956
+USA (CA3),CA3,36.809972,-121.7826685,Pacific,North,East,Unvegetated,Chordata,Atherinopsidae,Atherinops affinis,seine,250,74,0.004,0.023834128801867298
+USA (CA3),CA3,36.809972,-121.7826685,Pacific,North,East,Unvegetated,Chordata,Clupeidae,Sardinops sagax,seine,250,75,0.004,0.014369353920590845
+USA (CA3),CA3,36.809972,-121.7826685,Pacific,North,East,Unvegetated,Chordata,Embiotocidae,Cymatogaster aggregata,seine,750,59.833333333333336,0.006666666666666667,0.05989504
+USA (CA3),CA3,36.809972,-121.7826685,Pacific,North,East,Unvegetated,Chordata,Embiotocidae,Embiotoca jacksoni,seine,250,58.5,0.008,0.06246396
+USA (CA3),CA3,36.809972,-121.7826685,Pacific,North,East,Unvegetated,Chordata,Embiotocidae,Hypsurus caryi,seine,250,52,0.004,0.01687296
+USA (CA3),CA3,36.809972,-121.7826685,Pacific,North,East,Unvegetated,Chordata,Embiotocidae,Rhacochilus toxotes,seine,250,45,0.004,0.010934999999999999
+USA (CA3),CA3,36.809972,-121.7826685,Pacific,North,East,Unvegetated,Chordata,Gobiidae,Clevelandia ios,seine,250,30,0.004,9.937976678063792e-4
+USA (CA3),CA3,36.809972,-121.7826685,Pacific,North,East,Unvegetated,Chordata,Gobiidae,Gobiidae sp.,seine,250,30.4,0.02,0.0069577641949600455
+USA (DE),DE,38.472539,-75.9491,Atlantic,North,West,Unvegetated,Arthropoda,Palaemonidae,Palaemonetes pugio,seine,100,20,0.26,0.018526335197857978
+USA (DE),DE,38.472539,-75.9491,Atlantic,North,West,Unvegetated,Arthropoda,Portunidae,Callinectes sapidus,seine,100,33.333333333333336,0.03,0.4316059698709051
+USA (DE),DE,38.472539,-75.9491,Atlantic,North,West,Unvegetated,Chordata,Atherinopsidae,Menidia menidia,seine,100,63.75,0.08,0.1481486157984246
+USA (DE),DE,38.472539,-75.9491,Atlantic,North,West,Unvegetated,Chordata,Cottidae,Cottus bairdi,seine,100,75,0.02,0.07857166762589812
+USA (MA),MA,42.420327,-70.915676,Atlantic,North,West,Seagrass,Chordata,Cyclopteridae,Cyclopterus lumpus,seine,63,15,0.015873015873015872,0.003068752269165934
+USA (MA),MA,42.420327,-70.915676,Atlantic,North,West,Seagrass,Chordata,Gadidae,Gadus morhua,seine,63,43,0.015873015873015872,0.01024780551452258
+USA (MA),MA,42.420327,-70.915676,Atlantic,North,West,Seagrass,Chordata,Gadidae,Pollachius virens,seine,126,55,0.007936507936507936,0.012769130591069803
+USA (MA),MA,42.420327,-70.915676,Atlantic,North,West,Seagrass,Chordata,Phycidae,Urophycis regia,seine,126,115,0.007936507936507936,0.115087753159535
+USA (MA),MA,42.420327,-70.915676,Atlantic,North,West,Unvegetated,Chordata,Cottidae,Myoxocephalus aenaeus,seine,235.79999999999998,90,0.004240882103477524,0.03361382747067677
+USA (MA),MA,42.420327,-70.915676,Atlantic,North,West,Unvegetated,Chordata,Phycidae,Urophycis regia,seine,249.29999999999998,130,0.004011231448054553,0.08558560809987178
+USA (MA),MA,42.420327,-70.915676,Atlantic,North,West,Unvegetated,Chordata,Pleuronectidae,Pseudopleuronectes americanus,seine,674.0999999999999,100,0.007341627683164139,0.1260264828107966
+USA (NC),NC,34.69075,-76.62222,Atlantic,North,West,Seagrass,Arthropoda,Penaeidae,Farfantepenaeus aztecus,seine,892.5,49.644444444444446,0.04054746751375965,0.02550448916484693
+USA (NC),NC,34.69075,-76.62222,Atlantic,North,West,Seagrass,Arthropoda,Portunidae,Arenaeus cribrarius,seine,619.5,19.25,0.004833649496570845,0.005650418179395945
+USA (NC),NC,34.69075,-76.62222,Atlantic,North,West,Seagrass,Arthropoda,Portunidae,Callinectes sapidus,seine,892.5,55.18809523809524,0.026521855173540568,1.692595823063145
+USA (NC),NC,34.69075,-76.62222,Atlantic,North,West,Seagrass,Chordata,Batrachoididae,Opsanus tau,seine,273,126,0.007326007326007326,0.16035312096802629
+USA (NC),NC,34.69075,-76.62222,Atlantic,North,West,Seagrass,Chordata,Blenniidae,Chasmodes saburrae,seine,311.5,33,0.0032102728731942215,8.548737399678972e-4
+USA (NC),NC,34.69075,-76.62222,Atlantic,North,West,Seagrass,Chordata,Diodontidae,Chilomycterus schoepfi,seine,311.5,145,0.0032102728731942215,0.3217863302438049
+USA (NC),NC,34.69075,-76.62222,Atlantic,North,West,Seagrass,Chordata,Fundulidae,Fundulus heteroclitus,seine,311.5,82.5,0.006420545746388443,0.06408431006810164
+USA (NC),NC,34.69075,-76.62222,Atlantic,North,West,Seagrass,Chordata,Gerreidae,Eucinostomus harengulus,seine,892.5,48.364444444444445,0.08939094613251916,0.26044030463083145
+USA (NC),NC,34.69075,-76.62222,Atlantic,North,West,Seagrass,Chordata,Gobiidae,Gobiosoma bosc,seine,273,42,0.003663003663003663,0.0019207662966603486
+USA (NC),NC,34.69075,-76.62222,Atlantic,North,West,Seagrass,Chordata,Gobiidae,Gobiosoma sp.,seine,311.5,32.5,0.006420545746388443,0.00166850483512184
+USA (NC),NC,34.69075,-76.62222,Atlantic,North,West,Seagrass,Chordata,Haemulidae,Orthopristis chrysoptera,seine,581,111,0.005286380286380286,0.16727905550314168
+USA (NC),NC,34.69075,-76.62222,Atlantic,North,West,Seagrass,Chordata,Monacanthidae,Stephanolepis hispidus,seine,581,74.83333333333334,0.010364635364635364,0.1229870670968526
+USA (NC),NC,34.69075,-76.62222,Atlantic,North,West,Seagrass,Chordata,Sciaenidae,Bairdiella chrysoura,seine,308,99,0.003246753246753247,0.06438758073918013
+USA (NC),NC,34.69075,-76.62222,Atlantic,North,West,Seagrass,Chordata,Sciaenidae,Leiostomus xanthurus,seine,584.5,94,0.003436638268098942,0.030836354598011373
+USA (NC),NC,34.69075,-76.62222,Atlantic,North,West,Seagrass,Chordata,Sparidae,Diplodus holbrookii,seine,584.5,69.66666666666666,0.007099641931102605,0.030516095429846152
+USA (NC),NC,34.69075,-76.62222,Atlantic,North,West,Seagrass,Chordata,Sparidae,Lagodon rhomboides,seine,892.5,76.98666666666666,0.30730224831348424,1.7109351744481671
+USA (NC),NC,34.69075,-76.62222,Atlantic,North,West,Seagrass,Chordata,Sphyraenidae,Sphyraena borealis,seine,308,55,0.003246753246753247,0.003280484330214387
+USA (NC),NC,34.69075,-76.62222,Atlantic,North,West,Seagrass,Chordata,Syngnathidae,Hippocampus sp.,seine,311.5,80,0.0032102728731942215,0.0039324359566993055
+USA (NC),NC,34.69075,-76.62222,Atlantic,North,West,Seagrass,Chordata,Syngnathidae,Syngnathus sp.,seine,892.5,148.08333333333334,0.007036346923987373,0.010427791685600117
+USA (NC),NC,34.69075,-76.62222,Atlantic,North,West,Seagrass,NA,Hemiramphidae,Hyporhamphus sajori,seine,308,184,0.003246753246753247,0.042929187727641406
+USA (NC),NC,34.69075,-76.62222,Atlantic,North,West,Unvegetated,Arthropoda,Penaeidae,Farfantepenaeus aztecus,seine,511,29.666666666666664,0.00975975975975976,0.0014849620034414293
+USA (NC),NC,34.69075,-76.62222,Atlantic,North,West,Unvegetated,Arthropoda,Portunidae,Callinectes sapidus,seine,170.51999999999998,97,0.005864414731409806,0.9951541263459771
+USA (NC),NC,34.69075,-76.62222,Atlantic,North,West,Unvegetated,Chordata,Atherinopsidae,Menidia menidia,seine,511,61.85,0.03292578292578292,0.0582984586582113
+USA (NC),NC,34.69075,-76.62222,Atlantic,North,West,Unvegetated,Chordata,Batrachoididae,Opsanus tau,seine,429.52,116.5,0.004862709296206833,0.08254955613762868
+USA (NC),NC,34.69075,-76.62222,Atlantic,North,West,Unvegetated,Chordata,Fundulidae,Fundulus heteroclitus,seine,259,75,0.003861003861003861,0.02747464367120646
+USA (NC),NC,34.69075,-76.62222,Atlantic,North,West,Unvegetated,Chordata,Gerreidae,Eucinostomus harengulus,seine,511,47.60714285714286,0.02145002145002145,0.06667971659340038
+USA (NC),NC,34.69075,-76.62222,Atlantic,North,West,Unvegetated,Chordata,Haemulidae,Orthopristis chrysoptera,seine,511,87.5,0.003914628914628914,0.0877256894472538
+USA (NC),NC,34.69075,-76.62222,Atlantic,North,West,Unvegetated,Chordata,Monacanthidae,Stephanolepis hispidus,seine,170.51999999999998,63,0.005864414731409806,0.03622419809200605
+USA (NC),NC,34.69075,-76.62222,Atlantic,North,West,Unvegetated,Chordata,Sciaenidae,Leiostomus xanthurus,seine,252,55,0.003968253968253968,0.00687469240947832
+USA (NC),NC,34.69075,-76.62222,Atlantic,North,West,Unvegetated,Chordata,Sparidae,Lagodon rhomboides,seine,681.52,81.07539682539682,0.03074643961343469,0.20237959046439633
+USA (NC),NC,34.69075,-76.62222,Atlantic,North,West,Unvegetated,Chordata,Syngnathidae,Syngnathus sp.,seine,252,146,0.003968253968253968,0.005539010770937669
+USA (NC),NC,34.69075,-76.62222,Atlantic,North,West,Unvegetated,NA,Hemiramphidae,Hyporhamphus sajori,seine,170.51999999999998,135,0.005864414731409806,0.0282997413513067
+USA (NC2),NC2,34.7004,-76.8335,Atlantic,North,West,Seagrass,Chordata,Haemulidae,Orthopristis chrysoptera,seine,100,100,0.01,0.24294075860931946
+USA (NC2),NC2,34.7004,-76.8335,Atlantic,North,West,Seagrass,Chordata,Sparidae,Lagodon rhomboides,seine,200,76.39495798319328,0.12000000000000001,0.6227056556109747
+USA (OR),OR,43.315198,-124.3206435,Pacific,North,East,Seagrass,Arthropoda,Cancridae,Metacarcinus magister,seine,600,62.375,0.008333333333333333,0.5796878370580085
+USA (OR),OR,43.315198,-124.3206435,Pacific,North,East,Seagrass,Arthropoda,Epialtidae,Pugettia producta,seine,300,14,0.0033333333333333335,0
+USA (OR),OR,43.315198,-124.3206435,Pacific,North,East,Seagrass,Arthropoda,Varunidae,Hemigrapsus oregonensis,seine,600,14.5,0.011666666666666667,0
+USA (OR),OR,43.315198,-124.3206435,Pacific,North,East,Seagrass,Chordata,Atherinopsidae,Atherinops affinis,seine,300,88,0.0033333333333333335,0.03062988857817004
+USA (OR),OR,43.315198,-124.3206435,Pacific,North,East,Seagrass,Chordata,Cottidae,Leptocottus armatus,seine,600,74.28571428571428,0.015000000000000001,0.20033584479506816
+USA (OR),OR,43.315198,-124.3206435,Pacific,North,East,Seagrass,Chordata,Embiotocidae,Cymatogaster aggregata,seine,900,52.52611111111111,0.11111111111111112,0.5761118398698667
+USA (OR),OR,43.315198,-124.3206435,Pacific,North,East,Seagrass,Chordata,Embiotocidae,Phanerodon furcatus,seine,900,78.41666666666667,0.02666666666666667,0.20674242489423408
+USA (OR),OR,43.315198,-124.3206435,Pacific,North,East,Seagrass,Chordata,Embiotocidae,Rhacochilus vacca,seine,900,79.16666666666667,0.006666666666666667,0.11308526666666667
+USA (OR),OR,43.315198,-124.3206435,Pacific,North,East,Seagrass,Chordata,Pleuronectidae,Parophrys vetulus,seine,300,66,0.0033333333333333335,0.01409554274472237
+USA (OR),OR,43.315198,-124.3206435,Pacific,North,East,Seagrass,Chordata,Syngnathidae,Syngnathus leptorhynchus,seine,300,129.5,0.006666666666666667,0.005766912437616054
+USA (OR),OR,43.315198,-124.3206435,Pacific,North,East,Unvegetated,Arthropoda,Cancridae,Metacarcinus magister,seine,900,56.62407407407407,0.061111111111111116,1.4725612974444608
+USA (OR),OR,43.315198,-124.3206435,Pacific,North,East,Unvegetated,Arthropoda,Varunidae,Hemigrapsus oregonensis,seine,900,17.84871001031992,0.05666666666666667,0
+USA (OR),OR,43.315198,-124.3206435,Pacific,North,East,Unvegetated,Chordata,Atherinopsidae,Atherinops affinis,seine,300,89.71428571428571,0.04666666666666667,0.5471822910170749
+USA (OR),OR,43.315198,-124.3206435,Pacific,North,East,Unvegetated,Chordata,Cottidae,Cottus asper,seine,300,70,0.0033333333333333335,0.010389453062934748
+USA (OR),OR,43.315198,-124.3206435,Pacific,North,East,Unvegetated,Chordata,Cottidae,Leptocottus armatus,seine,900,74.73863636363636,0.05444444444444445,0.6908606739004394
+USA (OR),OR,43.315198,-124.3206435,Pacific,North,East,Unvegetated,Chordata,Embiotocidae,Cymatogaster aggregata,seine,900,57.00666666666667,0.07,0.4004627854016
+USA (OR),OR,43.315198,-124.3206435,Pacific,North,East,Unvegetated,Chordata,Gobiidae,Lepidogobius lepidus,seine,300,80,0.0033333333333333335,0.017418559465180772
+USA (OR),OR,43.315198,-124.3206435,Pacific,North,East,Unvegetated,Chordata,Pleuronectidae,Parophrys vetulus,seine,900,71.33333333333333,0.008888888888888889,0.0544822521451216
+USA (OR),OR,43.315198,-124.3206435,Pacific,North,East,Unvegetated,Chordata,Salmonidae,Oncorhynchus tshawytscha,seine,300,109,0.006666666666666667,0.11554986086666669
+USA (OR),OR,43.315198,-124.3206435,Pacific,North,East,Unvegetated,Chordata,Syngnathidae,Syngnathus leptorhynchus,seine,600,164.75,0.008333333333333333,0.017374174673741673
+USA (TX),TX,27.57701933,-97.20710267,Atlantic,North,West,Seagrass,Arthropoda,Hippolytidae,Tozeuma carolinense,seine,400,NaN,0.185,0
+USA (TX),TX,27.57701933,-97.20710267,Atlantic,North,West,Seagrass,Arthropoda,Palaemonidae,Palaemonetes spp.,seine,1400,NaN,1.3264285714285713,0
+USA (TX),TX,27.57701933,-97.20710267,Atlantic,North,West,Seagrass,Arthropoda,Penaeidae,Farfantepenaeus spp.,seine,1400,NaN,0.135,0
+USA (TX),TX,27.57701933,-97.20710267,Atlantic,North,West,Seagrass,Arthropoda,Portunidae,Callinectes sapidus,seine,1400,38.462380952380954,0.07214285714285715,1.5050988902237572
+USA (TX),TX,27.57701933,-97.20710267,Atlantic,North,West,Seagrass,Chordata,Atherinopsidae,Menidia beryllina,seine,1000,54.13548484848485,2.209,0.6655487372812151
+USA (TX),TX,27.57701933,-97.20710267,Atlantic,North,West,Seagrass,Chordata,Clupeidae,Harengula jaguana,seine,200,31,0.005,0.0014940093667286298
+USA (TX),TX,27.57701933,-97.20710267,Atlantic,North,West,Seagrass,Chordata,Clupeidae,Sardinella aurita,seine,200,36.04,0.525,0.22298902735710824
+USA (TX),TX,27.57701933,-97.20710267,Atlantic,North,West,Seagrass,Chordata,Cyprinodontidae,Cyprinodon variegatus,seine,400,38.52272727272727,0.0625,0.1485202829487926
+USA (TX),TX,27.57701933,-97.20710267,Atlantic,North,West,Seagrass,Chordata,Engraulidae,Anchoa mitchilli,seine,800,41.385,0.8225,1.1858133111764424
+USA (TX),TX,27.57701933,-97.20710267,Atlantic,North,West,Seagrass,Chordata,Fundulidae,Fundulus grandis,seine,400,31.576923076923077,0.035,0.002766210508704058
+USA (TX),TX,27.57701933,-97.20710267,Atlantic,North,West,Seagrass,Chordata,Fundulidae,Fundulus heteroclitus,seine,200,68.85714285714286,0.035,0.20212709787313343
+USA (TX),TX,27.57701933,-97.20710267,Atlantic,North,West,Seagrass,Chordata,Gerreidae,Eucinostomus argenteus,seine,600,44.543703703703706,0.21,0.2068603366464745
+USA (TX),TX,27.57701933,-97.20710267,Atlantic,North,West,Seagrass,Chordata,Gobiidae,Bathygobius soporator,seine,600,36.81111111111111,0.03333333333333333,0.028195765550759734
+USA (TX),TX,27.57701933,-97.20710267,Atlantic,North,West,Seagrass,Chordata,Gobiidae,Ctenogobius boleosoma,seine,200,32.666666666666664,0.015,0.00364726877416469
+USA (TX),TX,27.57701933,-97.20710267,Atlantic,North,West,Seagrass,Chordata,Gobiidae,Gobiosoma bosc,seine,800,28.099206349206348,0.0225,0.0032245797164871695
+USA (TX),TX,27.57701933,-97.20710267,Atlantic,North,West,Seagrass,Chordata,Lutjanidae,Lutjanus griseus,seine,400,51.06666666666666,0.02,0.062148680576564336
+USA (TX),TX,27.57701933,-97.20710267,Atlantic,North,West,Seagrass,Chordata,Mugilidae,Mugil curema,seine,200,76.75,0.02,0.12976276983405804
+USA (TX),TX,27.57701933,-97.20710267,Atlantic,North,West,Seagrass,Chordata,Paralichthyidae,Paralichthys albigutta,seine,200,13,0.005,1.25229e-4
+USA (TX),TX,27.57701933,-97.20710267,Atlantic,North,West,Seagrass,Chordata,Sciaenidae,Bairdiella chrysoura,seine,1000,80.86666666666667,0.007,0.10352303461668196
+USA (TX),TX,27.57701933,-97.20710267,Atlantic,North,West,Seagrass,Chordata,Sciaenidae,Cynoscion arenarius,seine,200,45,0.005,0.006743096351122734
+USA (TX),TX,27.57701933,-97.20710267,Atlantic,North,West,Seagrass,Chordata,Sciaenidae,Cynoscion nebulosus,seine,1400,68.69642857142857,0.02142857142857143,0.08024173878571429
+USA (TX),TX,27.57701933,-97.20710267,Atlantic,North,West,Seagrass,Chordata,Sciaenidae,Leiostomus xanthurus,seine,200,129,0.01,0.23931566826778175
+USA (TX),TX,27.57701933,-97.20710267,Atlantic,North,West,Seagrass,Chordata,Sciaenidae,Sciaenops ocellatus,seine,200,204,0.005,0.47007422787063596
+USA (TX),TX,27.57701933,-97.20710267,Atlantic,North,West,Seagrass,Chordata,Sparidae,Lagodon rhomboides,seine,1600,64.29416149068324,0.098125,0.37858389269695375
+USA (TX),TX,27.57701933,-97.20710267,Atlantic,North,West,Seagrass,Chordata,Syngnathidae,Syngnathus floridae,seine,800,125.25,0.01,0.021672814311463742
+USA (TX),TX,27.57701933,-97.20710267,Atlantic,North,West,Seagrass,Chordata,Synodontidae,Synodus foetens,seine,200,105.5,0.01,0.1026966826896018
+USA (TX),TX,27.57701933,-97.20710267,Atlantic,North,West,Unvegetated,Arthropoda,Hippolytidae,Tozeuma carolinense,seine,600,NaN,0.17500000000000002,0
+USA (TX),TX,27.57701933,-97.20710267,Atlantic,North,West,Unvegetated,Arthropoda,Palaemonidae,Palaemonetes spp.,seine,1200,NaN,0.30833333333333335,0
+USA (TX),TX,27.57701933,-97.20710267,Atlantic,North,West,Unvegetated,Arthropoda,Panopeidae,Eurypanopeus turgidus,seine,200,9.333333333333334,0.015,0
+USA (TX),TX,27.57701933,-97.20710267,Atlantic,North,West,Unvegetated,Arthropoda,Penaeidae,Farfantepenaeus spp.,seine,1400,NaN,0.16714285714285715,0
+USA (TX),TX,27.57701933,-97.20710267,Atlantic,North,West,Unvegetated,Arthropoda,Portunidae,Callinectes sapidus,seine,1000,37.26615384615385,0.052,1.933514711385332
+USA (TX),TX,27.57701933,-97.20710267,Atlantic,North,West,Unvegetated,Chordata,Atherinopsidae,Menidia beryllina,seine,1000,53.34133333333333,2.346,3.0393766322478735
+USA (TX),TX,27.57701933,-97.20710267,Atlantic,North,West,Unvegetated,Chordata,Clupeidae,Sardinella aurita,seine,400,32.833333333333336,0.06999999999999999,0.01903443776825851
+USA (TX),TX,27.57701933,-97.20710267,Atlantic,North,West,Unvegetated,Chordata,Cyprinodontidae,Cyprinodon variegatus,seine,200,57,0.005,0.03967406420977834
+USA (TX),TX,27.57701933,-97.20710267,Atlantic,North,West,Unvegetated,Chordata,Elopidae,Elops saurus,seine,600,192.75,0.016666666666666666,0.5302970937000875
+USA (TX),TX,27.57701933,-97.20710267,Atlantic,North,West,Unvegetated,Chordata,Engraulidae,Anchoa mitchilli,seine,600,38.89,0.1,0.17920044282920733
+USA (TX),TX,27.57701933,-97.20710267,Atlantic,North,West,Unvegetated,Chordata,Fundulidae,Fundulus heteroclitus,seine,200,84,0.005,0.05136511094249428
+USA (TX),TX,27.57701933,-97.20710267,Atlantic,North,West,Unvegetated,Chordata,Fundulidae,Fundulus similis,seine,200,51.6,0.075,0.08133921393013821
+USA (TX),TX,27.57701933,-97.20710267,Atlantic,North,West,Unvegetated,Chordata,Gerreidae,Eucinostomus argenteus,seine,600,47.215555555555554,0.09333333333333334,0.10563058412854193
+USA (TX),TX,27.57701933,-97.20710267,Atlantic,North,West,Unvegetated,Chordata,Gobiidae,Bathygobius soporator,seine,400,33.47666666666667,0.1375,0.10921842443311838
+USA (TX),TX,27.57701933,-97.20710267,Atlantic,North,West,Unvegetated,Chordata,Gobiidae,Ctenogobius boleosoma,seine,400,34,0.02,0.006267248407318647
+USA (TX),TX,27.57701933,-97.20710267,Atlantic,North,West,Unvegetated,Chordata,Gobiidae,Gobiosoma bosc,seine,200,25.5,0.02,0.0024488662111509167
+USA (TX),TX,27.57701933,-97.20710267,Atlantic,North,West,Unvegetated,Chordata,Lutjanidae,Lutjanus griseus,seine,400,35.666666666666664,0.01,0.008571880080924637
+USA (TX),TX,27.57701933,-97.20710267,Atlantic,North,West,Unvegetated,Chordata,Sciaenidae,Bairdiella chrysoura,seine,800,78.546875,0.025,0.5523832352081434
+USA (TX),TX,27.57701933,-97.20710267,Atlantic,North,West,Unvegetated,Chordata,Sciaenidae,Cynoscion nebulosus,seine,1200,52.65873015873016,0.02,0.05999064216666667
+USA (TX),TX,27.57701933,-97.20710267,Atlantic,North,West,Unvegetated,Chordata,Sciaenidae,Leiostomus xanthurus,seine,200,112.83333333333333,0.03,0.49071549298231953
+USA (TX),TX,27.57701933,-97.20710267,Atlantic,North,West,Unvegetated,Chordata,Sparidae,Archosargus probatocephalus,seine,200,110,0.005,0.10552735518441893
+USA (TX),TX,27.57701933,-97.20710267,Atlantic,North,West,Unvegetated,Chordata,Sparidae,Lagodon rhomboides,seine,1200,80.57657004830918,0.03666666666666667,0.24731429279028297
+USA (TX),TX,27.57701933,-97.20710267,Atlantic,North,West,Unvegetated,Chordata,Syngnathidae,Syngnathus floridae,seine,600,77.72222222222223,0.01,0.0030707988392974965
+USA (VA),VA,37.215796,-76.392675,Atlantic,North,West,Seagrass,Arthropoda,Portunidae,Callinectes sapidus,seine,200,72.75,0.01,0.8094110134111696
+USA (VA),VA,37.215796,-76.392675,Atlantic,North,West,Seagrass,Chordata,Belonidae,Strongylura marina,seine,200,141.31578947368422,0.095,0.27303219876395096
+USA (VA),VA,37.215796,-76.392675,Atlantic,North,West,Seagrass,Chordata,Sciaenidae,Bairdiella chrysoura,seine,200,46.333333333333336,0.015,0.029644496420125663
+USA (VA2),VA2,37.6839766666667,-75.866725,Atlantic,North,West,Seagrass,Arthropoda,Portunidae,Callinectes sapidus,seine,235,40.7825,0.1370588235294118,2.954132830286717
+USA (VA2),VA2,37.6839766666667,-75.866725,Atlantic,North,West,Seagrass,Chordata,Atherinopsidae,Menidia menidia,seine,150,34.96,6.66,1.7660712766592912
+USA (VA2),VA2,37.6839766666667,-75.866725,Atlantic,North,West,Seagrass,Chordata,Belonidae,Strongylura marina,seine,150,73,0.07333333333333333,0.03135204649563897
+USA (VA2),VA2,37.6839766666667,-75.866725,Atlantic,North,West,Seagrass,Chordata,Fundulidae,Fundulus majalis,seine,230,65.08333333333334,0.0225,0.2272676666930072
+USA (VA2),VA2,37.6839766666667,-75.866725,Atlantic,North,West,Seagrass,Chordata,Fundulidae,Lucania parva,seine,80,21.5,0.025,0.019100055824473036
+USA (VA2),VA2,37.6839766666667,-75.866725,Atlantic,North,West,Seagrass,Chordata,Gasterosteidae,Apeltes quadracus,seine,80,26.272727272727273,0.1375,0.029681405553966325
+USA (VA2),VA2,37.6839766666667,-75.866725,Atlantic,North,West,Seagrass,Chordata,Gobiesocidae,Gobiesox strumosus,seine,150,24,0.006666666666666667,0.0012174189019350519
+USA (VA2),VA2,37.6839766666667,-75.866725,Atlantic,North,West,Seagrass,Chordata,Sciaenidae,Leiostomus xanthurus,seine,315,55.44444444444444,0.03093137254901961,0.10852840051641255
+USA (VA2),VA2,37.6839766666667,-75.866725,Atlantic,North,West,Seagrass,Chordata,Syngnathidae,Syngnathus fuscus,seine,230,84.5,0.0225,0.0058044318520110195
+USA (VA2),VA2,37.6839766666667,-75.866725,Atlantic,North,West,Seagrass,Chordata,Tetraodontidae,Sphoeroides maculatus,seine,80,18,0.0125,0.003257038558744882
+USA (VA2),VA2,37.6839766666667,-75.866725,Atlantic,North,West,Unvegetated,Arthropoda,Portunidae,Callinectes sapidus,seine,426,66.82222222222222,0.025714285714285714,2.1208099933402957
+USA (VA2),VA2,37.6839766666667,-75.866725,Atlantic,North,West,Unvegetated,Chordata,Atherinopsidae,Menidia menidia,seine,426,54.373333333333335,0.2107936507936508,0.09356994134970249
+USA (VA2),VA2,37.6839766666667,-75.866725,Atlantic,North,West,Unvegetated,Chordata,Belonidae,Strongylura marina,seine,276,83,0.01126984126984127,0.005982563881613988
+USA (VA2),VA2,37.6839766666667,-75.866725,Atlantic,North,West,Unvegetated,Chordata,Fundulidae,Fundulus majalis,seine,426,49.09947299077734,0.10687830687830688,0.979832249933636
+USA (VA2),VA2,37.6839766666667,-75.866725,Atlantic,North,West,Unvegetated,Chordata,Hemiramphidae,Hyporhamphus meeki,seine,150,57,0.013333333333333334,0.0077766785110212466
+USA (VA2),VA2,37.6839766666667,-75.866725,Atlantic,North,West,Unvegetated,Chordata,Sciaenidae,Leiostomus xanthurus,seine,276,56.16666666666667,0.021904761904761906,0.04250328461466588
+USA (WA),WA,47.3485222222222,-122.324888888889,Pacific,North,East,Seagrass,Arthropoda,Epialtidae,Pugettia producta,seine,375,20.333333333333332,0.008024691358024692,0
+USA (WA),WA,47.3485222222222,-122.324888888889,Pacific,North,East,Seagrass,Chordata,Aulorhynchidae,Aulorhynchus flavidus,seine,120,137,0.008333333333333333,0.026413763842543774
+USA (WA),WA,47.3485222222222,-122.324888888889,Pacific,North,East,Seagrass,Chordata,Cottidae,sculpin sp.,seine,120,201,0.008333333333333333,0.7127881462310913
+USA (WA),WA,47.3485222222222,-122.324888888889,Pacific,North,East,Seagrass,Chordata,Embiotocidae,Brachyistius frenatus,seine,120,79,0.025,0.37228275
+USA (WA),WA,47.3485222222222,-122.324888888889,Pacific,North,East,Seagrass,Chordata,Embiotocidae,Cymatogaster aggregata,seine,240,65.42,0.9666666666666666,7.22036621104
+USA (WA),WA,47.3485222222222,-122.324888888889,Pacific,North,East,Seagrass,Chordata,Paralichthyidae,Citharichthys stigmaeus,seine,120,49,0.008333333333333333,0.007458470264242836
+USA (WA),WA,47.3485222222222,-122.324888888889,Pacific,North,East,Seagrass,Chordata,Pholidae,Pholis ornata,seine,120,111.33333333333333,0.025,0.09015364712960064
+USA (WA),WA,47.3485222222222,-122.324888888889,Pacific,North,East,Seagrass,Chordata,Pholidae,Pholis sp.,seine,135,45,0.007407407407407408,0.0015055862928719963
+USA (WA),WA,47.3485222222222,-122.324888888889,Pacific,North,East,Seagrass,Chordata,Syngnathidae,Syngnathus leptorhynchus,seine,240,188.1,0.049999999999999996,0.09337035749440957
+USA (WA),WA,47.3485222222222,-122.324888888889,Pacific,North,East,Unvegetated,Chordata,Embiotocidae,Cymatogaster aggregata,seine,114,107.5,0.017543859649122806,0.6549013157894736
+USA (WA2),WA2,48.48532472,-123.07541,Pacific,North,East,Seagrass,Chordata,Agonidae,Nautichthys oculofasciatus,seine,350,55,0.002857142857142857,0.0026204514636115777
+USA (WA2),WA2,48.48532472,-123.07541,Pacific,North,East,Seagrass,Chordata,Cottidae,Leptocottus armatus,seine,865,143.58333333333334,0.007705954176542412,0.6586464437491527
+USA (WA2),WA2,48.48532472,-123.07541,Pacific,North,East,Seagrass,Chordata,Embiotocidae,Brachyistius frenatus,seine,255,52.142857142857146,0.027450980392156862,0.19756929411764704
+USA (WA2),WA2,48.48532472,-123.07541,Pacific,North,East,Seagrass,Chordata,Embiotocidae,Cymatogaster aggregata,seine,865,60.12095238095238,2.1636816777993246,13.55183014596879
+USA (WA2),WA2,48.48532472,-123.07541,Pacific,North,East,Seagrass,Chordata,Embiotocidae,Embiotoca lateralis,seine,865,71.61611111111111,0.15349996408819938,1.628177084080095
+USA (WA2),WA2,48.48532472,-123.07541,Pacific,North,East,Seagrass,Chordata,Pholidae,Apodichthys flavidus,seine,865,80.79166666666667,0.02538389714860303,0.05390535743003663
+USA (WA2),WA2,48.48532472,-123.07541,Pacific,North,East,Seagrass,Chordata,Pholidae,Pholis laeta,seine,865,97.94444444444444,0.0475558428499605,0.1966604784943867
+USA (WA2),WA2,48.48532472,-123.07541,Pacific,North,East,Seagrass,Chordata,Pholidae,Pholis ornata,seine,865,94.54761904761905,0.020535085829203475,0.0397576283317674
+USA (WA2),WA2,48.48532472,-123.07541,Pacific,North,East,Seagrass,Chordata,Syngnathidae,Syngnathus leptorhynchus,seine,865,167.7205387205387,0.04791567909214968,0.06659557529682816
+USA (WA2),WA2,48.48532472,-123.07541,Pacific,North,East,Unvegetated,Chordata,Cottidae,Leptocottus armatus,seine,960,125.57826086956521,0.030815018315018317,1.626742244881833
+USA (WA2),WA2,48.48532472,-123.07541,Pacific,North,East,Unvegetated,Chordata,Embiotocidae,Cymatogaster aggregata,seine,960,78.76095238095238,1.2868589743589745,24.42880258975015
+USA (WA2),WA2,48.48532472,-123.07541,Pacific,North,East,Unvegetated,Chordata,Embiotocidae,Embiotoca lateralis,seine,160,71,0.09375,1.0256281875
+USA (WA2),WA2,48.48532472,-123.07541,Pacific,North,East,Unvegetated,Chordata,Osmeridae,Hypomesus pretiosus,seine,160,56,0.00625,0.0055678916587542015
+USA (WA2),WA2,48.48532472,-123.07541,Pacific,North,East,Unvegetated,Chordata,Pholidae,Apodichthys flavidus,seine,160,98,0.00625,0.01474559013153931
+USA (WA2),WA2,48.48532472,-123.07541,Pacific,North,East,Unvegetated,Chordata,Pholidae,Pholis ornata,seine,160,95,0.00625,0.013369937476233967
+USA (WA2),WA2,48.48532472,-123.07541,Pacific,North,East,Unvegetated,Chordata,Pleuronectidae,Parophrys vetulus,seine,960,78.48148148148148,0.017193223443223445,0.17167911905585548
+USA (WA2),WA2,48.48532472,-123.07541,Pacific,North,East,Unvegetated,Chordata,Syngnathidae,Syngnathus leptorhynchus,seine,160,163.5,0.0125,0.015529732083289442
+Wales,Wales,52.9420175,-4.565145,Atlantic,North,East,Seagrass,Arthropoda,Crangonidae,Crangon crangon,seine,300,NaN,0.0033333333333333335,0
+Wales,Wales,52.9420175,-4.565145,Atlantic,North,East,Seagrass,Arthropoda,Palaemonidae,Palaemon serratus,seine,900,NaN,0.22111111111111112,0
+Wales,Wales,52.9420175,-4.565145,Atlantic,North,East,Seagrass,Chordata,Ammodytidae,Ammodytes tobianus,seine,700,63.464285714285715,0.01916666666666667,0.022499396748092655
+Wales,Wales,52.9420175,-4.565145,Atlantic,North,East,Seagrass,Chordata,Atherinidae,Atherina presbyter,seine,900,61.053333333333335,0.4225,0.7243649902216197
+Wales,Wales,52.9420175,-4.565145,Atlantic,North,East,Seagrass,Chordata,Callionymidae,Callionymus lyra,seine,400,114,0.0025,0.025540140768764145
+Wales,Wales,52.9420175,-4.565145,Atlantic,North,East,Seagrass,Chordata,Cottidae,Taurulus bubalis,seine,600,110.25,0.00625,0.06441369
+Wales,Wales,52.9420175,-4.565145,Atlantic,North,East,Seagrass,Chordata,Gadidae,Pollachius pollachius,seine,700,90.75,0.004583333333333333,0.021845511874634193
+Wales,Wales,52.9420175,-4.565145,Atlantic,North,East,Seagrass,Chordata,Gasterosteidae,Spinachia spinachia,seine,900,90.83333333333333,0.006111111111111111,0.055372705713431974
+Wales,Wales,52.9420175,-4.565145,Atlantic,North,East,Seagrass,Chordata,Gobiidae,Gobiusculus flavescens,seine,400,41,0.0025,0.001896384670589748
+Wales,Wales,52.9420175,-4.565145,Atlantic,North,East,Seagrass,Chordata,Gobiidae,Pomatoschistus minutus,seine,900,50.26888888888889,0.115,0.1815545034480884
+Wales,Wales,52.9420175,-4.565145,Atlantic,North,East,Seagrass,Chordata,Labridae,Labrus bergylta,seine,400,43,0.005,0.0092003748004753
+Wales,Wales,52.9420175,-4.565145,Atlantic,North,East,Seagrass,Chordata,Labridae,Symphodus melops,seine,900,41.19304152637486,0.03972222222222222,0.04467442633382425
+Wales,Wales,52.9420175,-4.565145,Atlantic,North,East,Seagrass,Chordata,Pleuronectidae,Pleuronectes platessa,seine,400,58,0.0025,0.0048142459409538756
+Wales,Wales,52.9420175,-4.565145,Atlantic,North,East,Unvegetated,Arthropoda,Cancridae,Carcinus maenas,seine,600,NaN,0.011250000000000001,0
+Wales,Wales,52.9420175,-4.565145,Atlantic,North,East,Unvegetated,Arthropoda,Crangonidae,Crangon crangon,seine,900,NaN,0.05361111111111111,0
+Wales,Wales,52.9420175,-4.565145,Atlantic,North,East,Unvegetated,Arthropoda,Palaemonidae,Palaemon serratus,seine,700,NaN,0.02291666666666667,0
+Wales,Wales,52.9420175,-4.565145,Atlantic,North,East,Unvegetated,Chordata,Ammodytidae,Ammodytes tobianus,seine,300,66.4,0.016666666666666666,0.020843238359727633
+Wales,Wales,52.9420175,-4.565145,Atlantic,North,East,Unvegetated,Chordata,Atherinidae,Atherina presbyter,seine,700,57.269230769230774,0.017916666666666668,0.025632919841398292
+Wales,Wales,52.9420175,-4.565145,Atlantic,North,East,Unvegetated,Chordata,Callionymidae,Callionymus lyra,seine,300,65,0.0033333333333333335,0.007433426714333667
+Wales,Wales,52.9420175,-4.565145,Atlantic,North,East,Unvegetated,Chordata,Clupeidae,Sprattus sprattus,seine,700,50.18,0.09125,0.08722582275899442
+Wales,Wales,52.9420175,-4.565145,Atlantic,North,East,Unvegetated,Chordata,Gadidae,Merlangius merlangus,seine,400,111,0.0025,0.05608424316561702
+Wales,Wales,52.9420175,-4.565145,Atlantic,North,East,Unvegetated,Chordata,Gadidae,Pollachius pollachius,seine,300,75,0.0033333333333333335,0.008802565340739291
+Wales,Wales,52.9420175,-4.565145,Atlantic,North,East,Unvegetated,Chordata,Gasterosteidae,Spinachia spinachia,seine,400,97.33333333333333,0.0075,0.0813675748738629
+Wales,Wales,52.9420175,-4.565145,Atlantic,North,East,Unvegetated,Chordata,Gobiidae,Pomatoschistus minutus,seine,700,52.66,0.25166666666666665,0.33757925075191036
+Wales,Wales,52.9420175,-4.565145,Atlantic,North,East,Unvegetated,Chordata,Pleuronectidae,Limanda limanda,seine,300,47.5,0.006666666666666667,0.006296612130488833
+Wales,Wales,52.9420175,-4.565145,Atlantic,North,East,Unvegetated,Chordata,Pleuronectidae,Pleuronectes platessa,seine,700,57.3,0.014583333333333334,0.031673576100291305
+Wales,Wales,52.9420175,-4.565145,Atlantic,North,East,Unvegetated,Chordata,Syngnathidae,Entelurus aequoreus,seine,400,102.66666666666667,0.0075,9.23298425775664e-4
+Wales,Wales,52.9420175,-4.565145,Atlantic,North,East,Unvegetated,Chordata,Syngnathidae,Syngnathus acus,seine,300,111.5,0.006666666666666667,0.0042370012579675135
+Wales,Wales,52.9420175,-4.565145,Atlantic,North,East,Unvegetated,Chordata,Trachinidae,Echiichthys vipera,seine,400,63,0.0075,0.021276271827680042
+Canada (QC),QC,49.0885025,-68.3224425,Atlantic,North,West,Seagrass,Chordata,Gasterosteidae,Gasterosteus sp,video,NA,NA,NA,NA
+Canada (QC),QC,49.0885025,-68.3224425,Atlantic,North,West,Seagrass,Chordata,Gasterosteidae,Pungitius pungitius,video,NA,NA,NA,NA
+Canada (QC),QC,49.0885025,-68.3224425,Atlantic,North,West,Seagrass,Chordata,Gasterosteidae,Gasterosteus aculateus,video,NA,NA,NA,NA
+Italy,Italy,43.06767175,9.8312325,Mediterranean,North,East,Seagrass,Chordata,Labridae,Coris julis,video,NA,NA,NA,NA
+Italy,Italy,43.06767175,9.8312325,Mediterranean,North,East,Seagrass,Chordata,Sparidae,Spondyliosoma cantharus,video,NA,NA,NA,NA
+Italy,Italy,43.06767175,9.8312325,Mediterranean,North,East,Seagrass,Chordata,Serranidae,Serranus scriba,video,NA,NA,NA,NA
+Italy,Italy,43.06767175,9.8312325,Mediterranean,North,East,Seagrass,Chordata,Muraenidae,Muraena helena,video,NA,NA,NA,NA
+Italy,Italy,43.06767175,9.8312325,Mediterranean,North,East,Seagrass,Chordata,Sparidae,Oblada melanura,video,NA,NA,NA,NA
+Italy,Italy,43.06767175,9.8312325,Mediterranean,North,East,Seagrass,Chordata,Sparidae,Diplodus annularis,video,NA,NA,NA,NA
+Italy,Italy,43.06767175,9.8312325,Mediterranean,North,East,Seagrass,Chordata,Sparidae,Diplodus vulgaris,video,NA,NA,NA,NA
+Italy,Italy,43.06767175,9.8312325,Mediterranean,North,East,Seagrass,Chordata,Pomacentridae,Chromis chromis,video,NA,NA,NA,NA
+Italy,Italy,43.06767175,9.8312325,Mediterranean,North,East,Unvegetated,Chordata,Sparidae,Oblada melanura,video,NA,NA,NA,NA
+Italy,Italy,43.06767175,9.8312325,Mediterranean,North,East,Unvegetated,Chordata,Sparidae,Spondyliosoma cantharus,video,NA,NA,NA,NA
+Italy,Italy,43.06767175,9.8312325,Mediterranean,North,East,Unvegetated,Chordata,Mullidae,Mullus surmuletus,video,NA,NA,NA,NA
+Italy,Italy,43.06767175,9.8312325,Mediterranean,North,East,Unvegetated,Chordata,Sparidae,Diplodus vulgaris,video,NA,NA,NA,NA
+Italy,Italy,43.06767175,9.8312325,Mediterranean,North,East,Unvegetated,Chordata,Sparidae,Diplodus sargus,video,NA,NA,NA,NA
+Italy,Italy,43.06767175,9.8312325,Mediterranean,North,East,Unvegetated,Chordata,Soleidae,Solea sp.,video,NA,NA,NA,NA
+Italy,Italy,43.06767175,9.8312325,Mediterranean,North,East,Unvegetated,Chordata,Atherinidae,Atherina boyeri,video,NA,NA,NA,NA
+Italy,Italy,43.06767175,9.8312325,Mediterranean,North,East,Unvegetated,Chordata,Mugilidae,Mugil sp.,video,NA,NA,NA,NA
+Italy,Italy,43.06767175,9.8312325,Mediterranean,North,East,Unvegetated,Chordata,Sparidae,Sparus aurata,video,NA,NA,NA,NA
+Italy,Italy,43.06767175,9.8312325,Mediterranean,North,East,Seagrass,Chordata,Labridae,Symphodus tinca,video,NA,NA,NA,NA
+Italy,Italy,43.06767175,9.8312325,Mediterranean,North,East,Seagrass,Chordata,Labridae,Symphodus ocellatus,video,NA,NA,NA,NA
+Italy,Italy,43.06767175,9.8312325,Mediterranean,North,East,Seagrass,Chordata,Sparidae,Boops boops,video,NA,NA,NA,NA
+Italy,Italy,43.06767175,9.8312325,Mediterranean,North,East,Seagrass,Chordata,Sparidae,Diplodus puntazzo,video,NA,NA,NA,NA
+Italy,Italy,43.06767175,9.8312325,Mediterranean,North,East,Seagrass,Chordata,Sparidae,Sarpa salpa,video,NA,NA,NA,NA
+USA (NC2),NC2,34.7004,-76.8335,Atlantic,North,West,Seagrass,Chordata,Sparidae,Lagodon rhomboides,video,NA,NA,NA,NA
+Croatia,Croatia,44.20446025,15.472773125,Mediterranean,North,East,Unvegetated,Chordata,Gobiidae,Pomatoschistus marmoratus,video,NA,NA,NA,NA
+Croatia,Croatia,44.20446025,15.472773125,Mediterranean,North,East,Unvegetated,Chordata,Mugilidae,Mugil cephalus,video,NA,NA,NA,NA
+Croatia,Croatia,44.20446025,15.472773125,Mediterranean,North,East,Unvegetated,Chordata,Sparidae,Sparus aurata,video,NA,NA,NA,NA
+Croatia,Croatia,44.20446025,15.472773125,Mediterranean,North,East,Unvegetated,Chordata,Atherinidae,Atherina hepsetus,video,NA,NA,NA,NA
+Croatia,Croatia,44.20446025,15.472773125,Mediterranean,North,East,Seagrass,Chordata,Atherinidae,Atherina hepsetus,video,NA,NA,NA,NA
+Croatia,Croatia,44.20446025,15.472773125,Mediterranean,North,East,Seagrass,Chordata,Syngnathidae,Syngnathus typhle,video,NA,NA,NA,NA
+Croatia,Croatia,44.20446025,15.472773125,Mediterranean,North,East,Seagrass,Chordata,Mugilidae,Mugil cephalus,video,NA,NA,NA,NA
+Croatia,Croatia,44.20446025,15.472773125,Mediterranean,North,East,Seagrass,Chordata,Labridae,Symphodus ocellatus,video,NA,NA,NA,NA
+Croatia,Croatia,44.20446025,15.472773125,Mediterranean,North,East,Seagrass,Chordata,Gobiidae,Zosterisessor ophiocephalus,video,NA,NA,NA,NA
+Croatia,Croatia,44.20446025,15.472773125,Mediterranean,North,East,Seagrass,Chordata,Blenniidae,Salaria pavo,video,NA,NA,NA,NA
+Croatia,Croatia,44.20446025,15.472773125,Mediterranean,North,East,Seagrass,Chordata,Sparidae,Sparus aurata,video,NA,NA,NA,NA
+Croatia,Croatia,44.20446025,15.472773125,Mediterranean,North,East,Seagrass,Chordata,Gobiidae,Gobius niger,video,NA,NA,NA,NA
+Croatia,Croatia,44.20446025,15.472773125,Mediterranean,North,East,Seagrass,Chordata,Gobiidae,Zosterisessor offiocephalus,video,NA,NA,NA,NA
+Croatia,Croatia,44.20446025,15.472773125,Mediterranean,North,East,Seagrass,Chordata,Labridae,Symphodus cinereus,video,NA,NA,NA,NA
+Croatia,Croatia,44.20446025,15.472773125,Mediterranean,North,East,Seagrass,Chordata,Sparidae,Diplodus annularis,video,NA,NA,NA,NA
+France,France,43.447124,3.666644,Mediterranean,North,East,Unvegetated,Chordata,Labridae,Symphodus tinca,video,NA,NA,NA,NA
+France,France,43.447124,3.666644,Mediterranean,North,East,Unvegetated,Chordata,Sparidae,Sparus aurata,video,NA,NA,NA,NA
+France,France,43.447124,3.666644,Mediterranean,North,East,Unvegetated,Chordata,Mugilidae,Liza sp,video,NA,NA,NA,NA
+France,France,43.447124,3.666644,Mediterranean,North,East,Unvegetated,Chordata,Sparidae,Diplodus sargus,video,NA,NA,NA,NA
+France,France,43.447124,3.666644,Mediterranean,North,East,Seagrass,Chordata,Labridae,Symphodus tinca,video,NA,NA,NA,NA
+France,France,43.447124,3.666644,Mediterranean,North,East,Unvegetated,Chordata,Blenniidae,Salaria pavo,video,NA,NA,NA,NA
+France,France,43.447124,3.666644,Mediterranean,North,East,Unvegetated,Chordata,Mugilidae,Liza aurata,video,NA,NA,NA,NA
+France,France,43.447124,3.666644,Mediterranean,North,East,Unvegetated,Chordata,Atherinidae,Atherina boyeri,video,NA,NA,NA,NA
+France,France,43.447124,3.666644,Mediterranean,North,East,Seagrass,Chordata,Atherinidae,Atherina boyeri,video,NA,NA,NA,NA
+USA (FL),FL,27.536026,-80.348148,Atlantic,North,West,Unvegetated,Chordata,Trichechidae,Trichechus manatus,video,NA,NA,NA,NA
+USA (FL),FL,27.536026,-80.348148,Atlantic,North,West,Unvegetated,Chordata,Sparidae,Archosargus probatocephalus,video,NA,NA,NA,NA
+USA (FL),FL,27.536026,-80.348148,Atlantic,North,West,Seagrass,Chordata,Ariidae,Ariopsis felis,video,NA,NA,NA,NA
+USA (FL),FL,27.536026,-80.348148,Atlantic,North,West,Seagrass,Chordata,Sparidae,Archosargus probatocephalus,video,NA,NA,NA,NA
+USA (FL),FL,27.536026,-80.348148,Atlantic,North,West,Seagrass,Chordata,Mugilidae,Mugil cephalus,video,NA,NA,NA,NA
+USA (FL),FL,27.536026,-80.348148,Atlantic,North,West,Seagrass,Chordata,Diodontidae,Chilomycterus schoepfi,video,NA,NA,NA,NA
+USA (FL),FL,27.536026,-80.348148,Atlantic,North,West,Unvegetated,Chordata,Mugilidae,Mugil curema,video,NA,NA,NA,NA
+USA (FL),FL,27.536026,-80.348148,Atlantic,North,West,Unvegetated,Chordata,Ariidae,Ariopsis felis,video,NA,NA,NA,NA
+USA (FL),FL,27.536026,-80.348148,Atlantic,North,West,Unvegetated,Chordata,Mugilidae,Mugil cephalus,video,NA,NA,NA,NA
+USA (FL),FL,27.536026,-80.348148,Atlantic,North,West,Unvegetated,Chordata,Tetraodontidae,Sphoeroides nephelus,video,NA,NA,NA,NA
+Norway,Norway,67.214334,15.007534,Atlantic,North,East,Seagrass,Chordata,Gadidae,Pollachius Pollachius virens,video,NA,NA,NA,NA
+Norway,Norway,67.214334,15.007534,Atlantic,North,East,Seagrass,Chordata,Gobiidae,Pomatoschistus Pomatoschistus sp.,video,NA,NA,NA,NA
+Norway,Norway,67.214334,15.007534,Atlantic,North,East,Unvegetated,Chordata,Gadidae,Pollachius Pollachius virens,video,NA,NA,NA,NA
+Norway,Norway,67.214334,15.007534,Atlantic,North,East,Unvegetated,Chordata,Pleuronectidae,Pleuronectes Pleuronectes platessa,video,NA,NA,NA,NA
+Norway,Norway,67.214334,15.007534,Atlantic,North,East,Seagrass,Arthropoda,Cancridae,Carcinus Carcinus maenas,video,NA,NA,NA,NA
+Norway,Norway,67.214334,15.007534,Atlantic,North,East,Seagrass,Chordata,Gadidae,Gadus Gadus morhua,video,NA,NA,NA,NA
+Norway,Norway,67.214334,15.007534,Atlantic,North,East,Unvegetated,Arthropoda,Cancridae,Carcinus Carcinus maenas,video,NA,NA,NA,NA
+Norway,Norway,67.214334,15.007534,Atlantic,North,East,Seagrass,Chordata,NA,Pleuronectiformes,video,NA,NA,NA,NA
+Norway,Norway,67.214334,15.007534,Atlantic,North,East,Unvegetated,Chordata,Salmonidae,Salmo Salmo trutta trutta,video,NA,NA,NA,NA
+Mexico (ICML2),Yuca1,19.82714,-87.45461,Atlantic,North,West,Unvegetated,Chordata,Carangidae,Caranx ruber,video,NA,NA,NA,NA
+Mexico (ICML2),Yuca1,19.82714,-87.45461,Atlantic,North,West,Unvegetated,Chordata,Gerreidae,Eucinostomus melanopterus,video,NA,NA,NA,NA
+Mexico (ICML2),Yuca1,19.82714,-87.45461,Atlantic,North,West,Unvegetated,Chordata,Ostraciidae,Lactophrys trigonus,video,NA,NA,NA,NA
+Mexico (ICML2),Yuca1,19.82714,-87.45461,Atlantic,North,West,Unvegetated,Chordata,Carangidae,Caranx bartholomaei,video,NA,NA,NA,NA
+Mexico (ICML2),Yuca1,19.82714,-87.45461,Atlantic,North,West,Unvegetated,Chordata,Labridae,Halichoeres bivittatus,video,NA,NA,NA,NA
+Mexico (ICML2),Yuca1,19.82714,-87.45461,Atlantic,North,West,Unvegetated,Chordata,Sphyraenidae,Sphyraena barracuda,video,NA,NA,NA,NA
+Mexico (ICML2),Yuca1,19.82714,-87.45461,Atlantic,North,West,Seagrass,Chordata,Ostraciidae,Lactophrys trigonus,video,NA,NA,NA,NA
+Mexico (ICML2),Yuca1,19.82714,-87.45461,Atlantic,North,West,Seagrass,Chordata,Carangidae,Caranx ruber,video,NA,NA,NA,NA
+Mexico (ICML2),Yuca1,19.82714,-87.45461,Atlantic,North,West,Seagrass,Chordata,Labridae,Halichoeres bivittatus,video,NA,NA,NA,NA
+Mexico (ICML2),Yuca1,19.82714,-87.45461,Atlantic,North,West,Seagrass,Chordata,Sphyraenidae,Sphyraena barracuda,video,NA,NA,NA,NA
+Mexico (ICML2),Yuca1,19.82714,-87.45461,Atlantic,North,West,Seagrass,Chordata,Carangidae,Caranx bartholomaei,video,NA,NA,NA,NA
+Mexico (ICML2),Yuca1,19.82714,-87.45461,Atlantic,North,West,Unvegetated,Chordata,Tetraodontidae,Sphoeroides testudineus,video,NA,NA,NA,NA
+Mexico (ICML2),Yuca1,19.82714,-87.45461,Atlantic,North,West,Seagrass,Chordata,Diodontidae,Diodon histrix,video,NA,NA,NA,NA
+Mexico (ICML2),Yuca1,19.82714,-87.45461,Atlantic,North,West,Seagrass,Chordata,Lutjanidae,Lutjanus analis,video,NA,NA,NA,NA
+Mexico (ICML2),Yuca1,19.82714,-87.45461,Atlantic,North,West,Seagrass,Chordata,Gerreidae,Eucinostomus melanopterus,video,NA,NA,NA,NA
+Mexico (ICML2),Yuca1,19.82714,-87.45461,Atlantic,North,West,Seagrass,Chordata,NA,NO ID,video,NA,NA,NA,NA
+Mexico (ICML),Yuca2,20.834515,-86.876505,Atlantic,North,West,Unvegetated,Chordata,Labridae,Halichoeres bivittatus,video,NA,NA,NA,NA
+Mexico (ICML),Yuca2,20.834515,-86.876505,Atlantic,North,West,Unvegetated,Chordata,Haemulidae,Haemulon plumieri,video,NA,NA,NA,NA
+Mexico (ICML),Yuca2,20.834515,-86.876505,Atlantic,North,West,Unvegetated,Chordata,Acanthuridae,Acanthurus coeruleus,video,NA,NA,NA,NA
+Mexico (ICML),Yuca2,20.834515,-86.876505,Atlantic,North,West,Unvegetated,Chordata,Labridae,Thalassoma bifasciatum,video,NA,NA,NA,NA
+Mexico (ICML),Yuca2,20.834515,-86.876505,Atlantic,North,West,Unvegetated,Chordata,Lutjanidae,Lutjanus apodus,video,NA,NA,NA,NA
+Mexico (ICML),Yuca2,20.834515,-86.876505,Atlantic,North,West,Unvegetated,Chordata,Carangidae,Caranx ruber,video,NA,NA,NA,NA
+Mexico (ICML),Yuca2,20.834515,-86.876505,Atlantic,North,West,Unvegetated,Chordata,Lutjanidae,Ocyurus chrysurus,video,NA,NA,NA,NA
+Mexico (ICML),Yuca2,20.834515,-86.876505,Atlantic,North,West,Unvegetated,Chordata,Haemulidae,Anisotremus virginicus,video,NA,NA,NA,NA
+Mexico (ICML),Yuca2,20.834515,-86.876505,Atlantic,North,West,Unvegetated,Chordata,Ostraciidae,Lactophrys trigonus,video,NA,NA,NA,NA
+Mexico (ICML),Yuca2,20.834515,-86.876505,Atlantic,North,West,Unvegetated,Chordata,Scaridae,Sparisoma viridae,video,NA,NA,NA,NA
+Mexico (ICML),Yuca2,20.834515,-86.876505,Atlantic,North,West,Unvegetated,Chordata,Scaridae,Sparisoma rubripinne,video,NA,NA,NA,NA
+Mexico (ICML),Yuca2,20.834515,-86.876505,Atlantic,North,West,Unvegetated,Chordata,Pomacentridae,Abudefduf saxatilis,video,NA,NA,NA,NA
+Mexico (ICML),Yuca2,20.834515,-86.876505,Atlantic,North,West,Unvegetated,Chordata,Serranidae,Mycteroperca tigris,video,NA,NA,NA,NA
+Mexico (ICML),Yuca2,20.834515,-86.876505,Atlantic,North,West,Unvegetated,Chordata,Lutjanidae,Lutjanus analis,video,NA,NA,NA,NA
+Mexico (ICML),Yuca2,20.834515,-86.876505,Atlantic,North,West,Unvegetated,Chordata,Balistidae,Balistes vetula,video,NA,NA,NA,NA
+Mexico (ICML),Yuca2,20.834515,-86.876505,Atlantic,North,West,Seagrass,Chordata,Carangidae,Caranx ruber,video,NA,NA,NA,NA
+Mexico (ICML),Yuca2,20.834515,-86.876505,Atlantic,North,West,Seagrass,Chordata,Balistidae,Canthidermis sufflamen,video,NA,NA,NA,NA
+Mexico (ICML),Yuca2,20.834515,-86.876505,Atlantic,North,West,Seagrass,Chordata,Lutjanidae,Ocyurus chrysurus,video,NA,NA,NA,NA
+Mexico (ICML),Yuca2,20.834515,-86.876505,Atlantic,North,West,Seagrass,Chordata,Labridae,Halichoeres bivittatus,video,NA,NA,NA,NA
+Mexico (ICML),Yuca2,20.834515,-86.876505,Atlantic,North,West,Seagrass,Chordata,Lutjanidae,Lutjanus analis,video,NA,NA,NA,NA
+Mexico (ICML),Yuca2,20.834515,-86.876505,Atlantic,North,West,Seagrass,Chordata,Lutjanidae,Lutjanus griseus,video,NA,NA,NA,NA
+Mexico (ICML),Yuca2,20.834515,-86.876505,Atlantic,North,West,Unvegetated,Chordata,Labridae,Halichoeres garnoti,video,NA,NA,NA,NA
+Mexico (ICML),Yuca2,20.834515,-86.876505,Atlantic,North,West,Unvegetated,Chordata,Monacanthidae,Aluterus scriptus,video,NA,NA,NA,NA
+Mexico (ICML),Yuca2,20.834515,-86.876505,Atlantic,North,West,Seagrass,Chordata,Ostraciidae,Lactophrys trigonus,video,NA,NA,NA,NA
+Mexico (ICML),Yuca2,20.834515,-86.876505,Atlantic,North,West,Unvegetated,Chordata,Haemulidae,Haemulon sciurus,video,NA,NA,NA,NA
+Mexico (ICML),Yuca2,20.834515,-86.876505,Atlantic,North,West,Seagrass,Chordata,Gerreidae,Gerres cinereus,video,NA,NA,NA,NA
+Mexico (ICML),Yuca2,20.834515,-86.876505,Atlantic,North,West,Seagrass,Chordata,Urotrygonidae,Urobatis jamaicensis,video,NA,NA,NA,NA
+Chile,Chile,-30.2959268,-71.6067784,Pacific,South,East,Unvegetated,Chordata,Mugilidae,Mugil cephalus,video,NA,NA,NA,NA
+Chile,Chile,-30.2959268,-71.6067784,Pacific,South,East,Unvegetated,Arthropoda,Cancridae,Romaleon polyodon,video,NA,NA,NA,NA
+Chile,Chile,-30.2959268,-71.6067784,Pacific,South,East,Seagrass,Chordata,Haemulidae,Isacia conceptionis,video,NA,NA,NA,NA
+Chile,Chile,-30.2959268,-71.6067784,Pacific,South,East,Seagrass,Chordata,Blenniidae,Scartichthys gigas,video,NA,NA,NA,NA
+Chile,Chile,-30.2959268,-71.6067784,Pacific,South,East,Seagrass,Chordata,Clupeidae,Ethmidium maculatum,video,NA,NA,NA,NA
+Australia (QLD3),QLD4,-27.494748,153.397061375,Pacific,South,West,Seagrass,Chordata,Hemiramphidae,Arrhamphus sclerolepis,video,NA,NA,NA,NA
+Australia (QLD3),QLD4,-27.494748,153.397061375,Pacific,South,West,Seagrass,Chordata,Sparidae,Acanthopagrus australis,video,NA,NA,NA,NA
+Australia (QLD3),QLD4,-27.494748,153.397061375,Pacific,South,West,Seagrass,Chordata,Blenniidae,Petroscirtes lupus,video,NA,NA,NA,NA
+Australia (QLD3),QLD4,-27.494748,153.397061375,Pacific,South,West,Seagrass,Chordata,Haemulidae,Diagramma pictum,video,NA,NA,NA,NA
+Australia (QLD3),QLD4,-27.494748,153.397061375,Pacific,South,West,Unvegetated,Chordata,Hemiramphidae,Hyporhamphus regularis ardelio,video,NA,NA,NA,NA
+Wales,Wales,52.9420175,-4.565145,Atlantic,North,East,Seagrass,Arthropoda,Palaemonidae,Palaemon serratus,video,NA,NA,NA,NA
+Wales,Wales,52.9420175,-4.565145,Atlantic,North,East,Seagrass,Chordata,Atherinidae,Atherina presbyter,video,NA,NA,NA,NA
+Wales,Wales,52.9420175,-4.565145,Atlantic,North,East,Seagrass,Chordata,Gobiidae,Gobiusculus flavescens,video,NA,NA,NA,NA
+Wales,Wales,52.9420175,-4.565145,Atlantic,North,East,Seagrass,Chordata,Gadidae,Pollachius pollachius,video,NA,NA,NA,NA
+Wales,Wales,52.9420175,-4.565145,Atlantic,North,East,Unvegetated,Chordata,Gobiidae,Pomatoschistus minutus,video,NA,NA,NA,NA
+Wales,Wales,52.9420175,-4.565145,Atlantic,North,East,Unvegetated,Chordata,Moronidae,Dicentrarchus labrax,video,NA,NA,NA,NA
+Wales,Wales,52.9420175,-4.565145,Atlantic,North,East,Unvegetated,Chordata,Atherinidae,Atherina presbyter,video,NA,NA,NA,NA
+Wales,Wales,52.9420175,-4.565145,Atlantic,North,East,Seagrass,Chordata,Scyliorhinidae,Scyliorhinus canicula,video,NA,NA,NA,NA
+Wales,Wales,52.9420175,-4.565145,Atlantic,North,East,Unvegetated,Chordata,NA,Pleuronectinae,video,NA,NA,NA,NA
+Wales,Wales,52.9420175,-4.565145,Atlantic,North,East,Seagrass,Arthropoda,Cancridae,Carcinus maenas,video,NA,NA,NA,NA
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Unvegetated,Chordata,Nemipteridae,Scolopsis sp.,video,NA,NA,NA,NA
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Unvegetated,Chordata,Lutjanidae,Lutjanus russellii,video,NA,NA,NA,NA
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Unvegetated,Chordata,Siganidae,Siganus sp.,video,NA,NA,NA,NA
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Unvegetated,Chordata,Lethrinidae,Lethrinus nebulosus,video,NA,NA,NA,NA
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Unvegetated,Chordata,Lethrinidae,Lethrinus sp.,video,NA,NA,NA,NA
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Seagrass,Chordata,NA,Not identified,video,NA,NA,NA,NA
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Seagrass,Chordata,Lutjanidae,Symphorus nematophorus,video,NA,NA,NA,NA
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Seagrass,Chordata,Lethrinidae,Lethrinus sp.,video,NA,NA,NA,NA
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Seagrass,Chordata,Nemipteridae,Scolopsis sp.,video,NA,NA,NA,NA
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Seagrass,Chordata,Lutjanidae,Lutjanus russellii,video,NA,NA,NA,NA
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Seagrass,Chordata,Labridae,Leptojulis cyanopleura,video,NA,NA,NA,NA
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Seagrass,Chordata,Blenniidae,Plagiotremus tapeinosoma,video,NA,NA,NA,NA
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Seagrass,Chordata,Carcharhinidae,Carcharhinus melanopterus,video,NA,NA,NA,NA
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Seagrass,Chordata,Labridae,Labroides dimidiatus,video,NA,NA,NA,NA
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Unvegetated,Chordata,Carangidae,Scomberoides tala,video,NA,NA,NA,NA
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Unvegetated,Chordata,Carangidae,Carangoides fulvoguttatus,video,NA,NA,NA,NA
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Unvegetated,Chordata,Mullidae,Parupeneus indicus,video,NA,NA,NA,NA
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Unvegetated,Chordata,Carcharhinidae,Carcharhinus melanopterus,video,NA,NA,NA,NA
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Unvegetated,Chordata,Echeneidae,Echeneis naucrates,video,NA,NA,NA,NA
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Unvegetated,Chordata,Labridae,Labroides dimidiatus,video,NA,NA,NA,NA
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Unvegetated,Chordata,Carangidae,Trachinotus botla,video,NA,NA,NA,NA
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Unvegetated,Chordata,Paralichthyidae,Pseudorhombus sp.,video,NA,NA,NA,NA
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Unvegetated,Chordata,Carangidae,Trachinotus blochii,video,NA,NA,NA,NA
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Seagrass,Chordata,Lethrinidae,Lethrinus genivittatus,video,NA,NA,NA,NA
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Seagrass,Chordata,Labridae,Halichoeres trimaculatus,video,NA,NA,NA,NA
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Seagrass,Chordata,Lethrinidae,Lethrinus atkinsoni,video,NA,NA,NA,NA
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Seagrass,Chordata,Lethrinidae,Lethrinus obsoletus,video,NA,NA,NA,NA
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Seagrass,Chordata,Labridae,Coris pictoides,video,NA,NA,NA,NA
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Seagrass,Chordata,Labridae,Thalassoma sp.,video,NA,NA,NA,NA
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Seagrass,Chordata,Labridae,Coris sp.,video,NA,NA,NA,NA
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Seagrass,Chordata,Siganidae,Siganus sp.,video,NA,NA,NA,NA
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Seagrass,Chordata,Labridae,Coris caudimacula,video,NA,NA,NA,NA
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Seagrass,Chordata,Labridae,Halichoeres chloropterus,video,NA,NA,NA,NA
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Seagrass,Chordata,Lutjanidae,Lutjanus vitta,video,NA,NA,NA,NA
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Seagrass,Chordata,Labridae,Cheilio inermis,video,NA,NA,NA,NA
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Seagrass,Chordata,Carangidae,Carangoides fulvoguttatus,video,NA,NA,NA,NA
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Seagrass,Chordata,Sphyraenidae,Sphyraena barracuda,video,NA,NA,NA,NA
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Seagrass,Chordata,Tetraodontidae,Arothron sp.,video,NA,NA,NA,NA
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Seagrass,Chordata,Gobiidae,Amblygobius sp.,video,NA,NA,NA,NA
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Unvegetated,Chordata,Lutjanidae,Symphorus nematophorus,video,NA,NA,NA,NA
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Unvegetated,Chordata,Chaetodontidae,Chaetodon auriga,video,NA,NA,NA,NA
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Seagrass,Chordata,Acanthuridae,Acanthurus sp.,video,NA,NA,NA,NA
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Seagrass,Chordata,Labridae,Leptojulis sp.,video,NA,NA,NA,NA
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Seagrass,Chordata,Nemipteridae,Scolopsis lineata,video,NA,NA,NA,NA
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Seagrass,Chordata,Lutjanidae,Lutjanus sp.,video,NA,NA,NA,NA
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Seagrass,Chordata,Lutjanidae,Lutjanus semicinctus,video,NA,NA,NA,NA
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Seagrass,Chordata,Lutjanidae,Lutjanus obsoletus,video,NA,NA,NA,NA
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Seagrass,Chordata,Labridae,Halichoeres sp.,video,NA,NA,NA,NA
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Seagrass,Chordata,Nemipteridae,Scolopsis trilineata,video,NA,NA,NA,NA
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Seagrass,Chordata,Caesionidae,Caesio sp.,video,NA,NA,NA,NA
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Seagrass,Chordata,Hemiramphidae,Hyporhamphus sp.,video,NA,NA,NA,NA
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Seagrass,Chordata,Acanthuridae,Zebrasoma scopas,video,NA,NA,NA,NA
+Australia (QLD2),QLD3,-25.850707,152.9822625,Pacific,South,West,Seagrass,Chordata,Lethrinidae,Lethrinus nebulosus,video,NA,NA,NA,NA

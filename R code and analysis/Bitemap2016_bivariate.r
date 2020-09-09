@@ -33,20 +33,20 @@ library(tidyverse)
 ## read data
 
 # seine abundance + biomass
-seine <- read_csv( "Output Data/Bitemap_seine_abundance_biomass.csv" )
+seine <- read_csv( "R code and analysis/Output Data/Bitemap_seine_abundance_biomass.csv" )
 
 
 # environmental data from remote sensing and oceanographic expeditions
-oracle <- read_csv( "Output Data/Bitemap_BioORACLE_20190107.csv")[,1:36]
+oracle <- read_csv( "R code and analysis/Output Data/Bitemap_BioORACLE_20190107.csv")[,1:36]
 
 # squidpop consumption rates
-pop <- read_csv( "Output Data/Bitemap_rate.env.20190423.csv" )
+pop <- read_csv( "R code and analysis/Output Data/Bitemap_rate.env.20190423.csv" )
 pop <- pop %>% 
   dplyr::group_by( Country,Site,habitat ) %>% 
   dplyr::summarise( sstmean=mean(sstmean), temp=mean(temp), rate=mean(rate) )
 
 # trait information that includes video data
-video <- read_csv( "../Data/Video Data/Bitemap_Video_Data_ALL.csv" )
+video <- read_csv( "Data/Video Data/Bitemap_Video_Data_ALL.csv" )
 video <- video %>% 
   select( Country, habitat, Genus ) %>% 
   mutate( habitat=tolower(habitat) ) %>% 
@@ -77,7 +77,7 @@ taxa <- taxa[ !(taxa %in% c("NO ID","Not identified")) ]
 #   select( family=name, Genus=query )
 # # write taxfam to disk so we don't have to look it up every time
 # write_csv( taxfam, "Output Data/families_taxize_RDA.csv" )
-taxfam <-  read_csv( "Output Data/families_taxize_RDA.csv" )
+taxfam <-  read_csv( "R code and analysis/Output Data/families_taxize_RDA.csv" )
 
 famfam <- bind_rows( genfam, taxfam )
 video <- left_join(video, famfam)
@@ -162,22 +162,22 @@ fam.meta <- fam.meta %>%  tidyr::unite( SH, Site, habitat, remove=FALSE )
 
 # write to disk
 fam.all <- bind_cols(fam.meta,fam.data)
-write_csv( fam.all, "Output Data/consumer_presence_wide.csv")
+write_csv( fam.all, "R code and analysis/Output Data/consumer_presence_wide.csv")
 
 ## add ordination results, traits, functional diversity, unfiltered abundance
-rdaunc <- read_csv( "Output Data/multivar_unconstr_sites.csv" )
+rdaunc <- read_csv( "R code and analysis/Output Data/multivar_unconstr_sites.csv" )
 rdaunc <- rdaunc %>% separate( SH, c("Site", "habitat") )
-brda <- read_csv( "Output Data/biomass_RDAselected.csv" ) # 30 sites
+brda <- read_csv( "R code and analysis/Output Data/biomass_RDAselected.csv" ) # 30 sites
 brda <- brda %>%
   select( Site, habitat, biomass, cpua )
-active <- read_csv( "Output Data/consumer_active_ratio_PA.csv" )
+active <- read_csv( "R code and analysis/Output Data/consumer_active_ratio_PA.csv" )
 active <- active %>% 
   select( Site, habitat, act.ratio=act.ratio.ind )
-fds  <- read_csv( "Output Data/FunctionalDiversity_indices_PA.csv" ) # fewer sites
+fds  <- read_csv( "R code and analysis/Output Data/FunctionalDiversity_indices_PA.csv" ) # fewer sites
 fds <- as.data.frame(fds)
 fds[is.na(fds)] <- 0
-cwm <- read_csv( "Output Data/FunctionalDiversity_CWM_PA.csv" )
-cwm_length <- read_csv( "Output Data/FunctionalDiversity_CWM_length.csv")
+cwm <- read_csv( "R code and analysis/Output Data/FunctionalDiversity_CWM_PA.csv" )
+cwm_length <- read_csv( "R code and analysis/Output Data/FunctionalDiversity_CWM_length.csv")
 cwm_length <- cwm_length %>% select( Site, habitat, length )
 # abundance
 meancpua <- mean.catch %>% 
@@ -209,7 +209,7 @@ rate.mean.pairs <- rate.mean %>%
           `consumption\nrate`=logit.rate, FRic, act, length, `total\nabundance`=log.mean.cpua )
 
 # bivariate correlations
-chart.Correlation <- source("chart.correlation.r")$value
+chart.Correlation <- source("R code and analysis/chart.correlation.r")$value
 
 dim1 = 8.66142
 windows(dim1/2,dim1/2)
@@ -317,7 +317,7 @@ cowplot::plot_grid( f,e,a,b,c,d, ncol=2, labels="AUTO", align='hv' )
 ## patterns of family presence-absence across latitude
 # 
 # get capscale values to select and order families of interest
-taxa.corr <- read_csv( "Output Data/multivar_constr_taxa.csv" ) %>% arrange(-CAP1)
+taxa.corr <- read_csv( "R code and analysis/Output Data/multivar_constr_taxa.csv" ) %>% arrange(-CAP1)
 # get the twenty families with highest correlation with consumption rate
 # add more families based on video data?
 fam.choose <- taxa.corr$family[taxa.corr$family != c("Caesionidae")]
@@ -345,9 +345,23 @@ ggplot( pa.gather, aes(x=abs(meanLat),y=PA)) + facet_wrap(~family) +
   theme_bw() + theme( panel.grid.major = element_blank(), panel.grid.minor = element_blank() ) + 
   ylab("Family presence") + xlab("Degrees from equator")
 
+# compare a few taxa of interest
+pa.pivot <- pa.gather %>% select(-family.1,-CAP1,-MDS1,-dir,-angle) %>% 
+  filter( abs(meanLat)<30, 
+                      family %in% c("Sparidae","Carangidae","Sphyraenidae","Scombridae") ) %>%
+  pivot_wider( names_from = family, values_from = PA )
+pa.pivot$Carangidae_Sphyraenidae <- ifelse(pa.pivot$Sphyraenidae+pa.pivot$Carangidae>0,1,0)
+a <- ggplot( pa.pivot, aes(y=Sparidae,x=Carangidae)) + geom_point(alpha=0.1,size=5)
+b <- ggplot( pa.pivot, aes(y=Sparidae,x=Sphyraenidae)) + geom_point(alpha=0.1,size=5)
+c <- ggplot( pa.pivot, aes(y=Sparidae,x=Carangidae_Sphyraenidae)) + geom_point(alpha=0.1,size=5)
+cowplot::plot_grid( a,b,c, ncol=3 )
 
-
-
+chisq.test( pa.pivot$Sparidae, pa.pivot$Carangidae )
+mcnemar.test( pa.pivot$Sparidae, pa.pivot$Carangidae )
+x <- pa.pivot %>% ungroup() %>%  select( Sparidae, Carangidae_Sphyraenidae )
+jaccard::jaccard.test( pa.pivot$Sparidae, pa.pivot$Carangidae_Sphyraenidae, 
+                       method="bootstrap" )
+# binom.test( pa.pivot$Sparidae, pa.pivot$Carangidae_Sphyraenidae )
 
 #### how do pairwise differences in consumption correlate with differences in composition across site pairs (seagrass vs unvegetated)
 ##

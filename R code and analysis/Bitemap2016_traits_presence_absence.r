@@ -14,7 +14,7 @@ library(FD)
 
 ## TRAITS
 ## read trait data - see traits_imput.R and traits_clean.r for details
-trait.final <- read_csv( "Output Data/traits_clean_final.csv" )
+trait.final <- read_csv( "Data/processed/Bitemap_traits_clean_final.csv" )
 
 
 ### switch which traits to use
@@ -31,7 +31,7 @@ md <- trait.use %>%
 
 
 ## read seine data
-seine <- read_csv( "Output Data/Bitemap_seine_abundance_biomass.csv" )
+seine <- read_csv( "Data/processed/Bitemap_seine_abundance_biomass.csv" )
 seine <- seine %>% 
   select( Country, habitat, Lat, Long, Date, Time, 
           sciName=SPECIES_NAME, family, Genus,
@@ -56,7 +56,7 @@ seine_merge <- seine_per %>%
   summarize( present=1 )
 
 # trait information that includes video data
-video <- read_csv( "../Data/Video Data/Bitemap_Video_Data_ALL.csv" )
+video <- read_csv( "Data/raw/Video_data/Bitemap_Video_Data_ALL.csv" )
 # some sites list the full species name under Species instead of the epithet
 video$Species[ grep( "[A-Z]", video$Species ) ] <- 
   unlist( lapply( strsplit( video$Species[ grep( "[A-Z]", video$Species ) ], " " ), 
@@ -105,8 +105,8 @@ taxa <- taxa[ !(taxa %in% c("NO","Not", "NA")) ]
 #   filter(rank=='family') %>% 
 #   select( family=name, Genus=query )
 # # write taxfam to disk so we don't have to look it up every time
-# write_csv( taxfam, "Output Data/families_taxize_RDA.csv" )
-taxfam <-  read_csv( "Output Data/families_taxize_RDA.csv" )
+# write_csv( taxfam, "Data/processed/families_taxize_RDA.csv" )
+taxfam <-  read_csv( "Data/processed/families_taxize_RDA.csv" )
 
 famfam <- bind_rows( genfam, taxfam )
 video_fam <- left_join(video, famfam, by="Genus")
@@ -129,7 +129,7 @@ video_fam %>% filter(is.na(family))
 
 
 ## read site data
-sites <- read_csv( "Output Data/Bitemap_BioORACLE_20190107.csv" )
+sites <- read_csv( "Data/processed/Bitemap_BioORACLE_20190107.csv" )
 
 ## select columns
 sites <- sites %>%
@@ -137,7 +137,7 @@ sites <- sites %>%
           parmax, parmean, salinity, sstmax, sstmean, sstmin, sstrange )
 
 ## consumption rate data
-rate.env <- read_csv( "Output Data/Bitemap_rate.env.20190423.csv" ) %>% 
+rate.env <- read_csv( "Data/processed/Bitemap_rate.env.20190423.csv" ) %>% 
   select( Country, Site, habitat, rate )
 rate.hab <- rate.env %>% 
   group_by( Country, Site, habitat ) %>% 
@@ -206,8 +206,8 @@ trait.use$sciName %in% s1$sciName
 unique(s1$name) %in% unique(trait.use$name)
 
 ## write the seine-trait data to disk as well as the trait data themselvees
-write_csv( s1, "Output Data/Bitemap_trait_presence+absence.csv" )
-write_csv( trait.use, "Output Data/Bitemap_trait_use_presence+absence.csv" )
+write_csv( s1, "Data/processed/Bitemap_trait_presence+absence.csv" )
+write_csv( trait.use, "Data/processed/Bitemap_trait_use_presence+absence.csv" )
 
 
 
@@ -233,7 +233,7 @@ rat <- left_join( rat.ind, rat.tax )
 rat.site <- left_join( rat, ss )
 
 # write to disk
-write_csv( rat, "Output Data/consumer_active_ratio_PA.csv" )
+write_csv( rat, "Data/processed/consumer_active_ratio_PA.csv" )
 
 
 # plot
@@ -297,6 +297,7 @@ m1 <- dbFD( gd, ause, w.abun = T,
             corr="lingoes", print.pco=T, calc.FGR = T, clust.type="kmeans",
             km.inf.gr=3,km.sup.gr=20,
             calc.CWM = FALSE, m="min", calc.FDiv = FALSE, stand.FRic = TRUE )
+# pick 3
 
 # Community weight means
 cwm <- functcomp( xuse, ause )
@@ -305,7 +306,7 @@ cwm <- cwm %>%
   separate( SH, c("Site","habitat"))
 cwm.ss <- left_join( cwm, ss )
 
-write_csv( cwm, "Output Data/FunctionalDiversity_CWM_PA.csv")
+write_csv( cwm, "Data/processed/FunctionalDiversity_CWM_PA_new.csv")
 
 # quantitative traits
 ggplot( cwm.ss, aes( x=abs(meanLat), y=as.numeric(as.character(act)) )) + geom_point() + geom_smooth(method='glm', method.args=list(family='quasibinomial'))
@@ -337,9 +338,9 @@ fd <- fd %>%
 fds <- left_join(fd,ss)
 psych::pairs.panels( fds[,c("FRic","FEve","FDis","RaoQ","FGR","rate")])
 #RaoQ, FGR, Fric
-# from the help page: Rao's quadratic entropy (Q) is computed from the uncorrected species-species distance matrix via divc. See Botta-Dukát (2005) for details. Rao's Q is conceptually similar to FDis, and simulations (via simul.dbFD) have shown high positive correlations between the two indices (Laliberté and Legendre 2010). Still, one potential advantage of FDis over Rao's Q is that in the unweighted case (i.e. with presence-absence data), it opens possibilities for formal statistical tests for differences in FD between two or more communities through a distance-based test for homogeneity of multivariate dispersions (Anderson 2006); see betadisper for more details.
+# from the help page: Rao's quadratic entropy (Q) is computed from the uncorrected species-species distance matrix via divc. See Botta-Duk?t (2005) for details. Rao's Q is conceptually similar to FDis, and simulations (via simul.dbFD) have shown high positive correlations between the two indices (Lalibert? and Legendre 2010). Still, one potential advantage of FDis over Rao's Q is that in the unweighted case (i.e. with presence-absence data), it opens possibilities for formal statistical tests for differences in FD between two or more communities through a distance-based test for homogeneity of multivariate dispersions (Anderson 2006); see betadisper for more details.
 psych::pairs.panels( fds[,c("FRic","RaoQ","FGR","rate")])
-write_csv( fd, "Output Data/FunctionalDiversity_indices_PA.csv" )
+write_csv( fd, "Data/processed/FunctionalDiversity_indices_PA.csv" )
 
 with(fds,plot(FRic~cwm$act))
 with(fds,plot(FRic~cwm$feed))

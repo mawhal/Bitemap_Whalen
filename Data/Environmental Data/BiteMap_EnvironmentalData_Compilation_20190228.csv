@@ -1,554 +1,554 @@
-,Site.Name,Country,Lat,Long,Seagrass.Unveg,Date,Time,Temp,Sal,Measurment.Number,Data.Collector,Notes,Participant.List,Contact.Email,aqua
-1,Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Unveg,20161028,1618,24.1,25.7,1,Stacy Zhang,,"Lindsay Gaskins, Stacy Zhang",lindsaycgaskins@gmail.com,22.01110283
-2,Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Unveg,20161028,1618,23.3,25.5,2,Stacy Zhang,,"Lindsay Gaskins, Stacy Zhang",lindsaycgaskins@gmail.com,22.01110283
-3,Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Unveg,20161028,1618,22.7,25.7,3,Stacy Zhang,,"Lindsay Gaskins, Stacy Zhang",lindsaycgaskins@gmail.com,22.01110283
-4,Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Seagrass,20161028,1618,24.2,25.6,1,Stacy Zhang,,"Lindsay Gaskins, Stacy Zhang",lindsaycgaskins@gmail.com,22.01110283
-5,Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Seagrass,20161028,1618,24.1,24.9,2,Stacy Zhang,,"Lindsay Gaskins, Stacy Zhang",lindsaycgaskins@gmail.com,22.01110283
-6,Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Seagrass,20161028,1618,23.7,25.7,3,Stacy Zhang,,"Lindsay Gaskins, Stacy Zhang",lindsaycgaskins@gmail.com,22.01110283
-7,Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Unveg,20161029,1719,27.4,26.7,1,Lindsay Gaskins,,"Lindsay Gaskins, Stacy Zhang",lindsaycgaskins@gmail.com,22.01110283
-8,Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Unveg,20161029,1719,27.3,26.7,2,Lindsay Gaskins,,"Lindsay Gaskins, Stacy Zhang",lindsaycgaskins@gmail.com,22.01110283
-9,Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Unveg,20161029,1719,27.3,26.3,3,Lindsay Gaskins,,"Lindsay Gaskins, Stacy Zhang",lindsaycgaskins@gmail.com,22.01110283
-10,Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Seagrass,20161029,1712,27.4,25.8,1,Lindsay Gaskins,,"Lindsay Gaskins, Stacy Zhang",lindsaycgaskins@gmail.com,22.01110283
-11,Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Seagrass,20161029,1712,27.5,26.1,2,Lindsay Gaskins,,"Lindsay Gaskins, Stacy Zhang",lindsaycgaskins@gmail.com,22.01110283
-12,Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Seagrass,20161029,1712,27.4,26.2,3,Lindsay Gaskins,,"Lindsay Gaskins, Stacy Zhang",lindsaycgaskins@gmail.com,22.01110283
-13,Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Unveg,20161030,1715,22.4,26.5,1,Lindsay Gaskins,,"Lindsay Gaskins, Stacy Zhang",lindsaycgaskins@gmail.com,22.01110283
-14,Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Unveg,20161030,1715,22.2,26.5,2,Lindsay Gaskins,,"Lindsay Gaskins, Stacy Zhang",lindsaycgaskins@gmail.com,22.01110283
-15,Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Unveg,20161030,1715,22.1,26.5,3,Lindsay Gaskins,,"Lindsay Gaskins, Stacy Zhang",lindsaycgaskins@gmail.com,22.01110283
-16,Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Seagrass,20161030,1716,22.3,26.4,1,Lindsay Gaskins,,"Lindsay Gaskins, Stacy Zhang",lindsaycgaskins@gmail.com,22.01110283
-17,Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Seagrass,20161030,1716,22.3,26.4,2,Lindsay Gaskins,,"Lindsay Gaskins, Stacy Zhang",lindsaycgaskins@gmail.com,22.01110283
-18,Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Seagrass,20161030,1716,22.2,26.5,3,Lindsay Gaskins,,"Lindsay Gaskins, Stacy Zhang",lindsaycgaskins@gmail.com,22.01110283
-19,Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Unveg,20161031,1553,21.5,26.3,1,Lindsay Gaskins,,"Lindsay Gaskins, Stacy Zhang",lindsaycgaskins@gmail.com,22.01110283
-20,Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Unveg,20161031,1553,21.4,26.4,2,Lindsay Gaskins,,"Lindsay Gaskins, Stacy Zhang",lindsaycgaskins@gmail.com,22.01110283
-21,Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Unveg,20161031,1553,21,26.4,3,Lindsay Gaskins,,"Lindsay Gaskins, Stacy Zhang",lindsaycgaskins@gmail.com,22.01110283
-22,Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Seagrass,20161031,1554,20.9,26.6,1,Lindsay Gaskins,,"Lindsay Gaskins, Stacy Zhang",lindsaycgaskins@gmail.com,22.01110283
-23,Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Seagrass,20161031,1554,20.8,26.5,2,Lindsay Gaskins,,"Lindsay Gaskins, Stacy Zhang",lindsaycgaskins@gmail.com,22.01110283
-24,Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Seagrass,20161031,1554,21,26.4,3,Lindsay Gaskins,,"Lindsay Gaskins, Stacy Zhang",lindsaycgaskins@gmail.com,22.01110283
-25,Bowen,Australia (QLD),-20.01734,148.25191,Seagrass,20161202,730,27,35,1,Paul York,,"Paul York, David Clarke",paul.york@jcu.edu.au,29.09910395
-26,Bowen,Australia (QLD),-20.01734,148.25191,Seagrass,20161202,730,27,34,2,Paul York,,"Paul York, David Clarke",paul.york@jcu.edu.au,29.09910395
-27,Bowen,Australia (QLD),-20.01734,148.25191,Seagrass,20161202,730,27,33,3,Paul York,,"Paul York, David Clarke",paul.york@jcu.edu.au,29.09910395
-28,Bowen,Australia (QLD),-20.20234,148.24826,Unveg,20161202,745,27,31,1,Paul York,,"Paul York, David Clarke",paul.york@jcu.edu.au,29.09910395
-29,Bowen,Australia (QLD),-20.20234,148.24826,Unveg,20161202,745,28,32,2,Paul York,,"Paul York, David Clarke",paul.york@jcu.edu.au,29.09910395
-30,Bowen,Australia (QLD),-20.20234,148.24826,Unveg,20161202,745,28,31,3,Paul York,,"Paul York, David Clarke",paul.york@jcu.edu.au,29.09910395
-31,Bowen,Australia (QLD),-20.01734,148.25191,Seagrass,20161203,900,31,32,1,Paul York,,"Paul York, David Clarke",paul.york@jcu.edu.au,29.09910395
-32,Bowen,Australia (QLD),-20.01734,148.25191,Seagrass,20161203,900,30,32,2,Paul York,,"Paul York, David Clarke",paul.york@jcu.edu.au,29.09910395
-33,Bowen,Australia (QLD),-20.01734,148.25191,Seagrass,20161203,900,30,32,3,Paul York,,"Paul York, David Clarke",paul.york@jcu.edu.au,29.09910395
-34,Bowen,Australia (QLD),-20.20234,148.24826,Unveg,20161203,800,30,31,1,Paul York,,"Paul York, David Clarke",paul.york@jcu.edu.au,29.09910395
-35,Bowen,Australia (QLD),-20.20234,148.24826,Unveg,20161203,800,29,31,2,Paul York,,"Paul York, David Clarke",paul.york@jcu.edu.au,29.09910395
-36,Bowen,Australia (QLD),-20.20234,148.24826,Unveg,20161203,800,28,33,3,Paul York,,"Paul York, David Clarke",paul.york@jcu.edu.au,29.09910395
-37,Bowen,Australia (QLD),-20.01734,148.25191,Seagrass,20161204,800,30,34,1,Paul York,,"Paul York, David Clarke",paul.york@jcu.edu.au,29.09910395
-38,Bowen,Australia (QLD),-20.01734,148.25191,Seagrass,20161204,800,29,32,2,Paul York,,"Paul York, David Clarke",paul.york@jcu.edu.au,29.09910395
-39,Bowen,Australia (QLD),-20.01734,148.25191,Seagrass,20161204,800,29,33,3,Paul York,,"Paul York, David Clarke",paul.york@jcu.edu.au,29.09910395
-40,Bowen,Australia (QLD),-20.20234,148.24826,Unveg,20161204,825,27,31,1,Paul York,,"Paul York, David Clarke",paul.york@jcu.edu.au,29.09910395
-41,Bowen,Australia (QLD),-20.20234,148.24826,Unveg,20161204,825,27,32,2,Paul York,,"Paul York, David Clarke",paul.york@jcu.edu.au,29.09910395
-42,Bowen,Australia (QLD),-20.20234,148.24826,Unveg,20161204,825,27,33,3,Paul York,,"Paul York, David Clarke",paul.york@jcu.edu.au,29.09910395
-43,Bowen,Australia (QLD),-20.01734,148.25191,Seagrass,20161205,600,24,35,1,Paul York,,"Paul York, David Clarke",paul.york@jcu.edu.au,29.09910395
-44,Bowen,Australia (QLD),-20.01734,148.25191,Seagrass,20161205,600,24,35,2,Paul York,,"Paul York, David Clarke",paul.york@jcu.edu.au,29.09910395
-45,Bowen,Australia (QLD),-20.01734,148.25191,Seagrass,20161205,600,25,35,3,Paul York,,"Paul York, David Clarke",paul.york@jcu.edu.au,29.09910395
-46,Bowen,Australia (QLD),-20.20234,148.24826,Unveg,20161205,615,24,34,1,Paul York,,"Paul York, David Clarke",paul.york@jcu.edu.au,29.09910395
-47,Bowen,Australia (QLD),-20.20234,148.24826,Unveg,20161205,615,25,35,2,Paul York,,"Paul York, David Clarke",paul.york@jcu.edu.au,29.09910395
-48,Bowen,Australia (QLD),-20.20234,148.24826,Unveg,20161205,615,25,34,3,Paul York,,"Paul York, David Clarke",paul.york@jcu.edu.au,29.09910395
-49,Choked Pocket,Canada (BC),51.67638,-128.12363,Seagrass,20160705,827,12.1,31.19,1,Ben Millard-Martin,,Kaia Bryce,midoli.bresch@hakai.org,13.83749969
-50,Choked Pocket,Canada (BC),51.67638,-128.12363,Seagrass,20160705,827,12,31.23,2,Ben Millard-Martin,,Kaia Bryce,midoli.bresch@hakai.org,13.83749969
-51,Choked Pocket,Canada (BC),51.67638,-128.12363,Seagrass,20160705,827,12,31.24,3,Ben Millard-Martin,,Kaia Bryce,midoli.bresch@hakai.org,13.83749969
-52,Choked Pocket,Canada (BC),51.676475,-128.123739,Seagrass,20160706,1028,12.1,31,1,Midoli Bresch,,"Zach Monteith, Krystal Bachen",midoli.bresch@hakai.org,13.83749969
-53,Choked Pocket,Canada (BC),51.676475,-128.123739,Seagrass,20160706,1028,11.6,31.05,2,Midoli Bresch,,"Zach Monteith, Krystal Bachen",midoli.bresch@hakai.org,13.83749969
-54,Choked Pocket,Canada (BC),51.676475,-128.123739,Seagrass,20160706,1028,11.5,31.07,3,Midoli Bresch,,"Zach Monteith, Krystal Bachen",midoli.bresch@hakai.org,13.83749969
-55,Choked Pocket,Canada (BC),51.681428,-128.114127,Seagrass,20160707,1049,11.9,31.16,1,Zach Monteith,,Midoli Bresch,midoli.bresch@hakai.org,13.83749969
-56,Choked Pocket,Canada (BC),51.681428,-128.114127,Seagrass,20160707,1049,11.8,31.16,2,Zach Monteith,,Midoli Bresch,midoli.bresch@hakai.org,13.83749969
-57,Choked Pocket,Canada (BC),51.681428,-128.114127,Seagrass,20160707,1049,11.8,31.19,3,Zach Monteith,,Midoli Bresch,midoli.bresch@hakai.org,13.83749969
-58,Choked Pocket,Canada (BC),51.681428,-128.114127,Seagrass,20160708,1035,12.9,29.83,1,Midoli Bresch,,Zach Monteith,midoli.bresch@hakai.org,13.83749969
-59,Choked Pocket,Canada (BC),51.681428,-128.114127,Seagrass,20160708,1035,12.8,29.84,2,Midoli Bresch,,Zach Monteith,midoli.bresch@hakai.org,13.83749969
-60,Choked Pocket,Canada (BC),51.681428,-128.114127,Seagrass,20160708,1035,12.7,30.08,3,Midoli Bresch,,Zach Monteith,midoli.bresch@hakai.org,13.83749969
-61,Choked Sandspit,Canada (BC),51.68156,-128.11427,Unveg,20160705,845,12,31.4,1,Ben Millard-Martin,,Kaia Bryce,midoli.bresch@hakai.org,13.83749969
-62,Choked Sandspit,Canada (BC),51.68156,-128.11427,Unveg,20160705,845,12,31.22,2,Ben Millard-Martin,,Kaia Bryce,midoli.bresch@hakai.org,13.83749969
-63,Choked Sandspit,Canada (BC),51.68156,-128.11427,Unveg,20160705,845,11.9,31.18,3,Ben Millard-Martin,,Kaia Bryce,midoli.bresch@hakai.org,13.83749969
-64,Choked Sandspit,Canada (BC),51.681408,-128.114073,Unveg,20160706,920,12.5,30.73,1,Midoli Bresch,,"Zach Monteith, Krystal Bachen",midoli.bresch@hakai.org,13.83749969
-65,Choked Sandspit,Canada (BC),51.681408,-128.114073,Unveg,20160706,920,12.4,30.83,2,Midoli Bresch,,"Zach Monteith, Krystal Bachen",midoli.bresch@hakai.org,13.83749969
-66,Choked Sandspit,Canada (BC),51.681408,-128.114073,Unveg,20160706,920,12.4,30.82,3,Midoli Bresch,,"Zach Monteith, Krystal Bachen",midoli.bresch@hakai.org,13.83749969
-67,Choked Sandspit,Canada (BC),51.676464,-128.12368,Unveg,20160707,915,12.4,30.1,1,Midoli Bresch,,Zach Monteith,midoli.bresch@hakai.org,13.83749969
-68,Choked Sandspit,Canada (BC),51.676464,-128.12368,Unveg,20160707,915,12.4,30.13,2,Midoli Bresch,,Zach Monteith,midoli.bresch@hakai.org,13.83749969
-69,Choked Sandspit,Canada (BC),51.676464,-128.12368,Unveg,20160707,915,12.4,30.16,3,Midoli Bresch,,Zach Monteith,midoli.bresch@hakai.org,13.83749969
-70,Choked Sandspit,Canada (BC),51.676464,-128.12368,Unveg,20160708,940,13.7,26.21,1,Midoli Bresch,,Zach Monteith,midoli.bresch@hakai.org,13.83749969
-71,Choked Sandspit,Canada (BC),51.676464,-128.12368,Unveg,20160708,940,13.6,26.45,2,Midoli Bresch,,Zach Monteith,midoli.bresch@hakai.org,13.83749969
-72,Choked Sandspit,Canada (BC),51.676464,-128.12368,Unveg,20160708,940,13.6,26.51,3,Midoli Bresch,,Zach Monteith,midoli.bresch@hakai.org,13.83749969
-73,CR-B-SvetiDuh,Croatia,44.20603,15.47262,Seagrass,20160701,630,21,19,1,Claudia Kruschel," at all sites  temp and sal taken before the sein netting, temp with regular thermometer, salinity with refractometer ","Claudia Kruschel, Marko Mador, Dubravko Pejdo",ckrusche@unizd.hr,NA
-74,CR-B-SvetiDuh,Croatia,44.20603,15.47262,Seagrass,20160701,630,22,32,2,Claudia Kruschel,,"Claudia Kruschel, Marko Mador, Dubravko Pejdo",ckrusche@unizd.hr,NA
-75,CR-B-SvetiDuh,Croatia,44.20603,15.47262,Seagrass,20160701,630,22.5,32,3,Claudia Kruschel,,"Claudia Kruschel, Marko Mador, Dubravko Pejdo",ckrusche@unizd.hr,NA
-76,CR-B-SvetiDuh,Croatia,44.20628,15.47166,Seagrass,20160701,645,21.5,20,1,Claudia Kruschel,1= at 10m distance from shore and 30 cm above bottom,"Claudia Kruschel, Marko Mador, Dubravko Pejdo",ckrusche@unizd.hr,NA
-77,CR-B-SvetiDuh,Croatia,44.20628,15.47166,Seagrass,20160701,645,22.5,30,2,Claudia Kruschel,2= at 30 m distance from shore and 30 cm above bottom,"Claudia Kruschel, Marko Mador, Dubravko Pejdo",ckrusche@unizd.hr,NA
-78,CR-B-SvetiDuh,Croatia,44.20628,15.47166,Seagrass,20160702,645,22.5,30,3,Claudia Kruschel,3= at 60 m distance from shore and 30 cm above bottom,"Claudia Kruschel, Marko Mador, Dubravko Pejdo",ckrusche@unizd.hr,NA
-79,CR-B-SvetiDuh,Croatia,44.20671,15.47138,Seagrass,20160701,700,22,20,1,Claudia Kruschel,,"Claudia Kruschel, Marko Mador, Dubravko Pejdo",ckrusche@unizd.hr,NA
-80,CR-B-SvetiDuh,Croatia,44.20671,15.47138,Seagrass,20160701,700,22,21,2,Claudia Kruschel,,"Claudia Kruschel, Marko Mador, Dubravko Pejdo",ckrusche@unizd.hr,NA
-81,CR-B-SvetiDuh,Croatia,44.20671,15.47138,Seagrass,20160702,700,22,21,3,Claudia Kruschel,,"Claudia Kruschel, Marko Mador, Dubravko Pejdo",ckrusche@unizd.hr,NA
-82,CR-B-SvetiDuh,Croatia,44.20323,15.47232,Unveg,20160701,715,21.5,21,1,Claudia Kruschel,,"Claudia Kruschel, Marko Mador, Dubravko Pejdo",ckrusche@unizd.hr,NA
-83,CR-B-SvetiDuh,Croatia,44.20323,15.47232,Unveg,20160701,715,22,21,2,Claudia Kruschel,,"Claudia Kruschel, Marko Mador, Dubravko Pejdo",ckrusche@unizd.hr,NA
-84,CR-B-SvetiDuh,Croatia,44.20323,15.47232,Unveg,20160701,715,22,21,3,Claudia Kruschel,,"Claudia Kruschel, Marko Mador, Dubravko Pejdo",ckrusche@unizd.hr,NA
-85,CR-B-SvetiDuh,Croatia,44.20264,15.47251,Unveg,20160701,730,22,18,1,Claudia Kruschel,,"Claudia Kruschel, Marko Mador, Dubravko Pejdo",ckrusche@unizd.hr,NA
-86,CR-B-SvetiDuh,Croatia,44.20264,15.47251,Unveg,20160701,730,22,17,2,Claudia Kruschel,,"Claudia Kruschel, Marko Mador, Dubravko Pejdo",ckrusche@unizd.hr,NA
-87,CR-B-SvetiDuh,Croatia,44.20264,15.47251,Unveg,20160701,730,22,18,3,Claudia Kruschel,,"Claudia Kruschel, Marko Mador, Dubravko Pejdo",ckrusche@unizd.hr,NA
-88,CR-B-SvetiDuh,Croatia,44.20182,15.47361,Unveg,20160701,745,22,18,1,Claudia Kruschel,,"Claudia Kruschel, Marko Mador, Dubravko Pejdo",ckrusche@unizd.hr,NA
-89,CR-B-SvetiDuh,Croatia,44.20182,15.47361,Unveg,20160701,745,22,15,2,Claudia Kruschel,,"Claudia Kruschel, Marko Mador, Dubravko Pejdo",ckrusche@unizd.hr,NA
-90,CR-B-SvetiDuh,Croatia,44.20182,15.47361,Unveg,20160701,745,22,17,3,Claudia Kruschel,,"Claudia Kruschel, Marko Mador, Dubravko Pejdo",ckrusche@unizd.hr,NA
-91,Dorothy Cove,USA (MA),42.41978,-70.91522,Seagrass,20160607,730,16,32,1,Amelia Weiss,,"Amelia Weiss, Forest Schenck, Dylan Comb",rhughes@northeastern.edu,NA
-92,Dorothy Cove,USA (MA),42.41978,-70.91522,Seagrass,20160607,730,16,32,2,Amelia Weiss,,"Amelia Weiss, Forest Schenck, Dylan Comb",rhughes@northeastern.edu,NA
-93,Dorothy Cove,USA (MA),42.41978,-70.91522,Seagrass,20160607,730,15.5,32,3,Amelia Weiss,,"Amelia Weiss, Forest Schenck, Dylan Comb",rhughes@northeastern.edu,NA
-94,Dorothy Cove,USA (MA),42.41986,-70.91506,Unveg,20160607,735,15,32,1,Amelia Weiss,,"Amelia Weiss, Forest Schenck, Dylan Comb",rhughes@northeastern.edu,NA
-95,Dorothy Cove,USA (MA),42.41986,-70.91506,Unveg,20160607,735,15,31,2,Amelia Weiss,,"Amelia Weiss, Forest Schenck, Dylan Comb",rhughes@northeastern.edu,NA
-96,Dorothy Cove,USA (MA),42.41986,-70.91506,Unveg,20160607,735,15,30,3,Amelia Weiss,,"Amelia Weiss, Forest Schenck, Dylan Comb",rhughes@northeastern.edu,NA
-97,Dorothy Cove,USA (MA),42.42026,-70.91574,Seagrass,20160609,840,10.5,31,1,Amelia Weiss,,"Amelia Weiss, Forest Schenck",rhughes@northeastern.edu,NA
-98,Dorothy Cove,USA (MA),42.42026,-70.91574,Seagrass,20160609,840,11,32,2,Amelia Weiss,,"Amelia Weiss, Forest Schenck",rhughes@northeastern.edu,NA
-99,Dorothy Cove,USA (MA),42.42026,-70.91574,Seagrass,20160609,840,10.5,32,3,Amelia Weiss,,"Amelia Weiss, Forest Schenck",rhughes@northeastern.edu,NA
-100,Dorothy Cove,USA (MA),42.42044,-70.91594,Unveg,20160609,845,11,32,1,Amelia Weiss,,"Amelia Weiss, Forest Schenck",rhughes@northeastern.edu,NA
-101,Dorothy Cove,USA (MA),42.42044,-70.91594,Unveg,20160609,845,11,31,2,Amelia Weiss,,"Amelia Weiss, Forest Schenck",rhughes@northeastern.edu,NA
-102,Dorothy Cove,USA (MA),42.42044,-70.91594,Unveg,20160609,845,11,31,3,Amelia Weiss,,"Amelia Weiss, Forest Schenck",rhughes@northeastern.edu,NA
-103,Dorothy Cove,USA (MA),42.42057,-70.91625,Unveg,20160622,715,12.5,30,1,Amelia Weiss,,"Amelia Weiss, Forest Schenck",rhughes@northeastern.edu,NA
-104,Dorothy Cove,USA (MA),42.42057,-70.91625,Unveg,20160622,715,12,31,2,Amelia Weiss,,"Amelia Weiss, Forest Schenck",rhughes@northeastern.edu,NA
-105,Dorothy Cove,USA (MA),42.42057,-70.91625,Unveg,20160622,715,12.5,32,3,Amelia Weiss,,"Amelia Weiss, Forest Schenck",rhughes@northeastern.edu,NA
-106,Dorothy Cove,USA (MA),42.42046,-70.91641,Seagrass,20160622,720,12.5,33,1,Amelia Weiss,,"Amelia Weiss, Forest Schenck",rhughes@northeastern.edu,NA
-107,Dorothy Cove,USA (MA),42.42046,-70.91641,Seagrass,20160622,720,13,31,2,Amelia Weiss,,"Amelia Weiss, Forest Schenck",rhughes@northeastern.edu,NA
-108,Dorothy Cove,USA (MA),42.42046,-70.91641,Seagrass,20160622,720,12.5,31,3,Amelia Weiss,,"Amelia Weiss, Forest Schenck",rhughes@northeastern.edu,NA
-109,Praia do Engenho,Brazil,-23.78863,-45.36364,Seagrass,20170308,915,26.4,33.4,1,,,,,24.07829492
-110,Praia do Engenho,Brazil,-23.78863,-45.36364,Seagrass,20170308,915,26.4,33.6,2,,,,,24.07829492
-111,Praia do Engenho,Brazil,-23.78863,-45.36364,Seagrass,20170308,915,26.3,33.6,3,,,,,24.07829492
-112,Praia do Barreiro,Brazil,-23.762,-45.34991,Unveg,20170308,1100,26.1,33.3,1,,,,,24.08616644
-113,Praia do Barreiro,Brazil,-23.762,-45.34991,Unveg,20170308,1100,26.2,33.4,2,,,,,24.08616644
-114,Praia do Barreiro,Brazil,-23.762,-45.34991,Unveg,20170308,1100,26.1,33.5,3,,,,,24.08616644
-115,Praia do Engenho,Brazil,-23.78863,-45.36364,Seagrass,20170309,955,26.8,34.6,1,,,,,24.07829492
-116,Praia do Engenho,Brazil,-23.78863,-45.36364,Seagrass,20170309,955,26.8,34.5,2,,,,,24.07829492
-117,Praia do Engenho,Brazil,-23.78863,-45.36364,Seagrass,20170309,955,26.8,34.5,3,,,,,24.07829492
-118,Praia do Barreiro,Brazil,-23.762,-45.34991,Unveg,20170309,1030,26.9,34,1,,,,,24.08616644
-119,Praia do Barreiro,Brazil,-23.762,-45.34991,Unveg,20170309,1030,27,34.1,2,,,,,24.08616644
-120,Praia do Barreiro,Brazil,-23.762,-45.34991,Unveg,20170309,1030,26.8,34,3,,,,,24.08616644
-121,Praia do Engenho,Brazil,-23.78863,-45.36364,Seagrass,20170310,950,27.3,34.4,1,,,,,24.07829492
-122,Praia do Engenho,Brazil,-23.78863,-45.36364,Seagrass,20170310,950,27.3,34.4,2,,,,,24.07829492
-123,Praia do Engenho,Brazil,-23.78863,-45.36364,Seagrass,20170310,950,27.3,34.5,3,,,,,24.07829492
-124,Praia do Barreiro,Brazil,-23.762,-45.34991,Unveg,20170310,1100,27.8,33.1,1,,,,,24.08616644
-125,Praia do Barreiro,Brazil,-23.762,-45.34991,Unveg,20170310,1100,27.9,32.9,2,,,,,24.08616644
-126,Praia do Barreiro,Brazil,-23.762,-45.34991,Unveg,20170310,1100,28,32.7,3,,,,,24.08616644
-127,Harbor Branch,USA (FL),27.53546,-80.347016,Unveg,20161115,1030,23.5,28.25,1,Dean Janiak,Physical data averaged over an hour using a LOBO data sonde,Dean Janiak,janiakd@si.edu,23.69027788
-128,Harbor Branch,USA (FL),27.536592,-80.34928,Seagrass,20161115,1000,23.5,28.25,1,Dean Janiak,Physical data averaged over an hour using a LOBO data sonde,Dean Janiak,janiakd@si.edu,23.69027788
-129,Harbor Branch,USA (FL),27.53546,-80.347016,Unveg,20161117,1130,21.55,27.67,1,Dean Janiak,Physical data averaged over an hour using a LOBO data sonde,Dean Janiak,janiakd@si.edu,23.69027788
-130,Harbor Branch,USA (FL),27.536592,-80.34928,Seagrass,20161117,1100,21.55,27.67,1,Dean Janiak,Physical data averaged over an hour using a LOBO data sonde,Dean Janiak,janiakd@si.edu,23.69027788
-131,Harbor Branch,USA (FL),27.53546,-80.347016,Unveg,20161121,1230,20.5,28.5,1,Dean Janiak,Physical data averaged over an hour using a LOBO data sonde,Dean Janiak,janiakd@si.edu,23.69027788
-132,Harbor Branch,USA (FL),27.536592,-80.34928,Seagrass,20161121,1200,20.5,28.5,1,Dean Janiak,Physical data averaged over an hour using a LOBO data sonde,Dean Janiak,janiakd@si.edu,23.69027788
-133,Oso Bay,USA (TX),27.42443,-97.19447,Unveg,20160707,8:16,28,27,1,Meredith Diskin,,"Meredith Diskin, Chris Patrick, Joey Reustle, Kelly Correia, John Medary, Mary Lou, Quincie A, Jennifer Whittman",mdiskin@islander.tamucc.edu,29.22433376
-134,Oso Bay,USA (TX),27.42446,-97.19337,Seagrass,20160707,9:30,27,30,1,Meredith Diskin,,"Meredith Diskin, Chris Patrick, Joey Reustle, Kelly Correia, John Medary, Mary Lou, Quincie A, Jennifer Whittman",mdiskin@islander.tamucc.edu,29.22433376
-135,Oso Bay,USA (TX),27.42443,-97.19447,Unveg,20160714,8:03,27,34,2,Meredith Diskin,,"Meredith Diskin, Chris Patrick, Jennifer Whitt, Joey Reustle, Kelly Correia, Quincie A.",mdiskin@islander.tamucc.edu,29.22433376
-136,Oso Bay,USA (TX),27.42446,-97.19337,Seagrass,20160714,8:42,28,35,2,Meredith Diskin,,"Meredith Diskin, Chris Patrick, Jennifer Whitt, Joey Reustle, Kelly Correia, Quincie A.",mdiskin@islander.tamucc.edu,29.22433376
-137,Oso Bay,USA (TX),27.42443,-97.19447,Unveg,20160720,8:15,30,35,3,Meredith Diskin,,"Meredith Diskin, John Medary, Jennifer Whitt, Joey Reustle, Kelly Correia, Quincie A., Erin Erbin, Lisa Coates",mdiskin@islander.tamucc.edu,29.22433376
-138,Oso Bay,USA (TX),27.42466,-97.19337,Seagrass,20160720,8:15,30,37,3,Meredith Diskin,,"Meredith Diskin, John Medary, Jennifer Whitt, Joey Reustle, Kelly Correia, Quincie A., Erin Erbin, Lisa Coates",mdiskin@islander.tamucc.edu,29.22433376
-139,Laguna Madre,USA (TX),27.37981,-97.17288,Unveg,20160727,8:15,28,37,1,Meredith Diskin,,"Meredith Diskin, Kelly Correia, Jennifer Whitt, Mary Lou, John Medary",mdiskin@islander.tamucc.edu,29.22433376
-140,Laguna Madre,USA (TX),27.37951,-97.17278,Seagrass,20160727,8:30,29,39,1,Meredith Diskin,,"Meredith Diskin, Kelly Correia, Jennifer Whitt, Mary Lou, John Medary",mdiskin@islander.tamucc.edu,29.22433376
-141,Laguna Madre,USA (TX),27.37983,-97.17288,Unveg,20160803,7:49,29,40,2,Meredith Diskin,,"Meredith Diskin, John Medary, Jennifer Whitt, Lisa Coates",mdiskin@islander.tamucc.edu,29.22433376
-142,Laguna Madre,USA (TX),27.37951,-97.17278,Seagrass,20160803,7:56,28,40,2,Meredith Diskin,,"Meredith Diskin, John Medary, Jennifer Whitt, Lisa Coates",mdiskin@islander.tamucc.edu,29.22433376
-143,Laguna Madre,USA (TX),27.37984,-97.17288,Unveg,20160810,8:35,26,40,3,Meredith Diskin,,"Meredith Diskin, Kelly Correia, Joey Reustle, John Medary",mdiskin@islander.tamucc.edu,29.22433376
-144,Laguna Madre,USA (TX),27.37951,-97.17278,Seagrass,20160810,8:35,26,40,3,Meredith Diskin,,"Meredith Diskin, Kelly Correia, Joey Reustle, John Medary",mdiskin@islander.tamucc.edu,29.22433376
-145,Aransas Pass,USA (TX),27.53477,-97.06673,Unveg,20160823,7:30,28,36,1,Meredith Diskin,,"Meredith Diskin, Jennifer Whitt, John Medary, Joey Reustle",mdiskin@islander.tamucc.edu,29.22433376
-146,Aransas Pass,USA (TX),27.53467,-97.06697,Seagrass,20160823,7:30,28,35,1,Meredith Diskin,,"Meredith Diskin, Jennifer Whitt, John Medary, Joey Reustle",mdiskin@islander.tamucc.edu,29.22433376
-147,Aransas Pass,USA (TX),27.53477,-97.06673,Unveg,20160901,7:30,28,32,2,Meredith Diskin,,"Meredith Diskin, Jennifer Whitt, John Medary",mdiskin@islander.tamucc.edu,29.22433376
-148,Aransas Pass,USA (TX),27.53467,-97.06697,Seagrass,20160901,7:30,28,34,2,Meredith Diskin,,"Meredith Diskin, Jennifer Whitt, John Medary",mdiskin@islander.tamucc.edu,29.22433376
-149,Aransas Pass,USA (TX),27.53477,-97.06673,Unveg,20160909,8:30,28,30,3,Meredith Diskin,,"Meredith Diskin, Joey Reustle, Jennifer Whitt",mdiskin@islander.tamucc.edu,29.22433376
-150,Aransas Pass,USA (TX),27.53467,-97.06697,Seagrass,20160909,7:30,28,30,3,Meredith Diskin,,"Meredith Diskin, Joey Reustle, Jennifer Whitt",mdiskin@islander.tamucc.edu,29.22433376
-151,NC,USA (NC),34.69099,-76.62199,Seagrass,20160815,1510,34.3,34,1,Shelby Ziegler,,"Julie Geyer, Max Tice-Lewis, Martin Benavides, Shelby Ziegler",,30.26564765
-152,NC,USA (NC),34.69099,-76.62199,Seagrass,20160815,1510,33.8,34,2,Shelby Ziegler,,"Julie Geyer, Max Tice-Lewis, Martin Benavides, Shelby Ziegler",,30.26564765
-153,NC,USA (NC),34.69099,-76.62199,Seagrass,20160815,1510,33.3,34,3,Shelby Ziegler,,"Julie Geyer, Max Tice-Lewis, Martin Benavides, Shelby Ziegler",,30.26564765
-154,NC,USA (NC),34.69099,-76.62199,Seagrass,20160816,1502,34.1,34,1,Shelby Ziegler,,"Julie Geyer, Matt Kenworthy, Danielle Keller, Shelby Ziegler",,30.26564765
-155,NC,USA (NC),34.69099,-76.62199,Seagrass,20160816,1502,33.9,34,2,Shelby Ziegler,,"Julie Geyer, Matt Kenworthy, Danielle Keller, Shelby Ziegler",,30.26564765
-156,NC,USA (NC),34.69099,-76.62199,Seagrass,20160816,1502,33.1,34,3,Shelby Ziegler,,"Julie Geyer, Matt Kenworthy, Danielle Keller, Shelby Ziegler",,30.26564765
-157,NC,USA (NC),34.69099,-76.62199,Seagrass,20160817,1454,33.4,33,1,Shelby Ziegler,,"Julie Geyer, Danielle Keller, Shelby Ziegler",,30.26564765
-158,NC,USA (NC),34.69099,-76.62199,Seagrass,20160817,1454,33.5,33,2,Shelby Ziegler,,"Julie Geyer, Danielle Keller, Shelby Ziegler",,30.26564765
-159,NC,USA (NC),34.69099,-76.62199,Seagrass,20160817,1454,33.8,33,3,Shelby Ziegler,,"Julie Geyer, Danielle Keller, Shelby Ziegler",,30.26564765
-160,NC,USA (NC),34.69051,-76.62245,Unveg,20160815,1506,33.1,34,1,Shelby Ziegler,,"Julie Geyer, Max Tice-Lewis, Martin Benavides, Shelby Ziegler",,30.26564765
-161,NC,USA (NC),34.69051,-76.62245,Unveg,20160815,1506,33.1,34.5,2,Shelby Ziegler,,"Julie Geyer, Max Tice-Lewis, Martin Benavides, Shelby Ziegler",,30.26564765
-162,NC,USA (NC),34.69051,-76.62245,Unveg,20160815,1506,33.1,34,3,Shelby Ziegler,,"Julie Geyer, Max Tice-Lewis, Martin Benavides, Shelby Ziegler",,30.26564765
-163,NC,USA (NC),34.69051,-76.62245,Unveg,20160816,1456,33,34.5,1,Shelby Ziegler,,"Julie Geyer, Matt Kenworthy, Danielle Keller, Shelby Ziegler",,30.26564765
-164,NC,USA (NC),34.69051,-76.62245,Unveg,20160816,1456,33.1,34.5,2,Shelby Ziegler,,"Julie Geyer, Matt Kenworthy, Danielle Keller, Shelby Ziegler",,30.26564765
-165,NC,USA (NC),34.69051,-76.62245,Unveg,20160816,1456,33,34.5,3,Shelby Ziegler,,"Julie Geyer, Matt Kenworthy, Danielle Keller, Shelby Ziegler",,30.26564765
-166,NC,USA (NC),34.69051,-76.62245,Unveg,20160817,1449,32.9,34,1,Shelby Ziegler,,"Julie Geyer, Danielle Keller, Shelby Ziegler",,30.26564765
-167,NC,USA (NC),34.69051,-76.62245,Unveg,20160817,1449,33.1,33,2,Shelby Ziegler,,"Julie Geyer, Danielle Keller, Shelby Ziegler",,30.26564765
-168,NC,USA (NC),34.69051,-76.62245,Unveg,20160817,1449,32.7,34,3,Shelby Ziegler,,"Julie Geyer, Danielle Keller, Shelby Ziegler",,30.26564765
-169,Juvika,Norway,67.214334,15.007534,Seagrass,20160724,1235,11.5,29.2,1,Henning Reiss,,"Henning Reiss, Katrin Reiss",katrin.sieben@gmail.com,NA
-170,Juvika,Norway,67.214334,15.007534,Seagrass,20160724,1235,11.5,29.2,2,Henning Reiss,,"Henning Reiss, Katrin Reiss",katrin.sieben@gmail.com,NA
-171,Juvika,Norway,67.214334,15.007534,Seagrass,20160724,1235,11.6,29.1,3,Henning Reiss,,"Henning Reiss, Katrin Reiss",katrin.sieben@gmail.com,NA
-172,Juvika,Norway,67.214334,15.007534,Unveg,20160724,1250,11.5,29.01,1,Henning Reiss,,"Henning Reiss, Katrin Reiss",katrin.sieben@gmail.com,NA
-173,Juvika,Norway,67.214334,15.007534,Seagrass,20160724,1250,11.5,29.1,2,Henning Reiss,,"Henning Reiss, Katrin Reiss",katrin.sieben@gmail.com,NA
-174,Juvika,Norway,67.214334,15.007534,Seagrass,20160724,1250,11.5,29.1,3,Henning Reiss,,"Henning Reiss, Katrin Reiss",katrin.sieben@gmail.com,NA
-175,OIMB-Valino-SSNERR,USA (OR),43.315383,-124.320926,Unveg,20160719,945,16.32,32.12,1,Aaron Galloway,"Data from nearby SSNERR station ""sosvawq"" [ 43.315996, -124.321276]","Aaron Galloway, Bree Yednock, Elena Rubio-Lopez",agalow3@uoregon.edu,14.57291634
-176,OIMB-Valino-SSNERR,USA (OR),43.315383,-124.320926,Unveg,20160719,1000,15.862,32.3,2,Aaron Galloway,"Data from nearby SSNERR station ""sosvawq"" [ 43.315996, -124.321276]","Aaron Galloway, Bree Yednock, Elena Rubio-Lopez",agalow3@uoregon.edu,14.57291634
-177,OIMB-Valino-SSNERR,USA (OR),43.315383,-124.320926,Unveg,20160719,1015,15.796,32.25,3,Aaron Galloway,"Data from nearby SSNERR station ""sosvawq"" [ 43.315996, -124.321276]","Aaron Galloway, Bree Yednock, Elena Rubio-Lopez",agalow3@uoregon.edu,14.57291634
-178,OIMB-Valino-SSNERR,USA (OR),43.315013,-124.320361,Seagrass,20160719,1045,15.474,32.35,1,Aaron Galloway,"Data from nearby SSNERR station ""sosvawq"" [ 43.315996, -124.321276]","Aaron Galloway, Bree Yednock, Elena Rubio-Lopez",agalow3@uoregon.edu,14.57291634
-179,OIMB-Valino-SSNERR,USA (OR),43.315013,-124.320361,Seagrass,20160719,1100,14.75,32.32,2,Aaron Galloway,"Data from nearby SSNERR station ""sosvawq"" [ 43.315996, -124.321276]","Aaron Galloway, Bree Yednock, Elena Rubio-Lopez",agalow3@uoregon.edu,14.57291634
-180,OIMB-Valino-SSNERR,USA (OR),43.315013,-124.320361,Seagrass,20160719,1115,14.338,32.48,3,Aaron Galloway,"Data from nearby SSNERR station ""sosvawq"" [ 43.315996, -124.321276]","Aaron Galloway, Bree Yednock, Elena Rubio-Lopez",agalow3@uoregon.edu,14.57291634
-181,OIMB-Valino-SSNERR,USA (OR),43.315383,-124.320926,Unveg,20160720,945,17.967,31.69,1,Aaron Galloway,"Data from nearby SSNERR station ""sosvawq"" [ 43.315996, -124.321276]","Aaron Galloway, Nicole Watase, Elena Rubio-Lopez",agalow3@uoregon.edu,14.57291634
-182,OIMB-Valino-SSNERR,USA (OR),43.315383,-124.320926,Unveg,20160720,1000,17.583,31.92,2,Aaron Galloway,"Data from nearby SSNERR station ""sosvawq"" [ 43.315996, -124.321276]","Aaron Galloway, Nicole Watase, Elena Rubio-Lopez",agalow3@uoregon.edu,14.57291634
-183,OIMB-Valino-SSNERR,USA (OR),43.315383,-124.320926,Unveg,20160720,1015,17.399,32.03,3,Aaron Galloway,"Data from nearby SSNERR station ""sosvawq"" [ 43.315996, -124.321276]","Aaron Galloway, Nicole Watase, Elena Rubio-Lopez",agalow3@uoregon.edu,14.57291634
-184,OIMB-Valino-SSNERR,USA (OR),43.315013,-124.320361,Seagrass,20160720,1045,16.719,32.27,1,Aaron Galloway,"Data from nearby SSNERR station ""sosvawq"" [ 43.315996, -124.321276]","Aaron Galloway, Nicole Watase, Elena Rubio-Lopez",agalow3@uoregon.edu,14.57291634
-185,OIMB-Valino-SSNERR,USA (OR),43.315013,-124.320361,Seagrass,20160720,1100,16.246,32.29,2,Aaron Galloway,"Data from nearby SSNERR station ""sosvawq"" [ 43.315996, -124.321276]","Aaron Galloway, Nicole Watase, Elena Rubio-Lopez",agalow3@uoregon.edu,14.57291634
-186,OIMB-Valino-SSNERR,USA (OR),43.315013,-124.320361,Seagrass,20160720,1115,15.96,32.29,3,Aaron Galloway,"Data from nearby SSNERR station ""sosvawq"" [ 43.315996, -124.321276]","Aaron Galloway, Nicole Watase, Elena Rubio-Lopez",agalow3@uoregon.edu,14.57291634
-187,OIMB-Valino-SSNERR,USA (OR),43.315383,-124.320926,Unveg,20160721,1045,18.119,31.92,1,Aaron Galloway,"Data from nearby SSNERR station ""sosvawq"" [ 43.315996, -124.321276]","Aaron Galloway, Elena Rubio-Lopez, Derek Ma",agalow3@uoregon.edu,14.57291634
-188,OIMB-Valino-SSNERR,USA (OR),43.315383,-124.320926,Unveg,20160721,1100,17.797,32.1,2,Aaron Galloway,"Data from nearby SSNERR station ""sosvawq"" [ 43.315996, -124.321276]","Aaron Galloway, Elena Rubio-Lopez, Derek Ma",agalow3@uoregon.edu,14.57291634
-189,OIMB-Valino-SSNERR,USA (OR),43.315383,-124.320926,Unveg,20160721,1115,17.421,32.18,3,Aaron Galloway,"Data from nearby SSNERR station ""sosvawq"" [ 43.315996, -124.321276]","Aaron Galloway, Elena Rubio-Lopez, Derek Ma",agalow3@uoregon.edu,14.57291634
-190,OIMB-Valino-SSNERR,USA (OR),43.315013,-124.320361,Seagrass,20160721,1130,16.698,32.33,1,Aaron Galloway,"Data from nearby SSNERR station ""sosvawq"" [ 43.315996, -124.321276]","Aaron Galloway, Elena Rubio-Lopez, Derek Ma",agalow3@uoregon.edu,14.57291634
-191,OIMB-Valino-SSNERR,USA (OR),43.315013,-124.320361,Seagrass,20160721,1145,16.852,32.24,2,Aaron Galloway,"Data from nearby SSNERR station ""sosvawq"" [ 43.315996, -124.321276]","Aaron Galloway, Elena Rubio-Lopez, Derek Ma",agalow3@uoregon.edu,14.57291634
-192,OIMB-Valino-SSNERR,USA (OR),43.315013,-124.320361,Seagrass,20160721,1200,16.517,32.4,3,Aaron Galloway,"Data from nearby SSNERR station ""sosvawq"" [ 43.315996, -124.321276]","Aaron Galloway, Elena Rubio-Lopez, Derek Ma",agalow3@uoregon.edu,14.57291634
-193,Punta Allen,Mexico (ICML2),19.82738,-87.45408,Unveg,20160712,13:00,30.5,35.7,1,"FNS, AM, AFEM",Unveg1,"Fernando Negrete Soto (FNS), Ariana Marco (AM), Ali Francisco Espinosa Magaña (AFEM), Enrique Lozano Alvarez (ELA)",elozano@cmarl.unam.mx,NA
-194,Punta Allen,Mexico (ICML2),19.82721,-87.45526,Unveg,20160712,13:15,30.5,35.7,2,"FNS, AM, AFEM",Unveg2,"Fernando Negrete Soto (FNS), Ariana Marco (AM), Ali Francisco Espinosa Magaña (AFEM), Enrique Lozano Alvarez (ELA)",elozano@cmarl.unam.mx,NA
-195,Punta Allen,Mexico (ICML2),19.8271,-87.45401,Seagrass,20160712,13:30,30.5,35.7,3,"FNS, AM, AFEM",Seagrass1,"Fernando Negrete Soto (FNS), Ariana Marco (AM), Ali Francisco Espinosa Magaña (AFEM), Enrique Lozano Alvarez (ELA)",elozano@cmarl.unam.mx,NA
-196,Punta Allen,Mexico (ICML2),19.82738,-87.45408,Unveg,20160713,10:30,31.5,35.7,4,"FNS, AM, AFEM",Unveg1,"Fernando Negrete Soto (FNS), Ariana Marco (AM), Ali Francisco Espinosa Magaña (AFEM), Enrique Lozano Alvarez (ELA)",elozano@cmarl.unam.mx,NA
-197,Punta Allen,Mexico (ICML2),19.8271,-87.45401,Seagrass,20160713,10:40,31.5,35.7,5,"FNS, AM, AFEM",Seagrass1,"Fernando Negrete Soto (FNS), Ariana Marco (AM), Ali Francisco Espinosa Magaña (AFEM), Enrique Lozano Alvarez (ELA)",elozano@cmarl.unam.mx,NA
-198,Punta Allen,Mexico (ICML2),19.82687,-87.45509,Seagrass,20160713,10:50,31.5,35.7,6,"FNS, AM, AFEM",Seagrass2,"Fernando Negrete Soto (FNS), Ariana Marco (AM), Ali Francisco Espinosa Magaña (AFEM), Enrique Lozano Alvarez (ELA)",elozano@cmarl.unam.mx,NA
-199,PtoMorelos,Mexico (ICML),20.83433,-86.87647,Unveg,20160718,11:20,30.5,35.7,1,"Fernando Negrete Soto, Ariana Marco",3-10m from coral reef,"Fernando Negrete Soto (FNS), Ariana Marco (AM), Ali Francisco Espinosa Magaña (AFEM), Enrique Lozano Alvarez (ELA), Brigitta I. van Tussenbroek (BIvT)",vantuss@cmarl.unam.mx,29.8497414
-200,PtoMorelos,Mexico (ICML),20.8347,-86.87654,Seagrass,20160718,11:30,30.5,35.7,2,"Fernando Negrete Soto, Ariana Marco",aprox. 30 m from unvegetated site,"Fernando Negrete Soto (FNS), Ariana Marco (AM), Ali Francisco Espinosa Magaña (AFEM), Enrique Lozano Alvarez (ELA), Brigitta I. van Tussenbroek (BIvT)",vantuss@cmarl.unam.mx,30.11225189
-201,PtoMorelos,Mexico (ICML),20.83433,-86.87647,Unveg,20160719,10:35,30.5,35.7,3,"Fernando Negrete Soto, Ariana Marco",3-10m from coral reef,"Fernando Negrete Soto (FNS), Ariana Marco (AM), Ali Francisco Espinosa Magaña (AFEM), Enrique Lozano Alvarez (ELA), Brigitta I. van Tussenbroek (BIvT)",vantuss@cmarl.unam.mx,29.8497414
-202,PtoMorelos,Mexico (ICML),20.8347,-86.87654,Seagrass,20160719,10:45,30.5,35.7,4,"Fernando Negrete Soto, Ariana Marco",aprox. 30 m from unvegetated site,"Fernando Negrete Soto (FNS), Ariana Marco (AM), Ali Francisco Espinosa Magaña (AFEM), Enrique Lozano Alvarez (ELA), Brigitta I. van Tussenbroek (BIvT)",vantuss@cmarl.unam.mx,30.11225189
-203,PtoMorelos,Mexico (ICML),20.83433,-86.87647,Unveg,20160720,10:20,30.5,35.7,5,"Fernando Negrete Soto, Ariana Marco",3-10m from coral reef,"Fernando Negrete Soto (FNS), Ariana Marco (AM), Ali Francisco Espinosa Magaña (AFEM), Enrique Lozano Alvarez (ELA), Brigitta I. van Tussenbroek (BIvT)",vantuss@cmarl.unam.mx,29.8497414
-204,PtoMorelos,Mexico (ICML),20.8347,-86.87654,Seagrass,20160720,10:30,30.5,35.7,6,"Fernando Negrete Soto, Ariana Marco",aprox. 30 m from unvegetated site,"Fernando Negrete Soto (FNS), Ariana Marco (AM), Ali Francisco Espinosa Magaña (AFEM), Enrique Lozano Alvarez (ELA), Brigitta I. van Tussenbroek (BIvT)",vantuss@cmarl.unam.mx,30.11225189
-205,Pto Aldea (Chile),Chile,-30.298258,-71.605429,Unveg,20170308,1200,20.4,33.5,1,Martin Thiel,,"Martin Thiel, Oscar Pino, Lars Gutow, Nicolas Riquelme, Daniela Honorato",thiel@ucn.cl,17.84678532
-206,Pto Aldea (Chile),Chile,-30.292541,-71.608146,Seagrass,20170308,1325,19.9,33.3,1,Martin Thiel,,"Martin Thiel, Oscar Pino, Lars Gutow, Nicolas Riquelme, Daniela Honorato",thiel@ucn.cl,17.84678532
-207,Pto Aldea (Chile),Chile,-30.298258,-71.605429,Unveg,20170309,1107,19,34.4,1,Martin Thiel,,"Martin Thiel, Oscar Pino, Nicolas Riquelme, Daniela Honorato, Vieia Villalobos",thiel@ucn.cl,17.84678532
-208,Pto Aldea (Chile),Chile,-30.292541,-71.608146,Seagrass,20170309,1320,19.6,33.8,1,Martin Thiel,,"Martin Thiel, Oscar Pino, Nicolas Riquelme, Daniela Honorato, Vieia Villalobos",thiel@ucn.cl,17.84678532
-209,Pto Aldea (Chile),Chile,-30.298258,-71.605429,Unveg,20170310,1140,19.4,34.2,1,Oscar Pino,,"Oscar Pino, Nicolas Riquelme, Daniela Honorato, Vieia Villalobos, Tim Kiessling",thiel@ucn.cl,17.84678532
-210,Pto Aldea (Chile),Chile,-30.292541,-71.608146,Seagrass,20170310,1340,20,33.9,1,Oscar Pino,,"Oscar Pino, Nicolas Riquelme, Daniela Honorato, Vieia Villalobos, Tim Kiessling",thiel@ucn.cl,17.84678532
-211,Punta Banda Estuary,Mexico (BN),31.753106,-116.625137,Unveg,20160625,907,24.77,37,1,Pablo Jorgensen,The temperature value is a mean of the measurements taken within a 2 hour interval around the specified time of collection with 6 different HOBO loggers (one per point or Measurement Number). Salinity was measured with a refractometer only once a day x point combination. ,Clara M. Hereu; Pablo Jorgensen; Luis R. Robles,clarahereu@hotmail.com,NA
-212,Punta Banda Estuary,Mexico (BN),31.753106,-116.625137,Unveg,20160625,907,24.51,37,2,Pablo Jorgensen,idem,Clara M. Hereu; Pablo Jorgensen; Luis R. Robles,clarahereu@hotmail.com,NA
-213,Punta Banda Estuary,Mexico (BN),31.753106,-116.625137,Unveg,20160625,907,24.61,37,3,Pablo Jorgensen,idem,Clara M. Hereu; Pablo Jorgensen; Luis R. Robles,clarahereu@hotmail.com,NA
-214,Punta Banda Estuary,Mexico (BN),31.753025,-116.625858,Seagrass,20160625,1040,25.33,38,1,Pablo Jorgensen,idem,Clara M. Hereu; Pablo Jorgensen; Luis R. Robles,clarahereu@hotmail.com,NA
-215,Punta Banda Estuary,Mexico (BN),31.753025,-116.625858,Seagrass,20160625,1040,25.13,37,2,Pablo Jorgensen,idem,Clara M. Hereu; Pablo Jorgensen; Luis R. Robles,clarahereu@hotmail.com,NA
-216,Punta Banda Estuary,Mexico (BN),31.753025,-116.625858,Seagrass,20160625,1040,24.71,37,3,Pablo Jorgensen,idem,Clara M. Hereu; Pablo Jorgensen; Luis R. Robles,clarahereu@hotmail.com,NA
-217,Punta Banda Estuary,Mexico (BN),31.753106,-116.625137,Unveg,20160626,820,24.82,38,1,Pablo Jorgensen,idem,Clara M. Hereu; Pablo Jorgensen; Luis R. Robles,clarahereu@hotmail.com,NA
-218,Punta Banda Estuary,Mexico (BN),31.753106,-116.625137,Unveg,20160626,820,24.64,37,2,Pablo Jorgensen,idem,Clara M. Hereu; Pablo Jorgensen; Luis R. Robles,clarahereu@hotmail.com,NA
-219,Punta Banda Estuary,Mexico (BN),31.753106,-116.625137,Unveg,20160626,820,24.7,37,3,Pablo Jorgensen,idem,Clara M. Hereu; Pablo Jorgensen; Luis R. Robles,clarahereu@hotmail.com,NA
-220,Punta Banda Estuary,Mexico (BN),31.753025,-116.625858,Seagrass,20160626,930,25.32,36,1,Pablo Jorgensen,idem,Clara M. Hereu; Pablo Jorgensen; Luis R. Robles,clarahereu@hotmail.com,NA
-221,Punta Banda Estuary,Mexico (BN),31.753025,-116.625858,Seagrass,20160626,930,25.28,37,2,Pablo Jorgensen,idem,Clara M. Hereu; Pablo Jorgensen; Luis R. Robles,clarahereu@hotmail.com,NA
-222,Punta Banda Estuary,Mexico (BN),31.753025,-116.625858,Seagrass,20160626,930,25.01,37,3,Pablo Jorgensen,idem,Clara M. Hereu; Pablo Jorgensen; Luis R. Robles,clarahereu@hotmail.com,NA
-223,Punta Banda Estuary,Mexico (BN),31.753106,-116.625137,Unveg,20160627,910,24.86,38,1,Pablo Jorgensen,idem,Clara M. Hereu; Pablo Jorgensen; Luis R. Robles,clarahereu@hotmail.com,NA
-224,Punta Banda Estuary,Mexico (BN),31.753106,-116.625137,Unveg,20160627,910,24.74,38,2,Pablo Jorgensen,idem,Clara M. Hereu; Pablo Jorgensen; Luis R. Robles,clarahereu@hotmail.com,NA
-225,Punta Banda Estuary,Mexico (BN),31.753106,-116.625137,Unveg,20160627,910,24.81,38,3,Pablo Jorgensen,idem,Clara M. Hereu; Pablo Jorgensen; Luis R. Robles,clarahereu@hotmail.com,NA
-226,Punta Banda Estuary,Mexico (BN),31.753025,-116.625858,Seagrass,20160627,1010,25.61,38,1,Pablo Jorgensen,idem,Clara M. Hereu; Pablo Jorgensen; Luis R. Robles,clarahereu@hotmail.com,NA
-227,Punta Banda Estuary,Mexico (BN),31.753025,-116.625858,Seagrass,20160627,1010,26,37,2,Pablo Jorgensen,idem,Clara M. Hereu; Pablo Jorgensen; Luis R. Robles,clarahereu@hotmail.com,NA
-228,Punta Banda Estuary,Mexico (BN),31.753025,-116.625858,Seagrass,20160627,1010,25.68,37,3,Pablo Jorgensen,idem,Clara M. Hereu; Pablo Jorgensen; Luis R. Robles,clarahereu@hotmail.com,NA
-229,Redondo N1,USA (WA),47.35,-122.32,Seagrass,20160706,1116,19.7,35,1,Kristin Hultgren,,"Kristin Hultgren, Angela Moran, Lucas Bartholomew-Good",hultgrenk@seattleu.edu,NA
-230,Redondo N1,USA (WA),47.35,-122.32,Seagrass,20160706,1116,19.7,33,2,Kristin Hultgren,,"Kristin Hultgren, Angela Moran, Lucas Bartholomew-Good",hultgrenk@seattleu.edu,NA
-231,Redondo N1,USA (WA),47.35,-122.32,Seagrass,20160706,1116,19.7,29,3,Kristin Hultgren,,"Kristin Hultgren, Angela Moran, Lucas Bartholomew-Good",hultgrenk@seattleu.edu,NA
-232,Redondo N2,USA (WA),47.3503,-122.324,Seagrass,20160706,1130,20,30,1,Kristin Hultgren,,"Kristin Hultgren, Angela Moran, Lucas Bartholomew-Good",hultgrenk@seattleu.edu,NA
-233,Redondo N2,USA (WA),47.3503,-122.324,Seagrass,20160706,1130,19,29,2,Kristin Hultgren,,"Kristin Hultgren, Angela Moran, Lucas Bartholomew-Good",hultgrenk@seattleu.edu,NA
-234,Redondo N2,USA (WA),47.3503,-122.324,Seagrass,20160706,1130,19,29,3,Kristin Hultgren,,"Kristin Hultgren, Angela Moran, Lucas Bartholomew-Good",hultgrenk@seattleu.edu,NA
-235,Redondo N-3,USA (WA),47.3497,-122.324,Unveg,20160706,1145,18.7,30,1,Kristin Hultgren,,"Kristin Hultgren, Angela Moran, Lucas Bartholomew-Good",hultgrenk@seattleu.edu,NA
-236,Redondo N-3,USA (WA),47.3497,-122.324,Unveg,20160706,1145,18.3,30,2,Kristin Hultgren,,"Kristin Hultgren, Angela Moran, Lucas Bartholomew-Good",hultgrenk@seattleu.edu,NA
-237,Redondo N-3,USA (WA),47.3497,-122.324,Unveg,20160706,1145,18.1,27,3,Kristin Hultgren,,"Kristin Hultgren, Angela Moran, Lucas Bartholomew-Good",hultgrenk@seattleu.edu,NA
-238,Redondo N-4,USA (WA),47.349,-122.324,Unveg,20160706,1200,20.7,33,1,Kristin Hultgren,,"Kristin Hultgren, Angela Moran, Lucas Bartholomew-Good",hultgrenk@seattleu.edu,NA
-239,Redondo N-4,USA (WA),47.349,-122.324,Unveg,20160706,1200,21,31,2,Kristin Hultgren,,"Kristin Hultgren, Angela Moran, Lucas Bartholomew-Good",hultgrenk@seattleu.edu,NA
-240,Redondo N-4,USA (WA),47.349,-122.324,Unveg,20160706,1200,19.6,30,3,Kristin Hultgren,,"Kristin Hultgren, Angela Moran, Lucas Bartholomew-Good",hultgrenk@seattleu.edu,NA
-241,Redondo S-5,USA (WA),47.3457,-122.329,Unveg,20160707,1400,20.1,31,1,Kristin Hultgren,,"Kristin Hultgren, Angela Moran, Lucas Bartholomew-Good",hultgrenk@seattleu.edu,NA
-242,Redondo S-5,USA (WA),47.3457,-122.329,Unveg,20160707,1400,19.8,31,2,Kristin Hultgren,,"Kristin Hultgren, Angela Moran, Lucas Bartholomew-Good",hultgrenk@seattleu.edu,NA
-243,Redondo S-5,USA (WA),47.3457,-122.329,Unveg,20160707,1400,19.7,32,3,Kristin Hultgren,,"Kristin Hultgren, Angela Moran, Lucas Bartholomew-Good",hultgrenk@seattleu.edu,NA
-244,Redondo S-6,USA (WA),47.346,-122.329,Seagrass,20160707,1330,21.4,30,1,Kristin Hultgren,,"Kristin Hultgren, Angela Moran, Lucas Bartholomew-Good",hultgrenk@seattleu.edu,NA
-245,Redondo S-6,USA (WA),47.346,-122.329,Seagrass,20160707,1330,21.2,32,2,Kristin Hultgren,,"Kristin Hultgren, Angela Moran, Lucas Bartholomew-Good",hultgrenk@seattleu.edu,NA
-246,Redondo S-6,USA (WA),47.346,-122.329,Seagrass,20160707,1330,22.2,32,3,Kristin Hultgren,,"Kristin Hultgren, Angela Moran, Lucas Bartholomew-Good",hultgrenk@seattleu.edu,NA
-247,Smiths_Lake_NSW,Australia (NSW),-32.380278,152.508889,Seagrass,20161208,9:00,25.2,31,1,Alistair Poore,,"Alistair Poore, Hannah Sheppard Brennand, Brendan Lanham, Ruby Garthwin, Talia Stelling-Wood, Janine Ledet",a.poore@unsw.edu.au,21.29285243
-248,Smiths_Lake_NSW,Australia (NSW),-32.380278,152.508889,Seagrass,20161208,9:00,25.2,31,2,Alistair Poore,,"Alistair Poore, Hannah Sheppard Brennand, Brendan Lanham, Ruby Garthwin, Talia Stelling-Wood, Janine Ledet",a.poore@unsw.edu.au,21.29285243
-249,Smiths_Lake_NSW,Australia (NSW),-32.380278,152.508889,Seagrass,20161208,9:00,25.2,31,3,Alistair Poore,,"Alistair Poore, Hannah Sheppard Brennand, Brendan Lanham, Ruby Garthwin, Talia Stelling-Wood, Janine Ledet",a.poore@unsw.edu.au,21.29285243
-250,Smiths_Lake_NSW,Australia (NSW),-32.380278,152.508889,Unveg,20161208,9:00,25.1,32,1,Alistair Poore,,"Alistair Poore, Hannah Sheppard Brennand, Brendan Lanham, Ruby Garthwin, Talia Stelling-Wood, Janine Ledet",a.poore@unsw.edu.au,21.29285243
-251,Smiths_Lake_NSW,Australia (NSW),-32.380278,152.508889,Unveg,20161208,9:00,25,32,2,Alistair Poore,,"Alistair Poore, Hannah Sheppard Brennand, Brendan Lanham, Ruby Garthwin, Talia Stelling-Wood, Janine Ledet",a.poore@unsw.edu.au,21.29285243
-252,Smiths_Lake_NSW,Australia (NSW),-32.380278,152.508889,Unveg,20161208,9:00,25.2,32,3,Alistair Poore,,"Alistair Poore, Hannah Sheppard Brennand, Brendan Lanham, Ruby Garthwin, Talia Stelling-Wood, Janine Ledet",a.poore@unsw.edu.au,21.29285243
-253,Smiths_Lake_NSW,Australia (NSW),-32.380278,152.508889,Seagrass,20161209,10:45,24.9,34,1,Alistair Poore,,"Alistair Poore, Hannah Sheppard Brennand, Brendan Lanham, Ruby Garthwin, Talia Stelling-Wood, Janine Ledet",a.poore@unsw.edu.au,21.29285243
-254,Smiths_Lake_NSW,Australia (NSW),-32.380278,152.508889,Seagrass,20161209,10:45,24.6,33,2,Alistair Poore,,"Alistair Poore, Hannah Sheppard Brennand, Brendan Lanham, Ruby Garthwin, Talia Stelling-Wood, Janine Ledet",a.poore@unsw.edu.au,21.29285243
-255,Smiths_Lake_NSW,Australia (NSW),-32.380278,152.508889,Seagrass,20161209,10:45,24.6,33,3,Alistair Poore,,"Alistair Poore, Hannah Sheppard Brennand, Brendan Lanham, Ruby Garthwin, Talia Stelling-Wood, Janine Ledet",a.poore@unsw.edu.au,21.29285243
-256,Smiths_Lake_NSW,Australia (NSW),-32.380278,152.508889,Unveg,20161209,10:45,25,32,1,Alistair Poore,,"Alistair Poore, Hannah Sheppard Brennand, Brendan Lanham, Ruby Garthwin, Talia Stelling-Wood, Janine Ledet",a.poore@unsw.edu.au,21.29285243
-257,Smiths_Lake_NSW,Australia (NSW),-32.380278,152.508889,Unveg,20161209,10:45,24.9,33,2,Alistair Poore,,"Alistair Poore, Hannah Sheppard Brennand, Brendan Lanham, Ruby Garthwin, Talia Stelling-Wood, Janine Ledet",a.poore@unsw.edu.au,21.29285243
-258,Smiths_Lake_NSW,Australia (NSW),-32.380278,152.508889,Unveg,20161209,10:45,25.2,33,3,Alistair Poore,,"Alistair Poore, Hannah Sheppard Brennand, Brendan Lanham, Ruby Garthwin, Talia Stelling-Wood, Janine Ledet",a.poore@unsw.edu.au,21.29285243
-259,Smiths_Lake_NSW,Australia (NSW),-32.380278,152.508889,Seagrass,20161210,9:40,24.5,31,1,Alistair Poore,,"Alistair Poore, Hannah Sheppard Brennand, Brendan Lanham, Ruby Garthwin, Talia Stelling-Wood, Janine Ledet",a.poore@unsw.edu.au,21.29285243
-260,Smiths_Lake_NSW,Australia (NSW),-32.380278,152.508889,Seagrass,20161210,9:40,24.7,31,2,Alistair Poore,,"Alistair Poore, Hannah Sheppard Brennand, Brendan Lanham, Ruby Garthwin, Talia Stelling-Wood, Janine Ledet",a.poore@unsw.edu.au,21.29285243
-261,Smiths_Lake_NSW,Australia (NSW),-32.380278,152.508889,Seagrass,20161210,9:40,24.6,32,3,Alistair Poore,,"Alistair Poore, Hannah Sheppard Brennand, Brendan Lanham, Ruby Garthwin, Talia Stelling-Wood, Janine Ledet",a.poore@unsw.edu.au,21.29285243
-262,Smiths_Lake_NSW,Australia (NSW),-32.380278,152.508889,Unveg,20161210,9:30,25,31,1,Alistair Poore,,"Alistair Poore, Hannah Sheppard Brennand, Brendan Lanham, Ruby Garthwin, Talia Stelling-Wood, Janine Ledet",a.poore@unsw.edu.au,21.29285243
-263,Smiths_Lake_NSW,Australia (NSW),-32.380278,152.508889,Unveg,20161210,9:30,24.6,31,2,Alistair Poore,,"Alistair Poore, Hannah Sheppard Brennand, Brendan Lanham, Ruby Garthwin, Talia Stelling-Wood, Janine Ledet",a.poore@unsw.edu.au,21.29285243
-264,Smiths_Lake_NSW,Australia (NSW),-32.380278,152.508889,Unveg,20161210,9:30,24.4,32,3,Alistair Poore,,"Alistair Poore, Hannah Sheppard Brennand, Brendan Lanham, Ruby Garthwin, Talia Stelling-Wood, Janine Ledet",a.poore@unsw.edu.au,21.29285243
-265,Sunshine Cove,USA (AK),58.60859,-134.93278,Seagrass,20160821,1020,13.6,12,1,Wendel Raymond,,"Wendel Raymond, Douglass Duncan, Emily Whitney",wraymond2@alaska.edu,NA
-266,Sunshine Cove,USA (AK),58.60859,-134.93278,Seagrass,20160821,1020,13.6,13,2,Wendel Raymond,,"Wendel Raymond, Douglass Duncan, Emily Whitney",wraymond2@alaska.edu,NA
-267,Sunshine Cove,USA (AK),58.60859,-134.93278,Seagrass,20160821,1020,13.8,13,3,Wendel Raymond,,"Wendel Raymond, Douglass Duncan, Emily Whitney",wraymond2@alaska.edu,NA
-268,Sunshine Cove,USA (AK),58.60853,-134.93083,Unveg,20160821,1030,13.8,13,1,Wendel Raymond,,"Wendel Raymond, Douglass Duncan, Emily Whitney",wraymond2@alaska.edu,NA
-269,Sunshine Cove,USA (AK),58.60853,-134.93083,Unveg,20160821,1030,13.8,13,2,Wendel Raymond,,"Wendel Raymond, Douglass Duncan, Emily Whitney",wraymond2@alaska.edu,NA
-270,Sunshine Cove,USA (AK),58.60853,-134.93083,Unveg,20160821,1030,13.7,12,3,Wendel Raymond,,"Wendel Raymond, Douglass Duncan, Emily Whitney",wraymond2@alaska.edu,NA
-271,Sunshine Cove,USA (AK),58.60859,-134.93278,Seagrass,20160822,1030,13.7,13,1,Wendel Raymond,,"Wendel Raymond, Cathy Mattson, Emily Whitney",wraymond2@alaska.edu,NA
-272,Sunshine Cove,USA (AK),58.60859,-134.93278,Seagrass,20160822,1030,13.7,12,2,Wendel Raymond,,"Wendel Raymond, Cathy Mattson, Emily Whitney",wraymond2@alaska.edu,NA
-273,Sunshine Cove,USA (AK),58.60859,-134.93278,Seagrass,20160822,1030,13.8,12,3,Wendel Raymond,,"Wendel Raymond, Cathy Mattson, Emily Whitney",wraymond2@alaska.edu,NA
-274,Sunshine Cove,USA (AK),58.60853,-134.93083,Unveg,20160822,1045,14.1,11,1,Wendel Raymond,,"Wendel Raymond, Cathy Mattson, Emily Whitney",wraymond2@alaska.edu,NA
-275,Sunshine Cove,USA (AK),58.60853,-134.93083,Unveg,20160822,1045,14,11,2,Wendel Raymond,,"Wendel Raymond, Cathy Mattson, Emily Whitney",wraymond2@alaska.edu,NA
-276,Sunshine Cove,USA (AK),58.60853,-134.93083,Unveg,20160822,1045,14,11,3,Wendel Raymond,,"Wendel Raymond, Cathy Mattson, Emily Whitney",wraymond2@alaska.edu,NA
-277,Sunshine Cove,USA (AK),58.60859,-134.93278,Seagrass,20160823,1100,14.1,13,1,Wendel Raymond,,"Wendel Raymond, Emily Whitney",wraymond2@alaska.edu,NA
-278,Sunshine Cove,USA (AK),58.60859,-134.93278,Seagrass,20160823,1100,14.1,13,2,Wendel Raymond,,"Wendel Raymond, Emily Whitney",wraymond2@alaska.edu,NA
-279,Sunshine Cove,USA (AK),58.60859,-134.93278,Seagrass,20160823,1100,14.1,12,3,Wendel Raymond,,"Wendel Raymond, Emily Whitney",wraymond2@alaska.edu,NA
-280,Sunshine Cove,USA (AK),58.60853,-134.93083,Unveg,20160822,1045,14.2,12,1,Wendel Raymond,,"Wendel Raymond, Emily Whitney",wraymond2@alaska.edu,NA
-281,Sunshine Cove,USA (AK),58.60853,-134.93083,Unveg,20160822,1045,14.2,12,2,Wendel Raymond,,"Wendel Raymond, Emily Whitney",wraymond2@alaska.edu,NA
-282,Sunshine Cove,USA (AK),58.60853,-134.93083,Unveg,20160822,1045,14,13,3,Wendel Raymond,,"Wendel Raymond, Emily Whitney",wraymond2@alaska.edu,NA
-283,Cymodocea_Moreton_Bay,Australia (QLD3),-27.49408,153.397264,Seagrass,20170208,1430,30.3,38.3,1,Rod Connolly,Missed measurement 2 and 3,"Rod Connolly, Kristin Gleeson, Tyson Martin, Estuarine Ecology field course students",r.connolly@griffith.edu.au,26.87046494
-284,Cymodocea_Moreton_Bay,Australia (QLD3),-27.49408,153.397264,Seagrass,20170209,1600,30.6,37.5,1,Rod Connolly,,"Rod Connolly, Kristin Gleeson, Tyson Martin, Estuarine Ecology field course students",r.connolly@griffith.edu.au,26.87046494
-285,Cymodocea_Moreton_Bay,Australia (QLD3),-27.49408,153.397264,Seagrass,20170209,1600,30.2,37.8,2,Rod Connolly,,"Rod Connolly, Kristin Gleeson, Tyson Martin, Estuarine Ecology field course students",r.connolly@griffith.edu.au,26.87046494
-286,Cymodocea_Moreton_Bay,Australia (QLD3),-27.49408,153.397264,Seagrass,20170209,1600,30.4,37.6,3,Rod Connolly,,"Rod Connolly, Kristin Gleeson, Tyson Martin, Estuarine Ecology field course students",r.connolly@griffith.edu.au,26.87046494
-287,Cymodocea_Moreton_Bay,Australia (QLD3),-27.49408,153.397264,Seagrass,20170210,1544,30.1,37.2,1,Rod Connolly,,"Rod Connolly, Kristin Gleeson, Tyson Martin, Estuarine Ecology field course students",r.connolly@griffith.edu.au,26.87046494
-288,Cymodocea_Moreton_Bay,Australia (QLD3),-27.49408,153.397264,Seagrass,20170210,1544,29.9,38.1,2,Rod Connolly,,"Rod Connolly, Kristin Gleeson, Tyson Martin, Estuarine Ecology field course students",r.connolly@griffith.edu.au,26.87046494
-289,Cymodocea_Moreton_Bay,Australia (QLD3),-27.49408,153.397264,Seagrass,20170210,1544,29.9,38.3,3,Rod Connolly,,"Rod Connolly, Kristin Gleeson, Tyson Martin, Estuarine Ecology field course students",r.connolly@griffith.edu.au,26.87046494
-290,Edwards Point,Australia (VIC),-38.193552,144.711297,Seagrass,20170223,1240,21.5,37,1,Holger,,"Holger, Songlin",hjanes@deakin.edu.au,20.88708287
-291,Edwards Point,Australia (VIC),-38.193552,144.711297,Unveg,20170223,1240,21.5,37,1,Holger,,"Holger, Songlin",hjanes@deakin.edu.au,20.88708287
-292,Edwards Point,Australia (VIC),-38.193552,144.711297,Seagrass,20170224,1330,20.1,37,2,Holger,,"Holger, Songlin",hjanes@deakin.edu.au,20.88708287
-293,Edwards Point,Australia (VIC),-38.193552,144.711297,Unveg,20170224,1330,20.1,37,2,Holger,,"Holger, Songlin",hjanes@deakin.edu.au,20.88708287
-294,Edwards Point,Australia (VIC),-38.193552,144.711297,Seagrass,20170225,1330,19,37,3,Holger,,"Holger, Songlin",hjanes@deakin.edu.au,20.88708287
-295,Edwards Point,Australia (VIC),-38.193552,144.711297,Unveg,20170225,1330,19,37,3,Holger,,"Holger, Songlin",hjanes@deakin.edu.au,20.88708287
-296,Indented Head,Australia (VIC),-38.152773,144.716919,Seagrass,20170223,1630,22.2,37,1,Holger,,"Holger, Songlin",hjanes@deakin.edu.au,20.88708287
-297,Indented Head,Australia (VIC),-38.152773,144.716919,Unveg,20170223,1630,22.2,37,1,Holger,,"Holger, Songlin",hjanes@deakin.edu.au,20.88708287
-298,Indented Head,Australia (VIC),-38.152773,144.716919,Seagrass,20170224,1700,21.7,37,2,Holger,,"Holger, Songlin",hjanes@deakin.edu.au,20.88708287
-299,Indented Head,Australia (VIC),-38.152773,144.716919,Unveg,20170224,1700,21.7,37,2,Holger,,"Holger, Songlin",hjanes@deakin.edu.au,20.88708287
-300,Indented Head,Australia (VIC),-38.152773,144.716919,Seagrass,20170225,1700,22.8,37,3,Holger,,"Holger, Songlin",hjanes@deakin.edu.au,20.88708287
-301,Indented Head,Australia (VIC),-38.152773,144.716919,Unveg,20170225,1700,22.8,37,3,Holger,,"Holger, Songlin",hjanes@deakin.edu.au,20.88708287
-302,St. Leonards,Australia (VIC),-38.180151,144.715595,Seagrass,20170224,1030,20.7,37,1,Holger,,"Holger, Songlin",hjanes@deakin.edu.au,20.88708287
-303,St. Leonards,Australia (VIC),-38.180151,144.715595,Unveg,20170224,1030,20.7,37,1,Holger,,"Holger, Songlin",hjanes@deakin.edu.au,20.88708287
-304,St. Leonards,Australia (VIC),-38.180151,144.715595,Seagrass,20170225,1030,18.1,37,2,Holger,Very strong onshore wind,"Holger, Songlin",hjanes@deakin.edu.au,20.88708287
-305,St. Leonards,Australia (VIC),-38.180151,144.715595,Unveg,20170225,1030,18.1,37,2,Holger,Very strong onshore wind,"Holger, Songlin",hjanes@deakin.edu.au,20.88708287
-306,Koje-Korea,Korea,34.7285,128.6047,Seagrass,20160621,1438,19,32.8,1,Hwi-june Song,,"Kun-seop Lee, Hwi-june Song, Seung hyeon Kim, Ojong kwon",sormyo@pusan.ac.kr; klee@pusan.ac.kr,NA
-307,Koje-Korea,Korea,34.7285,128.6047,Seagrass,20160621,1438,18.7,32.7,2,Hwi-june Song,,"Kun-seop Lee, Hwi-june Song, Seung hyeon Kim, Ojong kwon",sormyo@pusan.ac.kr; klee@pusan.ac.kr,NA
-308,Koje-Korea,Korea,34.7285,128.6047,Seagrass,20160621,1438,18.8,32.6,3,Hwi-june Song,,"Kun-seop Lee, Hwi-june Song, Seung hyeon Kim, Ojong kwon",sormyo@pusan.ac.kr; klee@pusan.ac.kr,NA
-309,Koje-Korea,Korea,34.7289,128.6047,Unveg,20160621,1442,18.7,32.4,1,Hwi-june Song,,"Kun-seop Lee, Hwi-june Song, Seung hyeon Kim, Ojong kwon",sormyo@pusan.ac.kr; klee@pusan.ac.kr,NA
-310,Koje-Korea,Korea,34.7289,128.6047,Unveg,20160621,1442,18.7,32.4,2,Hwi-june Song,,"Kun-seop Lee, Hwi-june Song, Seung hyeon Kim, Ojong kwon",sormyo@pusan.ac.kr; klee@pusan.ac.kr,NA
-311,Koje-Korea,Korea,34.7289,128.6047,Unveg,20160621,1442,18.8,32.3,3,Hwi-june Song,,"Kun-seop Lee, Hwi-june Song, Seung hyeon Kim, Ojong kwon",sormyo@pusan.ac.kr; klee@pusan.ac.kr,NA
-312,Koje-Korea,Korea,34.7283,128.6047,Seagrass,20160622,1520,18.2,33,1,Hwi-june Song,,"Kun-seop Lee, Hwi-june Song, Seung hyeon Kim, Ojong kwon",sormyo@pusan.ac.kr; klee@pusan.ac.kr,NA
-313,Koje-Korea,Korea,34.7283,128.6047,Seagrass,20160622,1520,18.1,32.9,2,Hwi-june Song,,"Kun-seop Lee, Hwi-june Song, Seung hyeon Kim, Ojong kwon",sormyo@pusan.ac.kr; klee@pusan.ac.kr,NA
-314,Koje-Korea,Korea,34.7283,128.6047,Seagrass,20160622,1520,18,32.7,3,Hwi-june Song,,"Kun-seop Lee, Hwi-june Song, Seung hyeon Kim, Ojong kwon",sormyo@pusan.ac.kr; klee@pusan.ac.kr,NA
-315,Koje-Korea,Korea,34.7288,128.6047,Unveg,20160622,1520,17.8,32.5,1,Hwi-june Song,,"Kun-seop Lee, Hwi-june Song, Seung hyeon Kim, Ojong kwon",sormyo@pusan.ac.kr; klee@pusan.ac.kr,NA
-316,Koje-Korea,Korea,34.7288,128.6047,Unveg,20160622,1520,17.9,32.6,2,Hwi-june Song,,"Kun-seop Lee, Hwi-june Song, Seung hyeon Kim, Ojong kwon",sormyo@pusan.ac.kr; klee@pusan.ac.kr,NA
-317,Koje-Korea,Korea,34.7288,128.6047,Unveg,20160622,1520,18,32.6,3,Hwi-june Song,,"Kun-seop Lee, Hwi-june Song, Seung hyeon Kim, Ojong kwon",sormyo@pusan.ac.kr; klee@pusan.ac.kr,NA
-318,"Porthdinllaen, UK",Wales,52.9426,-4.56519,Seagrass,20160902,17:35,16.5,33,1,Max Robinson,"Windy, lots of drift algae in seine net","Max Robinson, Chiara Bertelli, Maria Scolamacchia",maxrobinson@hotmail.com,16.64220302
-319,"Porthdinllaen, UK",Wales,52.9426,-4.56519,Seagrass,20160902,17:35,16.5,33,2,Max Robinson,"Windy, lots of drift algae in seine net","Max Robinson, Chiara Bertelli, Maria Scolamacchia",maxrobinson@hotmail.com,16.64220302
-320,"Porthdinllaen, UK",Wales,52.9426,-4.56519,Seagrass,20160902,17:35,16.5,33,3,Max Robinson,"Windy, lots of drift algae in seine net","Max Robinson, Chiara Bertelli, Maria Scolamacchia",maxrobinson@hotmail.com,16.64220302
-321,"Porthdinllaen, UK",Wales,52.94046,-4.56424,Unveg,20160902,18:15,16.5,33,1,Max Robinson,"Windy, lots of drift algae in seine net","Max Robinson, Chiara Bertelli, Maria Scolamacchia",maxrobinson@hotmail.com,16.64220302
-322,"Porthdinllaen, UK",Wales,52.94046,-4.56424,Unveg,20160902,18:15,16.5,33,2,Max Robinson,"Windy, lots of drift algae in seine net","Max Robinson, Chiara Bertelli, Maria Scolamacchia",maxrobinson@hotmail.com,16.64220302
-323,"Porthdinllaen, UK",Wales,52.94046,-4.56424,Unveg,20160902,18:15,16.5,33,3,Max Robinson,"Windy, lots of drift algae in seine net","Max Robinson, Chiara Bertelli, Maria Scolamacchia",maxrobinson@hotmail.com,16.64220302
-324,"Porthdinllaen, UK",Wales,52.94251,-4.56562,Seagrass,20160903,18:30,16.5,33,1,Max Robinson,"Windy, lots of drift algae in seine net","Max Robinson, Chiara Bertelli, Maria Scolamacchia",maxrobinson@hotmail.com,16.64220302
-325,"Porthdinllaen, UK",Wales,52.94251,-4.56562,Seagrass,20160903,18:30,16.5,33,2,Max Robinson,"Windy, lots of drift algae in seine net","Max Robinson, Chiara Bertelli, Maria Scolamacchia",maxrobinson@hotmail.com,16.64220302
-326,"Porthdinllaen, UK",Wales,52.94251,-4.56562,Seagrass,20160903,18:30,16.5,33,3,Max Robinson,"Windy, lots of drift algae in seine net","Max Robinson, Chiara Bertelli, Maria Scolamacchia",maxrobinson@hotmail.com,16.64220302
-327,"Porthdinllaen, UK",Wales,52.94046,-4.56424,Unveg,20160903,18:02,16.5,33,1,Max Robinson,"Windy, lots of drift algae in seine net","Max Robinson, Chiara Bertelli, Maria Scolamacchia",maxrobinson@hotmail.com,16.64220302
-328,"Porthdinllaen, UK",Wales,52.94046,-4.56424,Unveg,20160903,18:02,16.5,33,2,Max Robinson,"Windy, lots of drift algae in seine net","Max Robinson, Chiara Bertelli, Maria Scolamacchia",maxrobinson@hotmail.com,16.64220302
-329,"Porthdinllaen, UK",Wales,52.94046,-4.56424,Unveg,20160903,18:02,16.5,33,3,Max Robinson,"Windy, lots of drift algae in seine net","Max Robinson, Chiara Bertelli, Maria Scolamacchia",maxrobinson@hotmail.com,16.64220302
-330,"Porthdinllaen, UK",Wales,52.9425,-4.56553,Seagrass,20160904,18:25,16.5,33,1,Max Robinson,a lot of drift algae,"Max Robinson, Chiara Bertelli, Maria Scolamacchia",maxrobinson@hotmail.com,16.64220302
-331,"Porthdinllaen, UK",Wales,52.9425,-4.56553,Seagrass,20160904,18:25,16.5,33,2,Max Robinson,a lot of drift algae,"Max Robinson, Chiara Bertelli, Maria Scolamacchia",maxrobinson@hotmail.com,16.64220302
-332,"Porthdinllaen, UK",Wales,52.9425,-4.56553,Seagrass,20160904,18:25,16.5,33,3,Max Robinson,a lot of drift algae,"Max Robinson, Chiara Bertelli, Maria Scolamacchia",maxrobinson@hotmail.com,16.64220302
-333,"Porthdinllaen, UK",Wales,52.94046,-4.56424,Unveg,20160904,17:50,16.5,33,1,Max Robinson,a lot of drift algae,"Max Robinson, Chiara Bertelli, Maria Scolamacchia",maxrobinson@hotmail.com,16.64220302
-334,"Porthdinllaen, UK",Wales,52.94046,-4.56424,Unveg,20160904,17:50,16.5,33,2,Max Robinson,a lot of drift algae,"Max Robinson, Chiara Bertelli, Maria Scolamacchia",maxrobinson@hotmail.com,16.64220302
-335,"Porthdinllaen, UK",Wales,52.94046,-4.56424,Unveg,20160904,17:50,16.5,33,3,Max Robinson,a lot of drift algae,"Max Robinson, Chiara Bertelli, Maria Scolamacchia",maxrobinson@hotmail.com,16.64220302
-336,Unvegetated_Moreton_Bay,Australia (QLD3),-27.494632,153.39706,Unveg,20170208,1450,30.1,38.3,1,Rod Connolly,,"Rod Connolly, Kristin Gleeson, Tyson Martin, Estuarine Ecology field course students",r.connolly@griffith.edu.au,28.00036743
-337,Unvegetated_Moreton_Bay,Australia (QLD3),-27.494632,153.39706,Unveg,20170208,1450,29.5,38.7,2,Rod Connolly,,"Rod Connolly, Kristin Gleeson, Tyson Martin, Estuarine Ecology field course students",r.connolly@griffith.edu.au,28.00036743
-338,Unvegetated_Moreton_Bay,Australia (QLD3),-27.494632,153.39706,Unveg,20170208,1450,29.6,38.3,3,Rod Connolly,,"Rod Connolly, Kristin Gleeson, Tyson Martin, Estuarine Ecology field course students",r.connolly@griffith.edu.au,28.00036743
-339,Unvegetated_Moreton_Bay,Australia (QLD3),-27.494632,153.39706,Unveg,20170209,1601,31.6,38.9,1,Rod Connolly,,"Rod Connolly, Kristin Gleeson, Tyson Martin, Estuarine Ecology field course students",r.connolly@griffith.edu.au,28.00036743
-340,Unvegetated_Moreton_Bay,Australia (QLD3),-27.494632,153.39706,Unveg,20170209,1601,31.9,38.6,2,Rod Connolly,,"Rod Connolly, Kristin Gleeson, Tyson Martin, Estuarine Ecology field course students",r.connolly@griffith.edu.au,28.00036743
-341,Unvegetated_Moreton_Bay,Australia (QLD3),-27.494632,153.39706,Unveg,20170209,1601,31,38.9,3,Rod Connolly,,"Rod Connolly, Kristin Gleeson, Tyson Martin, Estuarine Ecology field course students",r.connolly@griffith.edu.au,28.00036743
-342,Unvegetated_Moreton_Bay,Australia (QLD3),-27.494632,153.39706,Unveg,20170210,1530,30.3,35.9,1,Rod Connolly,,"Rod Connolly, Kristin Gleeson, Tyson Martin, Estuarine Ecology field course students",r.connolly@griffith.edu.au,28.00036743
-343,Unvegetated_Moreton_Bay,Australia (QLD3),-27.494632,153.39706,Unveg,20170210,1530,30.5,35.9,2,Rod Connolly,,"Rod Connolly, Kristin Gleeson, Tyson Martin, Estuarine Ecology field course students",r.connolly@griffith.edu.au,28.00036743
-344,Unvegetated_Moreton_Bay,Australia (QLD3),-27.494632,153.39706,Unveg,20170210,1530,30.2,36,3,Rod Connolly,,"Rod Connolly, Kristin Gleeson, Tyson Martin, Estuarine Ecology field course students",r.connolly@griffith.edu.au,28.00036743
-345,Urunga Lagoon 1,Australia (NSW2),-30.50583,153.02362,Seagrass,20170224,1409,27.9,36.4,1,Brendan Kelaher,The seagrass was Zostera muelleri and the site was a shallow estuary with sun warmed water.,"Brendan Kelaher, Dylon Grogen",brendan.kelaher@scu.edu.au,25.16849721
-346,Urunga Lagoon 1,Australia (NSW2),-30.50583,153.02362,Seagrass,20170224,1410,28,36.5,2,Brendan Kelaher,The seagrass was Zostera muelleri and the site was a shallow estuary with sun warmed water.,"Brendan Kelaher, Dylon Grogen",brendan.kelaher@scu.edu.au,25.16849721
-347,Urunga Lagoon 1,Australia (NSW2),-30.50583,153.02362,Seagrass,20170224,1411,27.7,36.5,3,Brendan Kelaher,The seagrass was Zostera muelleri and the site was a shallow estuary with sun warmed water.,"Brendan Kelaher, Dylon Grogen",brendan.kelaher@scu.edu.au,25.16849721
-348,Urunga Lagoon 2,Australia (NSW2),-30.50466,153.02372,Unveg,20170224,1516,28.1,36.5,1,Brendan Kelaher,The seagrass was Zostera muelleri and the site was a shallow estuary with sun warmed water.,"Brendan Kelaher, Dylon Grogen",brendan.kelaher@scu.edu.au,25.16849721
-349,Urunga Lagoon 2,Australia (NSW2),-30.50466,153.02372,Unveg,20170224,1516,28.1,36.4,2,Brendan Kelaher,The seagrass was Zostera muelleri and the site was a shallow estuary with sun warmed water.,"Brendan Kelaher, Dylon Grogen",brendan.kelaher@scu.edu.au,25.16849721
-350,Urunga Lagoon 2,Australia (NSW2),-30.50466,153.02372,Unveg,20170224,1516,28.3,36.5,3,Brendan Kelaher,The seagrass was Zostera muelleri and the site was a shallow estuary with sun warmed water.,"Brendan Kelaher, Dylon Grogen",brendan.kelaher@scu.edu.au,25.16849721
-351,Green Island,Australia (QLD4),-16.75543,145.97292,Seagrass,20170313,1340,31,33,1,Michael Rasheed,,"Michael Rasheed, Paul York, Abbi Scott",michael.rasheed@jcu.edu.au,30.6495497
-352,Green Island,Australia (QLD4),-16.75543,145.97292,Seagrass,20170313,1340,31,34,2,Michael Rasheed,,"Michael Rasheed, Paul York, Abbi Scott",michael.rasheed@jcu.edu.au,30.6495497
-353,Green Island,Australia (QLD4),-16.75543,145.97292,Seagrass,20170313,1340,31,35,3,Michael Rasheed,,"Michael Rasheed, Paul York, Abbi Scott",michael.rasheed@jcu.edu.au,30.6495497
-354,Green Island,Australia (QLD4),-16.7556,145.97476,Unveg,20170313,1350,31,34,1,Michael Rasheed,,"Michael Rasheed, Paul York, Abbi Scott",michael.rasheed@jcu.edu.au,30.6495497
-355,Green Island,Australia (QLD4),-16.7556,145.97476,Unveg,20170313,1350,31,35,2,Michael Rasheed,,"Michael Rasheed, Paul York, Abbi Scott",michael.rasheed@jcu.edu.au,30.6495497
-356,Green Island,Australia (QLD4),-16.7556,145.97476,Unveg,20170313,1350,31,35,3,Michael Rasheed,,"Michael Rasheed, Paul York, Abbi Scott",michael.rasheed@jcu.edu.au,30.6495497
-357,Green Island,Australia (QLD4),-16.75543,145.97292,Seagrass,20170314,1134,31,35,1,Michael Rasheed,,"Michael Rasheed, Paul York, Abbi Scott",michael.rasheed@jcu.edu.au,30.6495497
-358,Green Island,Australia (QLD4),-16.75543,145.97292,Seagrass,20170314,1134,31,35,2,Michael Rasheed,,"Michael Rasheed, Paul York, Abbi Scott",michael.rasheed@jcu.edu.au,30.6495497
-359,Green Island,Australia (QLD4),-16.75543,145.97292,Seagrass,20170314,1134,31,35,3,Michael Rasheed,,"Michael Rasheed, Paul York, Abbi Scott",michael.rasheed@jcu.edu.au,30.6495497
-360,Green Island,Australia (QLD4),-16.7556,145.97476,Unveg,20170314,1130,31,35,1,Michael Rasheed,,"Michael Rasheed, Paul York, Abbi Scott",michael.rasheed@jcu.edu.au,30.6495497
-361,Green Island,Australia (QLD4),-16.7556,145.97476,Unveg,20170314,1130,31,34,2,Michael Rasheed,,"Michael Rasheed, Paul York, Abbi Scott",michael.rasheed@jcu.edu.au,30.6495497
-362,Green Island,Australia (QLD4),-16.7556,145.97476,Unveg,20170314,1130,31,35,3,Michael Rasheed,,"Michael Rasheed, Paul York, Abbi Scott",michael.rasheed@jcu.edu.au,30.6495497
-363,Green Island,Australia (QLD4),-16.75543,145.97292,Seagrass,20170315,905,29,34,1,Michael Rasheed,,"Michael Rasheed, Paul York, Abbi Scott",michael.rasheed@jcu.edu.au,30.6495497
-364,Green Island,Australia (QLD4),-16.75543,145.97292,Seagrass,20170315,905,29,34,2,Michael Rasheed,,"Michael Rasheed, Paul York, Abbi Scott",michael.rasheed@jcu.edu.au,30.6495497
-365,Green Island,Australia (QLD4),-16.75543,145.97292,Seagrass,20170315,905,30,34,3,Michael Rasheed,,"Michael Rasheed, Paul York, Abbi Scott",michael.rasheed@jcu.edu.au,30.6495497
-366,Green Island,Australia (QLD4),-16.7556,145.97476,Unveg,20170315,830,31,34,1,Michael Rasheed,,"Michael Rasheed, Paul York, Abbi Scott",michael.rasheed@jcu.edu.au,30.6495497
-367,Green Island,Australia (QLD4),-16.7556,145.97476,Unveg,20170315,830,31,33,2,Michael Rasheed,,"Michael Rasheed, Paul York, Abbi Scott",michael.rasheed@jcu.edu.au,30.6495497
-368,Green Island,Australia (QLD4),-16.7556,145.97476,Unveg,20170315,830,31,33,3,Michael Rasheed,,"Michael Rasheed, Paul York, Abbi Scott",michael.rasheed@jcu.edu.au,30.6495497
-369,Green Island,Australia (QLD4),-16.75543,145.97292,Seagrass,20170316,905,29,34,1,Michael Rasheed,,"Michael Rasheed, Paul York, Abbi Scott",michael.rasheed@jcu.edu.au,30.6495497
-370,Green Island,Australia (QLD4),-16.75543,145.97292,Seagrass,20170316,905,29,34,2,Michael Rasheed,,"Michael Rasheed, Paul York, Abbi Scott",michael.rasheed@jcu.edu.au,30.6495497
-371,Green Island,Australia (QLD4),-16.75543,145.97292,Seagrass,20170316,905,30,34,3,Michael Rasheed,,"Michael Rasheed, Paul York, Abbi Scott",michael.rasheed@jcu.edu.au,30.6495497
-372,Green Island,Australia (QLD4),-16.7556,145.97476,Unveg,20170316,909,30,33,1,Michael Rasheed,,"Michael Rasheed, Paul York, Abbi Scott",michael.rasheed@jcu.edu.au,30.6495497
-373,Green Island,Australia (QLD4),-16.7556,145.97476,Unveg,20170316,909,30,34,2,Michael Rasheed,,"Michael Rasheed, Paul York, Abbi Scott",michael.rasheed@jcu.edu.au,30.6495497
-374,Green Island,Australia (QLD4),-16.7556,145.97476,Unveg,20170316,909,30,34,3,Michael Rasheed,,"Michael Rasheed, Paul York, Abbi Scott",michael.rasheed@jcu.edu.au,30.6495497
-375,Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Seagrass,20160705,9:26:00,24.8,34.3,1,Francesca Rossi,,"F. Rossi, Mathilde Teyssier",francesca.rossi@cnrs.fr,21.54380904
-376,Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Seagrass,20160705,9:26:00,24.9,35.7,2,Francesca Rossi,,"F. Rossi, Mathilde Teyssier",francesca.rossi@cnrs.fr,21.54380904
-377,Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Seagrass,20160705,9:26:00,24.9,36,3,Francesca Rossi,,"F. Rossi, Mathilde Teyssier",francesca.rossi@cnrs.fr,21.54380904
-378,Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Unveg,20160705,9:30:00,24.8,35.8,1,Francesca Rossi,,"F. Rossi, Mathilde Teyssier",francesca.rossi@cnrs.fr,21.54380904
-379,Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Unveg,20160705,9:30:00,24.8,36.2,2,Francesca Rossi,,"F. Rossi, Mathilde Teyssier",francesca.rossi@cnrs.fr,21.54380904
-380,Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Unveg,20160705,9:30:00,24.8,36.2,3,Francesca Rossi,,"F. Rossi, Mathilde Teyssier",francesca.rossi@cnrs.fr,21.54380904
-381,Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Seagrass,20160706,11:05:00,24.3,36.4,1,Francesca Rossi,,"F. Rossi, Mathilde Teyssier",francesca.rossi@cnrs.fr,21.54380904
-382,Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Seagrass,20160706,11:05:00,24.2,36.1,2,Francesca Rossi,,"F. Rossi, Mathilde Teyssier",francesca.rossi@cnrs.fr,21.54380904
-383,Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Seagrass,20160706,11:05:00,24,36.4,3,Francesca Rossi,,"F. Rossi, Mathilde Teyssier",francesca.rossi@cnrs.fr,21.54380904
-384,Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Unveg,20160706,11:10:00,24.4,35.6,1,Francesca Rossi,,"F. Rossi, Mathilde Teyssier",francesca.rossi@cnrs.fr,21.54380904
-385,Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Unveg,20160706,11:10:00,24.3,36.1,2,Francesca Rossi,,"F. Rossi, Mathilde Teyssier",francesca.rossi@cnrs.fr,21.54380904
-386,Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Unveg,20160706,11:10:00,24.2,36.4,3,Francesca Rossi,,"F. Rossi, Mathilde Teyssier",francesca.rossi@cnrs.fr,21.54380904
-387,Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Seagrass,20160707,10:06:00,23.8,36,1,Francesca Rossi,,"F. Rossi, Mathilde Teyssier",francesca.rossi@cnrs.fr,21.54380904
-388,Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Seagrass,20160707,10:06:00,23.8,36.2,2,Francesca Rossi,,"F. Rossi, Mathilde Teyssier",francesca.rossi@cnrs.fr,21.54380904
-389,Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Seagrass,20160707,10:06:00,23.8,36,3,Francesca Rossi,,"F. Rossi, Mathilde Teyssier",francesca.rossi@cnrs.fr,21.54380904
-390,Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Unveg,20160707,10:02:00,23.8,36.1,1,Francesca Rossi,,"F. Rossi, Mathilde Teyssier",francesca.rossi@cnrs.fr,21.54380904
-391,Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Unveg,20160707,10:02:00,23.8,36,2,Francesca Rossi,,"F. Rossi, Mathilde Teyssier",francesca.rossi@cnrs.fr,21.54380904
-392,Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Unveg,20160707,10:02:00,23.9,35.8,3,Francesca Rossi,,"F. Rossi, Mathilde Teyssier",francesca.rossi@cnrs.fr,21.54380904
-393,Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Seagrass,20160708,10:50:00,25,36.1,1,Francesca Rossi,,"F. Rossi, Mathilde Teyssier",francesca.rossi@cnrs.fr,21.54380904
-394,Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Seagrass,20160708,10:50:00,25,36.2,2,Francesca Rossi,,"F. Rossi, Mathilde Teyssier",francesca.rossi@cnrs.fr,21.54380904
-395,Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Seagrass,20160708,10:50:00,25.1,36.3,3,Francesca Rossi,,"F. Rossi, Mathilde Teyssier",francesca.rossi@cnrs.fr,21.54380904
-396,Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Unveg,20160708,10:55:00,25.2,35.4,1,Francesca Rossi,,"F. Rossi, Mathilde Teyssier",francesca.rossi@cnrs.fr,21.54380904
-397,Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Unveg,20160708,10:55:00,25.2,36.2,2,Francesca Rossi,,"F. Rossi, Mathilde Teyssier",francesca.rossi@cnrs.fr,21.54380904
-398,Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Unveg,20160708,10:55:00,25.3,36.3,3,Francesca Rossi,,"F. Rossi, Mathilde Teyssier",francesca.rossi@cnrs.fr,21.54380904
-399,Elkhorn Slough,USA (CA3),36.8111,-121.7792,Unveg,20160622,8:20,17,31.1,1,Brent Hughes,"YSI failed, used nearest NERR YSI 200m away",B. Hughes,bbhughes@ucsc.edu,NA
-400,Elkhorn Slough,USA (CA3),36.8111,-121.7792,Unveg,20160622,8:20,17,31.1,2,Brent Hughes,"YSI failed, used nearest NERR YSI 200m away",B. Hughes,bbhughes@ucsc.edu,NA
-401,Elkhorn Slough,USA (CA3),36.8111,-121.7792,Unveg,20160622,8:20,17,31.1,3,Brent Hughes,"YSI failed, used nearest NERR YSI 200m away",B. Hughes,bbhughes@ucsc.edu,NA
-402,Elkhorn Slough,USA (CA3),36.8111,-121.7792,Seagrass,20160622,8:40,15.9,30.8,1,Brent Hughes,"YSI failed, used nearest NERR YSI 150m away",B. Hughes,bbhughes@ucsc.edu,NA
-403,Elkhorn Slough,USA (CA3),36.8111,-121.7792,Seagrass,20160622,8:40,15.9,30.8,2,Brent Hughes,"YSI failed, used nearest NERR YSI 150m away",B. Hughes,bbhughes@ucsc.edu,NA
-404,Elkhorn Slough,USA (CA3),36.8111,-121.7792,Seagrass,20160622,8:40,15.9,30.8,3,Brent Hughes,"YSI failed, used nearest NERR YSI 150m away",B. Hughes,bbhughes@ucsc.edu,NA
-405,Elkhorn Slough,USA (CA3),36.810254,-121.783827,Unveg,20160623,9:00,16.2,34.69,1,Brent Hughes,,B. Hughes,bbhughes@ucsc.edu,NA
-406,Elkhorn Slough,USA (CA3),36.810254,-121.783827,Unveg,20160623,9:00,16.2,34.68,2,Brent Hughes,,B. Hughes,bbhughes@ucsc.edu,NA
-407,Elkhorn Slough,USA (CA3),36.810254,-121.783827,Unveg,20160623,9:00,16.2,34.66,3,Brent Hughes,,B. Hughes,bbhughes@ucsc.edu,NA
-408,Elkhorn Slough,USA (CA3),36.811088,-121.782278,Seagrass,20160623,9:03,17,34.72,1,Brent Hughes,,B. Hughes,bbhughes@ucsc.edu,NA
-409,Elkhorn Slough,USA (CA3),36.811088,-121.782278,Seagrass,20160623,9:03,17,34.73,2,Brent Hughes,,B. Hughes,bbhughes@ucsc.edu,NA
-410,Elkhorn Slough,USA (CA3),36.811088,-121.782278,Seagrass,20160623,9:03,17,34.72,3,Brent Hughes,,B. Hughes,bbhughes@ucsc.edu,NA
-411,Elkhorn Slough,USA (CA3),36.810254,-121.783827,Unveg,20160623,9:36,14.9,34.18,1,Brent Hughes,,B. Hughes,bbhughes@ucsc.edu,NA
-412,Elkhorn Slough,USA (CA3),36.810254,-121.783827,Unveg,20160623,9:36,14.9,34.18,2,Brent Hughes,,B. Hughes,bbhughes@ucsc.edu,NA
-413,Elkhorn Slough,USA (CA3),36.810254,-121.783827,Unveg,20160623,9:36,14.9,34.17,3,Brent Hughes,,B. Hughes,bbhughes@ucsc.edu,NA
-414,Elkhorn Slough,USA (CA3),36.811088,-121.782278,Seagrass,20160623,9:13,16.9,34.6,1,Brent Hughes,,B. Hughes,bbhughes@ucsc.edu,NA
-415,Elkhorn Slough,USA (CA3),36.811088,-121.782278,Seagrass,20160623,9:13,16.9,34.39,2,Brent Hughes,,B. Hughes,bbhughes@ucsc.edu,NA
-416,Elkhorn Slough,USA (CA3),36.811088,-121.782278,Seagrass,20160623,9:13,16.9,34.57,3,Brent Hughes,,B. Hughes,bbhughes@ucsc.edu,NA
-417,Elkhorn Slough,USA (CA3),36.810254,-121.783827,Unveg,20160624,8:33,16.9,34.67,1,Brent Hughes,,B. Hughes,bbhughes@ucsc.edu,NA
-418,Elkhorn Slough,USA (CA3),36.810254,-121.783827,Unveg,20160624,8:33,16.8,34.68,2,Brent Hughes,,B. Hughes,bbhughes@ucsc.edu,NA
-419,Elkhorn Slough,USA (CA3),36.810254,-121.783827,Unveg,20160624,8:33,16.9,34.68,3,Brent Hughes,,B. Hughes,bbhughes@ucsc.edu,NA
-420,Elkhorn Slough,USA (CA3),36.811088,-121.782278,Seagrass,20160624,8:41,17.1,34.78,1,Brent Hughes,,B. Hughes,bbhughes@ucsc.edu,NA
-421,Elkhorn Slough,USA (CA3),36.811088,-121.782278,Seagrass,20160624,8:41,17.1,34.77,2,Brent Hughes,,B. Hughes,bbhughes@ucsc.edu,NA
-422,Elkhorn Slough,USA (CA3),36.811088,-121.782278,Seagrass,20160624,8:41,17.1,34.78,3,Brent Hughes,,B. Hughes,bbhughes@ucsc.edu,NA
-423,Elkhorn Slough,USA (CA3),36.810254,-121.783827,Unveg,20170705,8:42,13.1,34.14,1,Brent Hughes,,B. Hughes,bbhughes@ucsc.edu,NA
-424,Elkhorn Slough,USA (CA3),36.810254,-121.783827,Unveg,20170705,8:42,13,34.14,2,Brent Hughes,,B. Hughes,bbhughes@ucsc.edu,NA
-425,Elkhorn Slough,USA (CA3),36.810254,-121.783827,Unveg,20170705,8:42,13,34.14,3,Brent Hughes,,B. Hughes,bbhughes@ucsc.edu,NA
-426,Elkhorn Slough,USA (CA3),36.811088,-121.782278,Seagrass,20170705,8:46,13.2,33.94,1,Brent Hughes,,B. Hughes,bbhughes@ucsc.edu,NA
-427,Elkhorn Slough,USA (CA3),36.811088,-121.782278,Seagrass,20170705,8:46,13.2,33.89,2,Brent Hughes,,B. Hughes,bbhughes@ucsc.edu,NA
-428,Elkhorn Slough,USA (CA3),36.811088,-121.782278,Seagrass,20170705,8:46,13.2,33.84,3,Brent Hughes,,B. Hughes,bbhughes@ucsc.edu,NA
-429,Elkhorn Slough,USA (CA3),36.810254,-121.783827,Unveg,20170706,8:00,15.4,34.26,1,Brent Hughes,,B. Hughes,bbhughes@ucsc.edu,NA
-430,Elkhorn Slough,USA (CA3),36.810254,-121.783827,Unveg,20170706,8:00,15.4,34.22,2,Brent Hughes,,B. Hughes,bbhughes@ucsc.edu,NA
-431,Elkhorn Slough,USA (CA3),36.810254,-121.783827,Unveg,20170706,8:00,15.4,34.22,3,Brent Hughes,,B. Hughes,bbhughes@ucsc.edu,NA
-432,Elkhorn Slough,USA (CA3),36.811088,-121.782278,Seagrass,20170706,8:21,15,37.93,1,Brent Hughes,,B. Hughes,bbhughes@ucsc.edu,NA
-433,Elkhorn Slough,USA (CA3),36.811088,-121.782278,Seagrass,20170706,8:21,14.9,33.98,2,Brent Hughes,,B. Hughes,bbhughes@ucsc.edu,NA
-434,Elkhorn Slough,USA (CA3),36.811088,-121.782278,Seagrass,20170706,8:21,14.9,24.12,3,Brent Hughes,,B. Hughes,bbhughes@ucsc.edu,NA
-435,PungSand1,USA (VA2),37.68751,-75.86738,Unveg,20160621,1135,24.9,18.7,1,PGRoss,,"PKellam, ETurner, Jlord",pg@vims.edu,25.14649944
-436,PungSand1,USA (VA2),37.68751,-75.86738,Unveg,20160621,1135,24.9,18.8,2,PGRoss,,"PKellam, ETurner, Jlord",pg@vims.edu,25.14649944
-437,PungSand1,USA (VA2),37.68751,-75.86738,Unveg,20160621,1135,24.9,18.8,3,PGRoss,,"PKellam, ETurner, Jlord",pg@vims.edu,25.14649944
-438,PungSand2,USA (VA2),37.68175,-75.86651,Unveg,20160622,1135,26.2,19.5,1,PGRoss,,"PKellam, ETurner, Jlord",pg@vims.edu,25.14649944
-439,PungSand2,USA (VA2),37.68175,-75.86651,Unveg,20160622,1135,26,19.6,2,PGRoss,,"PKellam, ETurner, Jlord",pg@vims.edu,25.14649944
-440,PungSand2,USA (VA2),37.68175,-75.86651,Unveg,20160622,1135,25.8,19.5,3,PGRoss,,"PKellam, ETurner, Jlord",pg@vims.edu,25.14649944
-441,PungSand3,USA (VA2),37.68199,-75.86617,Unveg,20160623,1210,25.9,19.4,1,PGRoss,,"PKellam, ETurner, Jlord",pg@vims.edu,25.14649944
-442,PungSand3,USA (VA2),37.68199,-75.86617,Unveg,20160623,1210,25.9,19.4,2,PGRoss,,"PKellam, ETurner, Jlord",pg@vims.edu,25.14649944
-443,PungSand3,USA (VA2),37.68199,-75.86617,Unveg,20160623,1210,25.9,19.4,3,PGRoss,,"PKellam, ETurner, Jlord",pg@vims.edu,25.14649944
-444,PungSAV1,USA (VA2),37.68882,-75.86724,Seagrass,20160621,1140,24.9,18.8,1,PGRoss,,"PKellam, ETurner, Jlord",pg@vims.edu,25.14649944
-445,PungSAV1,USA (VA2),37.68882,-75.86724,Seagrass,20160621,1140,24.9,18.8,2,PGRoss,,"PKellam, ETurner, Jlord",pg@vims.edu,25.14649944
-446,PungSAV1,USA (VA2),37.68882,-75.86724,Seagrass,20160621,1140,24.9,18.8,3,PGRoss,,"PKellam, ETurner, Jlord",pg@vims.edu,25.14649944
-447,PungSAV2,USA (VA2),37.68154,-75.86672,Seagrass,20160622,1130,26,19.5,1,PGRoss,,"PKellam, ETurner, Jlord",pg@vims.edu,25.14649944
-448,PungSAV2,USA (VA2),37.68154,-75.86672,Seagrass,20160622,1130,25.9,19.5,2,PGRoss,,"PKellam, ETurner, Jlord",pg@vims.edu,25.14649944
-449,PungSAV2,USA (VA2),37.68154,-75.86672,Seagrass,20160622,1130,25.8,19.5,3,PGRoss,,"PKellam, ETurner, Jlord",pg@vims.edu,25.14649944
-450,PungSAV3,USA (VA2),37.68225,-75.86633,Seagrass,20160623,1250,26.3,19.4,1,PGRoss,,"PKellam, ETurner, Jlord",pg@vims.edu,25.14649944
-451,PungSAV3,USA (VA2),37.68225,-75.86633,Seagrass,20160623,1250,26.3,19.5,2,PGRoss,,"PKellam, ETurner, Jlord",pg@vims.edu,25.14649944
-452,PungSAV3,USA (VA2),37.68225,-75.86633,Seagrass,20160623,1250,26.4,19.5,3,PGRoss,,"PKellam, ETurner, Jlord",pg@vims.edu,25.14649944
-453,QC_Baie St-Ludger,Canada (QC),49.08802,-68.32182,Seagrass,20160705,,12.5,30,1,Mathieu Cusson,,data from HOBO,mathieu.cusson@uqac.ca,NA
-454,QC_Baie St-Ludger,Canada (QC),49.08779,-68.32173,Unveg,20160705,,12.5,30,1,Mathieu Cusson,,,mathieu.cusson@uqac.ca,NA
-455,False Bay,USA (WA2),48.48532472,123.07541,Seagrass,20160719,1030,15.4,30,1,Olivia Graham,"For all temperature measurements, temperature probe only extended 20 cm into the water.",Drew Harvell,ojgraham@mac.com,14.41999968
-456,False Bay,USA (WA2),48.48532472,123.07541,Seagrass,20160719,1030,15.5,34,2,Olivia Graham,,,,14.41999968
-457,False Bay,USA (WA2),48.48532472,123.07541,Seagrass,20160719,1030,15.5,34,3,Olivia Graham,,,,14.41999968
-458,False Bay,USA (WA2),48.48532472,123.07541,Unveg,20160719,1045,16.7,34,1,Olivia Graham,,Drew Harvell,,14.41999968
-459,False Bay,USA (WA2),48.48532472,123.07541,Unveg,20160719,1045,17.1,34,2,Olivia Graham,,,,14.41999968
-460,False Bay,USA (WA2),48.48532472,123.07541,Unveg,20160719,1045,17,34,3,Olivia Graham,,,,14.41999968
-461,False Bay,USA (WA2),48.48532472,123.07541,Seagrass,20160720,1055,17.2,34,1,Olivia Graham,,Drew Harvell,,14.41999968
-462,False Bay,USA (WA2),48.48532472,123.07541,Seagrass,20160720,1055,17.8,34,2,Olivia Graham,,,,14.41999968
-463,False Bay,USA (WA2),48.48532472,123.07541,Seagrass,20160720,1055,17.6,30,3,Olivia Graham,,,,14.41999968
-464,False Bay,USA (WA2),48.48532472,123.07541,Unveg,20160720,1100,18.9,28,1,Olivia Graham,Very shallow due to receding tide,Drew Harvell,,14.41999968
-465,False Bay,USA (WA2),48.48532472,123.07541,Unveg,20160720,1100,19.4,29,2,Olivia Graham,,,,14.41999968
-466,False Bay,USA (WA2),48.48532472,123.07541,Unveg,20160720,1100,19.7,30,3,Olivia Graham,,,,14.41999968
-467,False Bay,USA (WA2),48.48532472,123.07541,Seagrass,20160720,1230,18.1,30,1,Olivia Graham,,Olivia Graham,,14.41999968
-468,False Bay,USA (WA2),48.48532472,123.07541,Seagrass,20160720,1230,17.7,31,2,Olivia Graham,,,,14.41999968
-469,False Bay,USA (WA2),48.48532472,123.07541,Seagrass,20160720,1230,18.5,30,3,Olivia Graham,,,,14.41999968
-470,False Bay,USA (WA2),48.48532472,123.07541,Unveg,20160720,1245,17.1,31,1,Olivia Graham,,Olivia Graham,,14.41999968
-471,False Bay,USA (WA2),48.48532472,123.07541,Unveg,20160720,1245,17.8,30,2,Olivia Graham,,,,14.41999968
-472,False Bay,USA (WA2),48.48532472,123.07541,Unveg,20160720,1245,16.8,30,3,Olivia Graham,,,,14.41999968
-473,False Bay,USA (WA2),48.48532472,123.07541,Seagrass,20160721,1030,15.5,31,1,Olivia Graham,,Miranda Winningham,,14.41999968
-474,False Bay,USA (WA2),48.48532472,123.07541,Seagrass,20160721,1030,15.6,30,2,Olivia Graham,,,,14.41999968
-475,False Bay,USA (WA2),48.48532472,123.07541,Seagrass,20160721,1030,15.6,34,3,Olivia Graham,,,,14.41999968
-476,False Bay,USA (WA2),48.48532472,123.07541,Unveg,20160721,1025,15.7,30,1,Olivia Graham,,Mirnada Winningham,,14.41999968
-477,False Bay,USA (WA2),48.48532472,123.07541,Unveg,20160721,1025,16.3,30,2,Olivia Graham,,,,14.41999968
-478,False Bay,USA (WA2),48.48532472,123.07541,Unveg,20160721,1025,16.3,30,3,Olivia Graham,,,,14.41999968
-479,False Bay,USA (WA2),48.48532472,123.07541,Seagrass,20160721,1230,12.7,29,1,Olivia Graham,,Miranda Winningham,,14.41999968
-480,False Bay,USA (WA2),48.48532472,123.07541,Seagrass,20160721,1230,13.3,30,2,Olivia Graham,,,,14.41999968
-481,False Bay,USA (WA2),48.48532472,123.07541,Seagrass,20160721,1230,14.1,30,3,Olivia Graham,,,,14.41999968
-482,False Bay,USA (WA2),48.48532472,123.07541,Unveg,20160721,1200,12.4,29,1,Olivia Graham,,Miranda Winningham,,14.41999968
-483,False Bay,USA (WA2),48.48532472,123.07541,Unveg,20160721,1200,12.2,30,2,Olivia Graham,,,,14.41999968
-484,False Bay,USA (WA2),48.48532472,123.07541,Unveg,20160721,1200,12.5,29,3,Olivia Graham,,,,14.41999968
-485,False Bay,USA (WA2),48.48532472,123.07541,Seagrass,20160722,1050,16.6,30,1,Olivia Graham,,Phoebe Dawkins,,14.41999968
-486,False Bay,USA (WA2),48.48532472,123.07541,Seagrass,20160722,1050,16.5,31,2,Olivia Graham,,,,14.41999968
-487,False Bay,USA (WA2),48.48532472,123.07541,Seagrass,20160722,1050,16.7,31,3,Olivia Graham,,,,14.41999968
-488,False Bay,USA (WA2),48.48532472,123.07541,Unveg,20160722,1100,17.3,31,1,Olivia Graham,,Phoebe Dawkins,,14.41999968
-489,False Bay,USA (WA2),48.48532472,123.07541,Unveg,20160722,1100,17.2,32,2,Olivia Graham,,,,14.41999968
-490,False Bay,USA (WA2),48.48532472,123.07541,Unveg,20160722,1100,18,29,3,Olivia Graham,,,,14.41999968
-491,False Bay,USA (WA2),48.48532472,123.07541,Seagrass,20160722,1345,19.1,29,1,Olivia Graham,,Phoebe Dawkins,,14.41999968
-492,False Bay,USA (WA2),48.48532472,123.07541,Seagrass,20160722,1345,19,29,2,Olivia Graham,,,,14.41999968
-493,False Bay,USA (WA2),48.48532472,123.07541,Seagrass,20160722,1345,18.8,29,3,Olivia Graham,,,,14.41999968
-494,False Bay,USA (WA2),48.48532472,123.07541,Unveg,20160722,1337,17.3,28,1,Olivia Graham,,Phoebe Dawkins,,14.41999968
-495,False Bay,USA (WA2),48.48532472,123.07541,Unveg,20160722,1337,17.5,29,2,Olivia Graham,,,,14.41999968
-496,False Bay,USA (WA2),48.48532472,123.07541,Unveg,20160722,1337,19.4,29,3,Olivia Graham,,,,14.41999968
-497,False Bay,USA (WA2),48.48532472,123.07541,Seagrass,20160723,1135,15.1,33,1,Olivia Graham,,Miranda Winningham,,14.41999968
-498,False Bay,USA (WA2),48.48532472,123.07541,Seagrass,20160723,1135,15,33,2,Olivia Graham,,,,14.41999968
-499,False Bay,USA (WA2),48.48532472,123.07541,Seagrass,20160723,1135,14.9,33,3,Olivia Graham,,,,14.41999968
-500,False Bay,USA (WA2),48.48532472,123.07541,Unveg,20160723,1145,15.8,33,1,Olivia Graham,,Miranda Winningham,,14.41999968
-501,False Bay,USA (WA2),48.48532472,123.07541,Unveg,20160723,1145,15.9,34,2,Olivia Graham,,,,14.41999968
-502,False Bay,USA (WA2),48.48532472,123.07541,Unveg,20160723,1145,15.8,33,3,Olivia Graham,,,,14.41999968
-503,Kalpeni,India,10.06677,73.63355,Seagrass,20170116,,29.5,NA,1,Elrika D'Souza,Data from nearby islands (Agatti and Kavaratti) in 2016 NOT 2017!,,,27.87804898
-504,Kalpeni,India,10.07013,73.63361,Unveg,20170116,,29.5,NA,1,Elrika D'Souza,Data from nearby islands (Agatti and Kavaratti) in 2016 NOT 2017!,,,27.87804898
-505,San Diego,USA (CA),32.76517,-117.2467,Seagrass,20160623,730,20.9,31.6,1,"Mallarie Yeager, Kevin Hovel",,,,22.15900992
-506,San Diego,USA (CA),32.76517,-117.2467,Seagrass,20160623,730,20.86,31.7,2,"Mallarie Yeager, Kevin Hovel",,,,22.15900992
-507,San Diego,USA (CA),32.76517,-117.2467,Seagrass,20160623,730,20.85,31.6,3,"Mallarie Yeager, Kevin Hovel",,,,22.15900992
-508,San Diego,USA (CA),32.76517,-117.2467,Unveg,20160623,750,20.83,31.7,1,"Mallarie Yeager, Kevin Hovel",,,,22.15900992
-509,San Diego,USA (CA),32.76517,-117.2467,Unveg,20160623,750,20.75,31.6,2,"Mallarie Yeager, Kevin Hovel",,,,22.15900992
-510,San Diego,USA (CA),32.76517,-117.2467,Unveg,20160623,750,20.6,31.7,3,"Mallarie Yeager, Kevin Hovel",,,,22.15900992
-511,San Diego,USA (CA),32.76517,-117.2467,Seagrass,20160627,830,21.9,31.7,1,"Mallarie Yeager, Kevin Hovel",,,,22.15900992
-512,San Diego,USA (CA),32.76517,-117.2467,Seagrass,20160627,830,21.8,31.7,2,"Mallarie Yeager, Kevin Hovel",,,,22.15900992
-513,San Diego,USA (CA),32.76517,-117.2467,Seagrass,20160627,830,21.8,31.7,3,"Mallarie Yeager, Kevin Hovel",,,,22.15900992
-514,San Diego,USA (CA),32.76517,-117.2467,Unveg,20160627,830,21.8,31.7,1,"Mallarie Yeager, Kevin Hovel",,,,22.15900992
-515,San Diego,USA (CA),32.76517,-117.2467,Unveg,20160627,830,21.8,31.7,2,"Mallarie Yeager, Kevin Hovel",,,,22.15900992
-516,San Diego,USA (CA),32.76517,-117.2467,Unveg,20160627,830,21.8,31.7,3,"Mallarie Yeager, Kevin Hovel",,,,22.15900992
-517,San Diego,USA (CA),32.76517,-117.2467,Seagrass,20160630,1124,22.9,31.8,1,"Mallarie Yeager, Kevin Hovel",,,,22.15900992
-518,San Diego,USA (CA),32.76517,-117.2467,Seagrass,20160630,1124,22.9,31.8,2,"Mallarie Yeager, Kevin Hovel",,,,22.15900992
-519,San Diego,USA (CA),32.76517,-117.2467,Seagrass,20160630,1124,22.9,31.8,3,"Mallarie Yeager, Kevin Hovel",,,,22.15900992
-520,San Diego,USA (CA),32.76517,-117.2467,Unveg,20160630,1127,22.9,31.8,1,"Mallarie Yeager, Kevin Hovel",,,,22.15900992
-521,San Diego,USA (CA),32.76517,-117.2467,Unveg,20160630,1127,23,31.8,2,"Mallarie Yeager, Kevin Hovel",,,,22.15900992
-522,San Diego,USA (CA),32.76517,-117.2467,Unveg,20160630,1127,23,31.8,3,"Mallarie Yeager, Kevin Hovel",,,,22.15900992
-523,Goodwin Island,USA (VA),37.2158,-76.39267,Seagrass,20160811,,29.57762,21.81871,1,Jon Lefcheck,data from sensor in nearby location,,,29.24133268
-524,Goodwin Island,USA (VA),37.2158,-76.39267,Unveg,20160811,,29.57762,21.81871,1,Jon Lefcheck,,,,29.24133268
-525,,Panama,9.351809,-82.25763,Seagrass,20160929,1212,29.98198,33.82912,1,Janina Seeman,data from sensor in nearby location,,,30.44104099
-526,,Panama,9.351809,-82.25763,Seagrass,20161004,1150,30.59406,33.87932,1,Janina Seeman,,,,30.44104099
-527,,Panama,9.351809,-82.25763,Seagrass,20161005,1150,30.6981,33.85869,1,Janina Seeman,,,,30.44104099
-528,,Panama,9.351809,-82.25763,Unveg,20160929,1220,29.98091,33.82956,1,Janina Seeman,,,,30.44104099
-529,,Panama,9.351809,-82.25763,Unveg,20161004,1145,30.59342,33.8796,1,Janina Seeman,,,,30.44104099
-530,,Panama,9.351809,-82.25763,Unveg,20161005,1145,30.69857,33.8585,1,Janina Seeman,,,,30.44104099
-531,Carrie Bow Cay,Belize,16.802333,-88.082468,Unveg,20161105,1130,27.5,35.6,1,Dean Janiak,Physical data averaged EXO data sonde,Dean Janiak,janiakd@si.edu,28.42499936
-532,Carrie Bow Cay,Belize,16.802509,-88.082305,Seagrass,20161105,1100,27.5,35.6,1,Dean Janiak,Physical data averaged EXO data sonde,Dean Janiak,janiakd@si.edu,28.42499936
-533,Carrie Bow Cay,Belize,16.802333,-88.082468,Unveg,20161106,1100,27.5,35.7,1,Dean Janiak,Physical data averaged EXO data sonde,Dean Janiak,janiakd@si.edu,28.42499936
-534,Carrie Bow Cay,Belize,16.802509,-88.082305,Seagrass,20161106,1045,27.5,35.7,1,Dean Janiak,Physical data averaged EXO data sonde,Dean Janiak,janiakd@si.edu,28.42499936
-535,Carrie Bow Cay,Belize,16.802333,-88.082468,Unveg,20161107,1000,27.5,35.6,1,Dean Janiak,Physical data averaged EXO data sonde,Dean Janiak,janiakd@si.edu,28.42499936
-536,Carrie Bow Cay,Belize,16.802509,-88.082305,Seagrass,20161107,1030,27.5,35.6,1,Dean Janiak,Physical data averaged EXO data sonde,Dean Janiak,janiakd@si.edu,28.42499936
-537,,Italy,43.06767,9.831233,Unveg,20160727,,25.213,NA,NA,Matt Whalen,Data taken directly from AquaMODIS for the three days of the assays.,,,26.398469
-538,,Italy,43.06767,9.831233,Seagrass,20160727,,25.213,NA,NA,Matt Whalen,Data taken directly from AquaMODIS for the three days of the assays.,,,26.398469
-539,,Italy,43.06767,9.831233,Unveg,20160728,,25.5045,NA,NA,Matt Whalen,Data taken directly from AquaMODIS for the three days of the assays.,,,26.398469
-540,,Italy,43.06767,9.831233,Seagrass,20160728,,25.5045,NA,NA,Matt Whalen,Data taken directly from AquaMODIS for the three days of the assays.,,,26.398469
-541,,Italy,43.06767,9.831233,Unveg,20160729,,27.54689,NA,NA,Matt Whalen,Data taken directly from AquaMODIS for the three days of the assays.,,,26.398469
-542,,Italy,43.06767,9.831233,Seagrass,20160729,,27.54689,NA,NA,Matt Whalen,Data taken directly from AquaMODIS for the three days of the assays.,,,26.398469
-543,Hervey Bay,Australia (QLD2),-26.393508,153.055206,Unveg,20170130,,25,33.9,NA,Chris Henderson,,Chris Henderson,chender1@usc.edu.au,27.50287293
-544,Hervey Bay,Australia (QLD2),-26.393508,153.055206,Seagrass,20170130,,25,33.9,NA,Chris Henderson,,Chris Henderson,chender1@usc.edu.au,27.57788436
-545,Noosa,Australia (QLD2),-25.307906,152.909319,Unveg,20170221,,27,33.9,NA,Chris Henderson,,Chris Henderson,chender1@usc.edu.au,27.50287293
-546,Noosa,Australia (QLD2),-25.307906,152.909319,Seagrass,20170221,,27,33.9,NA,Chris Henderson,,Chris Henderson,chender1@usc.edu.au,27.57788436
-547,NA,Australia (NSW1.1),NA,NA,Unveg,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-548,NA,Australia (NSW1.2),NA,NA,Unveg,NA,NA,NA,NA,NA,NA,NA,NA,NA,21.93273106
-549,NA,Ireland,NA,NA,Seagrass,NA,NA,NA,NA,NA,NA,NA,NA,NA,14.862333
-550,NA,Ireland,NA,NA,Unveg,NA,NA,NA,NA,NA,NA,NA,NA,NA,15.09099966
-551,NA,USA (CA2),NA,NA,Seagrass,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-552,NA,USA (CA2),NA,NA,Unveg,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-553,NA,USA (DE),NA,NA,Unveg,NA,NA,NA,NA,NA,NA,NA,NA,NA,26.51499941
+,Site.Name,Country,Lat,Long,Seagrass.Unveg,Date,Time,Temp,Sal,Measurment.Number,Notes
+1,Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Unveg,20161028,1618,24.1,25.7,1,
+2,Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Unveg,20161028,1618,23.3,25.5,2,
+3,Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Unveg,20161028,1618,22.7,25.7,3,
+4,Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Seagrass,20161028,1618,24.2,25.6,1,
+5,Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Seagrass,20161028,1618,24.1,24.9,2,
+6,Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Seagrass,20161028,1618,23.7,25.7,3,
+7,Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Unveg,20161029,1719,27.4,26.7,1,
+8,Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Unveg,20161029,1719,27.3,26.7,2,
+9,Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Unveg,20161029,1719,27.3,26.3,3,
+10,Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Seagrass,20161029,1712,27.4,25.8,1,
+11,Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Seagrass,20161029,1712,27.5,26.1,2,
+12,Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Seagrass,20161029,1712,27.4,26.2,3,
+13,Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Unveg,20161030,1715,22.4,26.5,1,
+14,Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Unveg,20161030,1715,22.2,26.5,2,
+15,Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Unveg,20161030,1715,22.1,26.5,3,
+16,Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Seagrass,20161030,1716,22.3,26.4,1,
+17,Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Seagrass,20161030,1716,22.3,26.4,2,
+18,Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Seagrass,20161030,1716,22.2,26.5,3,
+19,Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Unveg,20161031,1553,21.5,26.3,1,
+20,Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Unveg,20161031,1553,21.4,26.4,2,
+21,Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Unveg,20161031,1553,21,26.4,3,
+22,Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Seagrass,20161031,1554,20.9,26.6,1,
+23,Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Seagrass,20161031,1554,20.8,26.5,2,
+24,Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Seagrass,20161031,1554,21,26.4,3,
+25,Bowen,Australia (QLD),-20.01734,148.25191,Seagrass,20161202,730,27,35,1,
+26,Bowen,Australia (QLD),-20.01734,148.25191,Seagrass,20161202,730,27,34,2,
+27,Bowen,Australia (QLD),-20.01734,148.25191,Seagrass,20161202,730,27,33,3,
+28,Bowen,Australia (QLD),-20.20234,148.24826,Unveg,20161202,745,27,31,1,
+29,Bowen,Australia (QLD),-20.20234,148.24826,Unveg,20161202,745,28,32,2,
+30,Bowen,Australia (QLD),-20.20234,148.24826,Unveg,20161202,745,28,31,3,
+31,Bowen,Australia (QLD),-20.01734,148.25191,Seagrass,20161203,900,31,32,1,
+32,Bowen,Australia (QLD),-20.01734,148.25191,Seagrass,20161203,900,30,32,2,
+33,Bowen,Australia (QLD),-20.01734,148.25191,Seagrass,20161203,900,30,32,3,
+34,Bowen,Australia (QLD),-20.20234,148.24826,Unveg,20161203,800,30,31,1,
+35,Bowen,Australia (QLD),-20.20234,148.24826,Unveg,20161203,800,29,31,2,
+36,Bowen,Australia (QLD),-20.20234,148.24826,Unveg,20161203,800,28,33,3,
+37,Bowen,Australia (QLD),-20.01734,148.25191,Seagrass,20161204,800,30,34,1,
+38,Bowen,Australia (QLD),-20.01734,148.25191,Seagrass,20161204,800,29,32,2,
+39,Bowen,Australia (QLD),-20.01734,148.25191,Seagrass,20161204,800,29,33,3,
+40,Bowen,Australia (QLD),-20.20234,148.24826,Unveg,20161204,825,27,31,1,
+41,Bowen,Australia (QLD),-20.20234,148.24826,Unveg,20161204,825,27,32,2,
+42,Bowen,Australia (QLD),-20.20234,148.24826,Unveg,20161204,825,27,33,3,
+43,Bowen,Australia (QLD),-20.01734,148.25191,Seagrass,20161205,600,24,35,1,
+44,Bowen,Australia (QLD),-20.01734,148.25191,Seagrass,20161205,600,24,35,2,
+45,Bowen,Australia (QLD),-20.01734,148.25191,Seagrass,20161205,600,25,35,3,
+46,Bowen,Australia (QLD),-20.20234,148.24826,Unveg,20161205,615,24,34,1,
+47,Bowen,Australia (QLD),-20.20234,148.24826,Unveg,20161205,615,25,35,2,
+48,Bowen,Australia (QLD),-20.20234,148.24826,Unveg,20161205,615,25,34,3,
+49,Choked Pocket,Canada (BC),51.67638,-128.12363,Seagrass,20160705,827,12.1,31.19,1,
+50,Choked Pocket,Canada (BC),51.67638,-128.12363,Seagrass,20160705,827,12,31.23,2,
+51,Choked Pocket,Canada (BC),51.67638,-128.12363,Seagrass,20160705,827,12,31.24,3,
+52,Choked Pocket,Canada (BC),51.676475,-128.123739,Seagrass,20160706,1028,12.1,31,1,
+53,Choked Pocket,Canada (BC),51.676475,-128.123739,Seagrass,20160706,1028,11.6,31.05,2,
+54,Choked Pocket,Canada (BC),51.676475,-128.123739,Seagrass,20160706,1028,11.5,31.07,3,
+55,Choked Pocket,Canada (BC),51.681428,-128.114127,Seagrass,20160707,1049,11.9,31.16,1,
+56,Choked Pocket,Canada (BC),51.681428,-128.114127,Seagrass,20160707,1049,11.8,31.16,2,
+57,Choked Pocket,Canada (BC),51.681428,-128.114127,Seagrass,20160707,1049,11.8,31.19,3,
+58,Choked Pocket,Canada (BC),51.681428,-128.114127,Seagrass,20160708,1035,12.9,29.83,1,
+59,Choked Pocket,Canada (BC),51.681428,-128.114127,Seagrass,20160708,1035,12.8,29.84,2,
+60,Choked Pocket,Canada (BC),51.681428,-128.114127,Seagrass,20160708,1035,12.7,30.08,3,
+61,Choked Sandspit,Canada (BC),51.68156,-128.11427,Unveg,20160705,845,12,31.4,1,
+62,Choked Sandspit,Canada (BC),51.68156,-128.11427,Unveg,20160705,845,12,31.22,2,
+63,Choked Sandspit,Canada (BC),51.68156,-128.11427,Unveg,20160705,845,11.9,31.18,3,
+64,Choked Sandspit,Canada (BC),51.681408,-128.114073,Unveg,20160706,920,12.5,30.73,1,
+65,Choked Sandspit,Canada (BC),51.681408,-128.114073,Unveg,20160706,920,12.4,30.83,2,
+66,Choked Sandspit,Canada (BC),51.681408,-128.114073,Unveg,20160706,920,12.4,30.82,3,
+67,Choked Sandspit,Canada (BC),51.676464,-128.12368,Unveg,20160707,915,12.4,30.1,1,
+68,Choked Sandspit,Canada (BC),51.676464,-128.12368,Unveg,20160707,915,12.4,30.13,2,
+69,Choked Sandspit,Canada (BC),51.676464,-128.12368,Unveg,20160707,915,12.4,30.16,3,
+70,Choked Sandspit,Canada (BC),51.676464,-128.12368,Unveg,20160708,940,13.7,26.21,1,
+71,Choked Sandspit,Canada (BC),51.676464,-128.12368,Unveg,20160708,940,13.6,26.45,2,
+72,Choked Sandspit,Canada (BC),51.676464,-128.12368,Unveg,20160708,940,13.6,26.51,3,
+73,CR-B-SvetiDuh,Croatia,44.20603,15.47262,Seagrass,20160701,630,21,19,1," at all sites  temp and sal taken before the sein netting, temp with regular thermometer, salinity with refractometer "
+74,CR-B-SvetiDuh,Croatia,44.20603,15.47262,Seagrass,20160701,630,22,32,2,
+75,CR-B-SvetiDuh,Croatia,44.20603,15.47262,Seagrass,20160701,630,22.5,32,3,
+76,CR-B-SvetiDuh,Croatia,44.20628,15.47166,Seagrass,20160701,645,21.5,20,1,1= at 10m distance from shore and 30 cm above bottom
+77,CR-B-SvetiDuh,Croatia,44.20628,15.47166,Seagrass,20160701,645,22.5,30,2,2= at 30 m distance from shore and 30 cm above bottom
+78,CR-B-SvetiDuh,Croatia,44.20628,15.47166,Seagrass,20160702,645,22.5,30,3,3= at 60 m distance from shore and 30 cm above bottom
+79,CR-B-SvetiDuh,Croatia,44.20671,15.47138,Seagrass,20160701,700,22,20,1,
+80,CR-B-SvetiDuh,Croatia,44.20671,15.47138,Seagrass,20160701,700,22,21,2,
+81,CR-B-SvetiDuh,Croatia,44.20671,15.47138,Seagrass,20160702,700,22,21,3,
+82,CR-B-SvetiDuh,Croatia,44.20323,15.47232,Unveg,20160701,715,21.5,21,1,
+83,CR-B-SvetiDuh,Croatia,44.20323,15.47232,Unveg,20160701,715,22,21,2,
+84,CR-B-SvetiDuh,Croatia,44.20323,15.47232,Unveg,20160701,715,22,21,3,
+85,CR-B-SvetiDuh,Croatia,44.20264,15.47251,Unveg,20160701,730,22,18,1,
+86,CR-B-SvetiDuh,Croatia,44.20264,15.47251,Unveg,20160701,730,22,17,2,
+87,CR-B-SvetiDuh,Croatia,44.20264,15.47251,Unveg,20160701,730,22,18,3,
+88,CR-B-SvetiDuh,Croatia,44.20182,15.47361,Unveg,20160701,745,22,18,1,
+89,CR-B-SvetiDuh,Croatia,44.20182,15.47361,Unveg,20160701,745,22,15,2,
+90,CR-B-SvetiDuh,Croatia,44.20182,15.47361,Unveg,20160701,745,22,17,3,
+91,Dorothy Cove,USA (MA),42.41978,-70.91522,Seagrass,20160607,730,16,32,1,
+92,Dorothy Cove,USA (MA),42.41978,-70.91522,Seagrass,20160607,730,16,32,2,
+93,Dorothy Cove,USA (MA),42.41978,-70.91522,Seagrass,20160607,730,15.5,32,3,
+94,Dorothy Cove,USA (MA),42.41986,-70.91506,Unveg,20160607,735,15,32,1,
+95,Dorothy Cove,USA (MA),42.41986,-70.91506,Unveg,20160607,735,15,31,2,
+96,Dorothy Cove,USA (MA),42.41986,-70.91506,Unveg,20160607,735,15,30,3,
+97,Dorothy Cove,USA (MA),42.42026,-70.91574,Seagrass,20160609,840,10.5,31,1,
+98,Dorothy Cove,USA (MA),42.42026,-70.91574,Seagrass,20160609,840,11,32,2,
+99,Dorothy Cove,USA (MA),42.42026,-70.91574,Seagrass,20160609,840,10.5,32,3,
+100,Dorothy Cove,USA (MA),42.42044,-70.91594,Unveg,20160609,845,11,32,1,
+101,Dorothy Cove,USA (MA),42.42044,-70.91594,Unveg,20160609,845,11,31,2,
+102,Dorothy Cove,USA (MA),42.42044,-70.91594,Unveg,20160609,845,11,31,3,
+103,Dorothy Cove,USA (MA),42.42057,-70.91625,Unveg,20160622,715,12.5,30,1,
+104,Dorothy Cove,USA (MA),42.42057,-70.91625,Unveg,20160622,715,12,31,2,
+105,Dorothy Cove,USA (MA),42.42057,-70.91625,Unveg,20160622,715,12.5,32,3,
+106,Dorothy Cove,USA (MA),42.42046,-70.91641,Seagrass,20160622,720,12.5,33,1,
+107,Dorothy Cove,USA (MA),42.42046,-70.91641,Seagrass,20160622,720,13,31,2,
+108,Dorothy Cove,USA (MA),42.42046,-70.91641,Seagrass,20160622,720,12.5,31,3,
+109,Praia do Engenho,Brazil,-23.78863,-45.36364,Seagrass,20170308,915,26.4,33.4,1,
+110,Praia do Engenho,Brazil,-23.78863,-45.36364,Seagrass,20170308,915,26.4,33.6,2,
+111,Praia do Engenho,Brazil,-23.78863,-45.36364,Seagrass,20170308,915,26.3,33.6,3,
+112,Praia do Barreiro,Brazil,-23.762,-45.34991,Unveg,20170308,1100,26.1,33.3,1,
+113,Praia do Barreiro,Brazil,-23.762,-45.34991,Unveg,20170308,1100,26.2,33.4,2,
+114,Praia do Barreiro,Brazil,-23.762,-45.34991,Unveg,20170308,1100,26.1,33.5,3,
+115,Praia do Engenho,Brazil,-23.78863,-45.36364,Seagrass,20170309,955,26.8,34.6,1,
+116,Praia do Engenho,Brazil,-23.78863,-45.36364,Seagrass,20170309,955,26.8,34.5,2,
+117,Praia do Engenho,Brazil,-23.78863,-45.36364,Seagrass,20170309,955,26.8,34.5,3,
+118,Praia do Barreiro,Brazil,-23.762,-45.34991,Unveg,20170309,1030,26.9,34,1,
+119,Praia do Barreiro,Brazil,-23.762,-45.34991,Unveg,20170309,1030,27,34.1,2,
+120,Praia do Barreiro,Brazil,-23.762,-45.34991,Unveg,20170309,1030,26.8,34,3,
+121,Praia do Engenho,Brazil,-23.78863,-45.36364,Seagrass,20170310,950,27.3,34.4,1,
+122,Praia do Engenho,Brazil,-23.78863,-45.36364,Seagrass,20170310,950,27.3,34.4,2,
+123,Praia do Engenho,Brazil,-23.78863,-45.36364,Seagrass,20170310,950,27.3,34.5,3,
+124,Praia do Barreiro,Brazil,-23.762,-45.34991,Unveg,20170310,1100,27.8,33.1,1,
+125,Praia do Barreiro,Brazil,-23.762,-45.34991,Unveg,20170310,1100,27.9,32.9,2,
+126,Praia do Barreiro,Brazil,-23.762,-45.34991,Unveg,20170310,1100,28,32.7,3,
+127,Harbor Branch,USA (FL),27.53546,-80.347016,Unveg,20161115,1030,23.5,28.25,1,Physical data averaged over an hour using a LOBO data sonde
+128,Harbor Branch,USA (FL),27.536592,-80.34928,Seagrass,20161115,1000,23.5,28.25,1,Physical data averaged over an hour using a LOBO data sonde
+129,Harbor Branch,USA (FL),27.53546,-80.347016,Unveg,20161117,1130,21.55,27.67,1,Physical data averaged over an hour using a LOBO data sonde
+130,Harbor Branch,USA (FL),27.536592,-80.34928,Seagrass,20161117,1100,21.55,27.67,1,Physical data averaged over an hour using a LOBO data sonde
+131,Harbor Branch,USA (FL),27.53546,-80.347016,Unveg,20161121,1230,20.5,28.5,1,Physical data averaged over an hour using a LOBO data sonde
+132,Harbor Branch,USA (FL),27.536592,-80.34928,Seagrass,20161121,1200,20.5,28.5,1,Physical data averaged over an hour using a LOBO data sonde
+133,Oso Bay,USA (TX),27.42443,-97.19447,Unveg,20160707,8:16,28,27,1,
+134,Oso Bay,USA (TX),27.42446,-97.19337,Seagrass,20160707,9:30,27,30,1,
+135,Oso Bay,USA (TX),27.42443,-97.19447,Unveg,20160714,8:03,27,34,2,
+136,Oso Bay,USA (TX),27.42446,-97.19337,Seagrass,20160714,8:42,28,35,2,
+137,Oso Bay,USA (TX),27.42443,-97.19447,Unveg,20160720,8:15,30,35,3,
+138,Oso Bay,USA (TX),27.42466,-97.19337,Seagrass,20160720,8:15,30,37,3,
+139,Laguna Madre,USA (TX),27.37981,-97.17288,Unveg,20160727,8:15,28,37,1,
+140,Laguna Madre,USA (TX),27.37951,-97.17278,Seagrass,20160727,8:30,29,39,1,
+141,Laguna Madre,USA (TX),27.37983,-97.17288,Unveg,20160803,7:49,29,40,2,
+142,Laguna Madre,USA (TX),27.37951,-97.17278,Seagrass,20160803,7:56,28,40,2,
+143,Laguna Madre,USA (TX),27.37984,-97.17288,Unveg,20160810,8:35,26,40,3,
+144,Laguna Madre,USA (TX),27.37951,-97.17278,Seagrass,20160810,8:35,26,40,3,
+145,Aransas Pass,USA (TX),27.53477,-97.06673,Unveg,20160823,7:30,28,36,1,
+146,Aransas Pass,USA (TX),27.53467,-97.06697,Seagrass,20160823,7:30,28,35,1,
+147,Aransas Pass,USA (TX),27.53477,-97.06673,Unveg,20160901,7:30,28,32,2,
+148,Aransas Pass,USA (TX),27.53467,-97.06697,Seagrass,20160901,7:30,28,34,2,
+149,Aransas Pass,USA (TX),27.53477,-97.06673,Unveg,20160909,8:30,28,30,3,
+150,Aransas Pass,USA (TX),27.53467,-97.06697,Seagrass,20160909,7:30,28,30,3,
+151,NC,USA (NC),34.69099,-76.62199,Seagrass,20160815,1510,34.3,34,1,
+152,NC,USA (NC),34.69099,-76.62199,Seagrass,20160815,1510,33.8,34,2,
+153,NC,USA (NC),34.69099,-76.62199,Seagrass,20160815,1510,33.3,34,3,
+154,NC,USA (NC),34.69099,-76.62199,Seagrass,20160816,1502,34.1,34,1,
+155,NC,USA (NC),34.69099,-76.62199,Seagrass,20160816,1502,33.9,34,2,
+156,NC,USA (NC),34.69099,-76.62199,Seagrass,20160816,1502,33.1,34,3,
+157,NC,USA (NC),34.69099,-76.62199,Seagrass,20160817,1454,33.4,33,1,
+158,NC,USA (NC),34.69099,-76.62199,Seagrass,20160817,1454,33.5,33,2,
+159,NC,USA (NC),34.69099,-76.62199,Seagrass,20160817,1454,33.8,33,3,
+160,NC,USA (NC),34.69051,-76.62245,Unveg,20160815,1506,33.1,34,1,
+161,NC,USA (NC),34.69051,-76.62245,Unveg,20160815,1506,33.1,34.5,2,
+162,NC,USA (NC),34.69051,-76.62245,Unveg,20160815,1506,33.1,34,3,
+163,NC,USA (NC),34.69051,-76.62245,Unveg,20160816,1456,33,34.5,1,
+164,NC,USA (NC),34.69051,-76.62245,Unveg,20160816,1456,33.1,34.5,2,
+165,NC,USA (NC),34.69051,-76.62245,Unveg,20160816,1456,33,34.5,3,
+166,NC,USA (NC),34.69051,-76.62245,Unveg,20160817,1449,32.9,34,1,
+167,NC,USA (NC),34.69051,-76.62245,Unveg,20160817,1449,33.1,33,2,
+168,NC,USA (NC),34.69051,-76.62245,Unveg,20160817,1449,32.7,34,3,
+169,Juvika,Norway,67.214334,15.007534,Seagrass,20160724,1235,11.5,29.2,1,
+170,Juvika,Norway,67.214334,15.007534,Seagrass,20160724,1235,11.5,29.2,2,
+171,Juvika,Norway,67.214334,15.007534,Seagrass,20160724,1235,11.6,29.1,3,
+172,Juvika,Norway,67.214334,15.007534,Unveg,20160724,1250,11.5,29.01,1,
+173,Juvika,Norway,67.214334,15.007534,Seagrass,20160724,1250,11.5,29.1,2,
+174,Juvika,Norway,67.214334,15.007534,Seagrass,20160724,1250,11.5,29.1,3,
+175,OIMB-Valino-SSNERR,USA (OR),43.315383,-124.320926,Unveg,20160719,945,16.32,32.12,1,"Data from nearby SSNERR station ""sosvawq"" [ 43.315996, -124.321276]"
+176,OIMB-Valino-SSNERR,USA (OR),43.315383,-124.320926,Unveg,20160719,1000,15.862,32.3,2,"Data from nearby SSNERR station ""sosvawq"" [ 43.315996, -124.321276]"
+177,OIMB-Valino-SSNERR,USA (OR),43.315383,-124.320926,Unveg,20160719,1015,15.796,32.25,3,"Data from nearby SSNERR station ""sosvawq"" [ 43.315996, -124.321276]"
+178,OIMB-Valino-SSNERR,USA (OR),43.315013,-124.320361,Seagrass,20160719,1045,15.474,32.35,1,"Data from nearby SSNERR station ""sosvawq"" [ 43.315996, -124.321276]"
+179,OIMB-Valino-SSNERR,USA (OR),43.315013,-124.320361,Seagrass,20160719,1100,14.75,32.32,2,"Data from nearby SSNERR station ""sosvawq"" [ 43.315996, -124.321276]"
+180,OIMB-Valino-SSNERR,USA (OR),43.315013,-124.320361,Seagrass,20160719,1115,14.338,32.48,3,"Data from nearby SSNERR station ""sosvawq"" [ 43.315996, -124.321276]"
+181,OIMB-Valino-SSNERR,USA (OR),43.315383,-124.320926,Unveg,20160720,945,17.967,31.69,1,"Data from nearby SSNERR station ""sosvawq"" [ 43.315996, -124.321276]"
+182,OIMB-Valino-SSNERR,USA (OR),43.315383,-124.320926,Unveg,20160720,1000,17.583,31.92,2,"Data from nearby SSNERR station ""sosvawq"" [ 43.315996, -124.321276]"
+183,OIMB-Valino-SSNERR,USA (OR),43.315383,-124.320926,Unveg,20160720,1015,17.399,32.03,3,"Data from nearby SSNERR station ""sosvawq"" [ 43.315996, -124.321276]"
+184,OIMB-Valino-SSNERR,USA (OR),43.315013,-124.320361,Seagrass,20160720,1045,16.719,32.27,1,"Data from nearby SSNERR station ""sosvawq"" [ 43.315996, -124.321276]"
+185,OIMB-Valino-SSNERR,USA (OR),43.315013,-124.320361,Seagrass,20160720,1100,16.246,32.29,2,"Data from nearby SSNERR station ""sosvawq"" [ 43.315996, -124.321276]"
+186,OIMB-Valino-SSNERR,USA (OR),43.315013,-124.320361,Seagrass,20160720,1115,15.96,32.29,3,"Data from nearby SSNERR station ""sosvawq"" [ 43.315996, -124.321276]"
+187,OIMB-Valino-SSNERR,USA (OR),43.315383,-124.320926,Unveg,20160721,1045,18.119,31.92,1,"Data from nearby SSNERR station ""sosvawq"" [ 43.315996, -124.321276]"
+188,OIMB-Valino-SSNERR,USA (OR),43.315383,-124.320926,Unveg,20160721,1100,17.797,32.1,2,"Data from nearby SSNERR station ""sosvawq"" [ 43.315996, -124.321276]"
+189,OIMB-Valino-SSNERR,USA (OR),43.315383,-124.320926,Unveg,20160721,1115,17.421,32.18,3,"Data from nearby SSNERR station ""sosvawq"" [ 43.315996, -124.321276]"
+190,OIMB-Valino-SSNERR,USA (OR),43.315013,-124.320361,Seagrass,20160721,1130,16.698,32.33,1,"Data from nearby SSNERR station ""sosvawq"" [ 43.315996, -124.321276]"
+191,OIMB-Valino-SSNERR,USA (OR),43.315013,-124.320361,Seagrass,20160721,1145,16.852,32.24,2,"Data from nearby SSNERR station ""sosvawq"" [ 43.315996, -124.321276]"
+192,OIMB-Valino-SSNERR,USA (OR),43.315013,-124.320361,Seagrass,20160721,1200,16.517,32.4,3,"Data from nearby SSNERR station ""sosvawq"" [ 43.315996, -124.321276]"
+193,Punta Allen,Mexico (ICML2),19.82738,-87.45408,Unveg,20160712,13:00,30.5,35.7,1,Unveg1
+194,Punta Allen,Mexico (ICML2),19.82721,-87.45526,Unveg,20160712,13:15,30.5,35.7,2,Unveg2
+195,Punta Allen,Mexico (ICML2),19.8271,-87.45401,Seagrass,20160712,13:30,30.5,35.7,3,Seagrass1
+196,Punta Allen,Mexico (ICML2),19.82738,-87.45408,Unveg,20160713,10:30,31.5,35.7,4,Unveg1
+197,Punta Allen,Mexico (ICML2),19.8271,-87.45401,Seagrass,20160713,10:40,31.5,35.7,5,Seagrass1
+198,Punta Allen,Mexico (ICML2),19.82687,-87.45509,Seagrass,20160713,10:50,31.5,35.7,6,Seagrass2
+199,PtoMorelos,Mexico (ICML),20.83433,-86.87647,Unveg,20160718,11:20,30.5,35.7,1,3-10m from coral reef
+200,PtoMorelos,Mexico (ICML),20.8347,-86.87654,Seagrass,20160718,11:30,30.5,35.7,2,aprox. 30 m from unvegetated site
+201,PtoMorelos,Mexico (ICML),20.83433,-86.87647,Unveg,20160719,10:35,30.5,35.7,3,3-10m from coral reef
+202,PtoMorelos,Mexico (ICML),20.8347,-86.87654,Seagrass,20160719,10:45,30.5,35.7,4,aprox. 30 m from unvegetated site
+203,PtoMorelos,Mexico (ICML),20.83433,-86.87647,Unveg,20160720,10:20,30.5,35.7,5,3-10m from coral reef
+204,PtoMorelos,Mexico (ICML),20.8347,-86.87654,Seagrass,20160720,10:30,30.5,35.7,6,aprox. 30 m from unvegetated site
+205,Pto Aldea (Chile),Chile,-30.298258,-71.605429,Unveg,20170308,1200,20.4,33.5,1,
+206,Pto Aldea (Chile),Chile,-30.292541,-71.608146,Seagrass,20170308,1325,19.9,33.3,1,
+207,Pto Aldea (Chile),Chile,-30.298258,-71.605429,Unveg,20170309,1107,19,34.4,1,
+208,Pto Aldea (Chile),Chile,-30.292541,-71.608146,Seagrass,20170309,1320,19.6,33.8,1,
+209,Pto Aldea (Chile),Chile,-30.298258,-71.605429,Unveg,20170310,1140,19.4,34.2,1,
+210,Pto Aldea (Chile),Chile,-30.292541,-71.608146,Seagrass,20170310,1340,20,33.9,1,
+211,Punta Banda Estuary,Mexico (BN),31.753106,-116.625137,Unveg,20160625,907,24.77,37,1,The temperature value is a mean of the measurements taken within a 2 hour interval around the specified time of collection with 6 different HOBO loggers (one per point or Measurement Number). Salinity was measured with a refractometer only once a day x point combination. 
+212,Punta Banda Estuary,Mexico (BN),31.753106,-116.625137,Unveg,20160625,907,24.51,37,2,idem
+213,Punta Banda Estuary,Mexico (BN),31.753106,-116.625137,Unveg,20160625,907,24.61,37,3,idem
+214,Punta Banda Estuary,Mexico (BN),31.753025,-116.625858,Seagrass,20160625,1040,25.33,38,1,idem
+215,Punta Banda Estuary,Mexico (BN),31.753025,-116.625858,Seagrass,20160625,1040,25.13,37,2,idem
+216,Punta Banda Estuary,Mexico (BN),31.753025,-116.625858,Seagrass,20160625,1040,24.71,37,3,idem
+217,Punta Banda Estuary,Mexico (BN),31.753106,-116.625137,Unveg,20160626,820,24.82,38,1,idem
+218,Punta Banda Estuary,Mexico (BN),31.753106,-116.625137,Unveg,20160626,820,24.64,37,2,idem
+219,Punta Banda Estuary,Mexico (BN),31.753106,-116.625137,Unveg,20160626,820,24.7,37,3,idem
+220,Punta Banda Estuary,Mexico (BN),31.753025,-116.625858,Seagrass,20160626,930,25.32,36,1,idem
+221,Punta Banda Estuary,Mexico (BN),31.753025,-116.625858,Seagrass,20160626,930,25.28,37,2,idem
+222,Punta Banda Estuary,Mexico (BN),31.753025,-116.625858,Seagrass,20160626,930,25.01,37,3,idem
+223,Punta Banda Estuary,Mexico (BN),31.753106,-116.625137,Unveg,20160627,910,24.86,38,1,idem
+224,Punta Banda Estuary,Mexico (BN),31.753106,-116.625137,Unveg,20160627,910,24.74,38,2,idem
+225,Punta Banda Estuary,Mexico (BN),31.753106,-116.625137,Unveg,20160627,910,24.81,38,3,idem
+226,Punta Banda Estuary,Mexico (BN),31.753025,-116.625858,Seagrass,20160627,1010,25.61,38,1,idem
+227,Punta Banda Estuary,Mexico (BN),31.753025,-116.625858,Seagrass,20160627,1010,26,37,2,idem
+228,Punta Banda Estuary,Mexico (BN),31.753025,-116.625858,Seagrass,20160627,1010,25.68,37,3,idem
+229,Redondo N1,USA (WA),47.35,-122.32,Seagrass,20160706,1116,19.7,35,1,
+230,Redondo N1,USA (WA),47.35,-122.32,Seagrass,20160706,1116,19.7,33,2,
+231,Redondo N1,USA (WA),47.35,-122.32,Seagrass,20160706,1116,19.7,29,3,
+232,Redondo N2,USA (WA),47.3503,-122.324,Seagrass,20160706,1130,20,30,1,
+233,Redondo N2,USA (WA),47.3503,-122.324,Seagrass,20160706,1130,19,29,2,
+234,Redondo N2,USA (WA),47.3503,-122.324,Seagrass,20160706,1130,19,29,3,
+235,Redondo N-3,USA (WA),47.3497,-122.324,Unveg,20160706,1145,18.7,30,1,
+236,Redondo N-3,USA (WA),47.3497,-122.324,Unveg,20160706,1145,18.3,30,2,
+237,Redondo N-3,USA (WA),47.3497,-122.324,Unveg,20160706,1145,18.1,27,3,
+238,Redondo N-4,USA (WA),47.349,-122.324,Unveg,20160706,1200,20.7,33,1,
+239,Redondo N-4,USA (WA),47.349,-122.324,Unveg,20160706,1200,21,31,2,
+240,Redondo N-4,USA (WA),47.349,-122.324,Unveg,20160706,1200,19.6,30,3,
+241,Redondo S-5,USA (WA),47.3457,-122.329,Unveg,20160707,1400,20.1,31,1,
+242,Redondo S-5,USA (WA),47.3457,-122.329,Unveg,20160707,1400,19.8,31,2,
+243,Redondo S-5,USA (WA),47.3457,-122.329,Unveg,20160707,1400,19.7,32,3,
+244,Redondo S-6,USA (WA),47.346,-122.329,Seagrass,20160707,1330,21.4,30,1,
+245,Redondo S-6,USA (WA),47.346,-122.329,Seagrass,20160707,1330,21.2,32,2,
+246,Redondo S-6,USA (WA),47.346,-122.329,Seagrass,20160707,1330,22.2,32,3,
+247,Smiths_Lake_NSW,Australia (NSW),-32.380278,152.508889,Seagrass,20161208,9:00,25.2,31,1,
+248,Smiths_Lake_NSW,Australia (NSW),-32.380278,152.508889,Seagrass,20161208,9:00,25.2,31,2,
+249,Smiths_Lake_NSW,Australia (NSW),-32.380278,152.508889,Seagrass,20161208,9:00,25.2,31,3,
+250,Smiths_Lake_NSW,Australia (NSW),-32.380278,152.508889,Unveg,20161208,9:00,25.1,32,1,
+251,Smiths_Lake_NSW,Australia (NSW),-32.380278,152.508889,Unveg,20161208,9:00,25,32,2,
+252,Smiths_Lake_NSW,Australia (NSW),-32.380278,152.508889,Unveg,20161208,9:00,25.2,32,3,
+253,Smiths_Lake_NSW,Australia (NSW),-32.380278,152.508889,Seagrass,20161209,10:45,24.9,34,1,
+254,Smiths_Lake_NSW,Australia (NSW),-32.380278,152.508889,Seagrass,20161209,10:45,24.6,33,2,
+255,Smiths_Lake_NSW,Australia (NSW),-32.380278,152.508889,Seagrass,20161209,10:45,24.6,33,3,
+256,Smiths_Lake_NSW,Australia (NSW),-32.380278,152.508889,Unveg,20161209,10:45,25,32,1,
+257,Smiths_Lake_NSW,Australia (NSW),-32.380278,152.508889,Unveg,20161209,10:45,24.9,33,2,
+258,Smiths_Lake_NSW,Australia (NSW),-32.380278,152.508889,Unveg,20161209,10:45,25.2,33,3,
+259,Smiths_Lake_NSW,Australia (NSW),-32.380278,152.508889,Seagrass,20161210,9:40,24.5,31,1,
+260,Smiths_Lake_NSW,Australia (NSW),-32.380278,152.508889,Seagrass,20161210,9:40,24.7,31,2,
+261,Smiths_Lake_NSW,Australia (NSW),-32.380278,152.508889,Seagrass,20161210,9:40,24.6,32,3,
+262,Smiths_Lake_NSW,Australia (NSW),-32.380278,152.508889,Unveg,20161210,9:30,25,31,1,
+263,Smiths_Lake_NSW,Australia (NSW),-32.380278,152.508889,Unveg,20161210,9:30,24.6,31,2,
+264,Smiths_Lake_NSW,Australia (NSW),-32.380278,152.508889,Unveg,20161210,9:30,24.4,32,3,
+265,Sunshine Cove,USA (AK),58.60859,-134.93278,Seagrass,20160821,1020,13.6,12,1,
+266,Sunshine Cove,USA (AK),58.60859,-134.93278,Seagrass,20160821,1020,13.6,13,2,
+267,Sunshine Cove,USA (AK),58.60859,-134.93278,Seagrass,20160821,1020,13.8,13,3,
+268,Sunshine Cove,USA (AK),58.60853,-134.93083,Unveg,20160821,1030,13.8,13,1,
+269,Sunshine Cove,USA (AK),58.60853,-134.93083,Unveg,20160821,1030,13.8,13,2,
+270,Sunshine Cove,USA (AK),58.60853,-134.93083,Unveg,20160821,1030,13.7,12,3,
+271,Sunshine Cove,USA (AK),58.60859,-134.93278,Seagrass,20160822,1030,13.7,13,1,
+272,Sunshine Cove,USA (AK),58.60859,-134.93278,Seagrass,20160822,1030,13.7,12,2,
+273,Sunshine Cove,USA (AK),58.60859,-134.93278,Seagrass,20160822,1030,13.8,12,3,
+274,Sunshine Cove,USA (AK),58.60853,-134.93083,Unveg,20160822,1045,14.1,11,1,
+275,Sunshine Cove,USA (AK),58.60853,-134.93083,Unveg,20160822,1045,14,11,2,
+276,Sunshine Cove,USA (AK),58.60853,-134.93083,Unveg,20160822,1045,14,11,3,
+277,Sunshine Cove,USA (AK),58.60859,-134.93278,Seagrass,20160823,1100,14.1,13,1,
+278,Sunshine Cove,USA (AK),58.60859,-134.93278,Seagrass,20160823,1100,14.1,13,2,
+279,Sunshine Cove,USA (AK),58.60859,-134.93278,Seagrass,20160823,1100,14.1,12,3,
+280,Sunshine Cove,USA (AK),58.60853,-134.93083,Unveg,20160822,1045,14.2,12,1,
+281,Sunshine Cove,USA (AK),58.60853,-134.93083,Unveg,20160822,1045,14.2,12,2,
+282,Sunshine Cove,USA (AK),58.60853,-134.93083,Unveg,20160822,1045,14,13,3,
+283,Cymodocea_Moreton_Bay,Australia (QLD3),-27.49408,153.397264,Seagrass,20170208,1430,30.3,38.3,1,Missed measurement 2 and 3
+284,Cymodocea_Moreton_Bay,Australia (QLD3),-27.49408,153.397264,Seagrass,20170209,1600,30.6,37.5,1,
+285,Cymodocea_Moreton_Bay,Australia (QLD3),-27.49408,153.397264,Seagrass,20170209,1600,30.2,37.8,2,
+286,Cymodocea_Moreton_Bay,Australia (QLD3),-27.49408,153.397264,Seagrass,20170209,1600,30.4,37.6,3,
+287,Cymodocea_Moreton_Bay,Australia (QLD3),-27.49408,153.397264,Seagrass,20170210,1544,30.1,37.2,1,
+288,Cymodocea_Moreton_Bay,Australia (QLD3),-27.49408,153.397264,Seagrass,20170210,1544,29.9,38.1,2,
+289,Cymodocea_Moreton_Bay,Australia (QLD3),-27.49408,153.397264,Seagrass,20170210,1544,29.9,38.3,3,
+290,Edwards Point,Australia (VIC),-38.193552,144.711297,Seagrass,20170223,1240,21.5,37,1,
+291,Edwards Point,Australia (VIC),-38.193552,144.711297,Unveg,20170223,1240,21.5,37,1,
+292,Edwards Point,Australia (VIC),-38.193552,144.711297,Seagrass,20170224,1330,20.1,37,2,
+293,Edwards Point,Australia (VIC),-38.193552,144.711297,Unveg,20170224,1330,20.1,37,2,
+294,Edwards Point,Australia (VIC),-38.193552,144.711297,Seagrass,20170225,1330,19,37,3,
+295,Edwards Point,Australia (VIC),-38.193552,144.711297,Unveg,20170225,1330,19,37,3,
+296,Indented Head,Australia (VIC),-38.152773,144.716919,Seagrass,20170223,1630,22.2,37,1,
+297,Indented Head,Australia (VIC),-38.152773,144.716919,Unveg,20170223,1630,22.2,37,1,
+298,Indented Head,Australia (VIC),-38.152773,144.716919,Seagrass,20170224,1700,21.7,37,2,
+299,Indented Head,Australia (VIC),-38.152773,144.716919,Unveg,20170224,1700,21.7,37,2,
+300,Indented Head,Australia (VIC),-38.152773,144.716919,Seagrass,20170225,1700,22.8,37,3,
+301,Indented Head,Australia (VIC),-38.152773,144.716919,Unveg,20170225,1700,22.8,37,3,
+302,St. Leonards,Australia (VIC),-38.180151,144.715595,Seagrass,20170224,1030,20.7,37,1,
+303,St. Leonards,Australia (VIC),-38.180151,144.715595,Unveg,20170224,1030,20.7,37,1,
+304,St. Leonards,Australia (VIC),-38.180151,144.715595,Seagrass,20170225,1030,18.1,37,2,Very strong onshore wind
+305,St. Leonards,Australia (VIC),-38.180151,144.715595,Unveg,20170225,1030,18.1,37,2,Very strong onshore wind
+306,Koje-Korea,Korea,34.7285,128.6047,Seagrass,20160621,1438,19,32.8,1,
+307,Koje-Korea,Korea,34.7285,128.6047,Seagrass,20160621,1438,18.7,32.7,2,
+308,Koje-Korea,Korea,34.7285,128.6047,Seagrass,20160621,1438,18.8,32.6,3,
+309,Koje-Korea,Korea,34.7289,128.6047,Unveg,20160621,1442,18.7,32.4,1,
+310,Koje-Korea,Korea,34.7289,128.6047,Unveg,20160621,1442,18.7,32.4,2,
+311,Koje-Korea,Korea,34.7289,128.6047,Unveg,20160621,1442,18.8,32.3,3,
+312,Koje-Korea,Korea,34.7283,128.6047,Seagrass,20160622,1520,18.2,33,1,
+313,Koje-Korea,Korea,34.7283,128.6047,Seagrass,20160622,1520,18.1,32.9,2,
+314,Koje-Korea,Korea,34.7283,128.6047,Seagrass,20160622,1520,18,32.7,3,
+315,Koje-Korea,Korea,34.7288,128.6047,Unveg,20160622,1520,17.8,32.5,1,
+316,Koje-Korea,Korea,34.7288,128.6047,Unveg,20160622,1520,17.9,32.6,2,
+317,Koje-Korea,Korea,34.7288,128.6047,Unveg,20160622,1520,18,32.6,3,
+318,"Porthdinllaen, UK",Wales,52.9426,-4.56519,Seagrass,20160902,17:35,16.5,33,1,"Windy, lots of drift algae in seine net"
+319,"Porthdinllaen, UK",Wales,52.9426,-4.56519,Seagrass,20160902,17:35,16.5,33,2,"Windy, lots of drift algae in seine net"
+320,"Porthdinllaen, UK",Wales,52.9426,-4.56519,Seagrass,20160902,17:35,16.5,33,3,"Windy, lots of drift algae in seine net"
+321,"Porthdinllaen, UK",Wales,52.94046,-4.56424,Unveg,20160902,18:15,16.5,33,1,"Windy, lots of drift algae in seine net"
+322,"Porthdinllaen, UK",Wales,52.94046,-4.56424,Unveg,20160902,18:15,16.5,33,2,"Windy, lots of drift algae in seine net"
+323,"Porthdinllaen, UK",Wales,52.94046,-4.56424,Unveg,20160902,18:15,16.5,33,3,"Windy, lots of drift algae in seine net"
+324,"Porthdinllaen, UK",Wales,52.94251,-4.56562,Seagrass,20160903,18:30,16.5,33,1,"Windy, lots of drift algae in seine net"
+325,"Porthdinllaen, UK",Wales,52.94251,-4.56562,Seagrass,20160903,18:30,16.5,33,2,"Windy, lots of drift algae in seine net"
+326,"Porthdinllaen, UK",Wales,52.94251,-4.56562,Seagrass,20160903,18:30,16.5,33,3,"Windy, lots of drift algae in seine net"
+327,"Porthdinllaen, UK",Wales,52.94046,-4.56424,Unveg,20160903,18:02,16.5,33,1,"Windy, lots of drift algae in seine net"
+328,"Porthdinllaen, UK",Wales,52.94046,-4.56424,Unveg,20160903,18:02,16.5,33,2,"Windy, lots of drift algae in seine net"
+329,"Porthdinllaen, UK",Wales,52.94046,-4.56424,Unveg,20160903,18:02,16.5,33,3,"Windy, lots of drift algae in seine net"
+330,"Porthdinllaen, UK",Wales,52.9425,-4.56553,Seagrass,20160904,18:25,16.5,33,1,a lot of drift algae
+331,"Porthdinllaen, UK",Wales,52.9425,-4.56553,Seagrass,20160904,18:25,16.5,33,2,a lot of drift algae
+332,"Porthdinllaen, UK",Wales,52.9425,-4.56553,Seagrass,20160904,18:25,16.5,33,3,a lot of drift algae
+333,"Porthdinllaen, UK",Wales,52.94046,-4.56424,Unveg,20160904,17:50,16.5,33,1,a lot of drift algae
+334,"Porthdinllaen, UK",Wales,52.94046,-4.56424,Unveg,20160904,17:50,16.5,33,2,a lot of drift algae
+335,"Porthdinllaen, UK",Wales,52.94046,-4.56424,Unveg,20160904,17:50,16.5,33,3,a lot of drift algae
+336,Unvegetated_Moreton_Bay,Australia (QLD3),-27.494632,153.39706,Unveg,20170208,1450,30.1,38.3,1,
+337,Unvegetated_Moreton_Bay,Australia (QLD3),-27.494632,153.39706,Unveg,20170208,1450,29.5,38.7,2,
+338,Unvegetated_Moreton_Bay,Australia (QLD3),-27.494632,153.39706,Unveg,20170208,1450,29.6,38.3,3,
+339,Unvegetated_Moreton_Bay,Australia (QLD3),-27.494632,153.39706,Unveg,20170209,1601,31.6,38.9,1,
+340,Unvegetated_Moreton_Bay,Australia (QLD3),-27.494632,153.39706,Unveg,20170209,1601,31.9,38.6,2,
+341,Unvegetated_Moreton_Bay,Australia (QLD3),-27.494632,153.39706,Unveg,20170209,1601,31,38.9,3,
+342,Unvegetated_Moreton_Bay,Australia (QLD3),-27.494632,153.39706,Unveg,20170210,1530,30.3,35.9,1,
+343,Unvegetated_Moreton_Bay,Australia (QLD3),-27.494632,153.39706,Unveg,20170210,1530,30.5,35.9,2,
+344,Unvegetated_Moreton_Bay,Australia (QLD3),-27.494632,153.39706,Unveg,20170210,1530,30.2,36,3,
+345,Urunga Lagoon 1,Australia (NSW2),-30.50583,153.02362,Seagrass,20170224,1409,27.9,36.4,1,The seagrass was Zostera muelleri and the site was a shallow estuary with sun warmed water.
+346,Urunga Lagoon 1,Australia (NSW2),-30.50583,153.02362,Seagrass,20170224,1410,28,36.5,2,The seagrass was Zostera muelleri and the site was a shallow estuary with sun warmed water.
+347,Urunga Lagoon 1,Australia (NSW2),-30.50583,153.02362,Seagrass,20170224,1411,27.7,36.5,3,The seagrass was Zostera muelleri and the site was a shallow estuary with sun warmed water.
+348,Urunga Lagoon 2,Australia (NSW2),-30.50466,153.02372,Unveg,20170224,1516,28.1,36.5,1,The seagrass was Zostera muelleri and the site was a shallow estuary with sun warmed water.
+349,Urunga Lagoon 2,Australia (NSW2),-30.50466,153.02372,Unveg,20170224,1516,28.1,36.4,2,The seagrass was Zostera muelleri and the site was a shallow estuary with sun warmed water.
+350,Urunga Lagoon 2,Australia (NSW2),-30.50466,153.02372,Unveg,20170224,1516,28.3,36.5,3,The seagrass was Zostera muelleri and the site was a shallow estuary with sun warmed water.
+351,Green Island,Australia (QLD4),-16.75543,145.97292,Seagrass,20170313,1340,31,33,1,
+352,Green Island,Australia (QLD4),-16.75543,145.97292,Seagrass,20170313,1340,31,34,2,
+353,Green Island,Australia (QLD4),-16.75543,145.97292,Seagrass,20170313,1340,31,35,3,
+354,Green Island,Australia (QLD4),-16.7556,145.97476,Unveg,20170313,1350,31,34,1,
+355,Green Island,Australia (QLD4),-16.7556,145.97476,Unveg,20170313,1350,31,35,2,
+356,Green Island,Australia (QLD4),-16.7556,145.97476,Unveg,20170313,1350,31,35,3,
+357,Green Island,Australia (QLD4),-16.75543,145.97292,Seagrass,20170314,1134,31,35,1,
+358,Green Island,Australia (QLD4),-16.75543,145.97292,Seagrass,20170314,1134,31,35,2,
+359,Green Island,Australia (QLD4),-16.75543,145.97292,Seagrass,20170314,1134,31,35,3,
+360,Green Island,Australia (QLD4),-16.7556,145.97476,Unveg,20170314,1130,31,35,1,
+361,Green Island,Australia (QLD4),-16.7556,145.97476,Unveg,20170314,1130,31,34,2,
+362,Green Island,Australia (QLD4),-16.7556,145.97476,Unveg,20170314,1130,31,35,3,
+363,Green Island,Australia (QLD4),-16.75543,145.97292,Seagrass,20170315,905,29,34,1,
+364,Green Island,Australia (QLD4),-16.75543,145.97292,Seagrass,20170315,905,29,34,2,
+365,Green Island,Australia (QLD4),-16.75543,145.97292,Seagrass,20170315,905,30,34,3,
+366,Green Island,Australia (QLD4),-16.7556,145.97476,Unveg,20170315,830,31,34,1,
+367,Green Island,Australia (QLD4),-16.7556,145.97476,Unveg,20170315,830,31,33,2,
+368,Green Island,Australia (QLD4),-16.7556,145.97476,Unveg,20170315,830,31,33,3,
+369,Green Island,Australia (QLD4),-16.75543,145.97292,Seagrass,20170316,905,29,34,1,
+370,Green Island,Australia (QLD4),-16.75543,145.97292,Seagrass,20170316,905,29,34,2,
+371,Green Island,Australia (QLD4),-16.75543,145.97292,Seagrass,20170316,905,30,34,3,
+372,Green Island,Australia (QLD4),-16.7556,145.97476,Unveg,20170316,909,30,33,1,
+373,Green Island,Australia (QLD4),-16.7556,145.97476,Unveg,20170316,909,30,34,2,
+374,Green Island,Australia (QLD4),-16.7556,145.97476,Unveg,20170316,909,30,34,3,
+375,Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Seagrass,20160705,9:26:00,24.8,34.3,1,
+376,Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Seagrass,20160705,9:26:00,24.9,35.7,2,
+377,Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Seagrass,20160705,9:26:00,24.9,36,3,
+378,Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Unveg,20160705,9:30:00,24.8,35.8,1,
+379,Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Unveg,20160705,9:30:00,24.8,36.2,2,
+380,Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Unveg,20160705,9:30:00,24.8,36.2,3,
+381,Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Seagrass,20160706,11:05:00,24.3,36.4,1,
+382,Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Seagrass,20160706,11:05:00,24.2,36.1,2,
+383,Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Seagrass,20160706,11:05:00,24,36.4,3,
+384,Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Unveg,20160706,11:10:00,24.4,35.6,1,
+385,Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Unveg,20160706,11:10:00,24.3,36.1,2,
+386,Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Unveg,20160706,11:10:00,24.2,36.4,3,
+387,Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Seagrass,20160707,10:06:00,23.8,36,1,
+388,Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Seagrass,20160707,10:06:00,23.8,36.2,2,
+389,Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Seagrass,20160707,10:06:00,23.8,36,3,
+390,Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Unveg,20160707,10:02:00,23.8,36.1,1,
+391,Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Unveg,20160707,10:02:00,23.8,36,2,
+392,Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Unveg,20160707,10:02:00,23.9,35.8,3,
+393,Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Seagrass,20160708,10:50:00,25,36.1,1,
+394,Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Seagrass,20160708,10:50:00,25,36.2,2,
+395,Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Seagrass,20160708,10:50:00,25.1,36.3,3,
+396,Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Unveg,20160708,10:55:00,25.2,35.4,1,
+397,Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Unveg,20160708,10:55:00,25.2,36.2,2,
+398,Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Unveg,20160708,10:55:00,25.3,36.3,3,
+399,Elkhorn Slough,USA (CA3),36.8111,-121.7792,Unveg,20160622,8:20,17,31.1,1,"YSI failed, used nearest NERR YSI 200m away"
+400,Elkhorn Slough,USA (CA3),36.8111,-121.7792,Unveg,20160622,8:20,17,31.1,2,"YSI failed, used nearest NERR YSI 200m away"
+401,Elkhorn Slough,USA (CA3),36.8111,-121.7792,Unveg,20160622,8:20,17,31.1,3,"YSI failed, used nearest NERR YSI 200m away"
+402,Elkhorn Slough,USA (CA3),36.8111,-121.7792,Seagrass,20160622,8:40,15.9,30.8,1,"YSI failed, used nearest NERR YSI 150m away"
+403,Elkhorn Slough,USA (CA3),36.8111,-121.7792,Seagrass,20160622,8:40,15.9,30.8,2,"YSI failed, used nearest NERR YSI 150m away"
+404,Elkhorn Slough,USA (CA3),36.8111,-121.7792,Seagrass,20160622,8:40,15.9,30.8,3,"YSI failed, used nearest NERR YSI 150m away"
+405,Elkhorn Slough,USA (CA3),36.810254,-121.783827,Unveg,20160623,9:00,16.2,34.69,1,
+406,Elkhorn Slough,USA (CA3),36.810254,-121.783827,Unveg,20160623,9:00,16.2,34.68,2,
+407,Elkhorn Slough,USA (CA3),36.810254,-121.783827,Unveg,20160623,9:00,16.2,34.66,3,
+408,Elkhorn Slough,USA (CA3),36.811088,-121.782278,Seagrass,20160623,9:03,17,34.72,1,
+409,Elkhorn Slough,USA (CA3),36.811088,-121.782278,Seagrass,20160623,9:03,17,34.73,2,
+410,Elkhorn Slough,USA (CA3),36.811088,-121.782278,Seagrass,20160623,9:03,17,34.72,3,
+411,Elkhorn Slough,USA (CA3),36.810254,-121.783827,Unveg,20160623,9:36,14.9,34.18,1,
+412,Elkhorn Slough,USA (CA3),36.810254,-121.783827,Unveg,20160623,9:36,14.9,34.18,2,
+413,Elkhorn Slough,USA (CA3),36.810254,-121.783827,Unveg,20160623,9:36,14.9,34.17,3,
+414,Elkhorn Slough,USA (CA3),36.811088,-121.782278,Seagrass,20160623,9:13,16.9,34.6,1,
+415,Elkhorn Slough,USA (CA3),36.811088,-121.782278,Seagrass,20160623,9:13,16.9,34.39,2,
+416,Elkhorn Slough,USA (CA3),36.811088,-121.782278,Seagrass,20160623,9:13,16.9,34.57,3,
+417,Elkhorn Slough,USA (CA3),36.810254,-121.783827,Unveg,20160624,8:33,16.9,34.67,1,
+418,Elkhorn Slough,USA (CA3),36.810254,-121.783827,Unveg,20160624,8:33,16.8,34.68,2,
+419,Elkhorn Slough,USA (CA3),36.810254,-121.783827,Unveg,20160624,8:33,16.9,34.68,3,
+420,Elkhorn Slough,USA (CA3),36.811088,-121.782278,Seagrass,20160624,8:41,17.1,34.78,1,
+421,Elkhorn Slough,USA (CA3),36.811088,-121.782278,Seagrass,20160624,8:41,17.1,34.77,2,
+422,Elkhorn Slough,USA (CA3),36.811088,-121.782278,Seagrass,20160624,8:41,17.1,34.78,3,
+423,Elkhorn Slough,USA (CA3),36.810254,-121.783827,Unveg,20170705,8:42,13.1,34.14,1,
+424,Elkhorn Slough,USA (CA3),36.810254,-121.783827,Unveg,20170705,8:42,13,34.14,2,
+425,Elkhorn Slough,USA (CA3),36.810254,-121.783827,Unveg,20170705,8:42,13,34.14,3,
+426,Elkhorn Slough,USA (CA3),36.811088,-121.782278,Seagrass,20170705,8:46,13.2,33.94,1,
+427,Elkhorn Slough,USA (CA3),36.811088,-121.782278,Seagrass,20170705,8:46,13.2,33.89,2,
+428,Elkhorn Slough,USA (CA3),36.811088,-121.782278,Seagrass,20170705,8:46,13.2,33.84,3,
+429,Elkhorn Slough,USA (CA3),36.810254,-121.783827,Unveg,20170706,8:00,15.4,34.26,1,
+430,Elkhorn Slough,USA (CA3),36.810254,-121.783827,Unveg,20170706,8:00,15.4,34.22,2,
+431,Elkhorn Slough,USA (CA3),36.810254,-121.783827,Unveg,20170706,8:00,15.4,34.22,3,
+432,Elkhorn Slough,USA (CA3),36.811088,-121.782278,Seagrass,20170706,8:21,15,37.93,1,
+433,Elkhorn Slough,USA (CA3),36.811088,-121.782278,Seagrass,20170706,8:21,14.9,33.98,2,
+434,Elkhorn Slough,USA (CA3),36.811088,-121.782278,Seagrass,20170706,8:21,14.9,24.12,3,
+435,PungSand1,USA (VA2),37.68751,-75.86738,Unveg,20160621,1135,24.9,18.7,1,
+436,PungSand1,USA (VA2),37.68751,-75.86738,Unveg,20160621,1135,24.9,18.8,2,
+437,PungSand1,USA (VA2),37.68751,-75.86738,Unveg,20160621,1135,24.9,18.8,3,
+438,PungSand2,USA (VA2),37.68175,-75.86651,Unveg,20160622,1135,26.2,19.5,1,
+439,PungSand2,USA (VA2),37.68175,-75.86651,Unveg,20160622,1135,26,19.6,2,
+440,PungSand2,USA (VA2),37.68175,-75.86651,Unveg,20160622,1135,25.8,19.5,3,
+441,PungSand3,USA (VA2),37.68199,-75.86617,Unveg,20160623,1210,25.9,19.4,1,
+442,PungSand3,USA (VA2),37.68199,-75.86617,Unveg,20160623,1210,25.9,19.4,2,
+443,PungSand3,USA (VA2),37.68199,-75.86617,Unveg,20160623,1210,25.9,19.4,3,
+444,PungSAV1,USA (VA2),37.68882,-75.86724,Seagrass,20160621,1140,24.9,18.8,1,
+445,PungSAV1,USA (VA2),37.68882,-75.86724,Seagrass,20160621,1140,24.9,18.8,2,
+446,PungSAV1,USA (VA2),37.68882,-75.86724,Seagrass,20160621,1140,24.9,18.8,3,
+447,PungSAV2,USA (VA2),37.68154,-75.86672,Seagrass,20160622,1130,26,19.5,1,
+448,PungSAV2,USA (VA2),37.68154,-75.86672,Seagrass,20160622,1130,25.9,19.5,2,
+449,PungSAV2,USA (VA2),37.68154,-75.86672,Seagrass,20160622,1130,25.8,19.5,3,
+450,PungSAV3,USA (VA2),37.68225,-75.86633,Seagrass,20160623,1250,26.3,19.4,1,
+451,PungSAV3,USA (VA2),37.68225,-75.86633,Seagrass,20160623,1250,26.3,19.5,2,
+452,PungSAV3,USA (VA2),37.68225,-75.86633,Seagrass,20160623,1250,26.4,19.5,3,
+453,QC_Baie St-Ludger,Canada (QC),49.08802,-68.32182,Seagrass,20160705,,12.5,30,1,
+454,QC_Baie St-Ludger,Canada (QC),49.08779,-68.32173,Unveg,20160705,,12.5,30,1,
+455,False Bay,USA (WA2),48.48532472,123.07541,Seagrass,20160719,1030,15.4,30,1,"For all temperature measurements, temperature probe only extended 20 cm into the water."
+456,False Bay,USA (WA2),48.48532472,123.07541,Seagrass,20160719,1030,15.5,34,2,
+457,False Bay,USA (WA2),48.48532472,123.07541,Seagrass,20160719,1030,15.5,34,3,
+458,False Bay,USA (WA2),48.48532472,123.07541,Unveg,20160719,1045,16.7,34,1,
+459,False Bay,USA (WA2),48.48532472,123.07541,Unveg,20160719,1045,17.1,34,2,
+460,False Bay,USA (WA2),48.48532472,123.07541,Unveg,20160719,1045,17,34,3,
+461,False Bay,USA (WA2),48.48532472,123.07541,Seagrass,20160720,1055,17.2,34,1,
+462,False Bay,USA (WA2),48.48532472,123.07541,Seagrass,20160720,1055,17.8,34,2,
+463,False Bay,USA (WA2),48.48532472,123.07541,Seagrass,20160720,1055,17.6,30,3,
+464,False Bay,USA (WA2),48.48532472,123.07541,Unveg,20160720,1100,18.9,28,1,Very shallow due to receding tide
+465,False Bay,USA (WA2),48.48532472,123.07541,Unveg,20160720,1100,19.4,29,2,
+466,False Bay,USA (WA2),48.48532472,123.07541,Unveg,20160720,1100,19.7,30,3,
+467,False Bay,USA (WA2),48.48532472,123.07541,Seagrass,20160720,1230,18.1,30,1,
+468,False Bay,USA (WA2),48.48532472,123.07541,Seagrass,20160720,1230,17.7,31,2,
+469,False Bay,USA (WA2),48.48532472,123.07541,Seagrass,20160720,1230,18.5,30,3,
+470,False Bay,USA (WA2),48.48532472,123.07541,Unveg,20160720,1245,17.1,31,1,
+471,False Bay,USA (WA2),48.48532472,123.07541,Unveg,20160720,1245,17.8,30,2,
+472,False Bay,USA (WA2),48.48532472,123.07541,Unveg,20160720,1245,16.8,30,3,
+473,False Bay,USA (WA2),48.48532472,123.07541,Seagrass,20160721,1030,15.5,31,1,
+474,False Bay,USA (WA2),48.48532472,123.07541,Seagrass,20160721,1030,15.6,30,2,
+475,False Bay,USA (WA2),48.48532472,123.07541,Seagrass,20160721,1030,15.6,34,3,
+476,False Bay,USA (WA2),48.48532472,123.07541,Unveg,20160721,1025,15.7,30,1,
+477,False Bay,USA (WA2),48.48532472,123.07541,Unveg,20160721,1025,16.3,30,2,
+478,False Bay,USA (WA2),48.48532472,123.07541,Unveg,20160721,1025,16.3,30,3,
+479,False Bay,USA (WA2),48.48532472,123.07541,Seagrass,20160721,1230,12.7,29,1,
+480,False Bay,USA (WA2),48.48532472,123.07541,Seagrass,20160721,1230,13.3,30,2,
+481,False Bay,USA (WA2),48.48532472,123.07541,Seagrass,20160721,1230,14.1,30,3,
+482,False Bay,USA (WA2),48.48532472,123.07541,Unveg,20160721,1200,12.4,29,1,
+483,False Bay,USA (WA2),48.48532472,123.07541,Unveg,20160721,1200,12.2,30,2,
+484,False Bay,USA (WA2),48.48532472,123.07541,Unveg,20160721,1200,12.5,29,3,
+485,False Bay,USA (WA2),48.48532472,123.07541,Seagrass,20160722,1050,16.6,30,1,
+486,False Bay,USA (WA2),48.48532472,123.07541,Seagrass,20160722,1050,16.5,31,2,
+487,False Bay,USA (WA2),48.48532472,123.07541,Seagrass,20160722,1050,16.7,31,3,
+488,False Bay,USA (WA2),48.48532472,123.07541,Unveg,20160722,1100,17.3,31,1,
+489,False Bay,USA (WA2),48.48532472,123.07541,Unveg,20160722,1100,17.2,32,2,
+490,False Bay,USA (WA2),48.48532472,123.07541,Unveg,20160722,1100,18,29,3,
+491,False Bay,USA (WA2),48.48532472,123.07541,Seagrass,20160722,1345,19.1,29,1,
+492,False Bay,USA (WA2),48.48532472,123.07541,Seagrass,20160722,1345,19,29,2,
+493,False Bay,USA (WA2),48.48532472,123.07541,Seagrass,20160722,1345,18.8,29,3,
+494,False Bay,USA (WA2),48.48532472,123.07541,Unveg,20160722,1337,17.3,28,1,
+495,False Bay,USA (WA2),48.48532472,123.07541,Unveg,20160722,1337,17.5,29,2,
+496,False Bay,USA (WA2),48.48532472,123.07541,Unveg,20160722,1337,19.4,29,3,
+497,False Bay,USA (WA2),48.48532472,123.07541,Seagrass,20160723,1135,15.1,33,1,
+498,False Bay,USA (WA2),48.48532472,123.07541,Seagrass,20160723,1135,15,33,2,
+499,False Bay,USA (WA2),48.48532472,123.07541,Seagrass,20160723,1135,14.9,33,3,
+500,False Bay,USA (WA2),48.48532472,123.07541,Unveg,20160723,1145,15.8,33,1,
+501,False Bay,USA (WA2),48.48532472,123.07541,Unveg,20160723,1145,15.9,34,2,
+502,False Bay,USA (WA2),48.48532472,123.07541,Unveg,20160723,1145,15.8,33,3,
+503,Kalpeni,India,10.06677,73.63355,Seagrass,20170116,,29.5,NA,1,Data from nearby islands (Agatti and Kavaratti) in 2016 NOT 2017!
+504,Kalpeni,India,10.07013,73.63361,Unveg,20170116,,29.5,NA,1,Data from nearby islands (Agatti and Kavaratti) in 2016 NOT 2017!
+505,San Diego,USA (CA),32.76517,-117.2467,Seagrass,20160623,730,20.9,31.6,1,
+506,San Diego,USA (CA),32.76517,-117.2467,Seagrass,20160623,730,20.86,31.7,2,
+507,San Diego,USA (CA),32.76517,-117.2467,Seagrass,20160623,730,20.85,31.6,3,
+508,San Diego,USA (CA),32.76517,-117.2467,Unveg,20160623,750,20.83,31.7,1,
+509,San Diego,USA (CA),32.76517,-117.2467,Unveg,20160623,750,20.75,31.6,2,
+510,San Diego,USA (CA),32.76517,-117.2467,Unveg,20160623,750,20.6,31.7,3,
+511,San Diego,USA (CA),32.76517,-117.2467,Seagrass,20160627,830,21.9,31.7,1,
+512,San Diego,USA (CA),32.76517,-117.2467,Seagrass,20160627,830,21.8,31.7,2,
+513,San Diego,USA (CA),32.76517,-117.2467,Seagrass,20160627,830,21.8,31.7,3,
+514,San Diego,USA (CA),32.76517,-117.2467,Unveg,20160627,830,21.8,31.7,1,
+515,San Diego,USA (CA),32.76517,-117.2467,Unveg,20160627,830,21.8,31.7,2,
+516,San Diego,USA (CA),32.76517,-117.2467,Unveg,20160627,830,21.8,31.7,3,
+517,San Diego,USA (CA),32.76517,-117.2467,Seagrass,20160630,1124,22.9,31.8,1,
+518,San Diego,USA (CA),32.76517,-117.2467,Seagrass,20160630,1124,22.9,31.8,2,
+519,San Diego,USA (CA),32.76517,-117.2467,Seagrass,20160630,1124,22.9,31.8,3,
+520,San Diego,USA (CA),32.76517,-117.2467,Unveg,20160630,1127,22.9,31.8,1,
+521,San Diego,USA (CA),32.76517,-117.2467,Unveg,20160630,1127,23,31.8,2,
+522,San Diego,USA (CA),32.76517,-117.2467,Unveg,20160630,1127,23,31.8,3,
+523,Goodwin Island,USA (VA),37.2158,-76.39267,Seagrass,20160811,,29.57762,21.81871,1,data from sensor in nearby location
+524,Goodwin Island,USA (VA),37.2158,-76.39267,Unveg,20160811,,29.57762,21.81871,1,
+525,,Panama,9.351809,-82.25763,Seagrass,20160929,1212,29.98198,33.82912,1,data from sensor in nearby location
+526,,Panama,9.351809,-82.25763,Seagrass,20161004,1150,30.59406,33.87932,1,
+527,,Panama,9.351809,-82.25763,Seagrass,20161005,1150,30.6981,33.85869,1,
+528,,Panama,9.351809,-82.25763,Unveg,20160929,1220,29.98091,33.82956,1,
+529,,Panama,9.351809,-82.25763,Unveg,20161004,1145,30.59342,33.8796,1,
+530,,Panama,9.351809,-82.25763,Unveg,20161005,1145,30.69857,33.8585,1,
+531,Carrie Bow Cay,Belize,16.802333,-88.082468,Unveg,20161105,1130,27.5,35.6,1,Physical data averaged EXO data sonde
+532,Carrie Bow Cay,Belize,16.802509,-88.082305,Seagrass,20161105,1100,27.5,35.6,1,Physical data averaged EXO data sonde
+533,Carrie Bow Cay,Belize,16.802333,-88.082468,Unveg,20161106,1100,27.5,35.7,1,Physical data averaged EXO data sonde
+534,Carrie Bow Cay,Belize,16.802509,-88.082305,Seagrass,20161106,1045,27.5,35.7,1,Physical data averaged EXO data sonde
+535,Carrie Bow Cay,Belize,16.802333,-88.082468,Unveg,20161107,1000,27.5,35.6,1,Physical data averaged EXO data sonde
+536,Carrie Bow Cay,Belize,16.802509,-88.082305,Seagrass,20161107,1030,27.5,35.6,1,Physical data averaged EXO data sonde
+537,,Italy,43.06767,9.831233,Unveg,20160727,,25.213,NA,NA,Data taken directly from AquaMODIS for the three days of the assays.
+538,,Italy,43.06767,9.831233,Seagrass,20160727,,25.213,NA,NA,Data taken directly from AquaMODIS for the three days of the assays.
+539,,Italy,43.06767,9.831233,Unveg,20160728,,25.5045,NA,NA,Data taken directly from AquaMODIS for the three days of the assays.
+540,,Italy,43.06767,9.831233,Seagrass,20160728,,25.5045,NA,NA,Data taken directly from AquaMODIS for the three days of the assays.
+541,,Italy,43.06767,9.831233,Unveg,20160729,,27.54689,NA,NA,Data taken directly from AquaMODIS for the three days of the assays.
+542,,Italy,43.06767,9.831233,Seagrass,20160729,,27.54689,NA,NA,Data taken directly from AquaMODIS for the three days of the assays.
+543,Hervey Bay,Australia (QLD2),-26.393508,153.055206,Unveg,20170130,,25,33.9,NA,
+544,Hervey Bay,Australia (QLD2),-26.393508,153.055206,Seagrass,20170130,,25,33.9,NA,
+545,Noosa,Australia (QLD2),-25.307906,152.909319,Unveg,20170221,,27,33.9,NA,
+546,Noosa,Australia (QLD2),-25.307906,152.909319,Seagrass,20170221,,27,33.9,NA,
+547,NA,Australia (NSW1.1),NA,NA,Unveg,NA,NA,NA,NA,NA,NA
+548,NA,Australia (NSW1.2),NA,NA,Unveg,NA,NA,NA,NA,NA,NA
+549,NA,Ireland,NA,NA,Seagrass,NA,NA,NA,NA,NA,NA
+550,NA,Ireland,NA,NA,Unveg,NA,NA,NA,NA,NA,NA
+551,NA,USA (CA2),NA,NA,Seagrass,NA,NA,NA,NA,NA,NA
+552,NA,USA (CA2),NA,NA,Unveg,NA,NA,NA,NA,NA,NA
+553,NA,USA (DE),NA,NA,Unveg,NA,NA,NA,NA,NA,NA

@@ -17,20 +17,19 @@
 
 # load libraries
 library(tidyverse)
-library( ncdf4 )
+library(lubridate)
 
 # read predation assay data - this will help us find dates and times 
-p <- read.csv( "../OceanBitemap_Squidpop_Data_20180109_MW.csv" )
+p <- read_csv( "data/raw/squidpop_assays/Bitemap_Squidpop_Data_20190322.csv" )
 # select relevant columns
 p <- p %>%
-  select( Country, Institution, Name, Contact.Email=Email, Lat, Long, 
-          Date=Date.Squidpops.Deployed..yyyymmdd., Time=Time.Squidpops.Deployed..hhmm..24.hour.clock.,
-          #dateRetreive=Date.Squidpops.Retrieved..yyyymmdd., timeRetrieve=Time.Squidpops.Retrieved..hhmm..24.hour.clock.,
-          Seagrass.Unveg=Type.Of.Habitat )
+  dplyr::select( Country, Institution, Lat, Long, 
+          Date=`Date Squidpops Deployed (yyyymmdd)`, Time=`Time Squidpops Deployed (hhmm, 24 hour clock)`,
+          Seagrass.Unveg=`Type Of Habitat` )
 
 # convert vegetated and unvegetated sites to common categories
 p$Seagrass.Unveg[ p$Seagrass.Unveg %in% c("Seagrass","Seagrass Meadow")] <- "Seagrass"
-p$Seagrass.Unveg[ p$Seagrass.Unveg %in% c("Muddy Bottom","Sandy Bottom", "unvegetated ")] <- "unvegetated"
+p$Seagrass.Unveg[ p$Seagrass.Unveg %in% c("Muddy Bottom","Sandy Bottom", "unvegetated ")] <- "Unveg"
 p$Seagrass.Unveg[ p$Seagrass.Unveg %in% c("Artificial Habitat (dock, breakwater, weir, etc.)","Rocky Reef")] <- NA
 p <- p[ !is.na(p$Seagrass.Unveg), ]
 p <- droplevels(p)
@@ -60,15 +59,15 @@ p$Time <- hm( paste(hr,mn,sep=":") )
 ###### ITALY
 # this one I got from AquaMODIS for the days when the experiment was conducted 
 # web link: https://oceandata.sci.gsfc.nasa.gov/MODIS-Aqua/Mapped/Daily/4km/sst/2016/
-files <- list.files( "Derived Data/Italy/", ".nc" )
+files <- list.files( "Data/Environmental Data/Derived Data/Italy/", ".nc" )
 
 italy.temp <- c()
 for( i in 1:3 ){
-  filename <- paste0("Derived Data/Italy/",files[i])
-  nc <- nc_open( filename )
-  sst <- ncvar_get( nc, "sst" )
-  lon <- ncvar_get( nc, "lon" )
-  lat <- ncvar_get( nc, "lat" )
+  filename <- paste0("Data/Environmental Data/Derived Data/Italy/",files[i])
+  nc <- ncdf4::nc_open( filename )
+  sst <- ncdf4::ncvar_get( nc, "sst" )
+  lon <- ncdf4::ncvar_get( nc, "lon" )
+  lat <- ncdf4::ncvar_get( nc, "lat" )
   
   # define bounds for temperature estimates
   latu <- 43.3
@@ -79,13 +78,13 @@ for( i in 1:3 ){
   lons <- which( lon>lonl & lon<lonu )
   
   italy.temp[i] <- mean(sst[ lons, lats ],na.rm=T)
-  nc_close( nc )
+  ncdf4::nc_close( nc )
 }
 
 
 ###############################
 ###### PANAMA
-dpan <- read.csv( "Original Files from Partners/Bitemap_PANAMA_EnvData.csv" )
+dpan <- read.csv( "data/Environmental Data/Original Files from Partners/Bitemap_PANAMA_EnvData.csv" )
 # select relevant columns
 dpan <- dpan %>%
   select( date=Date..MM.DD.YYYY., time=Time..HH.MM.SS., Temp=Temp..C, Sal=Sal.psu ) %>%
@@ -154,7 +153,7 @@ env.pan
 
 ###############################
 ###### USA (VA) Lefcheck site
-dva <- read.csv( "Original Files from Partners/Bitemap_Virginia_Lefcheck_CHE019.38_8122016.csv" )
+dva <- read.csv( "data/Environmental Data/Original Files from Partners/Bitemap_Virginia_Lefcheck_CHE019.38_8122016.csv" )
 
 # select relevant columns
 dva <- dva %>%
@@ -222,7 +221,7 @@ env.va
 
 ###############################
 ###### USA (CA) San Diego
-dsd <- read.csv( "Original Files from Partners/Bitemap_USA (CA)_Mission Bay temperature data Bitemap.csv" )
+dsd <- read.csv( "data/Environmental Data/Original Files from Partners/Bitemap_USA (CA)_Mission Bay temperature data Bitemap.csv" )
 
 # select relesdnt columns
 dsd <- dsd %>%
@@ -284,15 +283,15 @@ env.sd$Sal <- 35.5
 ###############################
 ###### INDIA
 # NOTE: environmental data do not overlap experimental data
-di1 <- read.csv( "Original Files from Partners/Bitemap_India_Agatti_Lagoon-1.csv" )
+di1 <- read.csv( "data/Environmental Data/Original Files from Partners/Bitemap_India_Agatti_Lagoon-1.csv" )
 di1$Site <- "Agatti"
-di2 <- read.csv( "Original Files from Partners/Bitemap_India_Kavaratti_Lagoon.csv" )
+di2 <- read.csv( "data/Environmental Data/Original Files from Partners/Bitemap_India_Kavaratti_Lagoon.csv" )
 di2$Site <- "Kavaratti"
 dibind  <- rbind( di1, di2 ) 
 
 # select relevant columns
 di <- dibind %>%
-  select( Site, Date, Time=Time..GMT.05.30, Temp=Temp..Â.C ) %>%
+  select( Site, Date, Time=Time..GMT.05.30, Temp=Temp..Ã‚.C ) %>%
   filter( Temp>27 ) # some temperature data early in the timeseries are suspect
 # define dates
 di$dt <- dmy_hms( with(di,paste(Date,Time)) )
@@ -331,7 +330,7 @@ di %>%
 # put all of the data together
 
 # read environmental data
-directenv <- read.csv( 'BiteMap_EnvironmentalData_Compilation.csv' )
+directenv <- read.csv( 'Data/Environmental Data/BiteMap_EnvironmentalData_Compilation_raw.csv' )
 directenv$Date <- ymd( directenv$Date )
 directenv$Time <- hms( directenv$Time )
 names( directenv )
@@ -341,4 +340,4 @@ directenv2 <- full_join( directenv2, env.va )
 directenv2 <- full_join( directenv2, env.sd )
 
 # write the data to file
-write.csv( directenv2, "BiteMap_EnvironmentalData_Compilation_20171210.csv" )
+write_csv( directenv2, "Data/Environmental Data/BiteMap_EnvironmentalData_Compilation_20171210.csv" )

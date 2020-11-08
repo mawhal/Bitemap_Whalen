@@ -137,9 +137,9 @@ vif.mer <- function (fit) {
 
 # read in data
 # SQUID POP PREDATION ASSAYS
-pops   <- read.csv( '../Data/OceanBitemap_Squidpop_Data_20190322.csv', stringsAsFactors = FALSE )
+pops   <- read.csv( 'Data/raw/squidpop_assays/Bitemap_Squidpop_Data_20190322.csv', stringsAsFactors = FALSE )
 # rename pops columns
-names(pops) <- c("timeStamp","name","email","Lat","Long","dateRetrieved","timeRetrieved",
+names(pops) <- c("timeStamp","Lat","Long",#"dateRetrieved","timeRetrieved",
                  "dateDeployed","timeDeployed","habitat","habitatDescription","numberDeployed","missing1",
                  "numberRetrieved","missing24","Country","Institution","prop1","prop24","notes")
 # convert vegetated and unvegetated sites to common categories
@@ -182,7 +182,7 @@ pop$noteaten <- with(pop, N-eaten)
 
 
 ## Seagrass bed characteristics
-seagrass <- read.csv( "../Data/Environmental Data/BiteMap_Seagrass_bed_character.csv", 
+seagrass <- read.csv( "Data/Environmental Data/BiteMap_Seagrass_bed_character.csv", 
                       stringsAsFactors = FALSE, strip.white = TRUE )
 # get all species
 species <- strsplit( seagrass$seagrassSpecies, ", ", fixed=T )
@@ -217,7 +217,7 @@ head(sea)
   
 
 ## PREDATOR DATA
-predator <- read.csv( "Output Data/Bitemap_SEINE_summaries_20190322.csv", stringsAsFactors = FALSE )
+predator <- read.csv( "Data/processed/Bitemap_SEINE_summaries_20190322.csv", stringsAsFactors = FALSE )
 
 
 
@@ -245,7 +245,7 @@ predator <- read.csv( "Output Data/Bitemap_SEINE_summaries_20190322.csv", string
 # siteGPS.site <- ddply( GPSjoin, .(Country,Site.Name),
 #                   summarise, meanLat=mean(Lat), meanLong=mean(Long) )
 # write.csv( siteGPS, "../Data/Bitemap_sites.csv", row.names=FALSE )
-siteGPS <- read.csv( "../Data/Bitemap_sites.csv" )
+siteGPS <- read.csv( "Data/raw/Bitemap_sites.csv" )
 
 
 
@@ -390,7 +390,7 @@ dev.off()
 # 
 # # write Environmentals to disk
 # write.csv( sites, "Output Data/Bitemap_BioORACLE_2018.03.13.csv", row.names = FALSE )
-sites <- read.csv( "Output Data/Bitemap_BioORACLE_20190322.csv", stringsAsFactors = FALSE )
+sites <- read.csv( "Data/processed/Bitemap_BioORACLE_20190322.csv", stringsAsFactors = FALSE )
 # sites <- left_join( sites,siteGPS[,1:2], by=c("Site") )
 
 # # add ocean basin information here
@@ -449,7 +449,7 @@ plot( sstmin~sstmean, data=sites, type='n', ylab="Min or max SST", xlab="Mean an
 
 
 # read temperature and salinity data collected during predation assays
-directenv <- read.csv( '../Data/Environmental Data/BiteMap_EnvironmentalData_Compilation_20190228.csv', stringsAsFactors = FALSE )
+directenv <- read.csv( 'Data/Environmental Data/BiteMap_EnvironmentalData_Compilation_20190228.csv', stringsAsFactors = FALSE )
 # combine in situ temperature and aqua
 directenv$Temp[ is.na(directenv$Temp) ] <- directenv$aqua[ is.na(directenv$Temp) ]
 names(directenv)[names(directenv)=="Seagrass.Unveg"] <- "habitat"
@@ -472,11 +472,11 @@ allenv <- left_join( popenv, sites )
 
 
 # add fishing pressure data from the Sea Around Us Project
-sau <- read.csv( "../Fishing Pressure/output/catchmin.csv", stringsAsFactors = FALSE )
+sau <- read.csv( "Data/Fishing Pressure/output/SeaAroundUs_catchmin.csv" )
 allenv <- left_join( allenv, sau, by=c("Site"="site") )
 
 # add human population density data from NASA
-hpopdens <- read.csv( "../Human Population Density/NASA_human_pop.csv", stringsAsFactors = FALSE )
+hpopdens <- read.csv( "Data/Human Population Density/NASA_human_pop.csv", stringsAsFactors = FALSE )
 hpopdens <- hpopdens %>%
   select( Site, pop, pop30 )
 allenv <- left_join( allenv, hpopdens )
@@ -496,7 +496,7 @@ windows(1.75,3)
   geom_smooth( aes(group=1),col='black', se=F, lwd=0.5 ) +
   geom_point(bg="slateblue", size=2, pch=21) +
   xlab("Latitude") +
-  ylab("Mean annual\nSST (°C)") +
+  ylab("Mean annual\nSST (?C)") +
   theme_classic() +
   scale_x_continuous(breaks=c(-30,-15,0,15,30,45,60),position="top") +
     theme( panel.background = element_rect(fill = "transparent"), # bg of the panel
@@ -525,7 +525,7 @@ windows(1.75,3)
 # windows(1.75,3)
 # ggplot( allenv, aes(x=sstmean,y=temp) ) + geom_smooth(se=F,col='black',lwd=0.5) + 
 #   geom_point( size=2,bg='slateblue', pch=21 ) + 
-#   ylab("in situ water temperature (°C)") + xlab("Mean annual\nSST (°C)") + 
+#   ylab("in situ water temperature (?C)") + xlab("Mean annual\nSST (?C)") + 
 #   theme_classic() +
 #   scale_y_continuous(position = "right") + 
 #   theme(axis.title.y.right  = element_text(angle = 90, vjust=0.5, hjust=0))
@@ -541,7 +541,7 @@ temptemp <- ggplot( allenv.site, aes(x=sstmean,y=temp) ) +
   geom_abline( intercept=0, col='black') + 
   geom_point( size=2,bg='slateblue', pch=21 ) +
   geom_text_repel( aes(label=Site), size=3, box.padding = 0.25, point.padding = 0.01, force=5 ) +
-  ylab("in situ water temperature (°C)") + xlab("Mean annual SST (°C)") +
+  ylab("in situ water temperature (?C)") + xlab("Mean annual SST (?C)") +
   theme_minimal_grid() 
 temptemp
 ggsave( "Fig3a.svg", path = "Figs/", dpi = 600 )
@@ -623,7 +623,7 @@ rate.env$Site[ rate.env$Country == "USA (CA4)"] <- "CA4"
 #   mutate( habitat = factor( habitat, c("Unveg", "Seagrass"), c("Unvegetated","Seagrass") ) )
 
 # write these data to disk
-write_csv( rate.env, "Output Data/Bitemap_rate.env.20200222.csv" )
+write_csv( rate.env, "Data/processed/Bitemap_rate.env.20200222.csv" )
 
 ##
 
@@ -792,7 +792,7 @@ b <- ggplot(rate.site, aes(x=sstmean, y=rate, group=hemi, col=hemi)) +
   geom_smooth( method='glm',method.args=list(family=quasibinomial), se=F, lty=2, size=0.5 ) +
   # geom_text_repel( aes(label=Site), size=3, show_guide=FALSE ) +
   geom_point( alpha=0.5 ) +
-  xlab('Mean Annual SST (°C)') + ylab(expression(paste('Consumption rate (',hr^-1,')'))) +
+  xlab('Mean Annual SST (?C)') + ylab(expression(paste('Consumption rate (',hr^-1,')'))) +
   scale_color_manual( values=hemicol ) +
   guides( color=guide_legend(title="Hemisphere") )+
   theme_classic()
@@ -899,7 +899,7 @@ ggplot( rate.env, aes(x=abs(meanLat),y=sstrange,size=rate) ) + geom_point(pch=21
    # geom_smooth( data=rate.env[rate.env$rate<0.1 & abs(rate.env$Lat) < 40,], aes(group=1), method='lm', se=F ) +
    # geom_smooth( data=rate.env[rate.env$rate>0.5 & abs(rate.env$Lat) < 40,], aes(group=1), method='lm', se=F ) +
   xlab( "Degrees from equator" ) + 
-  ylab( "Range annual sea surface\ntemperature (°C)" ) +
+  ylab( "Range annual sea surface\ntemperature (?C)" ) +
   theme_classic()
 
 # 
@@ -1005,21 +1005,21 @@ d <- rate.env %>%
 
 # add covariates for functional diversity, composition from RDA, constrained biomass and abundance from RDA,
 # 
-fds  <- read_csv( "Output Data/FunctionalDiversity_indices_PA.csv" ) 
+fds  <- read_csv( "Data/processed/FunctionalDiversity_indices_PA.csv" ) 
 fds <- as.data.frame(fds)
 fds[is.na(fds)] <- 0
 # rdas <- read_csv( "Output Data/multivar_compare_sites.csv" ) # 30 sites
 # rdas$Site <- rdas$site
-rdaunc <- read_csv( "Output Data/multivar_unconstr_sites.csv" )
+rdaunc <- read_csv( "Data/processed/multivar_unconstr_sites.csv" )
 rdaunc <- rdaunc %>% separate( SH, c("Site", "habitat") )
-brda <- read_csv( "Output Data/biomass_RDAselected.csv" ) # 30 sites
+brda <- read_csv( "Data/processed/biomass_RDAselected.csv" ) # 30 sites
 brda <- brda %>%
   select( Site, habitat, bio.filt=biomass, cpua.filt=cpua )
-active <- read_csv( "Output Data/consumer_active_ratio_PA.csv" )
+active <- read_csv( "Data/processed/consumer_active_ratio_PA.csv" )
 active <- active %>% 
   select( Site, habitat, act.ratio=act.ratio.ind )
-cwm <- read_csv( "Output Data/FunctionalDiversity_CWM_PA.csv" )
-cwm_length <- read_csv( "Output Data/FunctionalDiversity_CWM_length.csv")
+cwm <- read_csv( "Data/processed/FunctionalDiversity_CWM_PA.csv" )
+cwm_length <- read_csv( "Data/processed/FunctionalDiversity_CWM_length.csv")
 cwm_length <- cwm_length %>% select( Site, habitat, length, act2=act, feed2=feed, troph2=troph,
                                      watercol2=watercol, body2=body )
 
@@ -1031,6 +1031,8 @@ d <- left_join( d, addon )
 d <- d %>%
   mutate( log.mass.rda=log10(bio.filt+0.001), log.cpua.rda=log10(cpua.filt+0.003) )
 
+# write to disk
+write_csv( d, "Data/processed/Bitemap_data_compilation_for_modeling.csv")
 
 # filter to so we have complete data for all measures
 # BC ends up missing values for predators from unvegetated
@@ -1708,6 +1710,9 @@ dsite <- dmed %>%
   dplyr::mutate( MDS1=scale(MDS1), sstmean=scale(sstmean), abund=scale(abund) )
 splom(select(dsitehab,sstmean,MDS1,rate))
 splom(select(dmed,sstmean,MDS1,rate))
+
+# write data to disk
+write_csv(dsitehab,"Data/processed/rates_for_mediation.csv")
 
 dmed <- dmed %>% 
   dplyr::mutate( MDS1=scale(MDS1)[,], sstmean=scale(sstmean)[,], abund=scale(log.cpua.rda)[,] )

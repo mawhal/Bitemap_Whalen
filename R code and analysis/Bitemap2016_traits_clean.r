@@ -12,7 +12,7 @@ library(tidyverse)
 
 ## TRAITS
 ## read trait data - traits imputed using package mice in other script
-trait <- read_csv( "../Data/Fish Biomass + Traits/Bitemap_trait_impute.csv" )
+trait <- read_csv( "Data/Fish Biomass + Traits/Bitemap_trait_impute.csv" )
 # clean up this dataset a bit
 trait$family[ trait$family=="Channidae"] <- "Sciaenidae"
 trait$family[ trait$family=="Sparisoma viride"] <- "Scaridae"
@@ -25,6 +25,7 @@ trait$waterColumnRLS[ trait$waterColumnRLS == "pelagic"] <- 'pelagic non-site at
 trait$waterColumnRLS[ trait$family == "Cottidae"] <- 'benthic'
 # name change
 trait$sciName[ trait$sciName=="Romaleon polyodon" ] <- "Romaleon setosum"
+trait[ trait$feedingTypeFishbase %in% "filtering plankton", ]
 trait[ trait$feedingTypeFishbase %in% "filtering plankton", ]
 
 # summary functions to get a list of unique traits
@@ -59,10 +60,10 @@ trait.unique.family <- trait %>%
              tl = numlist(TL), body=numlist(BodyShapeI), snoutx=num(SnoutTipX), snouty=num(SnoutTipY) )
 tp <- trait.unique.family %>% 
   select( family, act, feed, troph, watercol, clim, body )
-write_csv( tp, "Output Data/traits_family_raw_summary.csv" )
+write_csv( tp, "Data/processed/traits_family_raw_summary.csv" )
 
 # edited summary
-tp_edit <- read_csv( "Output Data/traits_family_edit_summary.csv" )
+tp_edit <- read_csv( "Data/processed/traits_family_edit_summary.csv" )
 
 
 
@@ -98,7 +99,7 @@ trait.final <- data.frame(apply(trait.final,2,clean))
 
 
 # write to disk and potentially update manuall
-write_csv( trait.final, "Output Data/traits_clean_intial.csv")
+write_csv( trait.final, "Data/processed/traits_clean_intial.csv")
 
 
 
@@ -162,7 +163,7 @@ trait.final$troph[ trait.final$sciName %in% remove_omni_cleaner ] <- gsub(";clea
 
 # selective plankton feeder
 select_plankt <- "Leptojulis sp."
-trait.final$feed[ trait.final$sciName %in% select_plankt ] <- "selective plankton feeder"
+trait.final$feed[ trait.final$sciName %in% select_plankt ] <- "selective plankton feeding"
 trait.final$troph[ trait.final$sciName %in% select_plankt ] <- "planktivore"
 
 
@@ -220,5 +221,5 @@ trait.final %>% as_tibble() %>%  select( sciName, family, columns ) %>%
 
 
 ### write cleaned version to disk
-write_csv( trait.final, "Output Data/traits_clean_final.csv")
+write_csv( trait.final, "Data/processed/Bitemap_traits_clean_final.csv")
 

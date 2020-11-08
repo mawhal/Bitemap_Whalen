@@ -1,0 +1,546 @@
+Site.Name,Country,Lat,Long,Seagrass.Unveg,Date,Time,Temp,Sal,Measurement.Number,Notes,Institution,dt
+Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Unveg,2016-10-28,NA,24.1,25.7,1,,NA,NA
+Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Unveg,2016-10-28,NA,23.3,25.5,2,,NA,NA
+Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Unveg,2016-10-28,NA,22.7,25.7,3,,NA,NA
+Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Seagrass,2016-10-28,NA,24.2,25.6,1,,NA,NA
+Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Seagrass,2016-10-28,NA,24.1,24.9,2,,NA,NA
+Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Seagrass,2016-10-28,NA,23.7,25.7,3,,NA,NA
+Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Unveg,2016-10-29,NA,27.4,26.7,1,,NA,NA
+Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Unveg,2016-10-29,NA,27.3,26.7,2,,NA,NA
+Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Unveg,2016-10-29,NA,27.3,26.3,3,,NA,NA
+Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Seagrass,2016-10-29,NA,27.4,25.8,1,,NA,NA
+Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Seagrass,2016-10-29,NA,27.5,26.1,2,,NA,NA
+Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Seagrass,2016-10-29,NA,27.4,26.2,3,,NA,NA
+Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Unveg,2016-10-30,NA,22.4,26.5,1,,NA,NA
+Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Unveg,2016-10-30,NA,22.2,26.5,2,,NA,NA
+Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Unveg,2016-10-30,NA,22.1,26.5,3,,NA,NA
+Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Seagrass,2016-10-30,NA,22.3,26.4,1,,NA,NA
+Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Seagrass,2016-10-30,NA,22.3,26.4,2,,NA,NA
+Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Seagrass,2016-10-30,NA,22.2,26.5,3,,NA,NA
+Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Unveg,2016-10-31,NA,21.5,26.3,1,,NA,NA
+Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Unveg,2016-10-31,NA,21.4,26.4,2,,NA,NA
+Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Unveg,2016-10-31,NA,21,26.4,3,,NA,NA
+Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Seagrass,2016-10-31,NA,20.9,26.6,1,,NA,NA
+Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Seagrass,2016-10-31,NA,20.8,26.5,2,,NA,NA
+Pine Knoll Shores,USA (NC2),34.7004,-76.8335,Seagrass,2016-10-31,NA,21,26.4,3,,NA,NA
+Bowen,Australia (QLD),-20.01734,148.25191,Seagrass,2016-12-02,NA,27,35,1,,NA,NA
+Bowen,Australia (QLD),-20.01734,148.25191,Seagrass,2016-12-02,NA,27,34,2,,NA,NA
+Bowen,Australia (QLD),-20.01734,148.25191,Seagrass,2016-12-02,NA,27,33,3,,NA,NA
+Bowen,Australia (QLD),-20.20234,148.24826,Unveg,2016-12-02,NA,27,31,1,,NA,NA
+Bowen,Australia (QLD),-20.20234,148.24826,Unveg,2016-12-02,NA,28,32,2,,NA,NA
+Bowen,Australia (QLD),-20.20234,148.24826,Unveg,2016-12-02,NA,28,31,3,,NA,NA
+Bowen,Australia (QLD),-20.01734,148.25191,Seagrass,2016-12-03,NA,31,32,1,,NA,NA
+Bowen,Australia (QLD),-20.01734,148.25191,Seagrass,2016-12-03,NA,30,32,2,,NA,NA
+Bowen,Australia (QLD),-20.01734,148.25191,Seagrass,2016-12-03,NA,30,32,3,,NA,NA
+Bowen,Australia (QLD),-20.20234,148.24826,Unveg,2016-12-03,NA,30,31,1,,NA,NA
+Bowen,Australia (QLD),-20.20234,148.24826,Unveg,2016-12-03,NA,29,31,2,,NA,NA
+Bowen,Australia (QLD),-20.20234,148.24826,Unveg,2016-12-03,NA,28,33,3,,NA,NA
+Bowen,Australia (QLD),-20.01734,148.25191,Seagrass,2016-12-04,NA,30,34,1,,NA,NA
+Bowen,Australia (QLD),-20.01734,148.25191,Seagrass,2016-12-04,NA,29,32,2,,NA,NA
+Bowen,Australia (QLD),-20.01734,148.25191,Seagrass,2016-12-04,NA,29,33,3,,NA,NA
+Bowen,Australia (QLD),-20.20234,148.24826,Unveg,2016-12-04,NA,27,31,1,,NA,NA
+Bowen,Australia (QLD),-20.20234,148.24826,Unveg,2016-12-04,NA,27,32,2,,NA,NA
+Bowen,Australia (QLD),-20.20234,148.24826,Unveg,2016-12-04,NA,27,33,3,,NA,NA
+Bowen,Australia (QLD),-20.01734,148.25191,Seagrass,2016-12-05,NA,24,35,1,,NA,NA
+Bowen,Australia (QLD),-20.01734,148.25191,Seagrass,2016-12-05,NA,24,35,2,,NA,NA
+Bowen,Australia (QLD),-20.01734,148.25191,Seagrass,2016-12-05,NA,25,35,3,,NA,NA
+Bowen,Australia (QLD),-20.20234,148.24826,Unveg,2016-12-05,NA,24,34,1,,NA,NA
+Bowen,Australia (QLD),-20.20234,148.24826,Unveg,2016-12-05,NA,25,35,2,,NA,NA
+Bowen,Australia (QLD),-20.20234,148.24826,Unveg,2016-12-05,NA,25,34,3,,NA,NA
+Choked Pocket,Canada (BC),51.67638,-128.12363,Seagrass,2016-07-05,NA,12.1,31.19,1,,NA,NA
+Choked Pocket,Canada (BC),51.67638,-128.12363,Seagrass,2016-07-05,NA,12,31.23,2,,NA,NA
+Choked Pocket,Canada (BC),51.67638,-128.12363,Seagrass,2016-07-05,NA,12,31.24,3,,NA,NA
+Choked Pocket,Canada (BC),51.676475,-128.123739,Seagrass,2016-07-06,NA,12.1,31,1,,NA,NA
+Choked Pocket,Canada (BC),51.676475,-128.123739,Seagrass,2016-07-06,NA,11.6,31.05,2,,NA,NA
+Choked Pocket,Canada (BC),51.676475,-128.123739,Seagrass,2016-07-06,NA,11.5,31.07,3,,NA,NA
+Choked Pocket,Canada (BC),51.681428,-128.114127,Seagrass,2016-07-07,NA,11.9,31.16,1,,NA,NA
+Choked Pocket,Canada (BC),51.681428,-128.114127,Seagrass,2016-07-07,NA,11.8,31.16,2,,NA,NA
+Choked Pocket,Canada (BC),51.681428,-128.114127,Seagrass,2016-07-07,NA,11.8,31.19,3,,NA,NA
+Choked Pocket,Canada (BC),51.681428,-128.114127,Seagrass,2016-07-08,NA,12.9,29.83,1,,NA,NA
+Choked Pocket,Canada (BC),51.681428,-128.114127,Seagrass,2016-07-08,NA,12.8,29.84,2,,NA,NA
+Choked Pocket,Canada (BC),51.681428,-128.114127,Seagrass,2016-07-08,NA,12.7,30.08,3,,NA,NA
+Choked Sandspit,Canada (BC),51.68156,-128.11427,Unveg,2016-07-05,NA,12,31.4,1,,NA,NA
+Choked Sandspit,Canada (BC),51.68156,-128.11427,Unveg,2016-07-05,NA,12,31.22,2,,NA,NA
+Choked Sandspit,Canada (BC),51.68156,-128.11427,Unveg,2016-07-05,NA,11.9,31.18,3,,NA,NA
+Choked Sandspit,Canada (BC),51.681408,-128.114073,Unveg,2016-07-06,NA,12.5,30.73,1,,NA,NA
+Choked Sandspit,Canada (BC),51.681408,-128.114073,Unveg,2016-07-06,NA,12.4,30.83,2,,NA,NA
+Choked Sandspit,Canada (BC),51.681408,-128.114073,Unveg,2016-07-06,NA,12.4,30.82,3,,NA,NA
+Choked Sandspit,Canada (BC),51.676464,-128.12368,Unveg,2016-07-07,NA,12.4,30.1,1,,NA,NA
+Choked Sandspit,Canada (BC),51.676464,-128.12368,Unveg,2016-07-07,NA,12.4,30.13,2,,NA,NA
+Choked Sandspit,Canada (BC),51.676464,-128.12368,Unveg,2016-07-07,NA,12.4,30.16,3,,NA,NA
+Choked Sandspit,Canada (BC),51.676464,-128.12368,Unveg,2016-07-08,NA,13.7,26.21,1,,NA,NA
+Choked Sandspit,Canada (BC),51.676464,-128.12368,Unveg,2016-07-08,NA,13.6,26.45,2,,NA,NA
+Choked Sandspit,Canada (BC),51.676464,-128.12368,Unveg,2016-07-08,NA,13.6,26.51,3,,NA,NA
+CR-B-SvetiDuh,Croatia,44.20603,15.47262,Seagrass,2016-07-01,NA,21,19,1," at all sites  temp and sal taken before the sein netting, temp with regular thermometer, salinity with refractometer ",NA,NA
+CR-B-SvetiDuh,Croatia,44.20603,15.47262,Seagrass,2016-07-01,NA,22,32,2,,NA,NA
+CR-B-SvetiDuh,Croatia,44.20603,15.47262,Seagrass,2016-07-01,NA,22.5,32,3,,NA,NA
+CR-B-SvetiDuh,Croatia,44.20628,15.47166,Seagrass,2016-07-01,NA,21.5,20,1,1= at 10m distance from shore and 30 cm above bottom,NA,NA
+CR-B-SvetiDuh,Croatia,44.20628,15.47166,Seagrass,2016-07-01,NA,22.5,30,2,2= at 30 m distance from shore and 30 cm above bottom,NA,NA
+CR-B-SvetiDuh,Croatia,44.20628,15.47166,Seagrass,2016-07-02,NA,22.5,30,3,3= at 60 m distance from shore and 30 cm above bottom,NA,NA
+CR-B-SvetiDuh,Croatia,44.20671,15.47138,Seagrass,2016-07-01,NA,22,20,1,,NA,NA
+CR-B-SvetiDuh,Croatia,44.20671,15.47138,Seagrass,2016-07-01,NA,22,21,2,,NA,NA
+CR-B-SvetiDuh,Croatia,44.20671,15.47138,Seagrass,2016-07-02,NA,22,21,3,,NA,NA
+CR-B-SvetiDuh,Croatia,44.20323,15.47232,Unveg,2016-07-01,NA,21.5,21,1,,NA,NA
+CR-B-SvetiDuh,Croatia,44.20323,15.47232,Unveg,2016-07-01,NA,22,21,2,,NA,NA
+CR-B-SvetiDuh,Croatia,44.20323,15.47232,Unveg,2016-07-01,NA,22,21,3,,NA,NA
+CR-B-SvetiDuh,Croatia,44.20264,15.47251,Unveg,2016-07-01,NA,22,18,1,,NA,NA
+CR-B-SvetiDuh,Croatia,44.20264,15.47251,Unveg,2016-07-01,NA,22,17,2,,NA,NA
+CR-B-SvetiDuh,Croatia,44.20264,15.47251,Unveg,2016-07-01,NA,22,18,3,,NA,NA
+CR-B-SvetiDuh,Croatia,44.20182,15.47361,Unveg,2016-07-01,NA,22,18,1,,NA,NA
+CR-B-SvetiDuh,Croatia,44.20182,15.47361,Unveg,2016-07-01,NA,22,15,2,,NA,NA
+CR-B-SvetiDuh,Croatia,44.20182,15.47361,Unveg,2016-07-01,NA,22,17,3,,NA,NA
+Dorothy Cove,USA (MA),42.41978,-70.91522,Seagrass,2016-06-07,NA,16,32,1,,NA,NA
+Dorothy Cove,USA (MA),42.41978,-70.91522,Seagrass,2016-06-07,NA,16,32,2,,NA,NA
+Dorothy Cove,USA (MA),42.41978,-70.91522,Seagrass,2016-06-07,NA,15.5,32,3,,NA,NA
+Dorothy Cove,USA (MA),42.41986,-70.91506,Unveg,2016-06-07,NA,15,32,1,,NA,NA
+Dorothy Cove,USA (MA),42.41986,-70.91506,Unveg,2016-06-07,NA,15,31,2,,NA,NA
+Dorothy Cove,USA (MA),42.41986,-70.91506,Unveg,2016-06-07,NA,15,30,3,,NA,NA
+Dorothy Cove,USA (MA),42.42026,-70.91574,Seagrass,2016-06-09,NA,10.5,31,1,,NA,NA
+Dorothy Cove,USA (MA),42.42026,-70.91574,Seagrass,2016-06-09,NA,11,32,2,,NA,NA
+Dorothy Cove,USA (MA),42.42026,-70.91574,Seagrass,2016-06-09,NA,10.5,32,3,,NA,NA
+Dorothy Cove,USA (MA),42.42044,-70.91594,Unveg,2016-06-09,NA,11,32,1,,NA,NA
+Dorothy Cove,USA (MA),42.42044,-70.91594,Unveg,2016-06-09,NA,11,31,2,,NA,NA
+Dorothy Cove,USA (MA),42.42044,-70.91594,Unveg,2016-06-09,NA,11,31,3,,NA,NA
+Dorothy Cove,USA (MA),42.42057,-70.91625,Unveg,2016-06-22,NA,12.5,30,1,,NA,NA
+Dorothy Cove,USA (MA),42.42057,-70.91625,Unveg,2016-06-22,NA,12,31,2,,NA,NA
+Dorothy Cove,USA (MA),42.42057,-70.91625,Unveg,2016-06-22,NA,12.5,32,3,,NA,NA
+Dorothy Cove,USA (MA),42.42046,-70.91641,Seagrass,2016-06-22,NA,12.5,33,1,,NA,NA
+Dorothy Cove,USA (MA),42.42046,-70.91641,Seagrass,2016-06-22,NA,13,31,2,,NA,NA
+Dorothy Cove,USA (MA),42.42046,-70.91641,Seagrass,2016-06-22,NA,12.5,31,3,,NA,NA
+Praia do Engenho,Brazil,-23.78863,-45.36364,Seagrass,2017-03-08,NA,26.4,33.4,1,,NA,NA
+Praia do Engenho,Brazil,-23.78863,-45.36364,Seagrass,2017-03-08,NA,26.4,33.6,2,,NA,NA
+Praia do Engenho,Brazil,-23.78863,-45.36364,Seagrass,2017-03-08,NA,26.3,33.6,3,,NA,NA
+Praia do Barreiro,Brazil,-23.762,-45.34991,Unveg,2017-03-08,NA,26.1,33.3,1,,NA,NA
+Praia do Barreiro,Brazil,-23.762,-45.34991,Unveg,2017-03-08,NA,26.2,33.4,2,,NA,NA
+Praia do Barreiro,Brazil,-23.762,-45.34991,Unveg,2017-03-08,NA,26.1,33.5,3,,NA,NA
+Praia do Engenho,Brazil,-23.78863,-45.36364,Seagrass,2017-03-09,NA,26.8,34.6,1,,NA,NA
+Praia do Engenho,Brazil,-23.78863,-45.36364,Seagrass,2017-03-09,NA,26.8,34.5,2,,NA,NA
+Praia do Engenho,Brazil,-23.78863,-45.36364,Seagrass,2017-03-09,NA,26.8,34.5,3,,NA,NA
+Praia do Barreiro,Brazil,-23.762,-45.34991,Unveg,2017-03-09,NA,26.9,34,1,,NA,NA
+Praia do Barreiro,Brazil,-23.762,-45.34991,Unveg,2017-03-09,NA,27,34.1,2,,NA,NA
+Praia do Barreiro,Brazil,-23.762,-45.34991,Unveg,2017-03-09,NA,26.8,34,3,,NA,NA
+Praia do Engenho,Brazil,-23.78863,-45.36364,Seagrass,2017-03-10,NA,27.3,34.4,1,,NA,NA
+Praia do Engenho,Brazil,-23.78863,-45.36364,Seagrass,2017-03-10,NA,27.3,34.4,2,,NA,NA
+Praia do Engenho,Brazil,-23.78863,-45.36364,Seagrass,2017-03-10,NA,27.3,34.5,3,,NA,NA
+Praia do Barreiro,Brazil,-23.762,-45.34991,Unveg,2017-03-10,NA,27.8,33.1,1,,NA,NA
+Praia do Barreiro,Brazil,-23.762,-45.34991,Unveg,2017-03-10,NA,27.9,32.9,2,,NA,NA
+Praia do Barreiro,Brazil,-23.762,-45.34991,Unveg,2017-03-10,NA,28,32.7,3,,NA,NA
+Harbor Branch,USA (FL),27.53546,-80.347016,Unveg,2016-11-15,NA,23.5,28.25,1,Physical data averaged over an hour using a LOBO data sonde,NA,NA
+Harbor Branch,USA (FL),27.536592,-80.34928,Seagrass,2016-11-15,NA,23.5,28.25,1,Physical data averaged over an hour using a LOBO data sonde,NA,NA
+Harbor Branch,USA (FL),27.53546,-80.347016,Unveg,2016-11-17,NA,21.55,27.67,1,Physical data averaged over an hour using a LOBO data sonde,NA,NA
+Harbor Branch,USA (FL),27.536592,-80.34928,Seagrass,2016-11-17,NA,21.55,27.67,1,Physical data averaged over an hour using a LOBO data sonde,NA,NA
+Harbor Branch,USA (FL),27.53546,-80.347016,Unveg,2016-11-21,NA,20.5,28.5,1,Physical data averaged over an hour using a LOBO data sonde,NA,NA
+Harbor Branch,USA (FL),27.536592,-80.34928,Seagrass,2016-11-21,NA,20.5,28.5,1,Physical data averaged over an hour using a LOBO data sonde,NA,NA
+Oso Bay,USA (TX),27.42443,-97.19447,Unveg,2016-07-07,NA,28,27,1,,NA,NA
+Oso Bay,USA (TX),27.42446,-97.19337,Seagrass,2016-07-07,NA,27,30,1,,NA,NA
+Oso Bay,USA (TX),27.42443,-97.19447,Unveg,2016-07-14,NA,27,34,2,,NA,NA
+Oso Bay,USA (TX),27.42446,-97.19337,Seagrass,2016-07-14,NA,28,35,2,,NA,NA
+Oso Bay,USA (TX),27.42443,-97.19447,Unveg,2016-07-20,NA,30,35,3,,NA,NA
+Oso Bay,USA (TX),27.42466,-97.19337,Seagrass,2016-07-20,NA,30,37,3,,NA,NA
+Laguna Madre,USA (TX),27.37981,-97.17288,Unveg,2016-07-27,NA,28,37,1,,NA,NA
+Laguna Madre,USA (TX),27.37951,-97.17278,Seagrass,2016-07-27,NA,29,39,1,,NA,NA
+Laguna Madre,USA (TX),27.37983,-97.17288,Unveg,2016-08-03,NA,29,40,2,,NA,NA
+Laguna Madre,USA (TX),27.37951,-97.17278,Seagrass,2016-08-03,NA,28,40,2,,NA,NA
+Laguna Madre,USA (TX),27.37984,-97.17288,Unveg,2016-08-10,NA,26,40,3,,NA,NA
+Laguna Madre,USA (TX),27.37951,-97.17278,Seagrass,2016-08-10,NA,26,40,3,,NA,NA
+Aransas Pass,USA (TX),27.53477,-97.06673,Unveg,2016-08-23,NA,28,36,1,,NA,NA
+Aransas Pass,USA (TX),27.53467,-97.06697,Seagrass,2016-08-23,NA,28,35,1,,NA,NA
+Aransas Pass,USA (TX),27.53477,-97.06673,Unveg,2016-09-01,NA,28,32,2,,NA,NA
+Aransas Pass,USA (TX),27.53467,-97.06697,Seagrass,2016-09-01,NA,28,34,2,,NA,NA
+Aransas Pass,USA (TX),27.53477,-97.06673,Unveg,2016-09-09,NA,28,30,3,,NA,NA
+Aransas Pass,USA (TX),27.53467,-97.06697,Seagrass,2016-09-09,NA,28,30,3,,NA,NA
+NC,USA (NC),34.69099,-76.62199,Seagrass,2016-08-15,NA,34.3,34,1,,NA,NA
+NC,USA (NC),34.69099,-76.62199,Seagrass,2016-08-15,NA,33.8,34,2,,NA,NA
+NC,USA (NC),34.69099,-76.62199,Seagrass,2016-08-15,NA,33.3,34,3,,NA,NA
+NC,USA (NC),34.69099,-76.62199,Seagrass,2016-08-16,NA,34.1,34,1,,NA,NA
+NC,USA (NC),34.69099,-76.62199,Seagrass,2016-08-16,NA,33.9,34,2,,NA,NA
+NC,USA (NC),34.69099,-76.62199,Seagrass,2016-08-16,NA,33.1,34,3,,NA,NA
+NC,USA (NC),34.69099,-76.62199,Seagrass,2016-08-17,NA,33.4,33,1,,NA,NA
+NC,USA (NC),34.69099,-76.62199,Seagrass,2016-08-17,NA,33.5,33,2,,NA,NA
+NC,USA (NC),34.69099,-76.62199,Seagrass,2016-08-17,NA,33.8,33,3,,NA,NA
+NC,USA (NC),34.69051,-76.62245,Unveg,2016-08-15,NA,33.1,34,1,,NA,NA
+NC,USA (NC),34.69051,-76.62245,Unveg,2016-08-15,NA,33.1,34.5,2,,NA,NA
+NC,USA (NC),34.69051,-76.62245,Unveg,2016-08-15,NA,33.1,34,3,,NA,NA
+NC,USA (NC),34.69051,-76.62245,Unveg,2016-08-16,NA,33,34.5,1,,NA,NA
+NC,USA (NC),34.69051,-76.62245,Unveg,2016-08-16,NA,33.1,34.5,2,,NA,NA
+NC,USA (NC),34.69051,-76.62245,Unveg,2016-08-16,NA,33,34.5,3,,NA,NA
+NC,USA (NC),34.69051,-76.62245,Unveg,2016-08-17,NA,32.9,34,1,,NA,NA
+NC,USA (NC),34.69051,-76.62245,Unveg,2016-08-17,NA,33.1,33,2,,NA,NA
+NC,USA (NC),34.69051,-76.62245,Unveg,2016-08-17,NA,32.7,34,3,,NA,NA
+Juvika,Norway,67.214334,15.007534,Seagrass,2016-07-24,NA,11.5,29.2,1,,NA,NA
+Juvika,Norway,67.214334,15.007534,Seagrass,2016-07-24,NA,11.5,29.2,2,,NA,NA
+Juvika,Norway,67.214334,15.007534,Seagrass,2016-07-24,NA,11.6,29.1,3,,NA,NA
+Juvika,Norway,67.214334,15.007534,Unveg,2016-07-24,NA,11.5,29.01,1,,NA,NA
+Juvika,Norway,67.214334,15.007534,Seagrass,2016-07-24,NA,11.5,29.1,2,,NA,NA
+Juvika,Norway,67.214334,15.007534,Seagrass,2016-07-24,NA,11.5,29.1,3,,NA,NA
+OIMB-Valino-SSNERR,USA (OR),43.315383,-124.320926,Unveg,2016-07-19,NA,16.32,32.12,1,"Data from nearby SSNERR station ""sosvawq"" [ 43.315996, -124.321276]",NA,NA
+OIMB-Valino-SSNERR,USA (OR),43.315383,-124.320926,Unveg,2016-07-19,NA,15.862,32.3,2,"Data from nearby SSNERR station ""sosvawq"" [ 43.315996, -124.321276]",NA,NA
+OIMB-Valino-SSNERR,USA (OR),43.315383,-124.320926,Unveg,2016-07-19,NA,15.796,32.25,3,"Data from nearby SSNERR station ""sosvawq"" [ 43.315996, -124.321276]",NA,NA
+OIMB-Valino-SSNERR,USA (OR),43.315013,-124.320361,Seagrass,2016-07-19,NA,15.474,32.35,1,"Data from nearby SSNERR station ""sosvawq"" [ 43.315996, -124.321276]",NA,NA
+OIMB-Valino-SSNERR,USA (OR),43.315013,-124.320361,Seagrass,2016-07-19,NA,14.75,32.32,2,"Data from nearby SSNERR station ""sosvawq"" [ 43.315996, -124.321276]",NA,NA
+OIMB-Valino-SSNERR,USA (OR),43.315013,-124.320361,Seagrass,2016-07-19,NA,14.338,32.48,3,"Data from nearby SSNERR station ""sosvawq"" [ 43.315996, -124.321276]",NA,NA
+OIMB-Valino-SSNERR,USA (OR),43.315383,-124.320926,Unveg,2016-07-20,NA,17.967,31.69,1,"Data from nearby SSNERR station ""sosvawq"" [ 43.315996, -124.321276]",NA,NA
+OIMB-Valino-SSNERR,USA (OR),43.315383,-124.320926,Unveg,2016-07-20,NA,17.583,31.92,2,"Data from nearby SSNERR station ""sosvawq"" [ 43.315996, -124.321276]",NA,NA
+OIMB-Valino-SSNERR,USA (OR),43.315383,-124.320926,Unveg,2016-07-20,NA,17.399,32.03,3,"Data from nearby SSNERR station ""sosvawq"" [ 43.315996, -124.321276]",NA,NA
+OIMB-Valino-SSNERR,USA (OR),43.315013,-124.320361,Seagrass,2016-07-20,NA,16.719,32.27,1,"Data from nearby SSNERR station ""sosvawq"" [ 43.315996, -124.321276]",NA,NA
+OIMB-Valino-SSNERR,USA (OR),43.315013,-124.320361,Seagrass,2016-07-20,NA,16.246,32.29,2,"Data from nearby SSNERR station ""sosvawq"" [ 43.315996, -124.321276]",NA,NA
+OIMB-Valino-SSNERR,USA (OR),43.315013,-124.320361,Seagrass,2016-07-20,NA,15.96,32.29,3,"Data from nearby SSNERR station ""sosvawq"" [ 43.315996, -124.321276]",NA,NA
+OIMB-Valino-SSNERR,USA (OR),43.315383,-124.320926,Unveg,2016-07-21,NA,18.119,31.92,1,"Data from nearby SSNERR station ""sosvawq"" [ 43.315996, -124.321276]",NA,NA
+OIMB-Valino-SSNERR,USA (OR),43.315383,-124.320926,Unveg,2016-07-21,NA,17.797,32.1,2,"Data from nearby SSNERR station ""sosvawq"" [ 43.315996, -124.321276]",NA,NA
+OIMB-Valino-SSNERR,USA (OR),43.315383,-124.320926,Unveg,2016-07-21,NA,17.421,32.18,3,"Data from nearby SSNERR station ""sosvawq"" [ 43.315996, -124.321276]",NA,NA
+OIMB-Valino-SSNERR,USA (OR),43.315013,-124.320361,Seagrass,2016-07-21,NA,16.698,32.33,1,"Data from nearby SSNERR station ""sosvawq"" [ 43.315996, -124.321276]",NA,NA
+OIMB-Valino-SSNERR,USA (OR),43.315013,-124.320361,Seagrass,2016-07-21,NA,16.852,32.24,2,"Data from nearby SSNERR station ""sosvawq"" [ 43.315996, -124.321276]",NA,NA
+OIMB-Valino-SSNERR,USA (OR),43.315013,-124.320361,Seagrass,2016-07-21,NA,16.517,32.4,3,"Data from nearby SSNERR station ""sosvawq"" [ 43.315996, -124.321276]",NA,NA
+Punta Allen,Mexico (ICML2),19.82738,-87.45408,Unveg,2016-07-12,NA,30.5,35.7,1,Unveg1,NA,NA
+Punta Allen,Mexico (ICML2),19.82721,-87.45526,Unveg,2016-07-12,NA,30.5,35.7,2,Unveg2,NA,NA
+Punta Allen,Mexico (ICML2),19.8271,-87.45401,Seagrass,2016-07-12,NA,30.5,35.7,3,Seagrass1,NA,NA
+Punta Allen,Mexico (ICML2),19.82738,-87.45408,Unveg,2016-07-13,NA,31.5,35.7,4,Unveg1,NA,NA
+Punta Allen,Mexico (ICML2),19.8271,-87.45401,Seagrass,2016-07-13,NA,31.5,35.7,5,Seagrass1,NA,NA
+Punta Allen,Mexico (ICML2),19.82687,-87.45509,Seagrass,2016-07-13,NA,31.5,35.7,6,Seagrass2,NA,NA
+PtoMorelos,Mexico (ICML),20.83433,-86.87647,Unveg,2016-07-18,NA,30.5,35.7,1,3-10m from coral reef,NA,NA
+PtoMorelos,Mexico (ICML),20.8347,-86.87654,Seagrass,2016-07-18,NA,30.5,35.7,2,aprox. 30 m from unvegetated site,NA,NA
+PtoMorelos,Mexico (ICML),20.83433,-86.87647,Unveg,2016-07-19,NA,30.5,35.7,3,3-10m from coral reef,NA,NA
+PtoMorelos,Mexico (ICML),20.8347,-86.87654,Seagrass,2016-07-19,NA,30.5,35.7,4,aprox. 30 m from unvegetated site,NA,NA
+PtoMorelos,Mexico (ICML),20.83433,-86.87647,Unveg,2016-07-20,NA,30.5,35.7,5,3-10m from coral reef,NA,NA
+PtoMorelos,Mexico (ICML),20.8347,-86.87654,Seagrass,2016-07-20,NA,30.5,35.7,6,aprox. 30 m from unvegetated site,NA,NA
+Pto Aldea (Chile),Chile,-30.298258,-71.605429,Unveg,2017-03-08,NA,20.4,33.5,1,,NA,NA
+Pto Aldea (Chile),Chile,-30.292541,-71.608146,Seagrass,2017-03-08,NA,19.9,33.3,1,,NA,NA
+Pto Aldea (Chile),Chile,-30.298258,-71.605429,Unveg,2017-03-09,NA,19,34.4,1,,NA,NA
+Pto Aldea (Chile),Chile,-30.292541,-71.608146,Seagrass,2017-03-09,NA,19.6,33.8,1,,NA,NA
+Pto Aldea (Chile),Chile,-30.298258,-71.605429,Unveg,2017-03-10,NA,19.4,34.2,1,,NA,NA
+Pto Aldea (Chile),Chile,-30.292541,-71.608146,Seagrass,2017-03-10,NA,20,33.9,1,,NA,NA
+Punta Banda Estuary,Mexico (BN),31.753106,-116.625137,Unveg,2016-06-25,NA,24.77,37,1,The temperature value is a mean of the measurements taken within a 2 hour interval around the specified time of collection with 6 different HOBO loggers (one per point or Measurement Number). Salinity was measured with a refractometer only once a day x point combination. ,NA,NA
+Punta Banda Estuary,Mexico (BN),31.753106,-116.625137,Unveg,2016-06-25,NA,24.51,37,2,idem,NA,NA
+Punta Banda Estuary,Mexico (BN),31.753106,-116.625137,Unveg,2016-06-25,NA,24.61,37,3,idem,NA,NA
+Punta Banda Estuary,Mexico (BN),31.753025,-116.625858,Seagrass,2016-06-25,NA,25.33,38,1,idem,NA,NA
+Punta Banda Estuary,Mexico (BN),31.753025,-116.625858,Seagrass,2016-06-25,NA,25.13,37,2,idem,NA,NA
+Punta Banda Estuary,Mexico (BN),31.753025,-116.625858,Seagrass,2016-06-25,NA,24.71,37,3,idem,NA,NA
+Punta Banda Estuary,Mexico (BN),31.753106,-116.625137,Unveg,2016-06-26,NA,24.82,38,1,idem,NA,NA
+Punta Banda Estuary,Mexico (BN),31.753106,-116.625137,Unveg,2016-06-26,NA,24.64,37,2,idem,NA,NA
+Punta Banda Estuary,Mexico (BN),31.753106,-116.625137,Unveg,2016-06-26,NA,24.7,37,3,idem,NA,NA
+Punta Banda Estuary,Mexico (BN),31.753025,-116.625858,Seagrass,2016-06-26,NA,25.32,36,1,idem,NA,NA
+Punta Banda Estuary,Mexico (BN),31.753025,-116.625858,Seagrass,2016-06-26,NA,25.28,37,2,idem,NA,NA
+Punta Banda Estuary,Mexico (BN),31.753025,-116.625858,Seagrass,2016-06-26,NA,25.01,37,3,idem,NA,NA
+Punta Banda Estuary,Mexico (BN),31.753106,-116.625137,Unveg,2016-06-27,NA,24.86,38,1,idem,NA,NA
+Punta Banda Estuary,Mexico (BN),31.753106,-116.625137,Unveg,2016-06-27,NA,24.74,38,2,idem,NA,NA
+Punta Banda Estuary,Mexico (BN),31.753106,-116.625137,Unveg,2016-06-27,NA,24.81,38,3,idem,NA,NA
+Punta Banda Estuary,Mexico (BN),31.753025,-116.625858,Seagrass,2016-06-27,NA,25.61,38,1,idem,NA,NA
+Punta Banda Estuary,Mexico (BN),31.753025,-116.625858,Seagrass,2016-06-27,NA,26,37,2,idem,NA,NA
+Punta Banda Estuary,Mexico (BN),31.753025,-116.625858,Seagrass,2016-06-27,NA,25.68,37,3,idem,NA,NA
+Redondo N1,USA (WA),47.35,-122.32,Seagrass,2016-07-06,NA,19.7,35,1,,NA,NA
+Redondo N1,USA (WA),47.35,-122.32,Seagrass,2016-07-06,NA,19.7,33,2,,NA,NA
+Redondo N1,USA (WA),47.35,-122.32,Seagrass,2016-07-06,NA,19.7,29,3,,NA,NA
+Redondo N2,USA (WA),47.3503,-122.324,Seagrass,2016-07-06,NA,20,30,1,,NA,NA
+Redondo N2,USA (WA),47.3503,-122.324,Seagrass,2016-07-06,NA,19,29,2,,NA,NA
+Redondo N2,USA (WA),47.3503,-122.324,Seagrass,2016-07-06,NA,19,29,3,,NA,NA
+Redondo N-3,USA (WA),47.3497,-122.324,Unveg,2016-07-06,NA,18.7,30,1,,NA,NA
+Redondo N-3,USA (WA),47.3497,-122.324,Unveg,2016-07-06,NA,18.3,30,2,,NA,NA
+Redondo N-3,USA (WA),47.3497,-122.324,Unveg,2016-07-06,NA,18.1,27,3,,NA,NA
+Redondo N-4,USA (WA),47.349,-122.324,Unveg,2016-07-06,NA,20.7,33,1,,NA,NA
+Redondo N-4,USA (WA),47.349,-122.324,Unveg,2016-07-06,NA,21,31,2,,NA,NA
+Redondo N-4,USA (WA),47.349,-122.324,Unveg,2016-07-06,NA,19.6,30,3,,NA,NA
+Redondo S-5,USA (WA),47.3457,-122.329,Unveg,2016-07-07,NA,20.1,31,1,,NA,NA
+Redondo S-5,USA (WA),47.3457,-122.329,Unveg,2016-07-07,NA,19.8,31,2,,NA,NA
+Redondo S-5,USA (WA),47.3457,-122.329,Unveg,2016-07-07,NA,19.7,32,3,,NA,NA
+Redondo S-6,USA (WA),47.346,-122.329,Seagrass,2016-07-07,NA,21.4,30,1,,NA,NA
+Redondo S-6,USA (WA),47.346,-122.329,Seagrass,2016-07-07,NA,21.2,32,2,,NA,NA
+Redondo S-6,USA (WA),47.346,-122.329,Seagrass,2016-07-07,NA,22.2,32,3,,NA,NA
+Smiths_Lake_NSW,Australia (NSW),-32.380278,152.508889,Seagrass,2016-12-08,NA,25.2,31,1,,NA,NA
+Smiths_Lake_NSW,Australia (NSW),-32.380278,152.508889,Seagrass,2016-12-08,NA,25.2,31,2,,NA,NA
+Smiths_Lake_NSW,Australia (NSW),-32.380278,152.508889,Seagrass,2016-12-08,NA,25.2,31,3,,NA,NA
+Smiths_Lake_NSW,Australia (NSW),-32.380278,152.508889,Unveg,2016-12-08,NA,25.1,32,1,,NA,NA
+Smiths_Lake_NSW,Australia (NSW),-32.380278,152.508889,Unveg,2016-12-08,NA,25,32,2,,NA,NA
+Smiths_Lake_NSW,Australia (NSW),-32.380278,152.508889,Unveg,2016-12-08,NA,25.2,32,3,,NA,NA
+Smiths_Lake_NSW,Australia (NSW),-32.380278,152.508889,Seagrass,2016-12-09,NA,24.9,34,1,,NA,NA
+Smiths_Lake_NSW,Australia (NSW),-32.380278,152.508889,Seagrass,2016-12-09,NA,24.6,33,2,,NA,NA
+Smiths_Lake_NSW,Australia (NSW),-32.380278,152.508889,Seagrass,2016-12-09,NA,24.6,33,3,,NA,NA
+Smiths_Lake_NSW,Australia (NSW),-32.380278,152.508889,Unveg,2016-12-09,NA,25,32,1,,NA,NA
+Smiths_Lake_NSW,Australia (NSW),-32.380278,152.508889,Unveg,2016-12-09,NA,24.9,33,2,,NA,NA
+Smiths_Lake_NSW,Australia (NSW),-32.380278,152.508889,Unveg,2016-12-09,NA,25.2,33,3,,NA,NA
+Smiths_Lake_NSW,Australia (NSW),-32.380278,152.508889,Seagrass,2016-12-10,NA,24.5,31,1,,NA,NA
+Smiths_Lake_NSW,Australia (NSW),-32.380278,152.508889,Seagrass,2016-12-10,NA,24.7,31,2,,NA,NA
+Smiths_Lake_NSW,Australia (NSW),-32.380278,152.508889,Seagrass,2016-12-10,NA,24.6,32,3,,NA,NA
+Smiths_Lake_NSW,Australia (NSW),-32.380278,152.508889,Unveg,2016-12-10,NA,25,31,1,,NA,NA
+Smiths_Lake_NSW,Australia (NSW),-32.380278,152.508889,Unveg,2016-12-10,NA,24.6,31,2,,NA,NA
+Smiths_Lake_NSW,Australia (NSW),-32.380278,152.508889,Unveg,2016-12-10,NA,24.4,32,3,,NA,NA
+Sunshine Cove,USA (AK),58.60859,-134.93278,Seagrass,2016-08-21,NA,13.6,12,1,,NA,NA
+Sunshine Cove,USA (AK),58.60859,-134.93278,Seagrass,2016-08-21,NA,13.6,13,2,,NA,NA
+Sunshine Cove,USA (AK),58.60859,-134.93278,Seagrass,2016-08-21,NA,13.8,13,3,,NA,NA
+Sunshine Cove,USA (AK),58.60853,-134.93083,Unveg,2016-08-21,NA,13.8,13,1,,NA,NA
+Sunshine Cove,USA (AK),58.60853,-134.93083,Unveg,2016-08-21,NA,13.8,13,2,,NA,NA
+Sunshine Cove,USA (AK),58.60853,-134.93083,Unveg,2016-08-21,NA,13.7,12,3,,NA,NA
+Sunshine Cove,USA (AK),58.60859,-134.93278,Seagrass,2016-08-22,NA,13.7,13,1,,NA,NA
+Sunshine Cove,USA (AK),58.60859,-134.93278,Seagrass,2016-08-22,NA,13.7,12,2,,NA,NA
+Sunshine Cove,USA (AK),58.60859,-134.93278,Seagrass,2016-08-22,NA,13.8,12,3,,NA,NA
+Sunshine Cove,USA (AK),58.60853,-134.93083,Unveg,2016-08-22,NA,14.1,11,1,,NA,NA
+Sunshine Cove,USA (AK),58.60853,-134.93083,Unveg,2016-08-22,NA,14,11,2,,NA,NA
+Sunshine Cove,USA (AK),58.60853,-134.93083,Unveg,2016-08-22,NA,14,11,3,,NA,NA
+Sunshine Cove,USA (AK),58.60859,-134.93278,Seagrass,2016-08-23,NA,14.1,13,1,,NA,NA
+Sunshine Cove,USA (AK),58.60859,-134.93278,Seagrass,2016-08-23,NA,14.1,13,2,,NA,NA
+Sunshine Cove,USA (AK),58.60859,-134.93278,Seagrass,2016-08-23,NA,14.1,12,3,,NA,NA
+Sunshine Cove,USA (AK),58.60853,-134.93083,Unveg,2016-08-22,NA,14.2,12,1,,NA,NA
+Sunshine Cove,USA (AK),58.60853,-134.93083,Unveg,2016-08-22,NA,14.2,12,2,,NA,NA
+Sunshine Cove,USA (AK),58.60853,-134.93083,Unveg,2016-08-22,NA,14,13,3,,NA,NA
+Cymodocea_Moreton_Bay,Australia (QLD3),-27.49408,153.397264,Seagrass,2017-02-08,NA,30.3,38.3,1,Missed measurement 2 and 3,NA,NA
+Cymodocea_Moreton_Bay,Australia (QLD3),-27.49408,153.397264,Seagrass,2017-02-09,NA,30.6,37.5,1,,NA,NA
+Cymodocea_Moreton_Bay,Australia (QLD3),-27.49408,153.397264,Seagrass,2017-02-09,NA,30.2,37.8,2,,NA,NA
+Cymodocea_Moreton_Bay,Australia (QLD3),-27.49408,153.397264,Seagrass,2017-02-09,NA,30.4,37.6,3,,NA,NA
+Cymodocea_Moreton_Bay,Australia (QLD3),-27.49408,153.397264,Seagrass,2017-02-10,NA,30.1,37.2,1,,NA,NA
+Cymodocea_Moreton_Bay,Australia (QLD3),-27.49408,153.397264,Seagrass,2017-02-10,NA,29.9,38.1,2,,NA,NA
+Cymodocea_Moreton_Bay,Australia (QLD3),-27.49408,153.397264,Seagrass,2017-02-10,NA,29.9,38.3,3,,NA,NA
+Edwards Point,Australia (VIC),-38.193552,144.711297,Seagrass,2017-02-23,NA,21.5,37,1,,NA,NA
+Edwards Point,Australia (VIC),-38.193552,144.711297,Unveg,2017-02-23,NA,21.5,37,1,,NA,NA
+Edwards Point,Australia (VIC),-38.193552,144.711297,Seagrass,2017-02-24,NA,20.1,37,2,,NA,NA
+Edwards Point,Australia (VIC),-38.193552,144.711297,Unveg,2017-02-24,NA,20.1,37,2,,NA,NA
+Edwards Point,Australia (VIC),-38.193552,144.711297,Seagrass,2017-02-25,NA,19,37,3,,NA,NA
+Edwards Point,Australia (VIC),-38.193552,144.711297,Unveg,2017-02-25,NA,19,37,3,,NA,NA
+Indented Head,Australia (VIC),-38.152773,144.716919,Seagrass,2017-02-23,NA,22.2,37,1,,NA,NA
+Indented Head,Australia (VIC),-38.152773,144.716919,Unveg,2017-02-23,NA,22.2,37,1,,NA,NA
+Indented Head,Australia (VIC),-38.152773,144.716919,Seagrass,2017-02-24,NA,21.7,37,2,,NA,NA
+Indented Head,Australia (VIC),-38.152773,144.716919,Unveg,2017-02-24,NA,21.7,37,2,,NA,NA
+Indented Head,Australia (VIC),-38.152773,144.716919,Seagrass,2017-02-25,NA,22.8,37,3,,NA,NA
+Indented Head,Australia (VIC),-38.152773,144.716919,Unveg,2017-02-25,NA,22.8,37,3,,NA,NA
+St. Leonards,Australia (VIC),-38.180151,144.715595,Seagrass,2017-02-24,NA,20.7,37,1,,NA,NA
+St. Leonards,Australia (VIC),-38.180151,144.715595,Unveg,2017-02-24,NA,20.7,37,1,,NA,NA
+St. Leonards,Australia (VIC),-38.180151,144.715595,Seagrass,2017-02-25,NA,18.1,37,2,Very strong onshore wind,NA,NA
+St. Leonards,Australia (VIC),-38.180151,144.715595,Unveg,2017-02-25,NA,18.1,37,2,Very strong onshore wind,NA,NA
+Koje-Korea,Korea,34.7285,128.6047,Seagrass,2016-06-21,NA,19,32.8,1,,NA,NA
+Koje-Korea,Korea,34.7285,128.6047,Seagrass,2016-06-21,NA,18.7,32.7,2,,NA,NA
+Koje-Korea,Korea,34.7285,128.6047,Seagrass,2016-06-21,NA,18.8,32.6,3,,NA,NA
+Koje-Korea,Korea,34.7289,128.6047,Unveg,2016-06-21,NA,18.7,32.4,1,,NA,NA
+Koje-Korea,Korea,34.7289,128.6047,Unveg,2016-06-21,NA,18.7,32.4,2,,NA,NA
+Koje-Korea,Korea,34.7289,128.6047,Unveg,2016-06-21,NA,18.8,32.3,3,,NA,NA
+Koje-Korea,Korea,34.7283,128.6047,Seagrass,2016-06-22,NA,18.2,33,1,,NA,NA
+Koje-Korea,Korea,34.7283,128.6047,Seagrass,2016-06-22,NA,18.1,32.9,2,,NA,NA
+Koje-Korea,Korea,34.7283,128.6047,Seagrass,2016-06-22,NA,18,32.7,3,,NA,NA
+Koje-Korea,Korea,34.7288,128.6047,Unveg,2016-06-22,NA,17.8,32.5,1,,NA,NA
+Koje-Korea,Korea,34.7288,128.6047,Unveg,2016-06-22,NA,17.9,32.6,2,,NA,NA
+Koje-Korea,Korea,34.7288,128.6047,Unveg,2016-06-22,NA,18,32.6,3,,NA,NA
+"Porthdinllaen, UK",Wales,52.9426,-4.56519,Seagrass,2016-09-02,NA,16.5,33,1,"Windy, lots of drift algae in seine net",NA,NA
+"Porthdinllaen, UK",Wales,52.9426,-4.56519,Seagrass,2016-09-02,NA,16.5,33,2,"Windy, lots of drift algae in seine net",NA,NA
+"Porthdinllaen, UK",Wales,52.9426,-4.56519,Seagrass,2016-09-02,NA,16.5,33,3,"Windy, lots of drift algae in seine net",NA,NA
+"Porthdinllaen, UK",Wales,52.94046,-4.56424,Unveg,2016-09-02,NA,16.5,33,1,"Windy, lots of drift algae in seine net",NA,NA
+"Porthdinllaen, UK",Wales,52.94046,-4.56424,Unveg,2016-09-02,NA,16.5,33,2,"Windy, lots of drift algae in seine net",NA,NA
+"Porthdinllaen, UK",Wales,52.94046,-4.56424,Unveg,2016-09-02,NA,16.5,33,3,"Windy, lots of drift algae in seine net",NA,NA
+"Porthdinllaen, UK",Wales,52.94251,-4.56562,Seagrass,2016-09-03,NA,16.5,33,1,"Windy, lots of drift algae in seine net",NA,NA
+"Porthdinllaen, UK",Wales,52.94251,-4.56562,Seagrass,2016-09-03,NA,16.5,33,2,"Windy, lots of drift algae in seine net",NA,NA
+"Porthdinllaen, UK",Wales,52.94251,-4.56562,Seagrass,2016-09-03,NA,16.5,33,3,"Windy, lots of drift algae in seine net",NA,NA
+"Porthdinllaen, UK",Wales,52.94046,-4.56424,Unveg,2016-09-03,NA,16.5,33,1,"Windy, lots of drift algae in seine net",NA,NA
+"Porthdinllaen, UK",Wales,52.94046,-4.56424,Unveg,2016-09-03,NA,16.5,33,2,"Windy, lots of drift algae in seine net",NA,NA
+"Porthdinllaen, UK",Wales,52.94046,-4.56424,Unveg,2016-09-03,NA,16.5,33,3,"Windy, lots of drift algae in seine net",NA,NA
+"Porthdinllaen, UK",Wales,52.9425,-4.56553,Seagrass,2016-09-04,NA,16.5,33,1,a lot of drift algae,NA,NA
+"Porthdinllaen, UK",Wales,52.9425,-4.56553,Seagrass,2016-09-04,NA,16.5,33,2,a lot of drift algae,NA,NA
+"Porthdinllaen, UK",Wales,52.9425,-4.56553,Seagrass,2016-09-04,NA,16.5,33,3,a lot of drift algae,NA,NA
+"Porthdinllaen, UK",Wales,52.94046,-4.56424,Unveg,2016-09-04,NA,16.5,33,1,a lot of drift algae,NA,NA
+"Porthdinllaen, UK",Wales,52.94046,-4.56424,Unveg,2016-09-04,NA,16.5,33,2,a lot of drift algae,NA,NA
+"Porthdinllaen, UK",Wales,52.94046,-4.56424,Unveg,2016-09-04,NA,16.5,33,3,a lot of drift algae,NA,NA
+Unvegetated_Moreton_Bay,Australia (QLD3),-27.494632,153.39706,Unveg,2017-02-08,NA,30.1,38.3,1,,NA,NA
+Unvegetated_Moreton_Bay,Australia (QLD3),-27.494632,153.39706,Unveg,2017-02-08,NA,29.5,38.7,2,,NA,NA
+Unvegetated_Moreton_Bay,Australia (QLD3),-27.494632,153.39706,Unveg,2017-02-08,NA,29.6,38.3,3,,NA,NA
+Unvegetated_Moreton_Bay,Australia (QLD3),-27.494632,153.39706,Unveg,2017-02-09,NA,31.6,38.9,1,,NA,NA
+Unvegetated_Moreton_Bay,Australia (QLD3),-27.494632,153.39706,Unveg,2017-02-09,NA,31.9,38.6,2,,NA,NA
+Unvegetated_Moreton_Bay,Australia (QLD3),-27.494632,153.39706,Unveg,2017-02-09,NA,31,38.9,3,,NA,NA
+Unvegetated_Moreton_Bay,Australia (QLD3),-27.494632,153.39706,Unveg,2017-02-10,NA,30.3,35.9,1,,NA,NA
+Unvegetated_Moreton_Bay,Australia (QLD3),-27.494632,153.39706,Unveg,2017-02-10,NA,30.5,35.9,2,,NA,NA
+Unvegetated_Moreton_Bay,Australia (QLD3),-27.494632,153.39706,Unveg,2017-02-10,NA,30.2,36,3,,NA,NA
+Urunga Lagoon 1,Australia (NSW2),-30.50583,153.02362,Seagrass,2017-02-24,NA,27.9,36.4,1,The seagrass was Zostera muelleri and the site was a shallow estuary with sun warmed water.,NA,NA
+Urunga Lagoon 1,Australia (NSW2),-30.50583,153.02362,Seagrass,2017-02-24,NA,28,36.5,2,The seagrass was Zostera muelleri and the site was a shallow estuary with sun warmed water.,NA,NA
+Urunga Lagoon 1,Australia (NSW2),-30.50583,153.02362,Seagrass,2017-02-24,NA,27.7,36.5,3,The seagrass was Zostera muelleri and the site was a shallow estuary with sun warmed water.,NA,NA
+Urunga Lagoon 2,Australia (NSW2),-30.50466,153.02372,Unveg,2017-02-24,NA,28.1,36.5,1,The seagrass was Zostera muelleri and the site was a shallow estuary with sun warmed water.,NA,NA
+Urunga Lagoon 2,Australia (NSW2),-30.50466,153.02372,Unveg,2017-02-24,NA,28.1,36.4,2,The seagrass was Zostera muelleri and the site was a shallow estuary with sun warmed water.,NA,NA
+Urunga Lagoon 2,Australia (NSW2),-30.50466,153.02372,Unveg,2017-02-24,NA,28.3,36.5,3,The seagrass was Zostera muelleri and the site was a shallow estuary with sun warmed water.,NA,NA
+Green Island,Australia (QLD2),-16.75543,145.97292,Seagrass,2017-03-13,NA,31,33,1,,NA,NA
+Green Island,Australia (QLD2),-16.75543,145.97292,Seagrass,2017-03-13,NA,31,34,2,,NA,NA
+Green Island,Australia (QLD2),-16.75543,145.97292,Seagrass,2017-03-13,NA,31,35,3,,NA,NA
+Green Island,Australia (QLD2),-16.7556,145.97476,Unveg,2017-03-13,NA,31,34,1,,NA,NA
+Green Island,Australia (QLD2),-16.7556,145.97476,Unveg,2017-03-13,NA,31,35,2,,NA,NA
+Green Island,Australia (QLD2),-16.7556,145.97476,Unveg,2017-03-13,NA,31,35,3,,NA,NA
+Green Island,Australia (QLD2),-16.75543,145.97292,Seagrass,2017-03-14,NA,31,35,1,,NA,NA
+Green Island,Australia (QLD2),-16.75543,145.97292,Seagrass,2017-03-14,NA,31,35,2,,NA,NA
+Green Island,Australia (QLD2),-16.75543,145.97292,Seagrass,2017-03-14,NA,31,35,3,,NA,NA
+Green Island,Australia (QLD2),-16.7556,145.97476,Unveg,2017-03-14,NA,31,35,1,,NA,NA
+Green Island,Australia (QLD2),-16.7556,145.97476,Unveg,2017-03-14,NA,31,34,2,,NA,NA
+Green Island,Australia (QLD2),-16.7556,145.97476,Unveg,2017-03-14,NA,31,35,3,,NA,NA
+Green Island,Australia (QLD2),-16.75543,145.97292,Seagrass,2017-03-15,NA,29,34,1,,NA,NA
+Green Island,Australia (QLD2),-16.75543,145.97292,Seagrass,2017-03-15,NA,29,34,2,,NA,NA
+Green Island,Australia (QLD2),-16.75543,145.97292,Seagrass,2017-03-15,NA,30,34,3,,NA,NA
+Green Island,Australia (QLD2),-16.7556,145.97476,Unveg,2017-03-15,NA,31,34,1,,NA,NA
+Green Island,Australia (QLD2),-16.7556,145.97476,Unveg,2017-03-15,NA,31,33,2,,NA,NA
+Green Island,Australia (QLD2),-16.7556,145.97476,Unveg,2017-03-15,NA,31,33,3,,NA,NA
+Green Island,Australia (QLD2),-16.75543,145.97292,Seagrass,2017-03-16,NA,29,34,1,,NA,NA
+Green Island,Australia (QLD2),-16.75543,145.97292,Seagrass,2017-03-16,NA,29,34,2,,NA,NA
+Green Island,Australia (QLD2),-16.75543,145.97292,Seagrass,2017-03-16,NA,30,34,3,,NA,NA
+Green Island,Australia (QLD2),-16.7556,145.97476,Unveg,2017-03-16,NA,30,33,1,,NA,NA
+Green Island,Australia (QLD2),-16.7556,145.97476,Unveg,2017-03-16,NA,30,34,2,,NA,NA
+Green Island,Australia (QLD2),-16.7556,145.97476,Unveg,2017-03-16,NA,30,34,3,,NA,NA
+Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Seagrass,2016-07-05,9H 26M 0S,24.8,34.3,1,,NA,NA
+Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Seagrass,2016-07-05,9H 26M 0S,24.9,35.7,2,,NA,NA
+Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Seagrass,2016-07-05,9H 26M 0S,24.9,36,3,,NA,NA
+Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Unveg,2016-07-05,9H 30M 0S,24.8,35.8,1,,NA,NA
+Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Unveg,2016-07-05,9H 30M 0S,24.8,36.2,2,,NA,NA
+Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Unveg,2016-07-05,9H 30M 0S,24.8,36.2,3,,NA,NA
+Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Seagrass,2016-07-06,11H 5M 0S,24.3,36.4,1,,NA,NA
+Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Seagrass,2016-07-06,11H 5M 0S,24.2,36.1,2,,NA,NA
+Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Seagrass,2016-07-06,11H 5M 0S,24,36.4,3,,NA,NA
+Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Unveg,2016-07-06,11H 10M 0S,24.4,35.6,1,,NA,NA
+Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Unveg,2016-07-06,11H 10M 0S,24.3,36.1,2,,NA,NA
+Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Unveg,2016-07-06,11H 10M 0S,24.2,36.4,3,,NA,NA
+Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Seagrass,2016-07-07,10H 6M 0S,23.8,36,1,,NA,NA
+Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Seagrass,2016-07-07,10H 6M 0S,23.8,36.2,2,,NA,NA
+Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Seagrass,2016-07-07,10H 6M 0S,23.8,36,3,,NA,NA
+Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Unveg,2016-07-07,10H 2M 0S,23.8,36.1,1,,NA,NA
+Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Unveg,2016-07-07,10H 2M 0S,23.8,36,2,,NA,NA
+Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Unveg,2016-07-07,10H 2M 0S,23.9,35.8,3,,NA,NA
+Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Seagrass,2016-07-08,10H 50M 0S,25,36.1,1,,NA,NA
+Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Seagrass,2016-07-08,10H 50M 0S,25,36.2,2,,NA,NA
+Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Seagrass,2016-07-08,10H 50M 0S,25.1,36.3,3,,NA,NA
+Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Unveg,2016-07-08,10H 55M 0S,25.2,35.4,1,,NA,NA
+Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Unveg,2016-07-08,10H 55M 0S,25.2,36.2,2,,NA,NA
+Bouzigues (Site A of ZEN),France,40.7127837,-74.0059413,Unveg,2016-07-08,10H 55M 0S,25.3,36.3,3,,NA,NA
+Elkhorn Slough,USA (CA3),36.8111,-121.7792,Unveg,2016-06-22,NA,17,31.1,1,"YSI failed, used nearest NERR YSI 200m away",NA,NA
+Elkhorn Slough,USA (CA3),36.8111,-121.7792,Unveg,2016-06-22,NA,17,31.1,2,"YSI failed, used nearest NERR YSI 200m away",NA,NA
+Elkhorn Slough,USA (CA3),36.8111,-121.7792,Unveg,2016-06-22,NA,17,31.1,3,"YSI failed, used nearest NERR YSI 200m away",NA,NA
+Elkhorn Slough,USA (CA3),36.8111,-121.7792,Seagrass,2016-06-22,NA,15.9,30.8,1,"YSI failed, used nearest NERR YSI 150m away",NA,NA
+Elkhorn Slough,USA (CA3),36.8111,-121.7792,Seagrass,2016-06-22,NA,15.9,30.8,2,"YSI failed, used nearest NERR YSI 150m away",NA,NA
+Elkhorn Slough,USA (CA3),36.8111,-121.7792,Seagrass,2016-06-22,NA,15.9,30.8,3,"YSI failed, used nearest NERR YSI 150m away",NA,NA
+Elkhorn Slough,USA (CA3),36.810254,-121.783827,Unveg,2016-06-23,NA,16.2,34.69,1,,NA,NA
+Elkhorn Slough,USA (CA3),36.810254,-121.783827,Unveg,2016-06-23,NA,16.2,34.68,2,,NA,NA
+Elkhorn Slough,USA (CA3),36.810254,-121.783827,Unveg,2016-06-23,NA,16.2,34.66,3,,NA,NA
+Elkhorn Slough,USA (CA3),36.811088,-121.782278,Seagrass,2016-06-23,NA,17,34.72,1,,NA,NA
+Elkhorn Slough,USA (CA3),36.811088,-121.782278,Seagrass,2016-06-23,NA,17,34.73,2,,NA,NA
+Elkhorn Slough,USA (CA3),36.811088,-121.782278,Seagrass,2016-06-23,NA,17,34.72,3,,NA,NA
+Elkhorn Slough,USA (CA3),36.810254,-121.783827,Unveg,2016-06-23,NA,14.9,34.18,1,,NA,NA
+Elkhorn Slough,USA (CA3),36.810254,-121.783827,Unveg,2016-06-23,NA,14.9,34.18,2,,NA,NA
+Elkhorn Slough,USA (CA3),36.810254,-121.783827,Unveg,2016-06-23,NA,14.9,34.17,3,,NA,NA
+Elkhorn Slough,USA (CA3),36.811088,-121.782278,Seagrass,2016-06-23,NA,16.9,34.6,1,,NA,NA
+Elkhorn Slough,USA (CA3),36.811088,-121.782278,Seagrass,2016-06-23,NA,16.9,34.39,2,,NA,NA
+Elkhorn Slough,USA (CA3),36.811088,-121.782278,Seagrass,2016-06-23,NA,16.9,34.57,3,,NA,NA
+Elkhorn Slough,USA (CA3),36.810254,-121.783827,Unveg,2016-06-24,NA,16.9,34.67,1,,NA,NA
+Elkhorn Slough,USA (CA3),36.810254,-121.783827,Unveg,2016-06-24,NA,16.8,34.68,2,,NA,NA
+Elkhorn Slough,USA (CA3),36.810254,-121.783827,Unveg,2016-06-24,NA,16.9,34.68,3,,NA,NA
+Elkhorn Slough,USA (CA3),36.811088,-121.782278,Seagrass,2016-06-24,NA,17.1,34.78,1,,NA,NA
+Elkhorn Slough,USA (CA3),36.811088,-121.782278,Seagrass,2016-06-24,NA,17.1,34.77,2,,NA,NA
+Elkhorn Slough,USA (CA3),36.811088,-121.782278,Seagrass,2016-06-24,NA,17.1,34.78,3,,NA,NA
+Elkhorn Slough,USA (CA3),36.810254,-121.783827,Unveg,2017-07-05,NA,13.1,34.14,1,,NA,NA
+Elkhorn Slough,USA (CA3),36.810254,-121.783827,Unveg,2017-07-05,NA,13,34.14,2,,NA,NA
+Elkhorn Slough,USA (CA3),36.810254,-121.783827,Unveg,2017-07-05,NA,13,34.14,3,,NA,NA
+Elkhorn Slough,USA (CA3),36.811088,-121.782278,Seagrass,2017-07-05,NA,13.2,33.94,1,,NA,NA
+Elkhorn Slough,USA (CA3),36.811088,-121.782278,Seagrass,2017-07-05,NA,13.2,33.89,2,,NA,NA
+Elkhorn Slough,USA (CA3),36.811088,-121.782278,Seagrass,2017-07-05,NA,13.2,33.84,3,,NA,NA
+Elkhorn Slough,USA (CA3),36.810254,-121.783827,Unveg,2017-07-06,NA,15.4,34.26,1,,NA,NA
+Elkhorn Slough,USA (CA3),36.810254,-121.783827,Unveg,2017-07-06,NA,15.4,34.22,2,,NA,NA
+Elkhorn Slough,USA (CA3),36.810254,-121.783827,Unveg,2017-07-06,NA,15.4,34.22,3,,NA,NA
+Elkhorn Slough,USA (CA3),36.811088,-121.782278,Seagrass,2017-07-06,NA,15,37.93,1,,NA,NA
+Elkhorn Slough,USA (CA3),36.811088,-121.782278,Seagrass,2017-07-06,NA,14.9,33.98,2,,NA,NA
+Elkhorn Slough,USA (CA3),36.811088,-121.782278,Seagrass,2017-07-06,NA,14.9,24.12,3,,NA,NA
+PungSand1,USA (VA2),37.68751,-75.86738,Unveg,2016-06-21,NA,24.9,18.7,1,,NA,NA
+PungSand1,USA (VA2),37.68751,-75.86738,Unveg,2016-06-21,NA,24.9,18.8,2,,NA,NA
+PungSand1,USA (VA2),37.68751,-75.86738,Unveg,2016-06-21,NA,24.9,18.8,3,,NA,NA
+PungSand2,USA (VA2),37.68175,-75.86651,Unveg,2016-06-22,NA,26.2,19.5,1,,NA,NA
+PungSand2,USA (VA2),37.68175,-75.86651,Unveg,2016-06-22,NA,26,19.6,2,,NA,NA
+PungSand2,USA (VA2),37.68175,-75.86651,Unveg,2016-06-22,NA,25.8,19.5,3,,NA,NA
+PungSand3,USA (VA2),37.68199,-75.86617,Unveg,2016-06-23,NA,25.9,19.4,1,,NA,NA
+PungSand3,USA (VA2),37.68199,-75.86617,Unveg,2016-06-23,NA,25.9,19.4,2,,NA,NA
+PungSand3,USA (VA2),37.68199,-75.86617,Unveg,2016-06-23,NA,25.9,19.4,3,,NA,NA
+PungSAV1,USA (VA2),37.68882,-75.86724,Seagrass,2016-06-21,NA,24.9,18.8,1,,NA,NA
+PungSAV1,USA (VA2),37.68882,-75.86724,Seagrass,2016-06-21,NA,24.9,18.8,2,,NA,NA
+PungSAV1,USA (VA2),37.68882,-75.86724,Seagrass,2016-06-21,NA,24.9,18.8,3,,NA,NA
+PungSAV2,USA (VA2),37.68154,-75.86672,Seagrass,2016-06-22,NA,26,19.5,1,,NA,NA
+PungSAV2,USA (VA2),37.68154,-75.86672,Seagrass,2016-06-22,NA,25.9,19.5,2,,NA,NA
+PungSAV2,USA (VA2),37.68154,-75.86672,Seagrass,2016-06-22,NA,25.8,19.5,3,,NA,NA
+PungSAV3,USA (VA2),37.68225,-75.86633,Seagrass,2016-06-23,NA,26.3,19.4,1,,NA,NA
+PungSAV3,USA (VA2),37.68225,-75.86633,Seagrass,2016-06-23,NA,26.3,19.5,2,,NA,NA
+PungSAV3,USA (VA2),37.68225,-75.86633,Seagrass,2016-06-23,NA,26.4,19.5,3,,NA,NA
+QC_Baie St-Ludger,Canada (QC),49.08802,-68.32182,Seagrass,2016-07-05,NA,12.5,30,1,,NA,NA
+QC_Baie St-Ludger,Canada (QC),49.08779,-68.32173,Unveg,2016-07-05,NA,12.5,30,1,,NA,NA
+False Bay,USA (WA2),48.48532472,123.07541,Seagrass,2016-07-19,NA,15.4,30,1,"For all temperature measurements, temperature probe only extended 20 cm into the water.",NA,NA
+False Bay,USA (WA2),48.48532472,123.07541,Seagrass,2016-07-19,NA,15.5,34,2,,NA,NA
+False Bay,USA (WA2),48.48532472,123.07541,Seagrass,2016-07-19,NA,15.5,34,3,,NA,NA
+False Bay,USA (WA2),48.48532472,123.07541,Unveg,2016-07-19,NA,16.7,34,1,,NA,NA
+False Bay,USA (WA2),48.48532472,123.07541,Unveg,2016-07-19,NA,17.1,34,2,,NA,NA
+False Bay,USA (WA2),48.48532472,123.07541,Unveg,2016-07-19,NA,17,34,3,,NA,NA
+False Bay,USA (WA2),48.48532472,123.07541,Seagrass,2016-07-20,NA,17.2,34,1,,NA,NA
+False Bay,USA (WA2),48.48532472,123.07541,Seagrass,2016-07-20,NA,17.8,34,2,,NA,NA
+False Bay,USA (WA2),48.48532472,123.07541,Seagrass,2016-07-20,NA,17.6,30,3,,NA,NA
+False Bay,USA (WA2),48.48532472,123.07541,Unveg,2016-07-20,NA,18.9,28,1,Very shallow due to receding tide,NA,NA
+False Bay,USA (WA2),48.48532472,123.07541,Unveg,2016-07-20,NA,19.4,29,2,,NA,NA
+False Bay,USA (WA2),48.48532472,123.07541,Unveg,2016-07-20,NA,19.7,30,3,,NA,NA
+False Bay,USA (WA2),48.48532472,123.07541,Seagrass,2016-07-20,NA,18.1,30,1,,NA,NA
+False Bay,USA (WA2),48.48532472,123.07541,Seagrass,2016-07-20,NA,17.7,31,2,,NA,NA
+False Bay,USA (WA2),48.48532472,123.07541,Seagrass,2016-07-20,NA,18.5,30,3,,NA,NA
+False Bay,USA (WA2),48.48532472,123.07541,Unveg,2016-07-20,NA,17.1,31,1,,NA,NA
+False Bay,USA (WA2),48.48532472,123.07541,Unveg,2016-07-20,NA,17.8,30,2,,NA,NA
+False Bay,USA (WA2),48.48532472,123.07541,Unveg,2016-07-20,NA,16.8,30,3,,NA,NA
+False Bay,USA (WA2),48.48532472,123.07541,Seagrass,2016-07-21,NA,15.5,31,1,,NA,NA
+False Bay,USA (WA2),48.48532472,123.07541,Seagrass,2016-07-21,NA,15.6,30,2,,NA,NA
+False Bay,USA (WA2),48.48532472,123.07541,Seagrass,2016-07-21,NA,15.6,34,3,,NA,NA
+False Bay,USA (WA2),48.48532472,123.07541,Unveg,2016-07-21,NA,15.7,30,1,,NA,NA
+False Bay,USA (WA2),48.48532472,123.07541,Unveg,2016-07-21,NA,16.3,30,2,,NA,NA
+False Bay,USA (WA2),48.48532472,123.07541,Unveg,2016-07-21,NA,16.3,30,3,,NA,NA
+False Bay,USA (WA2),48.48532472,123.07541,Seagrass,2016-07-21,NA,12.7,29,1,,NA,NA
+False Bay,USA (WA2),48.48532472,123.07541,Seagrass,2016-07-21,NA,13.3,30,2,,NA,NA
+False Bay,USA (WA2),48.48532472,123.07541,Seagrass,2016-07-21,NA,14.1,30,3,,NA,NA
+False Bay,USA (WA2),48.48532472,123.07541,Unveg,2016-07-21,NA,12.4,29,1,,NA,NA
+False Bay,USA (WA2),48.48532472,123.07541,Unveg,2016-07-21,NA,12.2,30,2,,NA,NA
+False Bay,USA (WA2),48.48532472,123.07541,Unveg,2016-07-21,NA,12.5,29,3,,NA,NA
+False Bay,USA (WA2),48.48532472,123.07541,Seagrass,2016-07-22,NA,16.6,30,1,,NA,NA
+False Bay,USA (WA2),48.48532472,123.07541,Seagrass,2016-07-22,NA,16.5,31,2,,NA,NA
+False Bay,USA (WA2),48.48532472,123.07541,Seagrass,2016-07-22,NA,16.7,31,3,,NA,NA
+False Bay,USA (WA2),48.48532472,123.07541,Unveg,2016-07-22,NA,17.3,31,1,,NA,NA
+False Bay,USA (WA2),48.48532472,123.07541,Unveg,2016-07-22,NA,17.2,32,2,,NA,NA
+False Bay,USA (WA2),48.48532472,123.07541,Unveg,2016-07-22,NA,18,29,3,,NA,NA
+False Bay,USA (WA2),48.48532472,123.07541,Seagrass,2016-07-22,NA,19.1,29,1,,NA,NA
+False Bay,USA (WA2),48.48532472,123.07541,Seagrass,2016-07-22,NA,19,29,2,,NA,NA
+False Bay,USA (WA2),48.48532472,123.07541,Seagrass,2016-07-22,NA,18.8,29,3,,NA,NA
+False Bay,USA (WA2),48.48532472,123.07541,Unveg,2016-07-22,NA,17.3,28,1,,NA,NA
+False Bay,USA (WA2),48.48532472,123.07541,Unveg,2016-07-22,NA,17.5,29,2,,NA,NA
+False Bay,USA (WA2),48.48532472,123.07541,Unveg,2016-07-22,NA,19.4,29,3,,NA,NA
+False Bay,USA (WA2),48.48532472,123.07541,Seagrass,2016-07-23,NA,15.1,33,1,,NA,NA
+False Bay,USA (WA2),48.48532472,123.07541,Seagrass,2016-07-23,NA,15,33,2,,NA,NA
+False Bay,USA (WA2),48.48532472,123.07541,Seagrass,2016-07-23,NA,14.9,33,3,,NA,NA
+False Bay,USA (WA2),48.48532472,123.07541,Unveg,2016-07-23,NA,15.8,33,1,,NA,NA
+False Bay,USA (WA2),48.48532472,123.07541,Unveg,2016-07-23,NA,15.9,34,2,,NA,NA
+False Bay,USA (WA2),48.48532472,123.07541,Unveg,2016-07-23,NA,15.8,33,3,,NA,NA
+Kalpeni,India,10.06677,73.63355,Seagrass,2017-01-16,NA,29.5,NA,1,Data from nearby islands (Agatti and Kavaratti) in 2016 NOT 2017!,NA,NA
+Kalpeni,India,10.07013,73.63361,Unveg,2017-01-16,NA,29.5,NA,1,Data from nearby islands (Agatti and Kavaratti) in 2016 NOT 2017!,NA,NA
+San Diego,USA (CA),32.76517,-117.2467,Seagrass,2016-06-23,NA,20.9,31.6,1,,NA,NA
+San Diego,USA (CA),32.76517,-117.2467,Seagrass,2016-06-23,NA,20.86,31.7,2,,NA,NA
+San Diego,USA (CA),32.76517,-117.2467,Seagrass,2016-06-23,NA,20.85,31.6,3,,NA,NA
+San Diego,USA (CA),32.76517,-117.2467,Unveg,2016-06-23,NA,20.83,31.7,1,,NA,NA
+San Diego,USA (CA),32.76517,-117.2467,Unveg,2016-06-23,NA,20.75,31.6,2,,NA,NA
+San Diego,USA (CA),32.76517,-117.2467,Unveg,2016-06-23,NA,20.6,31.7,3,,NA,NA
+San Diego,USA (CA),32.76517,-117.2467,Seagrass,2016-06-27,NA,21.9,31.7,1,,NA,NA
+San Diego,USA (CA),32.76517,-117.2467,Seagrass,2016-06-27,NA,21.8,31.7,2,,NA,NA
+San Diego,USA (CA),32.76517,-117.2467,Seagrass,2016-06-27,NA,21.8,31.7,3,,NA,NA
+San Diego,USA (CA),32.76517,-117.2467,Unveg,2016-06-27,NA,21.8,31.7,1,,NA,NA
+San Diego,USA (CA),32.76517,-117.2467,Unveg,2016-06-27,NA,21.8,31.7,2,,NA,NA
+San Diego,USA (CA),32.76517,-117.2467,Unveg,2016-06-27,NA,21.8,31.7,3,,NA,NA
+San Diego,USA (CA),32.76517,-117.2467,Seagrass,2016-06-30,NA,22.9,31.8,1,,NA,NA
+San Diego,USA (CA),32.76517,-117.2467,Seagrass,2016-06-30,NA,22.9,31.8,2,,NA,NA
+San Diego,USA (CA),32.76517,-117.2467,Seagrass,2016-06-30,NA,22.9,31.8,3,,NA,NA
+San Diego,USA (CA),32.76517,-117.2467,Unveg,2016-06-30,NA,22.9,31.8,1,,NA,NA
+San Diego,USA (CA),32.76517,-117.2467,Unveg,2016-06-30,NA,23,31.8,2,,NA,NA
+San Diego,USA (CA),32.76517,-117.2467,Unveg,2016-06-30,NA,23,31.8,3,,NA,NA
+Goodwin Island,USA (VA),37.2158,-76.39267,Seagrass,2016-08-11,NA,29.57762,21.81871,1,data from sensor in nearby location,NA,NA
+Goodwin Island,USA (VA),37.2158,-76.39267,Unveg,2016-08-11,NA,29.57762,21.81871,1,,NA,NA
+,Panama,9.351809,-82.25763,Seagrass,2016-09-29,NA,29.98198,33.82912,1,data from sensor in nearby location,NA,NA
+,Panama,9.351809,-82.25763,Seagrass,2016-10-04,NA,30.59406,33.87932,1,,NA,NA
+,Panama,9.351809,-82.25763,Seagrass,2016-10-05,NA,30.6981,33.85869,1,,NA,NA
+,Panama,9.351809,-82.25763,Unveg,2016-09-29,NA,29.98091,33.82956,1,,NA,NA
+,Panama,9.351809,-82.25763,Unveg,2016-10-04,NA,30.59342,33.8796,1,,NA,NA
+,Panama,9.351809,-82.25763,Unveg,2016-10-05,NA,30.69857,33.8585,1,,NA,NA
+NA,Panama,9.351809,-82.257631,Seagrass,2016-09-29,12H 12M 0S,29.98198,33.82912,NA,NA,Smithsonian Tropical Research Institute,2016-09-29T12:12:00Z
+NA,Panama,9.351809,-82.257631,Seagrass,2016-09-29,12H 15M 0S,29.98198,33.82912,NA,NA,Smithsonian Tropical Research Institute,2016-09-29T12:15:00Z
+NA,Panama,9.351809,-82.257631,Seagrass,2016-10-04,11H 50M 0S,30.59406,33.87932,NA,NA,Smithsonian Tropical Research Institute,2016-10-04T11:50:00Z
+NA,Panama,9.351809,-82.257631,Seagrass,2016-10-05,11H 50M 0S,30.698097087378642,33.85868932038835,NA,NA,Smithsonian Tropical Research Institute,2016-10-05T11:50:00Z
+NA,Panama,9.351617,-82.257759,Unveg,2016-09-29,12H 20M 0S,29.980908,33.82956,NA,NA,Smithsonian Tropical Research Institute,2016-09-29T12:20:00Z
+NA,Panama,9.351617,-82.257759,Unveg,2016-10-04,11H 45M 0S,30.593420000000002,33.879599999999996,NA,NA,Smithsonian Tropical Research Institute,2016-10-04T11:45:00Z
+NA,Panama,9.351617,-82.257759,Unveg,2016-10-05,11H 45M 0S,30.698565217391305,33.858502415458936,NA,NA,Smithsonian Tropical Research Institute,2016-10-05T11:45:00Z
+NA,USA (VA),37.215796,-76.392675,Seagrass,2016-08-11,10H 0M 0S,29.577623762376238,21.81871287128713,NA,NA,VIMS,2016-08-11T10:00:00Z
+NA,USA (VA),37.215796,-76.392675,Unveg,2016-08-11,10H 0M 0S,29.577623762376238,21.81871287128713,NA,NA,VIMS,2016-08-11T10:00:00Z
+NA,USA (CA),32.765165,-117.246656,Seagrass,2016-06-23,7H 30M 0S,20.918181818181818,35.5,NA,NA,San Diego State University,2016-06-23T07:30:00Z
+NA,USA (CA),32.765165,-117.246656,Unveg,2016-06-23,7H 50M 0S,20.92325581395349,35.5,NA,NA,San Diego State University,2016-06-23T07:50:00Z
+NA,USA (CA),32.76538,-117.24635,Seagrass,2016-06-27,8H 41M 0S,21.174358974358974,35.5,NA,NA,San Diego State University,2016-06-27T08:41:00Z
+NA,USA (CA),32.76538,-117.24635,Unveg,2016-06-27,8H 55M 0S,21.174358974358974,35.5,NA,NA,San Diego State University,2016-06-27T08:55:00Z
+NA,USA (CA),32.76538,-117.24635,Seagrass,2016-06-30,11H 45M 0S,21.04222222222222,35.5,NA,NA,San Diego State University,2016-06-30T11:45:00Z
+NA,USA (CA),32.76538,-117.24635,Unveg,2016-06-30,12H 0M 0S,21.036956521739132,35.5,NA,NA,San Diego State University,2016-06-30T12:00:00Z

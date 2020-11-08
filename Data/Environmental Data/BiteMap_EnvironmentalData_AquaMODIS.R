@@ -21,10 +21,10 @@ library( lubridate )
 library( ncdf4 )
 
 # read predation assay data - this will help us find dates and times 
-p <- read.csv( "../OceanBitemap_Squidpop_Data_20180313.csv" )
+p <- read.csv( "data/raw/squidpop_assays/Bitemap_Squidpop_Data_20190322.csv" )
 # select relevant columns
 p <- p %>%
-  select( Country, Institution, Name, Contact.Email=Email, Lat, Long, 
+  dplyr::select( Country, Institution, Lat, Long, 
           Date=Date.Squidpops.Deployed..yyyymmdd., Time=Time.Squidpops.Deployed..hhmm..24.hour.clock.,
           Seagrass.Unveg=Type.Of.Habitat )
 
@@ -87,7 +87,7 @@ psum$days
 
 
 ### get all netcdf files
-files <- list.files( "Derived Data/", ".nc" )
+files <- list.files( "data/Environmental Data/Derived Data/", ".nc" )
 # pull out dates from file names
 fileday <- substr( files, 2, 8 )
 
@@ -178,7 +178,7 @@ psum$aqua[ psum$aqua=="-Inf"] <- NA
 # put all of the data together
 
 # read environmental data
-directenv <- read.csv( 'BiteMap_EnvironmentalData_Compilation_20180313.csv' )
+directenv <- read.csv( 'data/Environmental Data/BiteMap_EnvironmentalData_Compilation_20180313.csv' )
 # directenv$Date <- ymd( directenv$Date )
 # directenv$Time <- hms( directenv$Time )
 names( directenv )

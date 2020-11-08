@@ -64,7 +64,7 @@ library(taxize)
 ################################
 
 # FISH SEINING DATA
-seines.raw <- read_csv( 'Data/Bitemap_Seine_ALL-DATA_20200104.csv' )
+seines.raw <- read_csv( 'Data/raw/Bitemap_Seine_ALL-DATA_20200104.csv' )
 # Which participants did we have at each site?
 seines.raw %>%
   select( Country, Participant.List ) %>%
@@ -126,7 +126,7 @@ rads    <- deg2rad(siteGPS[,3:4])
 
 # Predation Rates from other script
 # rate.env <- read.csv( "Output Data/Bitemap_DATA_analysis_20180825.csv", stringsAsFactors = FALSE )
-rate.env <- read_csv( "R code and analysis/Output Data/Bitemap_rate.env.20200222.csv" )
+rate.env <- read_csv( "Data/processed/Bitemap_rate.env.20200222.csv" )
 # below, we deal with site and habitat level data, not at the same scale
 # summarize to average predation rates at site and habitat level -- need to be careful with habitat because this has problems with traits
 rate.mean <- rate.env %>%
@@ -244,7 +244,7 @@ traits <- traits %>%
 # phyla <- taxbind %>% filter( rank=="Phylum" ) %>%
 #   dplyr::select( phylum=name, family=query )
 # write.csv( phyla, "Output Data/predator_families+phyla.csv", row.names = FALSE )
-phyla <- read.csv( "R code and analysis/Output Data/predator_families+phyla.csv", stringsAsFactors = FALSE )
+phyla <- read.csv( "Data/processed/predator_families+phyla.csv", stringsAsFactors = FALSE )
 traits <- left_join( traits, phyla )
 
 # Label sites with whether data are based on seines or video or transect
@@ -298,7 +298,7 @@ famlist <- traits %>%
   select( family, eat.squid ) %>%
   distinct()
 
-write_csv( famlist, "R code and analysis/Output Data/Bitemap_predator_families.csv" )
+write_csv( famlist, "Data/processed/Bitemap_predator_families.csv" )
 
 
 # # traits$omnivory[ is.na(traits$omnivory) ] <- 0
@@ -328,7 +328,7 @@ write_csv( famlist, "R code and analysis/Output Data/Bitemap_predator_families.c
 
 
 # add site information
-sites <- read.csv( "R code and analysis/Output Data/Bitemap_BioORACLE_20190107.csv", stringsAsFactors = FALSE )
+sites <- read.csv( "Data/processed/Bitemap_BioORACLE_20190107.csv", stringsAsFactors = FALSE )
 sites <- sites[ ,c(1:31)]
 # sites <- left_join( sites,siteGPS[,1:2], by=c("Country") )
 
@@ -522,7 +522,7 @@ rowSums(fam.data)
 # add omnivory and herbivory?
 
 # add summarized trophic trait information from FishBase script
-trophic <- read.csv( "R code and analysis/Output Data/omnivory_site.csv", stringsAsFactors = FALSE )
+trophic <- read.csv( "Data/processed/omnivory_site.csv", stringsAsFactors = FALSE )
 trophic$meanprop <- apply( trophic[,c("omniprop","herbprop")], 1, mean )
 trophsite <- left_join(sites,trophic)
 fam.meta2 <- left_join( fam.meta, trophsite )
@@ -537,7 +537,7 @@ group[ rowSums(fam.data) <= 2, ]
 
 
 # write data to disk
-write_csv( group, "R code and analysis/Output Data/consumer_family_community_data.csv" )
+write_csv( group, "Data/processed/consumer_family_community_data.csv" )
 
 
 
@@ -847,71 +847,9 @@ ENSPIE.diff <- ddply( ENSPIE.site, .(Country,meanLat,meanLong), summarise, ENSPI
 ####################################################################################
 # CONSUMER BIOMASS                                                                #
 ##################################################################################
-
+# see script Bitemap2016_biomass_coef.R for compilation of biomass coefficients
 # read biomass coefficients
-coef <- read_csv("../Data/Fish Biomass + Traits/20160710_RLS_biomass_coefs_20170921.csv")
-# omit rows from coef for which we have no estimates
-coef <- coef[ !is.na(coef$A), ]
-# remove duplicates from coef
-coef <- coef[ !duplicated(coef), ]
-
-
-
-# # identify species not in character list
-# library(rfishbase)
-# dlookup <- sort(unique(consumers$SPECIES_NAME))
-# lookup <- dlookup[ !(dlookup %in% coef$SPECIES_NAME) ]
-# 
-# # use rfishbase to look up taxa not represented in the reef life survey biomass conversion data.frame (coef)
-# fishbaseLW <- length_weight(lookup)
-# sort(unique(fishbaseLW$Species)) 
-# unrepresented <- sort(unique( dlookup[!(dlookup %in% c(fishbaseLW$Species, as.character(coef$SPECIES_NAME)) )]))
-# sealifebaseLW <- length_weight(unrepresented,server = "sealifebase")
-# baseLW <- bind_rows( fishbaseLW, sealifebaseLW )
-# 
-# 
-# write_csv( baseLW, "../Data/Fish Biomass + Traits/baseLW.csv" )
-# # write_csv( data.frame(unrepresented), "../Data/Fish Biomass/fishbaseMISSING.csv" )
-
-# read the length-weight relationships looked up in fishbase
-fishbaseLWread <- read_csv( "../Data/Fish Biomass + Traits/fishbaseLW_20170921.csv" )
-
-
-baseLW <- read_csv( "../Data/Fish Biomass + Traits/baseLW.csv" )
-
-
-# average by taxon
-meanbaseLW <- baseLW %>% 
-  dplyr::group_by(Species) %>% 
-  dplyr::summarize(  a=mean(a,na.rm=T),aTL=mean(aTL,na.rm=T),b=mean(b,na.rm=T) )
-  
-# accept the estimates for a (intercept) that account for standard vs total length
-for(i in 1:nrow(meanbaseLW) ){
-  if( !is.na(meanbaseLW$aTL[i]) ) meanbaseLW$a[i] <- meanbaseLW$aTL[i]
-}
-# rename sciname to Species
-names(meanbaseLW) <- c( "SPECIES_NAME", "A", "aTL", "B" )
-
-# read in table for taxa that were looked up manually in fishbase
-fishbaseManual <- read_csv( "../Data/Fish Biomass + Traits/Bitemap_FishbaseLW_manual.csv" )[,1:3]
-names(fishbaseManual) <- c( "SPECIES_NAME", "A", "B" )
-
-# combine all data from fishbase, including those provided by Reef Life Survey
-fishbaseFull <- full_join( meanbaseLW, fishbaseManual )
-biomassCoef <- full_join(  coef, fishbaseFull )
-biomassCoef <- biomassCoef %>%
-  dplyr::select( SPECIES_NAME, A, B ) %>% 
-  dplyr::arrange( SPECIES_NAME )
-length(unique(biomassCoef$SPECIES_NAME))
-# omit duplicated rows (separate estimates for a taxon), default to use Reef Life Survey estimates for consistency
-biomassCoef <- biomassCoef %>% 
-  distinct()
-
-biomassCoef <- biomassCoef %>% 
-  dplyr::group_by( SPECIES_NAME ) %>% 
-  dplyr::summarize( A=mean(A,na.rm=T), B=mean(B,na.rm=T) )
-
-
+biomassCoef <-  read_csv("Data/processed/Bitemap_biomass_coef.csv")
 
 
 # match seine data with biomass conversion coefficients

@@ -12,7 +12,7 @@
 # Tennenbaum Marine Observatories Network - Smithsonian, focusing on 
 # the Squidpop assay designed to give rough global metrics of top-down pressure in marine 
 # environments. The datasets are extracted from the Ocean Bitemap online portal
-# http://bitemap.wordpress.com via Google Form entries. 
+# http:/bitemap.wordpress.com via Google Form entries. 
 
 
 
@@ -33,14 +33,14 @@ library(tidyverse)
 ## read data
 
 # seine abundance + biomass
-seine <- read_csv( "R code and analysis/Output Data/Bitemap_seine_abundance_biomass.csv" )
+seine <- read_csv( "Data/processed/Bitemap_seine_abundance_biomass.csv" )
 
 
 # environmental data from remote sensing and oceanographic expeditions
-oracle <- read_csv( "R code and analysis/Output Data/Bitemap_BioORACLE_20190107.csv")[,1:36]
+oracle <- read_csv( "Data/processed/Bitemap_BioORACLE_20190107.csv")[,1:36]
 
 # squidpop consumption rates
-pop <- read_csv( "R code and analysis/Output Data/Bitemap_rate.env.20190423.csv" )
+pop <- read_csv( "Data/processed/Bitemap_rate.env.20190423.csv" )
 pop <- pop %>% 
   dplyr::group_by( Country,Site,habitat ) %>% 
   dplyr::summarise( sstmean=mean(sstmean), temp=mean(temp), rate=mean(rate) )
@@ -77,7 +77,7 @@ taxa <- taxa[ !(taxa %in% c("NO ID","Not identified")) ]
 #   select( family=name, Genus=query )
 # # write taxfam to disk so we don't have to look it up every time
 # write_csv( taxfam, "Output Data/families_taxize_RDA.csv" )
-taxfam <-  read_csv( "R code and analysis/Output Data/families_taxize_RDA.csv" )
+taxfam <-  read_csv( "Data/processed/families_taxize_RDA.csv" )
 
 famfam <- bind_rows( genfam, taxfam )
 video <- left_join(video, famfam)
@@ -162,22 +162,22 @@ fam.meta <- fam.meta %>%  tidyr::unite( SH, Site, habitat, remove=FALSE )
 
 # write to disk
 fam.all <- bind_cols(fam.meta,fam.data)
-write_csv( fam.all, "R code and analysis/Output Data/consumer_presence_wide.csv")
+write_csv( fam.all, "Data/processed/consumer_presence_wide.csv")
 
 ## add ordination results, traits, functional diversity, unfiltered abundance
-rdaunc <- read_csv( "R code and analysis/Output Data/multivar_unconstr_sites.csv" )
+rdaunc <- read_csv( "Data/processed/multivar_unconstr_sites.csv" )
 rdaunc <- rdaunc %>% separate( SH, c("Site", "habitat") )
-brda <- read_csv( "R code and analysis/Output Data/biomass_RDAselected.csv" ) # 30 sites
+brda <- read_csv( "Data/processed/biomass_RDAselected.csv" ) # 30 sites
 brda <- brda %>%
   select( Site, habitat, biomass, cpua )
-active <- read_csv( "R code and analysis/Output Data/consumer_active_ratio_PA.csv" )
+active <- read_csv( "Data/processed/consumer_active_ratio_PA.csv" )
 active <- active %>% 
   select( Site, habitat, act.ratio=act.ratio.ind )
-fds  <- read_csv( "R code and analysis/Output Data/FunctionalDiversity_indices_PA.csv" ) # fewer sites
+fds  <- read_csv( "Data/processed/FunctionalDiversity_indices_PA.csv" ) # fewer sites
 fds <- as.data.frame(fds)
 fds[is.na(fds)] <- 0
-cwm <- read_csv( "R code and analysis/Output Data/FunctionalDiversity_CWM_PA.csv" )
-cwm_length <- read_csv( "R code and analysis/Output Data/FunctionalDiversity_CWM_length.csv")
+cwm <- read_csv( "Data/processed/FunctionalDiversity_CWM_PA.csv" )
+cwm_length <- read_csv( "Data/processed/FunctionalDiversity_CWM_length.csv")
 cwm_length <- cwm_length %>% select( Site, habitat, length )
 # abundance
 meancpua <- mean.catch %>% 
@@ -317,7 +317,7 @@ cowplot::plot_grid( f,e,a,b,c,d, ncol=2, labels="AUTO", align='hv' )
 ## patterns of family presence-absence across latitude
 # 
 # get capscale values to select and order families of interest
-taxa.corr <- read_csv( "R code and analysis/Output Data/multivar_constr_taxa.csv" ) %>% arrange(-CAP1)
+taxa.corr <- read_csv( "Data/processed/multivar_constr_taxa.csv" ) %>% arrange(-CAP1)
 # get the twenty families with highest correlation with consumption rate
 # add more families based on video data?
 fam.choose <- taxa.corr$family[taxa.corr$family != c("Caesionidae")]

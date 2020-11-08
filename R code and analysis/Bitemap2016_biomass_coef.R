@@ -10,7 +10,7 @@
 library( tidyverse )
 
 # read biomass coefficients
-coef <- read.csv("../Data/Fish Biomass + Traits/20160710_RLS_biomass_coefs_20170921.csv")
+coef <- read_csv("Data/Fish Biomass + Traits/Reef_Life_Survey_biomass_coefs_20170921.csv")
 # omit rows from coef for which we have no estimates
 coef <- coef[ !is.na(coef$A), ]
 # remove duplicates from coef
@@ -26,11 +26,11 @@ coef <- coef[ !duplicated(coef), ]
 # fishbaseLW <- length_weight(lookup)
 # sort(unique(fishbaseLW$sciname)) # added 67 taxa
 # unrepresented <- sort(unique(fish.clean$SPECIES_NAME[!(fish.clean$SPECIES_NAME %in% c(fishbaseLW$sciname, as.character(coef$SPECIES_NAME)) )]))
-# write.csv( fishbaseLW, "../Data/Fish Biomass/fishbaseLW.csv", row.names = FALSE)
-# write.csv( data.frame(unrepresented), "../Data/Fish Biomass/fishbaseMISSING.csv", row.names = FALSE)
+# write.csv( fishbaseLW, "Data/Fish Biomass/fishbaseLW.csv", row.names = FALSE)
+# write.csv( data.frame(unrepresented), "Data/Fish Biomass/fishbaseMISSING.csv", row.names = FALSE)
 
 # read the length-weight relationships looked up in fishbase
-fishbaseLW <- read.csv( "../Data/Fish Biomass + Traits/fishbaseLW_20170921.csv" )
+fishbaseLW <- read_csv( "Data/Fish Biomass + Traits/fishbase_LW_20170921.csv" )
 # only keep rows that were chosen from the database (another option would be to average all estimates by taxon)
 fishbaseLW <- fishbaseLW[ fishbaseLW$Keep == "Y", ]
 # average by taxon
@@ -46,7 +46,7 @@ for(i in 1:nrow(fishbaseLW) ){
 names(fishbaseLW) <- c( "SPECIES_NAME", "A", "aTL", "B" )
 
 # read in table for taxa that were looked up manually in fishbase
-fishbaseManual <- read.csv( "../Data/Fish Biomass + Traits/Bitemap_FishbaseLW_manual.csv" )[,1:3]
+fishbaseManual <- read_csv( "Data/Fish Biomass + Traits/Fishbase_LW_manual.csv" )[,1:3]
 names(fishbaseManual) <- c( "SPECIES_NAME", "A", "B" )
 
 # combine all data from fishbase, including those provided by Reef Life Survey
@@ -60,4 +60,4 @@ biomassCoef <- biomassCoef[ !duplicated(biomassCoef$SPECIES_NAME), ]
 
 
 ## Write to disk
-write_csv( biomassCoef, "Output Data/Bitemap_biomass_coef.csv" )
+write_csv( biomassCoef, "Data/processed/Bitemap_biomass_coef.csv" )

@@ -12,7 +12,7 @@ library(tidyverse)
 
 
 ## read trait data - traits imputed using package mice in other script
-trait <- read_csv( "../Data/Fish Biomass + Traits/Bitemap_REQUEST_trait_siene+video_RESPONSES_SORTED_redux.csv" )
+trait <- read_csv( "Data/Fish Biomass + Traits/Bitemap_trait_siene+video_RESPONSES_SORTED_redux.csv" )
 trait <- trait %>%
   # filter(eat.squid==1) %>% 
   select( Country, family, sciName, active.ambush, eat.squid ) %>%
@@ -27,10 +27,10 @@ trait.genus <- trait %>%
 
 
 # read table with families and phyla 
-phyla <-read_csv( "Output Data/predator_families+phyla.csv" )
+phyla <-read_csv( "Data/processed/predator_families+phyla.csv" )
 
 # seine abundance + biomass
-seine <- read_csv( "Output Data/Bitemap_seine_abundance_biomass.csv" )
+seine <- read_csv( "Data/processed/Bitemap_seine_abundance_biomass.csv" )
 ## summarize seine data
 # sum of catch per seine
 seine.totals <- seine %>% 
@@ -70,7 +70,7 @@ trait.hab.pres <- left_join( consumers, trait.genus )
 
 
 # read data on consumption rate, sites, environment
-pop <- read_csv( "Output Data/Bitemap_rate.env.20190423.csv" )
+pop <- read_csv( "Data/processed/Bitemap_rate.env.20190423.csv" )
 pop <- pop %>% 
   dplyr::group_by( Country, Site,habitat,meanLat ) %>% 
   dplyr::summarise( rate=mean(rate) )
@@ -113,4 +113,4 @@ summary(glm(rate~act.ratio,data=rat.site,family="quasibinomial"))
 
 
 # write to disk
-write_csv( rat.site, "Output Data/consumer_active_ratio.csv" )
+write_csv( rat.site, "Data/processed/consumer_active_ratio.csv" )

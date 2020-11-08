@@ -1,38 +1,38 @@
-contactName,contactEmail,additionalEmails,country,Country,siteName,latDecimal,longDecimal,seagrassSpecies,shootDensity.m2,percentCover,canopyHeight,Notes
-Alistair Poore,a.poore@unsw.edu.au,,Australia,Australia (NSW),Smiths_Lake_NSW,-32.380278,152.508889,Zostera muelleri,101-500 shoot per square meter,75-100%,26-50 cm,
-Brendan Kelaher,brendan.kelaher@scu.edu.au,,Australia,Australia (NSW2),Urunga Lagoon 1,-30.50583,153.02362,Zostera muelleri,501-1000 shoots per square meter,75-100%,26-50 cm,This site has a fairly dense cover of eel grass with little epiphytic growth. Average length was 49 cm.
-Holger Janes,hjanes@deakin.edu.au,,Australia,Australia (VIC),Edwards_Point,-38.193552,144.711297,"Zostera muelleri, Zostera nigricaulis, Posidonia australis",501-1000 shoots per square meter,75-100%,51-100 cm,
-Holger Janes,hjanes@deakin.edu.au,,Australia,Australia (VIC),Indented_Head,-38.152773,144.716919,"Zostera muelleri, Zostera nigricaulis, Posidonia australis",501-1000 shoots per square meter,75-100%,51-100 cm,
-Holger Janes,hjanes@deakin.edu.au,,Australia,Australia (VIC),St._Leonards,-38.180151,144.715595,"Zostera muelleri, Zostera nigricaulis, Posidonia australis",501-1000 shoots per square meter,75-100%,51-100 cm,
-Michael Rasheed,michael.rasheed@jcu.edu.au,paul.york@jcu.edu.au,Australia,Australia (QLD4),Green Island,-16.75543,145.97292,"Halodule uninervis, Syringodium isoetifolium, Cymodocea rotundata, Cymodocea serrulata",more than 2000 shoots per square meter,75-100%,26-50 cm,
-Paul York,paul.york@jcu.edu.au,,Australia,Australia (QLD),Bowen,-20.01734,148.25191,Halodule uninervis,1001-2000 shoots per square meter,26-50%,0-10 cm,
-Rod Connolly,r.connolly@griffith.edu.au,,Australia,Australia (QLD3),Moreton_Bay,-27.49408,153.397264,Cymodocea serrulata,101-500 shoot per square meter,75-100%,11-25 cm,
-Christopher Henderson,chender1@usc.edu.au,,Australia (QLD2),Australia (QLD2),Hervey Bay,-25.307906,152.909319,Zostera muelleri,101-500 shoot per square meter,26-50%,0-10 cm,
-Christopher Henderson,chender1@usc.edu.au,,Australia (QLD2),Australia (QLD2),Noosa river,-26.393508,153.055206,Zostera muelleri,1001-2000 shoots per square meter,75-100%,26-50 cm,
-Dean Janiak,janiakd@si.edu,,Belize,Belize,Carrie Bow Cay,16.802531,-88.082399,Thalassia testudinum,501-1000 shoots per square meter,75-100%,11-25 cm,
-Augusto Flores,guca@usp.br,,Brazil,Brazil,Praia do Engenho,-23.7886,-45.3636,Halodule emarginata,1001-2000 shoots per square meter,0-25%,0-10 cm,
-Zach Montetih,zach@hakai.org,margot@hakai.org,Canada,Canada (BC),Choked Pocket,51.676377,-128.123561,"Zostera marina, Zostera pacifica",101-500 shoot per square meter,75-100%,51-100 cm,"Zostera at this location may be the newly resurrected Zostera pacifica (Wide leaf eelgrass), but genetic studies would be necessary to confirm"
-Martin Thiel,thiel@ucn.cl,opino@ucn.cl,Chile,Chile,"Puerto Aldea, Coquimbo",-30.293,-71.608228,Heterozostera nigricaulis,,75-100%,51-100 cm,
-Claudia Kruschel,claudia@claudiakruschel.com,ckrusche@unizd.hr,Croatia,Croatia,CR-B-SvetiDuh,44.20603,15.47262,"Zostera marina, Zostera noltei",101-500 shoot per square meter,26-50%,26-50 cm,
-Claudia Kruschel,claudia@claudiakruschel.com,ckrusche@unizd.hr,Croatia,Croatia,CR-B-SvetiDuh,44.20628,15.47166,"Zostera marina, Zostera noltei",501-1000 shoots per square meter,51-75%,26-50 cm,
-Claudia Kruschel,claudia@claudiakruschel.com,ckrusche@unizd.hr,Croatia,Croatia,CR-B-SvetiDuh,44.20671,15.47138,"Zostera marina, Zostera noltei",1001-2000 shoots per square meter,75-100%,26-50 cm,
-Francesca Rossi,francesca.rossi@cnrs.fr,,France,France,Bouzigues (Site A of ZEN),40.7127837,-74.0059413,"Zostera marina, Zostera noltei",101-500 shoot per square meter,75-100%,100-150 cm,this was site A for ZEN 2 2014 survey. Any additional data can be found there
-Kun-Seop Lee,klee@pusan.ac.kr,,Korea,Korea,Koje,34.7285,128.6047,Zostera marina,101-500 shoot per square meter,51-75%,51-100 cm,Shoot density and canopy height were measured during spring 2017.
-Brigitta van Tussenbroek,vantuss@cmarl.unam.mx,,Mexico,Mexico (ICML),Punta Allen,19.8271,-87.45401,"Thalassia testudinum, Syringodium filiforme",501-1000 shoots per square meter,51-75%,11-25cm,"accompanied by rhizophytic algae mainly H. incrassata, Penicillus spp. And Rhipocephalus spp."
-Brigitta van Tussenbroek,vantuss@cmarl.unam.mx,,Mexico,Mexico (ICML2),Puerto Morelos,20.8347,-86.87654,"Thalassia testudinum, Syringodium filiforme",1001-2000 shoots per square meter,51-75%,11-25cm,in the viscinity of a coral reef (aprox. 100m)
-Pablo Jorgensen,pablojorgensen@hotmail.com,clarahereu@hotmail.com,Mexico,Mexico (BN),Punta Banda Estuary,31.753025,-116.625858,Zostera marina,1001-2000 shoots per square meter,75-100%,26-50 cm,See additional seagrass meadow characteristics
-Katrin Reiss,katrin.sieben@gmail.com,katrin.reiss@nord.no,Norway,Norway,Juvika,67.21451,15.00703,Zostera marina,101-500 shoot per square meter,51-75%,11-25 cm,
-Janina Seemann,seemannj@si.edu,pilu82@gmailcom,Panama,Panama,BT_Stri,9.352389,-82.258333,Thalassia testudinum,101-500 shoot per square meter,51-75%,11-25 cm,
-Brent Hughes,bbhughes@uw.edu,bbhughes@ucsc.edu,United States,USA (CA3),Elkhorn Slough,36.81067,121.78199,Zostera marina,101-500 shoot per square meter,75-100%,100-150 cm,
-Kristin Hultgren,hultgrenk@seattleu.edu,,United States,USA (WA),Redondo,47.349332,-122.324846,Zostera marina,101-500 shoot per square meter,75-100%,51-100 cm,
-Lindsay Gaskins,lindsaycgaskins@gmail.com,stacy.zhang@duke.edu,United States,USA (NC2),Pine Knoll Shores,34.7004,-76.8335,Halodule wrightii,501-1000 shoots per square meter,51-75%,11-25 cm,
-PG Ross,pg@vims.edu,,United States,USA (VA2),PungSAV1,37.68882,-75.86724,"Zostera marina, Ruppia maritima",101-500 shoot per square meter,51-75%,26-50 cm,
-PG Ross,pg@vims.edu,,United States,USA (VA2),PungSAV2,37.68154,-75.86672,"Zostera marina, Ruppia maritima",101-500 shoot per square meter,26-50%,11-25 cm,
-PG Ross,pg@vims.edu,,United States,USA (VA2),PungSAV3,37.68225,-75.86633,"Zostera marina, Ruppia maritima",51-100 shoots per square meter,26-50%,26-50 cm,
-Aaron Galloway,agallow3@uoregon.edu,aaron.galloway@gmail.com,USA,USA (OR),OIMB-Valino-SSNERR,43.315013,-124.320361,Zostera marina,51-100 shoots per square meter,51-75%,51-100 cm,"We actually did measure this for some metrics and in our seagrass bed, density was 88 shoots/m2, average cover was 55.25%"
-Dean Janiak,janiakd@si.edu,,USA,USA (FL),Harbor Branch,27.536592,-80.34928,"Thalassia testudinum, Halodule wrightii, Syringodium filiforme",0-50 shoots per square meter,0-25%,11-25 cm,
-Jennifer O'Leary and Erin Aiello,jkoleary@calpoly.edu,elharmon@calpoly.edu,USA,USA (CA2),"Windy Point, Morro Bay",35.34989,-120.844288,Zostera marina,101-500 shoot per square meter,75-100%,0-10 cm,Band of eelgrass is relatively narrow (constricted by deep channel). Bed width = 6 m average. Morro Bay has experienced a 97% decline in eelgrass over the last decade.
-Olivia Graham,ojgraham@mac.com,,USA,USA (WA2),False Bay,48.482697,123.074287,Zostera marina ,0-50 shoots per square meter,0-25%,51-100 cm,"I also have additional density and canopy height metrics from a False Bay this summer, if that would be useful."
-Randall Hughes,rhughes@northeastern.edu,,USA,USA (MA),Dorothy Cove,42.41978,-70.91522,Zostera marina ,101-500 shoot per square meter,51-75%,51-100 cm,
-Sheby Ziegler,sziegler@live.unc.edu,,USA,USA (NC),NC,34.69168,-76.62343,"Zostera marina, Halodule wrightii",1001-2000 shoots per square meter,51-75%,11-25 cm,
-Wendel Raymond,wraymond2@alaska.edu,,USA,USA (AK),Sunshine Cove,58.608348,134.932584,Zostera marina,101-500 shoot per square meter,51-75%,51-100 cm,"This is typical for AK eelgrass in the low intertidal. Highish shoot density, but lover cover because blades are narrow."
+country,Country,siteName,latDecimal,longDecimal,seagrassSpecies,shootDensity.m2,percentCover,canopyHeight,Notes
+Australia,Australia (NSW),Smiths_Lake_NSW,-32.380278,152.508889,Zostera muelleri,101-500 shoot per square meter,75-100%,26-50 cm,
+Australia,Australia (NSW2),Urunga Lagoon 1,-30.50583,153.02362,Zostera muelleri,501-1000 shoots per square meter,75-100%,26-50 cm,This site has a fairly dense cover of eel grass with little epiphytic growth. Average length was 49 cm.
+Australia,Australia (VIC),Edwards_Point,-38.193552,144.711297,"Zostera muelleri, Zostera nigricaulis, Posidonia australis",501-1000 shoots per square meter,75-100%,51-100 cm,
+Australia,Australia (VIC),Indented_Head,-38.152773,144.716919,"Zostera muelleri, Zostera nigricaulis, Posidonia australis",501-1000 shoots per square meter,75-100%,51-100 cm,
+Australia,Australia (VIC),St._Leonards,-38.180151,144.715595,"Zostera muelleri, Zostera nigricaulis, Posidonia australis",501-1000 shoots per square meter,75-100%,51-100 cm,
+Australia,Australia (QLD4),Green Island,-16.75543,145.97292,"Halodule uninervis, Syringodium isoetifolium, Cymodocea rotundata, Cymodocea serrulata",more than 2000 shoots per square meter,75-100%,26-50 cm,
+Australia,Australia (QLD),Bowen,-20.01734,148.25191,Halodule uninervis,1001-2000 shoots per square meter,26-50%,0-10 cm,
+Australia,Australia (QLD3),Moreton_Bay,-27.49408,153.397264,Cymodocea serrulata,101-500 shoot per square meter,75-100%,11-25 cm,
+Australia (QLD2),Australia (QLD2),Hervey Bay,-25.307906,152.909319,Zostera muelleri,101-500 shoot per square meter,26-50%,0-10 cm,
+Australia (QLD2),Australia (QLD2),Noosa river,-26.393508,153.055206,Zostera muelleri,1001-2000 shoots per square meter,75-100%,26-50 cm,
+Belize,Belize,Carrie Bow Cay,16.802531,-88.082399,Thalassia testudinum,501-1000 shoots per square meter,75-100%,11-25 cm,
+Brazil,Brazil,Praia do Engenho,-23.7886,-45.3636,Halodule emarginata,1001-2000 shoots per square meter,0-25%,0-10 cm,
+Canada,Canada (BC),Choked Pocket,51.676377,-128.123561,"Zostera marina, Zostera pacifica",101-500 shoot per square meter,75-100%,51-100 cm,"Zostera at this location may be the newly resurrected Zostera pacifica (Wide leaf eelgrass), but genetic studies would be necessary to confirm"
+Chile,Chile,"Puerto Aldea, Coquimbo",-30.293,-71.608228,Heterozostera nigricaulis,,75-100%,51-100 cm,
+Croatia,Croatia,CR-B-SvetiDuh,44.20603,15.47262,"Zostera marina, Zostera noltei",101-500 shoot per square meter,26-50%,26-50 cm,
+Croatia,Croatia,CR-B-SvetiDuh,44.20628,15.47166,"Zostera marina, Zostera noltei",501-1000 shoots per square meter,51-75%,26-50 cm,
+Croatia,Croatia,CR-B-SvetiDuh,44.20671,15.47138,"Zostera marina, Zostera noltei",1001-2000 shoots per square meter,75-100%,26-50 cm,
+France,France,Bouzigues (Site A of ZEN),40.7127837,-74.0059413,"Zostera marina, Zostera noltei",101-500 shoot per square meter,75-100%,100-150 cm,this was site A for ZEN 2 2014 survey. Any additional data can be found there
+Korea,Korea,Koje,34.7285,128.6047,Zostera marina,101-500 shoot per square meter,51-75%,51-100 cm,Shoot density and canopy height were measured during spring 2017.
+Mexico,Mexico (ICML),Punta Allen,19.8271,-87.45401,"Thalassia testudinum, Syringodium filiforme",501-1000 shoots per square meter,51-75%,11-25cm,"accompanied by rhizophytic algae mainly H. incrassata, Penicillus spp. And Rhipocephalus spp."
+Mexico,Mexico (ICML2),Puerto Morelos,20.8347,-86.87654,"Thalassia testudinum, Syringodium filiforme",1001-2000 shoots per square meter,51-75%,11-25cm,in the viscinity of a coral reef (aprox. 100m)
+Mexico,Mexico (BN),Punta Banda Estuary,31.753025,-116.625858,Zostera marina,1001-2000 shoots per square meter,75-100%,26-50 cm,See additional seagrass meadow characteristics
+Norway,Norway,Juvika,67.21451,15.00703,Zostera marina,101-500 shoot per square meter,51-75%,11-25 cm,
+Panama,Panama,BT_Stri,9.352389,-82.258333,Thalassia testudinum,101-500 shoot per square meter,51-75%,11-25 cm,
+United States,USA (CA3),Elkhorn Slough,36.81067,121.78199,Zostera marina,101-500 shoot per square meter,75-100%,100-150 cm,
+United States,USA (WA),Redondo,47.349332,-122.324846,Zostera marina,101-500 shoot per square meter,75-100%,51-100 cm,
+United States,USA (NC2),Pine Knoll Shores,34.7004,-76.8335,Halodule wrightii,501-1000 shoots per square meter,51-75%,11-25 cm,
+United States,USA (VA2),PungSAV1,37.68882,-75.86724,"Zostera marina, Ruppia maritima",101-500 shoot per square meter,51-75%,26-50 cm,
+United States,USA (VA2),PungSAV2,37.68154,-75.86672,"Zostera marina, Ruppia maritima",101-500 shoot per square meter,26-50%,11-25 cm,
+United States,USA (VA2),PungSAV3,37.68225,-75.86633,"Zostera marina, Ruppia maritima",51-100 shoots per square meter,26-50%,26-50 cm,
+USA,USA (OR),OIMB-Valino-SSNERR,43.315013,-124.320361,Zostera marina,51-100 shoots per square meter,51-75%,51-100 cm,"We actually did measure this for some metrics and in our seagrass bed, density was 88 shoots/m2, average cover was 55.25%"
+USA,USA (FL),Harbor Branch,27.536592,-80.34928,"Thalassia testudinum, Halodule wrightii, Syringodium filiforme",0-50 shoots per square meter,0-25%,11-25 cm,
+USA,USA (CA2),"Windy Point, Morro Bay",35.34989,-120.844288,Zostera marina,101-500 shoot per square meter,75-100%,0-10 cm,Band of eelgrass is relatively narrow (constricted by deep channel). Bed width = 6 m average. Morro Bay has experienced a 97% decline in eelgrass over the last decade.
+USA,USA (WA2),False Bay,48.482697,123.074287,Zostera marina ,0-50 shoots per square meter,0-25%,51-100 cm,"I also have additional density and canopy height metrics from a False Bay this summer, if that would be useful."
+USA,USA (MA),Dorothy Cove,42.41978,-70.91522,Zostera marina ,101-500 shoot per square meter,51-75%,51-100 cm,
+USA,USA (NC),NC,34.69168,-76.62343,"Zostera marina, Halodule wrightii",1001-2000 shoots per square meter,51-75%,11-25 cm,
+USA,USA (AK),Sunshine Cove,58.608348,134.932584,Zostera marina,101-500 shoot per square meter,51-75%,51-100 cm,"This is typical for AK eelgrass in the low intertidal. Highish shoot density, but lover cover because blades are narrow."

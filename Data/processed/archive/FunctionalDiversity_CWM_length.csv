@@ -1,0 +1,58 @@
+act,feed,troph,watercol,body,length,Site,habitat
+1,hunting macrofauna (predator),benthic invertivore;planktivore,benthic,fusiform / normal,72.97639796364074,AK,Seagrass
+1,hunting macrofauna (predator),benthic invertivore;higher carnivore,benthic,short and / or deep,87.48477363765015,AK,Unvegetated
+0,hunting macrofauna (predator),benthic invertivore,benthic,elongated,59.79960943840946,Baja,Seagrass
+0,hunting macrofauna (predator),planktivore,benthic,elongated,64.60012847571038,Baja,Unvegetated
+0,hunting macrofauna (predator),benthic invertivore;planktivore,demersal;pelagic site attached,short and / or deep,57.78552219453345,BC,Seagrass
+1,hunting macrofauna (predator),higher carnivore,benthic,fusiform / normal,74.18032786885246,BC,Unvegetated
+0,selective plankton feeding,omnivore,pelagic non-site attached,fusiform / normal,77.74394164860743,Brazil,Seagrass
+0,hunting macrofauna (predator),omnivore,pelagic non-site attached,fusiform / normal,78.39704883376238,Brazil,Unvegetated
+0,hunting macrofauna (predator),benthic invertivore;planktivore,demersal;pelagic site attached,short and / or deep,69.2197121041855,CA,Seagrass
+0,hunting macrofauna (predator),benthic invertivore;planktivore,demersal;pelagic site attached,short and / or deep,66.78712047455252,CA,Unvegetated
+0,hunting macrofauna (predator),benthic invertivore;planktivore,demersal;pelagic site attached,short and / or deep,54.51936602641466,CA2,Seagrass
+0,hunting macrofauna (predator),benthic invertivore;planktivore,pelagic site attached,short and / or deep,55.67725600687523,CA2,Unvegetated
+0,hunting macrofauna (predator),benthic invertivore;planktivore,demersal;pelagic site attached,short and / or deep,63.038086084215415,CA3,Seagrass
+0,hunting macrofauna (predator),benthic invertivore;planktivore,demersal;pelagic site attached,short and / or deep,59.94765320893272,CA3,Unvegetated
+0,grazing on aquatic plants,omnivore,benthic,crab,43.176414068165336,Chile,Seagrass
+0,filtering plankton,planktivore,pelagic non-site attached,fusiform / normal,59.80163772691397,Chile,Unvegetated
+0,hunting macrofauna (predator),benthic invertivore;planktivore,benthic,fusiform / normal,63.09912651895462,Croatia,Seagrass
+0,hunting macrofauna (predator),benthic invertivore;planktivore,benthic,fusiform / normal,63.69564140218379,Croatia,Unvegetated
+0,selective plankton feeding,benthic invertivore;planktivore,pelagic site attached,elongated,50.44284449494408,DE,Unvegetated
+1,hunting macrofauna (predator),omnivore,benthic,fusiform / normal,58.11359474734931,France,Seagrass
+1,hunting macrofauna (predator),omnivore,benthic,fusiform / normal,51.39829594477999,France,Unvegetated
+1,hunting macrofauna (predator),benthic invertivore,pelagic non-site attached,fusiform / normal,62.23422091283202,Korea,Seagrass
+1,hunting macrofauna (predator),benthic invertivore,pelagic non-site attached,fusiform / normal,63.421878703703705,Korea,Unvegetated
+1,hunting macrofauna (predator),benthic invertivore;higher carnivore,demersal,fusiform / normal,48.815445026178004,MA,Seagrass
+1,hunting macrofauna (predator),benthic invertivore,benthic,short and / or deep,103.4090909090909,MA,Unvegetated
+0,hunting macrofauna (predator),omnivore,demersal,fusiform / normal,60.67929397204819,NC,Seagrass
+0,selective plankton feeding,benthic invertivore;planktivore,pelagic site attached,elongated,57.452277351769894,NC,Unvegetated
+0,hunting macrofauna (predator),omnivore,demersal,fusiform / normal,74.9392742495946,NC2,Seagrass
+1,hunting macrofauna (predator),benthic invertivore,demersal,fusiform / normal,41.62640112025997,Norway,Seagrass
+1,hunting macrofauna (predator),benthic invertivore,benthic,fusiform / normal,35.827836249219594,Norway,Unvegetated
+0,selective plankton feeding,planktivore,demersal,fusiform / normal,45.64347177219923,NSW1,Seagrass
+0,browsing on substrate,scraping herbivore,benthic,shrimp,61.00950897919419,NSW1,Unvegetated
+1,selective plankton feeding,planktivore,demersal,fusiform / normal,46.26299501965546,NSW2,Seagrass
+1,selective plankton feeding,planktivore,demersal,fusiform / normal,46.25755793865363,NSW2,Unvegetated
+0,hunting macrofauna (predator),benthic invertivore;planktivore,demersal;pelagic site attached,short and / or deep,63.24171878431316,OR,Seagrass
+0,hunting macrofauna (predator),benthic invertivore;planktivore,demersal;pelagic site attached,short and / or deep,58.99906476548062,OR,Unvegetated
+0,variable,benthic invertivore;planktivore,demersal,elongated,49.32461006965956,QC,Seagrass
+0,variable,benthic invertivore;planktivore,demersal,elongated,50.247300668887284,QC,Unvegetated
+0,hunting macrofauna (predator),benthic invertivore,demersal,fusiform / normal,45.75900903224533,QLD2,Seagrass
+0,hunting macrofauna (predator),benthic invertivore,demersal,fusiform / normal,45.42075227233864,QLD2,Unvegetated
+1,selective plankton feeding,planktivore,demersal,fusiform / normal,30.999259067655377,QLD3,Seagrass
+1,selective plankton feeding,planktivore,demersal,fusiform / normal,26.7614984160527,QLD3,Unvegetated
+0,variable,benthic invertivore,demersal,elongated,41.31495577291631,QLD4,Seagrass
+0,variable,benthic invertivore;planktivore,pelagic site attached,elongated,48.4260734838424,QLD4,Unvegetated
+0,selective plankton feeding,benthic invertivore;planktivore,pelagic site attached,elongated,50.48195571271013,TX,Seagrass
+0,selective plankton feeding,benthic invertivore;planktivore,pelagic site attached,elongated,50.92067818659037,TX,Unvegetated
+0,hunting macrofauna (predator),omnivore,benthic,crab,70.07357533724647,VA,Seagrass
+0,selective plankton feeding,benthic invertivore;planktivore,pelagic site attached,elongated,54.8570837844686,VA2,Seagrass
+0,selective plankton feeding,benthic invertivore;planktivore,pelagic site attached,elongated,56.8733021708824,VA2,Unvegetated
+0,hunting macrofauna (predator),benthic invertivore,demersal,fusiform / normal;short and / or deep,52.137633141407655,VIC,Seagrass
+0,hunting macrofauna (predator),benthic invertivore,demersal,fusiform / normal;short and / or deep,52.93411809360584,VIC,Unvegetated
+0,hunting macrofauna (predator),benthic invertivore;planktivore,demersal;pelagic site attached,short and / or deep,68.99436869079257,WA,Seagrass
+0,hunting macrofauna (predator),benthic invertivore;planktivore,demersal;pelagic site attached,short and / or deep,65.30235294117647,WA,Unvegetated
+0,hunting macrofauna (predator),benthic invertivore;planktivore,demersal;pelagic site attached,short and / or deep,70.89987879776145,WA2,Seagrass
+0,hunting macrofauna (predator),benthic invertivore;planktivore,demersal;pelagic site attached,short and / or deep,70.95043185768179,WA2,Unvegetated
+0,selective plankton feeding,planktivore,benthic,elongated,54.280128040874395,Wales,Seagrass
+0,selective plankton feeding,planktivore,benthic,elongated,55.05611430399475,Wales,Unvegetated

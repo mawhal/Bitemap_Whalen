@@ -13,8 +13,8 @@ library(mice)
 library(rfishbase)
 
 ## read trait data
-draw <- read_csv( "../Data/Fish Biomass + Traits/Bitemap_REQUEST_trait_siene+video_RESPONSES_SORTED_redux.csv" )
-traits <- read_csv( "Output Data/consumer_eat_squid.csv" )
+draw <- read_csv( "Data/Fish Biomass + Traits/Bitemap_trait_siene+video_RESPONSES_SORTED_redux.csv" )
+traits <- read_csv( "Data/processed/consumer_eat_squid.csv" )
 # merge eat squidpop trait
 dmerge <- left_join( select(draw,-eat.squid), select(traits, Country, sciName, eat.squid) )
 
